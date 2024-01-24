@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum terdiri dari "
+      "value": "Stratis terdiri dari "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (menangani tugas konsensus bukti taruhan, sebelumnya 'Eth2' atau 'Ethereum 2.0')."
+      "value": " (menangani tugas konsensus bukti taruhan, sebelumnya 'Eth2' atau 'Stratis 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Langkah 2: Buat kunci deposit menggunakan alat deposit Ethereum Foundation"
+      "value": "Langkah 2: Buat kunci deposit menggunakan alat deposit Stratis Foundation"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Setelah Penggabungan, validator juga akan bertanggung jawab untuk memroses transaksi, dan oleh karena itu berhak atas biaya gas yang tidak terbakar yang terkait dengan transaksi yang disertakan saat mengusulkan blok. Biaya ini diperhitungkan pada lapisan eksekusi, bukan lapisan konsensus, dan oleh karena itu mengharuskan alamat Ethereum tradisional diberikan kepada klien Anda."
+      "value": "Setelah Penggabungan, validator juga akan bertanggung jawab untuk memroses transaksi, dan oleh karena itu berhak atas biaya gas yang tidak terbakar yang terkait dengan transaksi yang disertakan saat mengusulkan blok. Biaya ini diperhitungkan pada lapisan eksekusi, bukan lapisan konsensus, dan oleh karena itu mengharuskan alamat Stratis tradisional diberikan kepada klien Anda."
     }
   ],
   "/5Hyyf": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Pada putaran tanpa akhir, setiap akun validator terus dievaluasi atas kelayakan penarikan ETH (yang ada dua jenis, selengkapnya tentang hal ini dijelaskan di bawah). Validator diproses secara berurutan berdasarkan nomor indeks, yang awalnya dimulai dari 0, dengan setiap pengusul berikutnya melanjutkan dari nomor yang terakhir."
+      "value": "Pada putaran tanpa akhir, setiap akun validator terus dievaluasi atas kelayakan penarikan STRAT (yang ada dua jenis, selengkapnya tentang hal ini dijelaskan di bawah). Validator diproses secara berurutan berdasarkan nomor indeks, yang awalnya dimulai dari 0, dengan setiap pengusul berikutnya melanjutkan dari nomor yang terakhir."
     }
   ],
   "/OAba6": [
@@ -196,7 +196,7 @@
     },
     {
       "type": 0,
-      "value": " ETH maksimum?"
+      "value": " STRAT maksimum?"
     }
   ],
   "/jJLYy": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth adalah salah satu dari tiga implementasi asli protokol Ethereum, yang ditulis dalam Go."
+      "value": "Geth adalah salah satu dari tiga implementasi asli protokol Stratis, yang ditulis dalam Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Saya telah memberikan alamat Ethereum kepada validator saya yang menjadi tempat disetorkannya imbalan biaya saya."
+      "value": "Saya telah memberikan alamat Stratis kepada validator saya yang menjadi tempat disetorkannya imbalan biaya saya."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Selengkapnya tentang ekonomi penaruhan Ethereum"
+      "value": "Selengkapnya tentang ekonomi penaruhan Stratis"
     }
   ],
   "1p+pb5": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Keragaman klien sangat penting untuk kesehatan jaringan Ethereum: Bug di klien dengan saham lebih dari 33% dapat menyebabkan Ethereum menjadi offline. Jika klien memiliki supermayoritas (>66%), bug dapat menyebabkan rantai terbagi dengan tidak benar, yang berpotensi menyebabkan pemotongan."
+      "value": "Keragaman klien sangat penting untuk kesehatan jaringan Stratis: Bug di klien dengan saham lebih dari 33% dapat menyebabkan Stratis menjadi offline. Jika klien memiliki supermayoritas (>66%), bug dapat menyebabkan rantai terbagi dengan tidak benar, yang berpotensi menyebabkan pemotongan."
     }
   ],
   "2t/3ab": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " ETH ke satu kumpulan kunci tidak meningkatkan potensi imbalan, juga tidak mengakumulasi imbalan di atas "
+      "value": " STRAT ke satu kumpulan kunci tidak meningkatkan potensi imbalan, juga tidak mengakumulasi imbalan di atas "
     },
     {
       "type": 1,
@@ -858,7 +858,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Pembaruan terminologi ini hanya mengubah konvensi penamaan; ini tidak mengubah tujuan atau peta jalan Ethereum."
+      "value": "Pembaruan terminologi ini hanya mengubah konvensi penamaan; ini tidak mengubah tujuan atau peta jalan Stratis."
     }
   ],
   "3URRZK": [
@@ -1442,7 +1442,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Klien Ethereum dirancang agar ramah perusahaan untuk kasus penggunaan jaringan publik dan swasta yang diizinkan."
+      "value": "Klien Stratis dirancang agar ramah perusahaan untuk kasus penggunaan jaringan publik dan swasta yang diizinkan."
     }
   ],
   "8yom7x": [
@@ -1480,7 +1480,7 @@
     },
     {
       "type": 0,
-      "value": " ETH pada stake?"
+      "value": " STRAT pada stake?"
     }
   ],
   "9JktQX": [
@@ -1642,7 +1642,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Kontrak deposit penaruhan Ethereum membutuhkan minimum "
+      "value": "Kontrak deposit penaruhan Stratis membutuhkan minimum "
     },
     {
       "type": 1,
@@ -1688,7 +1688,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Pastikan Anda mengunduh dari GitHub akun resmi Ethereum Foundation dengan memverifikasi url: "
+      "value": "Pastikan Anda mengunduh dari GitHub akun resmi Stratis Foundation dengan memverifikasi url: "
     },
     {
       "type": 1,
@@ -1698,7 +1698,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Pecahan akan mengubah persyaratan bahwa simpul penuh membawa seluruh riwayat rantai, dan sebagai gantinya akan mendistribusikan beban ini di antara jaringan sambil tetap memastikan ketersediaan data. Ini akan memperluas kapasitas lapisan 1 Ethereum secara signifikan sekaligus mempertahankan kemampuan untuk mengoperasikan simpul penuh di perangkat keras konsumen, menjaga jaringan tetap terdesentralisasi."
+      "value": "Pecahan akan mengubah persyaratan bahwa simpul penuh membawa seluruh riwayat rantai, dan sebagai gantinya akan mendistribusikan beban ini di antara jaringan sambil tetap memastikan ketersediaan data. Ini akan memperluas kapasitas lapisan 1 Stratis secara signifikan sekaligus mempertahankan kemampuan untuk mengoperasikan simpul penuh di perangkat keras konsumen, menjaga jaringan tetap terdesentralisasi."
     }
   ],
   "Affixg": [
@@ -1750,7 +1750,7 @@
     },
     {
       "type": 0,
-      "value": " diproses ketika validator aktif memiliki saldo efektif maksimal 32, dan memiliki total saldo lebih dari 32. Satu validator tidak bisa mendapatkan imbalan atas kelebihan saldo lebih dari 32 ETH, sehingga akun ini akan memiliki saldo ekstra yang otomatis ditarik ke alamat Ethereum mereka."
+      "value": " diproses ketika validator aktif memiliki saldo efektif maksimal 32, dan memiliki total saldo lebih dari 32. Satu validator tidak bisa mendapatkan imbalan atas kelebihan saldo lebih dari 32 ETH, sehingga akun ini akan memiliki saldo ekstra yang otomatis ditarik ke alamat Stratis mereka."
     }
   ],
   "RY4SP0": [
@@ -1988,7 +1988,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Selengkapnya tentang visi Ethereum"
+      "value": "Selengkapnya tentang visi Stratis"
     }
   ],
   "CdKEd/": [
@@ -2052,7 +2052,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Berapa banyak ETH yang diperlukan untuk menjadi validator?"
+      "value": "Berapa banyak STRAT yang diperlukan untuk menjadi validator?"
     }
   ],
   "5q9Lgv": [
@@ -2106,7 +2106,7 @@
     },
     {
       "type": 0,
-      "value": " jaringan. Ini untuk alasan keamanan. Mengingat setiap validator dibatasi hingga saldo efektif maksimal 32 ETH, hal ini mencegah sebagian besar ETH kemungkinan digunakan dalam serangan lalu dengan cepat keluar dari jaringan sekaligus."
+      "value": " jaringan. Ini untuk alasan keamanan. Mengingat setiap validator dibatasi hingga saldo efektif maksimal 32 ETH, hal ini mencegah sebagian besar STRAT kemungkinan digunakan dalam serangan lalu dengan cepat keluar dari jaringan sekaligus."
     }
   ],
   "DNRQa7": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Penaruh harus memberikan alamat penerima biaya kepada klien konsensus mereka untuk menerima imbalan biaya transaksi. Ini adalah alamat Ethereum normal yang biasa Anda gunakan."
+      "value": "Penaruh harus memberikan alamat penerima biaya kepada klien konsensus mereka untuk menerima imbalan biaya transaksi. Ini adalah alamat Stratis normal yang biasa Anda gunakan."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum dimulai pada tanggal 30 Juli 2015. Ukurannya terus bertambah dari waktu ke waktu, dan pengenalan pecahan juga akan meningkatkan persyaratan penyimpanan, memori, dan bandwidth."
+      "value": "Stratis dimulai pada tanggal 30 Juli 2015. Ukurannya terus bertambah dari waktu ke waktu, dan pengenalan pecahan juga akan meningkatkan persyaratan penyimpanan, memori, dan bandwidth."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Penarikan alamat Ethereum: Jika Anda ingin menarik alamat dompet eksekusi setelah peningkatan Shanghai/Capella, Anda dapat mengatur "
+      "value": "Penarikan alamat Stratis: Jika Anda ingin menarik alamat dompet eksekusi setelah peningkatan Shanghai/Capella, Anda dapat mengatur "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Klien Ethereum yang didukung banyak pengembang. Ini sempurna untuk sistem tingkat perusahaan."
+      "value": "Klien Stratis yang didukung banyak pengembang. Ini sempurna untuk sistem tingkat perusahaan."
     }
   ],
   "FgraU0": [
@@ -2498,7 +2498,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Tidak dimungkinkan meminta ETH yang akan ditarik dengan jumlah tertentu secara manual"
+      "value": "Tidak dimungkinkan meminta STRAT yang akan ditarik dengan jumlah tertentu secara manual"
     }
   ],
   "GUDhpC": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Sebelumnya TurboGeth, Erigon adalah klien Ethereum yang dibuat untuk memungkinkan pengoptimalan kinerja."
+      "value": "Sebelumnya TurboGeth, Erigon adalah klien Stratis yang dibuat untuk memungkinkan pengoptimalan kinerja."
     }
   ],
   "ID3Pgm": [
@@ -2834,7 +2834,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Gali lebih dalam tentang peningkatan Ethereum."
+      "value": "Gali lebih dalam tentang peningkatan Stratis."
     }
   ],
   "JhUYU3": [
@@ -3114,7 +3114,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Terima kasih telah mendukung jaringan Ethereum!"
+      "value": "Terima kasih telah mendukung jaringan Stratis!"
     }
   ],
   "LpnfTF": [
@@ -3158,7 +3158,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Ethereum, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan ETH mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
+      "value": "Stratis diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Stratis, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan STRAT mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
     }
   ],
   "LwEHRm": [
@@ -3230,7 +3230,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Bagaimana penskalaan Ethereum?"
+      "value": "Bagaimana penskalaan Stratis?"
     }
   ],
   "MaZo9k": [
@@ -3254,7 +3254,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Launchpad ini akan membantu Anda menjadi validator, sehingga Anda dapat berperan aktif di masa depan Ethereum. Validator adalah kunci untuk Ethereum yang lebih aman, terukur, dan berkelanjutan yang kita bangun bersama."
+      "value": "Launchpad ini akan membantu Anda menjadi validator, sehingga Anda dapat berperan aktif di masa depan Stratis. Validator adalah kunci untuk Stratis yang lebih aman, terukur, dan berkelanjutan yang kita bangun bersama."
     }
   ],
   "Mc8nNE": [
@@ -3266,7 +3266,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Pembaharuan Ethereum hanya akan berhasil jika validator memahami risiko dan tanggung jawab."
+      "value": "Pembaharuan Stratis hanya akan berhasil jika validator memahami risiko dan tanggung jawab."
     }
   ],
   "MmZjeu": [
@@ -3426,7 +3426,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Pelajari selengkapnya tentang peran dan tanggung jawab validator Ethereum."
+      "value": "Pelajari selengkapnya tentang peran dan tanggung jawab validator Stratis."
     }
   ],
   "Nb5DNK": [
@@ -3528,7 +3528,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu adalah klien Ethereum sumber terbuka yang dikembangkan di bawah lisensi Apache 2.0 dan ditulis dalam Java."
+      "value": "Hyperledger Besu adalah klien Stratis sumber terbuka yang dikembangkan di bawah lisensi Apache 2.0 dan ditulis dalam Java."
     }
   ],
   "OIvXIO": [
@@ -3626,13 +3626,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Phishing adalah risiko yang sangat nyata bagi validator Ethereum dan, sayangnya, banyak orang akan kehilangan dana karena serangan ini."
+      "value": "Phishing adalah risiko yang sangat nyata bagi validator Stratis dan, sayangnya, banyak orang akan kehilangan dana karena serangan ini."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Peningkatan Rantai Beacon menghadirkan konsensus bukti kepemilikan ke Ethereum."
+      "value": "Peningkatan Rantai Beacon menghadirkan konsensus bukti kepemilikan ke Stratis."
     }
   ],
   "P1QerV": [
@@ -3856,7 +3856,7 @@
     },
     {
       "type": 0,
-      "value": " satu arah ke kontrak deposit pada rantai Ethereum saat ini."
+      "value": " satu arah ke kontrak deposit pada rantai Stratis saat ini."
     }
   ],
   "QlsDcr": [
@@ -4118,7 +4118,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validator dan Ethereum"
+      "value": "Validator dan Stratis"
     }
   ],
   "TMw9oz": [
@@ -4130,7 +4130,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Istilah 'Eth1' dan 'Eth2' sudah tidak digunakan lagi dengan Penggabungan. Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, tidak ada lagi dua jaringan Ethereum berbeda; hanya ada Ethereum."
+      "value": "Istilah 'Eth1' dan 'Eth2' sudah tidak digunakan lagi dengan Penggabungan. Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, tidak ada lagi dua jaringan Stratis berbeda; hanya ada Stratis."
     }
   ],
   "TfNuWP": [
@@ -4192,7 +4192,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Periksa kontrak deposit pada penjelajah blok Ethereum favorit Anda:"
+      "value": "Periksa kontrak deposit pada penjelajah blok Stratis favorit Anda:"
     }
   ],
   "UYRyWv": [
@@ -4238,7 +4238,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Salah satu dari tiga implementasi asli protokol Ethereum."
+      "value": "Salah satu dari tiga implementasi asli protokol Stratis."
     }
   ],
   "UykRIk": [
@@ -4328,7 +4328,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Dengan kata lain: jika jumlah total ETH yang dipertaruhkan rendah, hadiah (tingkat bunga) tinggi, tetapi saat total taruhan meningkat, hadiah (bunga) yang dibayarkan kepada setiap validator mulai turun."
+      "value": "Dengan kata lain: jika jumlah total STRAT yang dipertaruhkan rendah, hadiah (tingkat bunga) tinggi, tetapi saat total taruhan meningkat, hadiah (bunga) yang dibayarkan kepada setiap validator mulai turun."
     }
   ],
   "VUuZsb": [
@@ -4606,7 +4606,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Perhatikan, saat ini tidak ada rencana mengaktifkan transfer ETH antar validator."
+      "value": "Perhatikan, saat ini tidak ada rencana mengaktifkan transfer STRAT antar validator."
     }
   ],
   "XmddSV": [
@@ -4694,7 +4694,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Pohon keputusan diikuti untuk menentukan jenis penarikan mana yang akan dimulai. Jika validator yang diperiksa memiliki ETH yang memenuhi syarat untuk ditarik, validator akan ditambahkan ke antrean penarikan. Jika tidak ada, akun akan dilewati."
+      "value": "Pohon keputusan diikuti untuk menentukan jenis penarikan mana yang akan dimulai. Jika validator yang diperiksa memiliki STRAT yang memenuhi syarat untuk ditarik, validator akan ditambahkan ke antrean penarikan. Jika tidak ada, akun akan dilewati."
     }
   ],
   "YP03/j": [
@@ -4904,7 +4904,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Ini juga disebut sebagai “penarikan parsial” atau “pembayaran imbalan” karena 32 ETH yang tersisa tetap dikunci dan dipertaruhkan."
+      "value": "Ini juga disebut sebagai “penarikan parsial” atau “pembayaran imbalan” karena 32 STRAT yang tersisa tetap dikunci dan dipertaruhkan."
     }
   ],
   "a+xjjV": [
@@ -4930,7 +4930,7 @@
     },
     {
       "type": 0,
-      "value": " yang dikirimkan bersama transaksi setoran 32 ETH Anda."
+      "value": " yang dikirimkan bersama transaksi setoran 32 STRAT Anda."
     }
   ],
   "9/yem6": [
@@ -4998,7 +4998,7 @@
     },
     {
       "type": 0,
-      "value": " ETH yang dipertaruhkan."
+      "value": " STRAT yang dipertaruhkan."
     }
   ],
   "FWtWw3": [
@@ -5142,7 +5142,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Menjadi validator dan membantu mengamankan masa depan Ethereum."
+      "value": "Menjadi validator dan membantu mengamankan masa depan Stratis."
     }
   ],
   "cRzxes": [
@@ -5236,7 +5236,7 @@
     },
     {
       "type": 0,
-      "value": " adalah field 32-bita dalam deposit, untuk memverifikasi tujuan penarikan yang valid. Saat ini, ada dua jenis penarikan: Penarikan BLS dan penarikan alamat Ethereum."
+      "value": " adalah field 32-bita dalam deposit, untuk memverifikasi tujuan penarikan yang valid. Saat ini, ada dua jenis penarikan: Penarikan BLS dan penarikan alamat Stratis."
     }
   ],
   "8FjJDx": [
@@ -5254,7 +5254,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm adalah implementasi klien konsensus Go dari protokol Ethereum dengan fokus pada kegunaan, keamanan, dan keandalan."
+      "value": "Prysm adalah implementasi klien konsensus Go dari protokol Stratis dengan fokus pada kegunaan, keamanan, dan keandalan."
     }
   ],
   "dLE9FH": [
@@ -5512,7 +5512,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Jawaban atas pertanyaan ini sangat bergantung pada seberapa banyak ETH yang Anda miliki."
+      "value": "Jawaban atas pertanyaan ini sangat bergantung pada seberapa banyak STRAT yang Anda miliki."
     }
   ],
   "fQ5yno": [
@@ -5542,7 +5542,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Anda dapat memilih memberikan alamat penarikan dengan setoran awal agar otomatis mengaktifkan pembayaran imbalan dan juga kemampuan untuk mengeluarkan dana Anda sepenuhnya setelah peningkatan Shanghai/Capella. Alamat ini harus alamat Ethereum yang biasa dan akan menjadi satu-satunya alamat yang dapat dikirimi dana dari akun validator baru Anda."
+      "value": "Anda dapat memilih memberikan alamat penarikan dengan setoran awal agar otomatis mengaktifkan pembayaran imbalan dan juga kemampuan untuk mengeluarkan dana Anda sepenuhnya setelah peningkatan Shanghai/Capella. Alamat ini harus alamat Stratis yang biasa dan akan menjadi satu-satunya alamat yang dapat dikirimi dana dari akun validator baru Anda."
     }
   ],
   "fZwn+P": [
@@ -5646,7 +5646,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Buat kunci setoran menggunakan alat deposit Ethereum Foundation"
+      "value": "Buat kunci setoran menggunakan alat deposit Stratis Foundation"
     }
   ],
   "gVC0Wl": [
@@ -5842,7 +5842,7 @@
     },
     {
       "type": 0,
-      "value": " ETH per validator akan mendorong desentralisasi kekuasaan karena mencegah validator tunggal memiliki suara yang terlalu besar pada state rantai. Itu juga akan membatasi jumlah ETH yang bisa keluar dari penaruhan pada waktu tertentu, karena jumlah validator yang bisa keluar pada waktu tertentu dibatasi. Hal ini membantu melindungi jaringan dari serangan tertentu."
+      "value": " STRAT per validator akan mendorong desentralisasi kekuasaan karena mencegah validator tunggal memiliki suara yang terlalu besar pada state rantai. Itu juga akan membatasi jumlah STRAT yang bisa keluar dari penaruhan pada waktu tertentu, karena jumlah validator yang bisa keluar pada waktu tertentu dibatasi. Hal ini membantu melindungi jaringan dari serangan tertentu."
     }
   ],
   "huEFUF": [
@@ -5880,7 +5880,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Anda dapat menganggap kontrak deposit sebagai transfer dana dari akun Ethereum ke akun validator bukti taruhan."
+      "value": "Anda dapat menganggap kontrak deposit sebagai transfer dana dari akun Stratis ke akun validator bukti taruhan."
     }
   ],
   "iJXdUH": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " ETH mengaktifkan satu set kunci validator. Kunci ini digunakan untuk menandatangani state jaringan. Semakin rendah persyaratan ETH, semakin banyak tanda tangan dihasilkan yang harus disimpan oleh jaringan. "
+      "value": " STRAT mengaktifkan satu set kunci validator. Kunci ini digunakan untuk menandatangani state jaringan. Semakin rendah persyaratan ETH, semakin banyak tanda tangan dihasilkan yang harus disimpan oleh jaringan. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " ETH dipilih sebagai saldo antara memungkinkan sebanyak mungkin orang untuk mempertaruhkan tanpa menghambat desentralisasi dengan membengkakkan ukuran setiap blok dengan tanda tangan."
+      "value": " STRAT dipilih sebagai saldo antara memungkinkan sebanyak mungkin orang untuk mempertaruhkan tanpa menghambat desentralisasi dengan membengkakkan ukuran setiap blok dengan tanda tangan."
     }
   ],
   "iX90gu": [
@@ -5972,7 +5972,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku adalah klien konsensus Ethereum berbasis Java yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan."
+      "value": "PegaSys Teku adalah klien konsensus Stratis berbasis Java yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan."
     }
   ],
   "XRUCUL": [
@@ -6006,7 +6006,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Sebelumnya dikenal sebagai Artemis, Teku adalah klien konsensus yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan. PegaSys adalah cabang dari ConsenSys, yang didedikasikan untuk membangun klien dan perangkat yang siap untuk perusahaan untuk berinteraksi dengan platform inti Ethereum."
+      "value": "Sebelumnya dikenal sebagai Artemis, Teku adalah klien konsensus yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan. PegaSys adalah cabang dari ConsenSys, yang didedikasikan untuk membangun klien dan perangkat yang siap untuk perusahaan untuk berinteraksi dengan platform inti Stratis."
     }
   ],
   "jBr8vs": [
@@ -6116,7 +6116,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Ini menandai penggabungan lapisan eksekusi (Jaringan Utama yang ada) dengan lapisan konsensus baru (Rantai Suar) untuk membentuk rantai Ethereum tunggal saat ini."
+      "value": "Ini menandai penggabungan lapisan eksekusi (Jaringan Utama yang ada) dengan lapisan konsensus baru (Rantai Suar) untuk membentuk rantai Stratis tunggal saat ini."
     }
   ],
   "k67L48": [
@@ -6174,7 +6174,7 @@
     },
     {
       "type": 0,
-      "value": ". Proposal Peningkatan Ethereum ini memungkinkan imbalan otomatis ditarik ke lapisan eksekusi, dan juga memberikan cara bagi validator yang keluar untuk membuka kunci seluruh saldo mereka—gas tidak diperlukan."
+      "value": ". Proposal Peningkatan Stratis ini memungkinkan imbalan otomatis ditarik ke lapisan eksekusi, dan juga memberikan cara bagi validator yang keluar untuk membuka kunci seluruh saldo mereka—gas tidak diperlukan."
     }
   ],
   "kTt/ND": [
@@ -6234,7 +6234,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Meningkatkan Penggabungan secara resmi membawa bukti taruhan ke Ethereum pada tanggal 15 September 2022, yang secara bersamaan tidak lagi menggunakan bukti kerja. Ini mempersiapkan rantai untuk meningkatkan penskalaan mendatang seperti pecahan data dengan membawa konsensus bukti taruhan bersama dengan Penggabungan, sekaligus mengurangi konsumsi energi hingga lebih dari 99,9%."
+      "value": "Meningkatkan Penggabungan secara resmi membawa bukti taruhan ke Stratis pada tanggal 15 September 2022, yang secara bersamaan tidak lagi menggunakan bukti kerja. Ini mempersiapkan rantai untuk meningkatkan penskalaan mendatang seperti pecahan data dengan membawa konsensus bukti taruhan bersama dengan Penggabungan, sekaligus mengurangi konsumsi energi hingga lebih dari 99,9%."
     }
   ],
   "kuYpoI": [
@@ -6426,7 +6426,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus adalah proyek penelitian dan implementasi klien konsensus untuk Ethereum yang dirancang untuk bekerja dengan baik pada sistem tertanam dan perangkat seluler pribadi."
+      "value": "Nimbus adalah proyek penelitian dan implementasi klien konsensus untuk Stratis yang dirancang untuk bekerja dengan baik pada sistem tertanam dan perangkat seluler pribadi."
     }
   ],
   "lfV1bj": [
@@ -6482,13 +6482,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, Ethereum diamankan sepenuhnya oleh validator bukti taruhan. Dengan menjalankan validator, Anda akan membantu mengamankan jaringan Ethereum."
+      "value": "Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, Stratis diamankan sepenuhnya oleh validator bukti taruhan. Dengan menjalankan validator, Anda akan membantu mengamankan jaringan Stratis."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "Saya memberikan alamat Ethereum saat membuat file "
+      "value": "Saya memberikan alamat Stratis saat membuat file "
     },
     {
       "type": 1,
@@ -6502,7 +6502,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Kami sangat menyarankan agar Anda melalui seluruh prosesnya di jaringan percobaan terlebih dahulu agar merasa nyaman sebelum mempertaruhkan ETH yang sebenarnya."
+      "value": "Kami sangat menyarankan agar Anda melalui seluruh prosesnya di jaringan percobaan terlebih dahulu agar merasa nyaman sebelum mempertaruhkan STRAT yang sebenarnya."
     }
   ],
   "mXSzq5": [
@@ -6524,7 +6524,7 @@
     },
     {
       "type": 0,
-      "value": " adalah entitas virtual yang ada di Rantai Suar, yang diwakili oleh saldo, kunci publik, dan properti lainnya, dan berpartisipasi dalam konsensus jaringan Ethereum."
+      "value": " adalah entitas virtual yang ada di Rantai Suar, yang diwakili oleh saldo, kunci publik, dan properti lainnya, dan berpartisipasi dalam konsensus jaringan Stratis."
     }
   ],
   "mcyp2f": [
@@ -6634,7 +6634,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "Setelah Anda sudah merasa nyaman, Anda dapat mulai membuat kunci dan menyetor ETH Anda."
+      "value": "Setelah Anda sudah merasa nyaman, Anda dapat mulai membuat kunci dan menyetor STRAT Anda."
     }
   ],
   "njAU72": [
@@ -6834,7 +6834,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Pengguna Ethereum digunakan untuk transaksi yang akan dijalankan dengan cara manual—jika Anda ingin mentransfer dana, Anda harus menandatangani transaksi dan membayar gas."
+      "value": "Pengguna Stratis digunakan untuk transaksi yang akan dijalankan dengan cara manual—jika Anda ingin mentransfer dana, Anda harus menandatangani transaksi dan membayar gas."
     }
   ],
   "p0b6zX": [
@@ -6866,7 +6866,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Ya, tetapi dengan penalti kecil. Jika Anda luring selama beberapa hari dalam kondisi normal, Anda akan kehilangan sejumlah ETH yang kira-kira setara dengan jumlah ETH yang akan Anda peroleh dalam periode itu. Dengan kata lain, jika Anda berhasil mendapatkan ≈0,01 ETH, Anda akan mendapat penalti ≈0,01 ETH."
+      "value": "Ya, tetapi dengan penalti kecil. Jika Anda luring selama beberapa hari dalam kondisi normal, Anda akan kehilangan sejumlah STRAT yang kira-kira setara dengan jumlah STRAT yang akan Anda peroleh dalam periode itu. Dengan kata lain, jika Anda berhasil mendapatkan ≈0,01 ETH, Anda akan mendapat penalti ≈0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7200,7 +7200,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Klien konsensus dengan fokus utama pada kecepatan dan keamanan. Dibangun oleh Sigma Prime, perusahaan keamanan informasi dan rekayasa perangkat lunak yang telah mendanai Lighthouse bersama dengan Yayasan Ethereum, Consensys, dan perorangan."
+      "value": "Klien konsensus dengan fokus utama pada kecepatan dan keamanan. Dibangun oleh Sigma Prime, perusahaan keamanan informasi dan rekayasa perangkat lunak yang telah mendanai Lighthouse bersama dengan Yayasan Stratis, Consensys, dan perorangan."
     }
   ],
   "sToVAS": [
@@ -7304,7 +7304,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Spesifikasi lapisan konsensus Ethereum"
+      "value": "Spesifikasi lapisan konsensus Stratis"
     }
   ],
   "teyxVk": [
@@ -7372,7 +7372,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Peningkatan Ethereum"
+      "value": "Peningkatan Stratis"
     }
   ],
   "tzMNF3": [
@@ -7384,7 +7384,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Dompet Anda berada di jaringan Ethereum yang salah. Untuk melanjutkan, hubungkan ke "
+      "value": "Dompet Anda berada di jaringan Stratis yang salah. Untuk melanjutkan, hubungkan ke "
     },
     {
       "type": 1,
@@ -7560,7 +7560,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Saldo Anda diperbarui secara berkala oleh aturan jaringan Ethereum saat Anda menjalankan (atau gagal menjalankan) tanggung jawab Anda."
+      "value": "Saldo Anda diperbarui secara berkala oleh aturan jaringan Stratis saat Anda menjalankan (atau gagal menjalankan) tanggung jawab Anda."
     }
   ],
   "vCHTnu": [
@@ -7578,7 +7578,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Menjadi validator dan membantu mengamankan masa depan Ethereum"
+      "value": "Menjadi validator dan membantu mengamankan masa depan Stratis"
     }
   ],
   "vJez0K": [
@@ -7758,7 +7758,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Memvalidasi di Ethereum tidak sama dengan menambang. Hasilnya serupa: pekerjaan yang Anda lakukan akan memperluas dan mengamankan rantai. Namun prosesnya sangat berbeda karena menggunakan mekanisme konsensus yang berbeda."
+      "value": "Memvalidasi di Stratis tidak sama dengan menambang. Hasilnya serupa: pekerjaan yang Anda lakukan akan memperluas dan mengamankan rantai. Namun prosesnya sangat berbeda karena menggunakan mekanisme konsensus yang berbeda."
     }
   ],
   "x4/9vY": [
@@ -7810,7 +7810,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Hadiah blok dihitung menggunakan skala geser berdasarkan jumlah total ETH yang dipertaruhkan di jaringan."
+      "value": "Hadiah blok dihitung menggunakan skala geser berdasarkan jumlah total STRAT yang dipertaruhkan di jaringan."
     }
   ],
   "xXKkhR": [
@@ -7848,7 +7848,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Mereka yang ingin keluar dari validator dari penaruhan dan penarikan ETH mereka harus melihat panduan di bawah ini yang sesuai dengan pengaturan Anda:"
+      "value": "Mereka yang ingin keluar dari validator dari penaruhan dan penarikan STRAT mereka harus melihat panduan di bawah ini yang sesuai dengan pengaturan Anda:"
     }
   ],
   "xm3Ivd": [
@@ -7924,7 +7924,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Beberapa peningkatan sedang berlangsung yang akan membuat Ethereum lebih terukur, aman, dan berkelanjutan. Pembaruan ini akan meningkatkan Ethereum sambil melanjutkan rantai hari ini dengan mulus. Berikut ini lebih lanjut tentang peningkatan yang berbeda:"
+      "value": "Beberapa peningkatan sedang berlangsung yang akan membuat Stratis lebih terukur, aman, dan berkelanjutan. Pembaruan ini akan meningkatkan Stratis sambil melanjutkan rantai hari ini dengan mulus. Berikut ini lebih lanjut tentang peningkatan yang berbeda:"
     }
   ],
   "y4dBsA": [
@@ -8056,7 +8056,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar adalah implementasi TypeScript sumber terbuka dari spesifikasi Konsensus Ethereum (sebelumnya dikenal sebagai eth2) yang dikelola oleh Sistem ChainSafe. Tujuan ChainSafe adalah untuk mengembangkan, meningkatkan, dan mendiversifikasi ekosistem bukti taruhan Ethereum dengan rantai suar dan klien validator mereka dengan fokus pada implementasi klien ringan."
+      "value": "Lodestar adalah implementasi TypeScript sumber terbuka dari spesifikasi Konsensus Stratis (sebelumnya dikenal sebagai eth2) yang dikelola oleh Sistem ChainSafe. Tujuan ChainSafe adalah untuk mengembangkan, meningkatkan, dan mendiversifikasi ekosistem bukti taruhan Stratis dengan rantai suar dan klien validator mereka dengan fokus pada implementasi klien ringan."
     }
   ],
   "zAVb0/": [
@@ -8068,7 +8068,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "Di sisi lain, jika saldo Anda mendekati 31 ETH, mungkin tidak ada gunanya menambahkan ETH ekstra yang diperlukan untuk kembali ke 32."
+      "value": "Di sisi lain, jika saldo Anda mendekati 31 ETH, mungkin tidak ada gunanya menambahkan STRAT ekstra yang diperlukan untuk kembali ke 32."
     }
   ],
   "zJicsO": [
@@ -8088,7 +8088,7 @@
     },
     {
       "type": 0,
-      "value": " ETH untuk satu validator. Setoran ini tidak akan ditambahkan ke imbalan Anda dan akan dikunci hingga peningkatan Shanghai/Capella yang direncanakan."
+      "value": " STRAT untuk satu validator. Setoran ini tidak akan ditambahkan ke imbalan Anda dan akan dikunci hingga peningkatan Shanghai/Capella yang direncanakan."
     }
   ],
   "zbEBi9": [
@@ -8102,7 +8102,7 @@
     },
     {
       "type": 0,
-      "value": " untuk menyinkronkan mainnet Ethereum."
+      "value": " untuk menyinkronkan mainnet Stratis."
     }
   ],
   "zicXn7": [

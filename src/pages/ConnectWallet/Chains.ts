@@ -5,14 +5,14 @@ export const changeToTestnet = async (chainId: number) => {
   const metamask = ethereum;
   try {
     await metamask?.request({
-      method: 'wallet_addEthereumChain',
+      method: 'wallet_addStratisChain',
       params: [
         {
           chainId: `0x${chainId.toString(16)}`,
           chainName: NETWORK_NAME,
           nativeCurrency: {
-            name: 'Testnet Ether',
-            symbol: 'tETH',
+            name: 'Testnet Stratis',
+            symbol: 'tSTRAT',
             decimals: 18,
           },
           rpcUrls: [RPC_URL],
@@ -23,7 +23,7 @@ export const changeToTestnet = async (chainId: number) => {
   } catch (error) {
     console.log(error);
     await metamask?.request({
-      method: 'wallet_switchEthereumChain',
+      method: 'wallet_switchStratisChain',
       params: [
         {
           chainId: `0x${chainId.toString(16)}`,

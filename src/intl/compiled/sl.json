@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum je sestavljen iz "
+      "value": "Stratis je sestavljen iz "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (obdelava nalog za doseganje soglasja z dokazom o deležu, prej 'Eth2' ali 'Ethereum 2.0')."
+      "value": " (obdelava nalog za doseganje soglasja z dokazom o deležu, prej 'Eth2' ali 'Stratis 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "2. korak: generirajte ključe za polog z uporabo orodja za polog fundacije Ethereum Foundation"
+      "value": "2. korak: generirajte ključe za polog z uporabo orodja za polog fundacije Stratis Foundation"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Od združitve bodo validatorji odgovorni tudi za obdelavo transakcij in bodo tako upravičeni do neporabljenih stroškov plina, povezanih z vključenimi transakcijami, ko bodo predlagali bloke. Te provizije se obračunavajo na sloju za izvajanje, ne na sloju za soglasje, zato zahtevajo, da se vaši stranki zagotovi tradicionalni naslov Ethereum."
+      "value": "Od združitve bodo validatorji odgovorni tudi za obdelavo transakcij in bodo tako upravičeni do neporabljenih stroškov plina, povezanih z vključenimi transakcijami, ko bodo predlagali bloke. Te provizije se obračunavajo na sloju za izvajanje, ne na sloju za soglasje, zato zahtevajo, da se vaši stranki zagotovi tradicionalni naslov Stratis."
     }
   ],
   "/5Hyyf": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "V neskončni zanki se vsak posamezen račun validatorja nenehno ocenjuje za primerne dvige ETH (obstajata dve vrsti, več o tem spodaj). Validatorji se obdelujejo po vrstnem redu glede na številko indeksa, ki se prvotno začne pri 0, pri čemer vsak naslednji predlagatelj nadaljuje tam, kjer je končal zadnji."
+      "value": "V neskončni zanki se vsak posamezen račun validatorja nenehno ocenjuje za primerne dvige STRAT (obstajata dve vrsti, več o tem spodaj). Validatorji se obdelujejo po vrstnem redu glede na številko indeksa, ki se prvotno začne pri 0, pri čemer vsak naslednji predlagatelj nadaljuje tam, kjer je končal zadnji."
     }
   ],
   "/OAba6": [
@@ -196,7 +196,7 @@
     },
     {
       "type": 0,
-      "value": " ETH maksimum?"
+      "value": " STRAT maksimum?"
     }
   ],
   "/jJLYy": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Odjemalec Geth je ena od treh prvotnih izvedb protokola Ethereum, zapisana v Go."
+      "value": "Odjemalec Geth je ena od treh prvotnih izvedb protokola Stratis, zapisana v Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Svojemu validatorju sem posredoval naslov Ethereum, kamor želim, da se nakažejo moje nagrade za provizijo."
+      "value": "Svojemu validatorju sem posredoval naslov Stratis, kamor želim, da se nakažejo moje nagrade za provizijo."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Več o ekonomiji zastavljanja Ethereum"
+      "value": "Več o ekonomiji zastavljanja Stratis"
     }
   ],
   "1p+pb5": [
@@ -690,7 +690,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Raznolikost odjemalcev je izjemno pomembna za omrežno zdravje Ethereuma: napaka v odjemalcu z več kot 33-odstotnim deležem lahko povzroči, da Ethereum izklopi povezavo. Če ima odjemalec večino (> 66 %), lahko napaka povzroči, da se veriga napačno razdeli, kar lahko privede do razreza."
+      "value": "Raznolikost odjemalcev je izjemno pomembna za omrežno zdravje Stratisa: napaka v odjemalcu z več kot 33-odstotnim deležem lahko povzroči, da Stratis izklopi povezavo. Če ima odjemalec večino (> 66 %), lahko napaka povzroči, da se veriga napačno razdeli, kar lahko privede do razreza."
     }
   ],
   "2t/3ab": [
@@ -798,7 +798,7 @@
     },
     {
       "type": 0,
-      "value": " ETH v en nabor ključev ne poveča potenciala nagrad, prav tako kot kopičenje nagrad nad "
+      "value": " STRAT v en nabor ključev ne poveča potenciala nagrad, prav tako kot kopičenje nagrad nad "
     },
     {
       "type": 1,
@@ -830,7 +830,7 @@
     },
     {
       "type": 0,
-      "value": " ETH korakih, od katerih ima vsak svoj nabor ključev in ravnotežje."
+      "value": " STRAT korakih, od katerih ima vsak svoj nabor ključev in ravnotežje."
     }
   ],
   "3PbtmF": [
@@ -854,7 +854,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Te posodobitve terminologije spreminjajo samo konvencije o poimenovanju; ne spreminjajo ciljev ali načrta Ethereuma."
+      "value": "Te posodobitve terminologije spreminjajo samo konvencije o poimenovanju; ne spreminjajo ciljev ali načrta Stratisa."
     }
   ],
   "3URRZK": [
@@ -1446,7 +1446,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Ethereum odjemalec, zasnovan za uporabo s strani podjetij za primere uporabe na javnih in zasebnih omrežjih."
+      "value": "Stratis odjemalec, zasnovan za uporabo s strani podjetij za primere uporabe na javnih in zasebnih omrežjih."
     }
   ],
   "8yom7x": [
@@ -1484,7 +1484,7 @@
     },
     {
       "type": 0,
-      "value": " ETH kakšno prednost?"
+      "value": " STRAT kakšno prednost?"
     }
   ],
   "9JktQX": [
@@ -1646,7 +1646,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Zastavni polog Ethereum zahteva, da hkrati pošljete najmanj "
+      "value": "Zastavni polog Stratis zahteva, da hkrati pošljete najmanj "
     },
     {
       "type": 1,
@@ -1692,7 +1692,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Poskrbite, da prenašate iz uradnega GitHub računa Ethereum Foundation tako, da preverite url: "
+      "value": "Poskrbite, da prenašate iz uradnega GitHub računa Stratis Foundation tako, da preverite url: "
     },
     {
       "type": 1,
@@ -1702,7 +1702,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Razdrobitev bo spremenila Ethereum zahtevo, da polna vozlišča prenašajo celotno zgodovino verige, in bo namesto tega to obremenitev porazdelila po omrežju, medtem ko bo še vedno zagotavljala razpoložljivost podatkov. To bo znatno povečalo zmogljivost Ethereum na ravni 1, hkrati pa ohranilo zmožnost delovanja celotnega vozlišča na uporabniški strojni opremi, pri čemer bo omrežje ostalo decentralizirano."
+      "value": "Razdrobitev bo spremenila Stratis zahtevo, da polna vozlišča prenašajo celotno zgodovino verige, in bo namesto tega to obremenitev porazdelila po omrežju, medtem ko bo še vedno zagotavljala razpoložljivost podatkov. To bo znatno povečalo zmogljivost Stratis na ravni 1, hkrati pa ohranilo zmožnost delovanja celotnega vozlišča na uporabniški strojni opremi, pri čemer bo omrežje ostalo decentralizirano."
     }
   ],
   "Affixg": [
@@ -1754,7 +1754,7 @@
     },
     {
       "type": 0,
-      "value": " se obdela, ko ima aktivni validator največje dejansko stanje 32 in ima skupno stanje nad 32. Posamezen validator ne more prejeti nagrade za presežek stanja nad 32 ETH, tako bodo ti računi imeli morebitno dodatno stanje samodejno dvignjeno na njihov naslov Ethereum."
+      "value": " se obdela, ko ima aktivni validator največje dejansko stanje 32 in ima skupno stanje nad 32. Posamezen validator ne more prejeti nagrade za presežek stanja nad 32 ETH, tako bodo ti računi imeli morebitno dodatno stanje samodejno dvignjeno na njihov naslov Stratis."
     }
   ],
   "RY4SP0": [
@@ -1830,7 +1830,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Ko validator izstopi in dvigne njegovo celotno stanje, bodo vsa dodatna sredstva, nakazana temu validatorju, med naslednjim pregledom validatorja samodejno prenesena na naslov za dvig. Za ponovni vložek ETH je treba aktivirati novega validatorja."
+      "value": "Ko validator izstopi in dvigne njegovo celotno stanje, bodo vsa dodatna sredstva, nakazana temu validatorju, med naslednjim pregledom validatorja samodejno prenesena na naslov za dvig. Za ponovni vložek STRAT je treba aktivirati novega validatorja."
     }
   ],
   "BPpnlJ": [
@@ -1992,7 +1992,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Več o viziji Ethereum"
+      "value": "Več o viziji Stratis"
     }
   ],
   "CdKEd/": [
@@ -2056,7 +2056,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Koliko ETH moram zastaviti, da postanem validator?"
+      "value": "Koliko STRAT moram zastaviti, da postanem validator?"
     }
   ],
   "5q9Lgv": [
@@ -2110,7 +2110,7 @@
     },
     {
       "type": 0,
-      "value": " omrežje. To je zaradi varnostnih razlogov. Glede na to, da je vsak validator omejen na največje učinkovito stanje 32 ETH, to preprečuje, da bi se veliki deli ETH potencialno uporabili v napadu in nato hitro istočasno zapustili omrežje."
+      "value": " omrežje. To je zaradi varnostnih razlogov. Glede na to, da je vsak validator omejen na največje učinkovito stanje 32 ETH, to preprečuje, da bi se veliki deli STRAT potencialno uporabili v napadu in nato hitro istočasno zapustili omrežje."
     }
   ],
   "DNRQa7": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Zastavljavci morajo posredovati naslov prejemnika provizije svojemu odjemalcu za soglasje, da lahko prejmejo nagrade v obliki provizije transakcije. To je običajen naslov Ethereum, ki ste ga vajeni."
+      "value": "Zastavljavci morajo posredovati naslov prejemnika provizije svojemu odjemalcu za soglasje, da lahko prejmejo nagrade v obliki provizije transakcije. To je običajen naslov Stratis, ki ste ga vajeni."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum se je začel izvajati 30. julija 2015. Njegova velikost sčasoma raste, uvedba razdrobitve pa bo prav tako povečala zahteve glede shrambe, pomnilnika in pasovne širine."
+      "value": "Stratis se je začel izvajati 30. julija 2015. Njegova velikost sčasoma raste, uvedba razdrobitve pa bo prav tako povečala zahteve glede shrambe, pomnilnika in pasovne širine."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Ethereum naslov za dvig: Če želite po nadgradnji Shanghai/Capella dvigniti na naslov denarnice za izvršitev, lahko nastavite "
+      "value": "Stratis naslov za dvig: Če želite po nadgradnji Shanghai/Capella dvigniti na naslov denarnice za izvršitev, lahko nastavite "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Odjemalec za Ethereum z ogromnim naborom razvijalcev. Popoln je za sisteme na nivoju podjetij."
+      "value": "Odjemalec za Stratis z ogromnim naborom razvijalcev. Popoln je za sisteme na nivoju podjetij."
     }
   ],
   "FgraU0": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Erigon je prej TurboGeth odjemalec Ethereum, zgrajen za omogočanje optimizacije zmogljivosti."
+      "value": "Erigon je prej TurboGeth odjemalec Stratis, zgrajen za omogočanje optimizacije zmogljivosti."
     }
   ],
   "ID3Pgm": [
@@ -2830,7 +2830,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Poglobite se v nadgradnje Ethereuma."
+      "value": "Poglobite se v nadgradnje Stratisa."
     }
   ],
   "JhUYU3": [
@@ -3110,7 +3110,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Hvala, ker podpirate omrežje Ethereum!"
+      "value": "Hvala, ker podpirate omrežje Stratis!"
     }
   ],
   "LpnfTF": [
@@ -3154,7 +3154,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum je zaščiten z dokazom o deležu, čeprav to ni bilo vedno tako. Oddajniška veriga je bila prvi korak k vzpostavitvi soglasne plasti PoS na Ethereum, delovati pa je začela vzporedno z glavnim omrežjem v decembru 2020. To je udeležencem omogočilo, da so začeli zastavljati svoje ETH in pripravljati omrežje na uraden prehod z dokaza o delu na dokaz o deležu prek spojitve."
+      "value": "Stratis je zaščiten z dokazom o deležu, čeprav to ni bilo vedno tako. Oddajniška veriga je bila prvi korak k vzpostavitvi soglasne plasti PoS na Stratis, delovati pa je začela vzporedno z glavnim omrežjem v decembru 2020. To je udeležencem omogočilo, da so začeli zastavljati svoje STRAT in pripravljati omrežje na uraden prehod z dokaza o delu na dokaz o deležu prek spojitve."
     }
   ],
   "LwEHRm": [
@@ -3226,7 +3226,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Kako poteka nadgradnja Ethereum?"
+      "value": "Kako poteka nadgradnja Stratis?"
     }
   ],
   "MaZo9k": [
@@ -3250,7 +3250,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Ta zagonska platforma vam bo pomagal postati validator, tako da lahko igrate aktivno vlogo v prihodnosti Ethereuma. Validatorji so ključni za varnejši, bolj nadgradljiv in trajnosten Ethereum, ki ga gradimo skupaj."
+      "value": "Ta zagonska platforma vam bo pomagal postati validator, tako da lahko igrate aktivno vlogo v prihodnosti Stratisa. Validatorji so ključni za varnejši, bolj nadgradljiv in trajnosten Stratis, ki ga gradimo skupaj."
     }
   ],
   "Mc8nNE": [
@@ -3262,7 +3262,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Nadgradnje Ethereum bodo uspešne samo, če validatorji razumejo tveganja in odgovornosti."
+      "value": "Nadgradnje Stratis bodo uspešne samo, če validatorji razumejo tveganja in odgovornosti."
     }
   ],
   "MmZjeu": [
@@ -3418,7 +3418,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Preverite več o vlogah in odgovornostih validatorjev Ethereum."
+      "value": "Preverite več o vlogah in odgovornostih validatorjev Stratis."
     }
   ],
   "Nb5DNK": [
@@ -3520,7 +3520,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu je odprtokodni odjemalec Ethereum, razvit pod licenco Apache 2.0 in napisan v jeziku Java."
+      "value": "Hyperledger Besu je odprtokodni odjemalec Stratis, razvit pod licenco Apache 2.0 in napisan v jeziku Java."
     }
   ],
   "OIvXIO": [
@@ -3620,7 +3620,7 @@
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Nadgradnja oddajniške verige v Ethereum vnaša doseganje soglasja z dokazom o deležu."
+      "value": "Nadgradnja oddajniške verige v Stratis vnaša doseganje soglasja z dokazom o deležu."
     }
   ],
   "P1QerV": [
@@ -3844,7 +3844,7 @@
     },
     {
       "type": 0,
-      "value": " na pogodbo za polog na trenutni verigi Ethereum."
+      "value": " na pogodbo za polog na trenutni verigi Stratis."
     }
   ],
   "QlsDcr": [
@@ -4106,7 +4106,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validatorji in Ethereum"
+      "value": "Validatorji in Stratis"
     }
   ],
   "TMw9oz": [
@@ -4118,7 +4118,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Izraza 'Eth1' in 'Eth2' sta bila opuščena s spojitvijo. Od uspešnega prehoda na dokaz o deležu prek spojitve ni več dveh ločenih omrežij Ethereum; obstaja samo Ethereum."
+      "value": "Izraza 'Eth1' in 'Eth2' sta bila opuščena s spojitvijo. Od uspešnega prehoda na dokaz o deležu prek spojitve ni več dveh ločenih omrežij Stratis; obstaja samo Stratis."
     }
   ],
   "TfNuWP": [
@@ -4226,7 +4226,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Ena od treh prvotnih izvedb protokola Ethereum."
+      "value": "Ena od treh prvotnih izvedb protokola Stratis."
     }
   ],
   "UykRIk": [
@@ -4316,7 +4316,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Z drugimi besedami: če je skupna vsota zastavljenega ETH nizka, je nagrada (obrestna mera) visoka, z rastjo skupno zastavljenih sredstev pa se začne nagrada (obresti), izplačana vsakem validatorju, zmanjševati."
+      "value": "Z drugimi besedami: če je skupna vsota zastavljenega STRAT nizka, je nagrada (obrestna mera) visoka, z rastjo skupno zastavljenih sredstev pa se začne nagrada (obresti), izplačana vsakem validatorju, zmanjševati."
     }
   ],
   "VUuZsb": [
@@ -4598,7 +4598,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Upoštevajte, da trenutno ni načrtov za omogočanje prenosov ETH med validatorji."
+      "value": "Upoštevajte, da trenutno ni načrtov za omogočanje prenosov STRAT med validatorji."
     }
   ],
   "XmddSV": [
@@ -4888,7 +4888,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Te se imenujejo tudi »delni dvigi« ali »plačila nagrad«, saj preostalih 32 ETH ostane zaklenjenih in vloženih."
+      "value": "Te se imenujejo tudi »delni dvigi« ali »plačila nagrad«, saj preostalih 32 STRAT ostane zaklenjenih in vloženih."
     }
   ],
   "a+xjjV": [
@@ -5126,7 +5126,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Postanite validator in pomagajte zaščititi prihodnost Ethereuma."
+      "value": "Postanite validator in pomagajte zaščititi prihodnost Stratisa."
     }
   ],
   "cRzxes": [
@@ -5220,7 +5220,7 @@
     },
     {
       "type": 0,
-      "value": " je 32-bajtno polje v depozitu za preverjanje cilja veljavnih dvigov. Trenutno obstajata dve vrsti dvigov: dvig BLS in dvig z naslova Ethereum."
+      "value": " je 32-bajtno polje v depozitu za preverjanje cilja veljavnih dvigov. Trenutno obstajata dve vrsti dvigov: dvig BLS in dvig z naslova Stratis."
     }
   ],
   "8FjJDx": [
@@ -5238,7 +5238,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm je odjemalec za soglasje protokola Ethereum za izvajanje Go, osredotočena na uporabnost, varnost in zanesljivost."
+      "value": "Prysm je odjemalec za soglasje protokola Stratis za izvajanje Go, osredotočena na uporabnost, varnost in zanesljivost."
     }
   ],
   "dLE9FH": [
@@ -5496,7 +5496,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Odgovor na to vprašanje je odvisen predvsem od tega, s koliko ETH razpolagate."
+      "value": "Odgovor na to vprašanje je odvisen predvsem od tega, s koliko STRAT razpolagate."
     }
   ],
   "fQ5yno": [
@@ -5526,7 +5526,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Lahko se odločite, da z začetnim pologom navedete naslov za izplačilo, da samodejno omogočite izplačila nagrad in tudi možnost popolnega izstopa iz sredstev kadar koli po nadgradnji Shanghai/Capella. Ta naslov bi moral biti na običajnem naslovu Ethereum in bo edini naslov, na katerega se lahko nakažejo sredstva iz vaših novih računov validatorja."
+      "value": "Lahko se odločite, da z začetnim pologom navedete naslov za izplačilo, da samodejno omogočite izplačila nagrad in tudi možnost popolnega izstopa iz sredstev kadar koli po nadgradnji Shanghai/Capella. Ta naslov bi moral biti na običajnem naslovu Stratis in bo edini naslov, na katerega se lahko nakažejo sredstva iz vaših novih računov validatorja."
     }
   ],
   "fZwn+P": [
@@ -5630,7 +5630,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generirajte ključe za polog z uporabo orodja za polog fundacije Ethereum Foundation"
+      "value": "Generirajte ključe za polog z uporabo orodja za polog fundacije Stratis Foundation"
     }
   ],
   "gVC0Wl": [
@@ -5826,7 +5826,7 @@
     },
     {
       "type": 0,
-      "value": " ETH na validatorja spodbuja decentralizacijo moči, saj preprečuje, da bi kateri koli validator imel pretirano velik glas o stanju verige. Prav tako omejuje količino ETH, ki jo je mogoče kadar koli odstraniti iz zastavljanja, saj je število validatorjev, ki lahko izstopijo v določenem časovnem obdobju, omejeno. To pomaga zaščititi omrežje pred določenimi napadi."
+      "value": " STRAT na validatorja spodbuja decentralizacijo moči, saj preprečuje, da bi kateri koli validator imel pretirano velik glas o stanju verige. Prav tako omejuje količino ETH, ki jo je mogoče kadar koli odstraniti iz zastavljanja, saj je število validatorjev, ki lahko izstopijo v določenem časovnem obdobju, omejeno. To pomaga zaščititi omrežje pred določenimi napadi."
     }
   ],
   "huEFUF": [
@@ -5864,7 +5864,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "O pogodbi za polog lahko razmišljate kot o prenosu sredstev z računa Ethereum na račun validatorja v sistemu z dokazom o deležu."
+      "value": "O pogodbi za polog lahko razmišljate kot o prenosu sredstev z računa Stratis na račun validatorja v sistemu z dokazom o deležu."
     }
   ],
   "iJXdUH": [
@@ -5896,7 +5896,7 @@
     },
     {
       "type": 0,
-      "value": " ETH aktivira en komplet ključev validatorja. Ti ključi se uporabljajo za podpis stanja omrežja. Nižja kot je zahteva ETH, več posledičnih podpisov mora shraniti omrežje. Znesek "
+      "value": " STRAT aktivira en komplet ključev validatorja. Ti ključi se uporabljajo za podpis stanja omrežja. Nižja kot je zahteva ETH, več posledičnih podpisov mora shraniti omrežje. Znesek "
     },
     {
       "type": 1,
@@ -5904,7 +5904,7 @@
     },
     {
       "type": 0,
-      "value": " ETH je bil izbran kot stanje med omogočanjem čim večjemu številu ljudi, da zastavlja, ne da bi ovirali decentralizacijo z napihovanjem velikosti vsakega bloka s podpisi."
+      "value": " STRAT je bil izbran kot stanje med omogočanjem čim večjemu številu ljudi, da zastavlja, ne da bi ovirali decentralizacijo z napihovanjem velikosti vsakega bloka s podpisi."
     }
   ],
   "iX90gu": [
@@ -5956,7 +5956,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku je odjemalec za soglasje Ethereum, ki temelji na jeziku Java, in je zasnovan za izpolnjevanje institucionalnih potreb in varnostnih zahtev."
+      "value": "PegaSys Teku je odjemalec za soglasje Stratis, ki temelji na jeziku Java, in je zasnovan za izpolnjevanje institucionalnih potreb in varnostnih zahtev."
     }
   ],
   "XRUCUL": [
@@ -5990,7 +5990,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Teku, nekdaj imenovan Artemis, je odjemalec za soglasje, ustvarjen za izpolnjevanje institucionalnih potreb in varnostnih zahtev. PegaSys je enota družbe ConsenSys, predana razvoju odjemalcev in orodij, namenjenih podjetjem, za interakcijo z jedrno platformo Ethereum."
+      "value": "Teku, nekdaj imenovan Artemis, je odjemalec za soglasje, ustvarjen za izpolnjevanje institucionalnih potreb in varnostnih zahtev. PegaSys je enota družbe ConsenSys, predana razvoju odjemalcev in orodij, namenjenih podjetjem, za interakcijo z jedrno platformo Stratis."
     }
   ],
   "jBr8vs": [
@@ -6100,7 +6100,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "To je pomenilo spajanje sloja za izvajanje (obstoječe glavno omrežje) z novo soglasno plastjo (oddajniška veriga) za oblikovanje ene današnje verige Ethereum."
+      "value": "To je pomenilo spajanje sloja za izvajanje (obstoječe glavno omrežje) z novo soglasno plastjo (oddajniška veriga) za oblikovanje ene današnje verige Stratis."
     }
   ],
   "k67L48": [
@@ -6158,7 +6158,7 @@
     },
     {
       "type": 0,
-      "value": ". Ta predlog za izboljšavo Ethereuma omogoča samodejni odvzem nagrad v sloj za izvedbo in zagotavlja tudi način za izstopljene validatorje, da odklenejo svoje celotno stanje – plin ni potreben."
+      "value": ". Ta predlog za izboljšavo Stratisa omogoča samodejni odvzem nagrad v sloj za izvedbo in zagotavlja tudi način za izstopljene validatorje, da odklenejo svoje celotno stanje – plin ni potreben."
     }
   ],
   "kTt/ND": [
@@ -6218,7 +6218,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Nadgradnja s spojitvijo je 15. septembra 2022 uradno uvedla dokaz o deležu na Ethereum, s čimer je dokaz o delu hkrati postal zastarel. S tem je pripravila verigo za prihodnje nadgradnje širjenja, kot je drobljenje podatkov, tako da je skupaj z glavnim omrežjem združila soglasje o dokazu o deležu, obenem pa zmanjšala porabo energije za več kot 99,9 %."
+      "value": "Nadgradnja s spojitvijo je 15. septembra 2022 uradno uvedla dokaz o deležu na Stratis, s čimer je dokaz o delu hkrati postal zastarel. S tem je pripravila verigo za prihodnje nadgradnje širjenja, kot je drobljenje podatkov, tako da je skupaj z glavnim omrežjem združila soglasje o dokazu o deležu, obenem pa zmanjšala porabo energije za več kot 99,9 %."
     }
   ],
   "kuYpoI": [
@@ -6462,7 +6462,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Od uspešnega prehoda na sistem z dokazom o deležu prek spojitve je Ethereum v celoti zavarovan z validatorji v sistemu z dokazom o deležu. Z zagonom validatorja prispevate k zaščiti omrežja Ethereum."
+      "value": "Od uspešnega prehoda na sistem z dokazom o deležu prek spojitve je Stratis v celoti zavarovan z validatorji v sistemu z dokazom o deležu. Z zagonom validatorja prispevate k zaščiti omrežja Stratis."
     }
   ],
   "mROPz+": [
@@ -6476,7 +6476,7 @@
     },
     {
       "type": 0,
-      "value": " pred nakazilom sem navedel naslov Ethereum, kamor želim nakazati vse nagrade validatorja in dvige."
+      "value": " pred nakazilom sem navedel naslov Stratis, kamor želim nakazati vse nagrade validatorja in dvige."
     }
   ],
   "mUZnem": [
@@ -6504,7 +6504,7 @@
     },
     {
       "type": 0,
-      "value": " je virtualna entiteta, ki živi v oddajniški verigi, ki jo predstavljajo stanje, javni ključ in druge lastnosti ter sodeluje pri soglasju omrežja Ethereum."
+      "value": " je virtualna entiteta, ki živi v oddajniški verigi, ki jo predstavljajo stanje, javni ključ in druge lastnosti ter sodeluje pri soglasju omrežja Stratis."
     }
   ],
   "mcyp2f": [
@@ -6818,7 +6818,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Uporabniki Ethereuma so navajeni, da se transakcije izvajajo ročno – če želite prenesti sredstva, morate podpisati transakcijo in plačati plin."
+      "value": "Uporabniki Stratisa so navajeni, da se transakcije izvajajo ročno – če želite prenesti sredstva, morate podpisati transakcijo in plačati plin."
     }
   ],
   "p0b6zX": [
@@ -7184,7 +7184,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Odjemalec za soglasje, ki je močno osredotočen na hitrost in varnost. Razvilo ga je podjetje Sigma Prime, ki se ukvarja z informacijsko varnostjo in inženiringom programske opremo, skupaj z ustanovo Ethereum Foundation, podjetjem ConsenSys in zasebnimi posamezniki pa so financirali odjemalec Lighthouse."
+      "value": "Odjemalec za soglasje, ki je močno osredotočen na hitrost in varnost. Razvilo ga je podjetje Sigma Prime, ki se ukvarja z informacijsko varnostjo in inženiringom programske opremo, skupaj z ustanovo Stratis Foundation, podjetjem ConsenSys in zasebnimi posamezniki pa so financirali odjemalec Lighthouse."
     }
   ],
   "sToVAS": [
@@ -7288,7 +7288,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Specifikacije plasti za soglasje Ethereum"
+      "value": "Specifikacije plasti za soglasje Stratis"
     }
   ],
   "teyxVk": [
@@ -7356,7 +7356,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Nadgradnje Ethereum"
+      "value": "Nadgradnje Stratis"
     }
   ],
   "tzMNF3": [
@@ -7368,7 +7368,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Vaša denarnica je v napačnem omrežju Ethereum. Za nadaljevanje jo povežite z "
+      "value": "Vaša denarnica je v napačnem omrežju Stratis. Za nadaljevanje jo povežite z "
     },
     {
       "type": 1,
@@ -7544,7 +7544,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Vaše stanje je občasno posodobljeno v skladu s pravili omrežja Ethereum, ko izvajate (ali ne izvajate) svojih odgovornosti."
+      "value": "Vaše stanje je občasno posodobljeno v skladu s pravili omrežja Stratis, ko izvajate (ali ne izvajate) svojih odgovornosti."
     }
   ],
   "vCHTnu": [
@@ -7562,7 +7562,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Postanite validator in pomagajte zaščititi prihodnost Ethereuma"
+      "value": "Postanite validator in pomagajte zaščititi prihodnost Stratisa"
     }
   ],
   "vJez0K": [
@@ -7742,7 +7742,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Potrjevanje v Ethereumu ni enako kot rudarjenje. Rezultati so podobni: vaše delo bo razširilo in zaščitilo verigo. Vendar je postopek drugačen, saj uporabljata različne mehanizme za doseganje soglasja."
+      "value": "Potrjevanje v Stratisu ni enako kot rudarjenje. Rezultati so podobni: vaše delo bo razširilo in zaščitilo verigo. Vendar je postopek drugačen, saj uporabljata različne mehanizme za doseganje soglasja."
     }
   ],
   "x4/9vY": [
@@ -7908,7 +7908,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "V razvoju je več nadgradenj, ki bodo naredile Ethereum bolj nadgradljiv, varen in trajnosten. Te nadgradnje bodo izboljšale Ethereum ter hkrati brezhibno nadaljevale današnjo verigo. Tukaj najdete več informacij o različnih nadgradnjah:"
+      "value": "V razvoju je več nadgradenj, ki bodo naredile Stratis bolj nadgradljiv, varen in trajnosten. Te nadgradnje bodo izboljšale Stratis ter hkrati brezhibno nadaljevale današnjo verigo. Tukaj najdete več informacij o različnih nadgradnjah:"
     }
   ],
   "y4dBsA": [
@@ -8040,7 +8040,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar je odprtokodna implementacija TypeScript specifikacije soglasja Ethereum (prej znana kot eth2), ki jo vzdržuje ChainSafe Systems. Cilj ChainSafe je razviti, izboljšati in diverzificirati ekosistem dokazov o deležu Ethereum s svojo oddajniško verigo in odjemalcem validatorja s poudarkom na lahkih implementacijah odjemalcev."
+      "value": "Lodestar je odprtokodna implementacija TypeScript specifikacije soglasja Stratis (prej znana kot eth2), ki jo vzdržuje ChainSafe Systems. Cilj ChainSafe je razviti, izboljšati in diverzificirati ekosistem dokazov o deležu Stratis s svojo oddajniško verigo in odjemalcem validatorja s poudarkom na lahkih implementacijah odjemalcev."
     }
   ],
   "zAVb0/": [
@@ -8072,7 +8072,7 @@
     },
     {
       "type": 0,
-      "value": " ETH za enega validatorja. Ne bo dodal k vašim nagradam in bo zaklenjen do načrtovane posodobitve Shanghai/Capella."
+      "value": " STRAT za enega validatorja. Ne bo dodal k vašim nagradam in bo zaklenjen do načrtovane posodobitve Shanghai/Capella."
     }
   ],
   "zbEBi9": [
@@ -8086,7 +8086,7 @@
     },
     {
       "type": 0,
-      "value": " za sinhronizacijo glavnega omrežja Ethereum."
+      "value": " za sinhronizacijo glavnega omrežja Stratis."
     }
   ],
   "zicXn7": [

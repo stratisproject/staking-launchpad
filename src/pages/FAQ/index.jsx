@@ -65,7 +65,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Ethereum network."
+                defaultMessage="A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Stratis network."
                 values={{
                   validator: (
                     <em>
@@ -112,13 +112,13 @@ export const FAQ = () => {
           </section>
           <section>
             <Heading level={4}>
-              <FormattedMessage defaultMessage="How much ETH do I need to stake to become a validator?" />
+              <FormattedMessage defaultMessage="How much STRAT do I need to stake to become a validator?" />
             </Heading>
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Each key-pair associated with a validator requires locking {ethPerValidator} to be activated, which represents your initial balance as well as your {initialAndMaximum} voting power for any validator."
                 values={{
-                  ethPerValidator: <strong>{PRICE_PER_VALIDATOR} ETH</strong>,
+                  ethPerValidator: <strong>{PRICE_PER_VALIDATOR} STRAT</strong>,
                   initialAndMaximum: (
                     <em>
                       <FormattedMessage defaultMessage="initial and maximum" />
@@ -131,7 +131,7 @@ export const FAQ = () => {
           <section>
             <Heading level={4}>
               <FormattedMessage
-                defaultMessage="Is there any advantage to having more than {pricePerValidator} ETH at stake?"
+                defaultMessage="Is there any advantage to having more than {pricePerValidator} STRAT at stake?"
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -139,7 +139,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="No. There is no advantage to having more than {pricePerValidator} ETH staked."
+                defaultMessage="No. There is no advantage to having more than {pricePerValidator} STRAT staked."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -147,7 +147,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Depositing more than {pricePerValidator} ETH to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} ETH, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} ETH increments, each with its own set of keys and balance."
+                defaultMessage="Depositing more than {pricePerValidator} STRAT to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} STRAT, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAT increments, each with its own set of keys and balance."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                   effectiveBalance: (
@@ -172,7 +172,7 @@ export const FAQ = () => {
           <section>
             <Heading level={4}>
               <FormattedMessage
-                defaultMessage="Why the {pricePerValidator} ETH maximum?"
+                defaultMessage="Why the {pricePerValidator} STRAT maximum?"
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -180,7 +180,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Each {pricePerValidator} ETH deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the ETH requirement, the more resulting signatures must be saved by the network. {pricePerValidator} ETH was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+                defaultMessage="Each {pricePerValidator} STRAT deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAT requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAT was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -188,7 +188,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Limiting the maximum stake to {pricePerValidator} ETH per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of ETH that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+                defaultMessage="Limiting the maximum stake to {pricePerValidator} STRAT per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAT that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -202,7 +202,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Do not deposit more than {PRICE_PER_VALIDATOR} ETH for a single validator—it will not add to your rewards."
+                defaultMessage="Do not deposit more than {PRICE_PER_VALIDATOR} STRAT for a single validator—it will not add to your rewards."
                 values={{ PRICE_PER_VALIDATOR }}
               />
             </Text>
@@ -219,7 +219,7 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="What is the deposit contract?" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="You can think of the deposit contract as a transfer of funds from an Ethereum account to a proof-of-stake validator account." />
+              <FormattedMessage defaultMessage="You can think of the deposit contract as a transfer of funds from an Stratis account to a proof-of-stake validator account." />
             </Text>
             <Text className="mt10">
               <FormattedMessage
@@ -250,7 +250,7 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="Can I stop running my validator for a few days and then start it back up again?" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of ETH roughly equivalent to the amount of ETH you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH." />
+              <FormattedMessage defaultMessage="Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAT roughly equivalent to the amount of STRAT you would have gained in that period. In other words, if you stood to earn ≈0.01 STRAT, you would instead be penalized ≈0.01 STRAT." />
             </Text>
           </section>
           <section>
@@ -259,23 +259,23 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="The answer to this question very much depends on how much ETH you
+                defaultMessage="The answer to this question very much depends on how much STRAT you
                   have at your disposal."
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="You should certainly top up if your balance is close to {EJECTION_PRICE} ETH.
+                defaultMessage="You should certainly top up if your balance is close to {EJECTION_PRICE} STRAT.
                   This is to ensure you don’t get kicked out of the validator
                   set (which automatically happens if your balance falls below {EJECTION_PRICE}
-                  ETH)."
+                  STRAT)."
                 values={{ EJECTION_PRICE }}
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="At the other end of the spectrum, if your balance is closer to 31
-                  ETH, it’s probably not worth adding the extra ETH required to get back to 32."
+                  STRAT, it’s probably not worth adding the extra STRAT required to get back to 32."
               />
             </Text>
           </section>
@@ -330,12 +330,12 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="What happened to 'Eth2?'" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Ethereum networks; there is only Ethereum." />
+              <FormattedMessage defaultMessage="The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Stratis networks; there is only Stratis." />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Ethereum consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the
-                  {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Ethereum 2.0')."
+                defaultMessage="Stratis consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the
+                  {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Stratis 2.0')."
                 values={{
                   executionLayer: (
                     <Link
@@ -362,7 +362,7 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="These terminology updates only change naming conventions; this does not alter
-                  Ethereum's goals or roadmap."
+                  Stratis's goals or roadmap."
               />
             </Text>
             <Link
@@ -402,7 +402,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} ETH. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
+                defaultMessage="Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} STRAT. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -487,7 +487,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Your balance is updated periodically by the Ethereum network rules
+                defaultMessage="Your balance is updated periodically by the Stratis network rules
                   as you carry (or fail to carry) out your responsibilities."
               />
             </Text>
@@ -500,7 +500,7 @@ export const FAQ = () => {
             </Text>
             <BlockQuote>
               <Text className="my20">
-                <FormattedMessage defaultMessage="Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Ethereum address to be provided to your client." />
+                <FormattedMessage defaultMessage="Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Stratis address to be provided to your client." />
               </Text>
             </BlockQuote>
             <Link primary to="/checklist" className="mt20">
@@ -604,12 +604,12 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Block rewards are calculated using a sliding scale based on the
-                  total amount of ETH staked on the network."
+                  total amount of STRAT staked on the network."
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="In other words: if the total amount of ETH staked is low, the
+                defaultMessage="In other words: if the total amount of STRAT staked is low, the
                   reward (interest rate) is high, but as the total stake rises, the
                   reward (interest) paid out to each validator starts to fall."
               />
@@ -618,7 +618,7 @@ export const FAQ = () => {
               <FormattedMessage
                 defaultMessage="Why a sliding scale? While we won’t get into the gory details
                   here, the basic intution is that there needs to be a minimum
-                  number of validators (and hence a minimum amount of ETH staked)
+                  number of validators (and hence a minimum amount of STRAT staked)
                   for the network to function properly. So, to incentivize more
                   validators to join, it’s important that the interest rate remains
                   high until this minimum number is reached."
@@ -701,7 +701,7 @@ export const FAQ = () => {
               <Text className="my20">
                 <FormattedMessage
                   defaultMessage="Note that in the second (unlikely) scenario, you stand to progressively lose up to 50%
-                  ({EJECTION_PRICE} ETH) of your stake over 21 days. After 21 days you are ejected out of the validator set.
+                  ({EJECTION_PRICE} STRAT) of your stake over 21 days. After 21 days you are ejected out of the validator set.
                   This ensures that blocks start finalizing again at some point."
                   values={{ EJECTION_PRICE }}
                 />
@@ -743,7 +743,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="The minimum amount that can be slashed is 1 ETH, but {strongText}."
+                defaultMessage="The minimum amount that can be slashed is 1 STRAT, but {strongText}."
                 values={{
                   strongText: (
                     <strong>
@@ -798,7 +798,7 @@ export const FAQ = () => {
                 defaultMessage="{withdrawalCredentials} is a 32-byte field associated with every validator,
                   initially set during deposit, for verifying the destination of valid withdrawals. Currently,
                   there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution
-                  (Ethereum address) credentials (Type 1, or {type1})."
+                  (Stratis address) credentials (Type 1, or {type1})."
                 values={{
                   withdrawalCredentials: (
                     <Link
@@ -820,7 +820,7 @@ export const FAQ = () => {
                   <FormattedMessage
                     defaultMessage="BLS credentials: By default, the deposit CLI would generate withdrawal credentials
                     with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible
-                    with Beacon Chain withdrawals and must be updated to Ethereum address credentials to enable withdrawals."
+                    with Beacon Chain withdrawals and must be updated to Stratis address credentials to enable withdrawals."
                     values={{
                       boldWithdrawalKey: (
                         <strong>
@@ -854,7 +854,7 @@ export const FAQ = () => {
                           {' '}
                           {`--eth1_withdrawal_address <`}
                           <AllCaps>
-                            <FormattedMessage defaultMessage="Your ETH address" />
+                            <FormattedMessage defaultMessage="Your STRAT address" />
                           </AllCaps>
                           {`>`}{' '}
                         </Code>
@@ -880,7 +880,7 @@ export const FAQ = () => {
                 <FormattedMessage
                   defaultMessage="If the “eth1 withdrawal address” was not provided on initial deposit, you can
                   submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your
-                  desired Ethereum withdrawal address. This address can only be provided once, and cannot be changed again."
+                  desired Stratis withdrawal address. This address can only be provided once, and cannot be changed again."
                   values={{
                     BTEC: (
                       <em>
@@ -909,7 +909,7 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Over time, your balance will decrease as you are penalized for not participating in the
-                consensus process. When your balance reaches {EJECTION_PRICE} ETH, you will be automatically exited from
+                consensus process. When your balance reaches {EJECTION_PRICE} STRAT, you will be automatically exited from
                 the validator set."
                 values={{ EJECTION_PRICE }}
               />
@@ -944,7 +944,7 @@ export const FAQ = () => {
             </BlockQuote>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="If you've already provided an Ethereum withdrawal address for your withdrawal credentials, your
+                defaultMessage="If you've already provided an Stratis withdrawal address for your withdrawal credentials, your
                 entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be
                 needed to generate your withdrawal key to set your withdrawal address."
               />
@@ -957,7 +957,7 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is
-                lost, and you have not updated your withdrawal credentials with an Ethereum (execution) withdrawal address,
+                lost, and you have not updated your withdrawal credentials with an Stratis (execution) withdrawal address,
                 there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator
                 mnemonic is safely backed up."
               />

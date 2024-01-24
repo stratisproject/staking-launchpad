@@ -208,7 +208,7 @@ const TopupPage: React.FC<Props> = ({ validator }) => {
           defaultMessage:
             'Validator effective balance is currently maxed out. If desired, you may add {minTopupValue} {TICKER_NAME} (the minimum allowed by the deposit contract)',
           description:
-            '{minTopupValue} is a number, and {TICKER_NAME} is either ETH or GöETH depending on network',
+            '{minTopupValue} is a number, and {TICKER_NAME} is either STRAT or GöETH depending on network',
         },
         { TICKER_NAME, minTopupValue }
       );
@@ -235,7 +235,7 @@ const TopupPage: React.FC<Props> = ({ validator }) => {
     if (value < minTopupValue)
       return formatMessage(
         {
-          defaultMessage: `The Ethereum staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted.`,
+          defaultMessage: `The Stratis staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted.`,
         },
         { minTopupValue, TICKER_NAME }
       );

@@ -331,7 +331,7 @@ export const Option3 = ({
         </Pre>
       </Alert>
       <Heading level={4} size="small" color="blueMedium" className="mb10">
-        <FormattedMessage defaultMessage="Generate deposit keys using the Ethereum Foundation deposit tool" />
+        <FormattedMessage defaultMessage="Generate deposit keys using the Stratis Foundation deposit tool" />
       </Heading>
       <Alert className="my20" variant="info">
         <FormattedMessage defaultMessage="For security, we recommend you disconnect from the internet to complete this step." />

@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum constă din nivelul "
+      "value": "Stratis constă din nivelul "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (care se ocupă de sarcinile de verificare a consensului cu dovada mizei, cunoscut anterior sub denumirea de „Eth2” sau „Ethereum 2.0”)."
+      "value": " (care se ocupă de sarcinile de verificare a consensului cu dovada mizei, cunoscut anterior sub denumirea de „Eth2” sau „Stratis 2.0”)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Pasul 2: Generați chei de depunere folosind instrumentul de depunere al Ethereum Foundation"
+      "value": "Pasul 2: Generați chei de depunere folosind instrumentul de depunere al Stratis Foundation"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "După fuziune, validatorii vor fi responsabili și de procesarea tranzacțiilor, având astfel drept la comisioanele de gaze nearse asociate cu tranzacțiile incluse când sunt propuse blocuri. Aceste comisioane sunt supuse unui strat de execuție, nu unui strat de consens și necesită, astfel, furnizarea unei adrese Ethereum tradiționale clientului."
+      "value": "După fuziune, validatorii vor fi responsabili și de procesarea tranzacțiilor, având astfel drept la comisioanele de gaze nearse asociate cu tranzacțiile incluse când sunt propuse blocuri. Aceste comisioane sunt supuse unui strat de execuție, nu unui strat de consens și necesită, astfel, furnizarea unei adrese Stratis tradiționale clientului."
     }
   ],
   "/5Hyyf": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Pe o buclă permanentă, fiecare cont de validator este evaluat continuu pentru retrageri eligibile de ETH (dintre care două tipuri, mai multe despre aceasta mai jos). Validatorii sunt procesați în ordine în funcție de numărul indicelui, iniţial de la 0, fiecare dintre cei care au propus ulterior revenind de unde a rămas ultimul."
+      "value": "Pe o buclă permanentă, fiecare cont de validator este evaluat continuu pentru retrageri eligibile de STRAT (dintre care două tipuri, mai multe despre aceasta mai jos). Validatorii sunt procesați în ordine în funcție de numărul indicelui, iniţial de la 0, fiecare dintre cei care au propus ulterior revenind de unde a rămas ultimul."
     }
   ],
   "/OAba6": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth este una dintre cele trei implementări originale ale protocolului Ethereum, scris în Go."
+      "value": "Geth este una dintre cele trei implementări originale ale protocolului Stratis, scris în Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Am furnizat o adresă Ethereum validatorului meu, unde aș dori ca recompensele mele să fie depuse."
+      "value": "Am furnizat o adresă Stratis validatorului meu, unde aș dori ca recompensele mele să fie depuse."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Mai multe despre economia mizării în Ethereum"
+      "value": "Mai multe despre economia mizării în Stratis"
     }
   ],
   "1p+pb5": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Diversitatea clienților este extrem de importantă pentru sănătatea rețelei din Ethereum: o eroare în cazul unui client cu o cotă de peste 33 % poate duce la o deconectare a Ethereum. În cazul în care clientul are o supermajoritate (>66%), o eroare ar putea duce la o împărțire incorectă a lanțului, care ar putea duce la slashing."
+      "value": "Diversitatea clienților este extrem de importantă pentru sănătatea rețelei din Stratis: o eroare în cazul unui client cu o cotă de peste 33 % poate duce la o deconectare a Stratis. În cazul în care clientul are o supermajoritate (>66%), o eroare ar putea duce la o împărțire incorectă a lanțului, care ar putea duce la slashing."
     }
   ],
   "2t/3ab": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " ETH într-un singur set de chei nu crește potențialul de recompense, dar nici nu acumulează recompense mai mari de "
+      "value": " STRAT într-un singur set de chei nu crește potențialul de recompense, dar nici nu acumulează recompense mai mari de "
     },
     {
       "type": 1,
@@ -858,7 +858,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Aceste actualizări ale terminologiei modifică numai convențiile pentru denumiri, și nu obiectivele sau foaia de parcurs a lui Ethereum."
+      "value": "Aceste actualizări ale terminologiei modifică numai convențiile pentru denumiri, și nu obiectivele sau foaia de parcurs a lui Stratis."
     }
   ],
   "3URRZK": [
@@ -1442,7 +1442,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Un client Ethereum conceput pentru a facilita activitatea întreprinderilor în scenariile de rețea cu permisiuni, publice și private."
+      "value": "Un client Stratis conceput pentru a facilita activitatea întreprinderilor în scenariile de rețea cu permisiuni, publice și private."
     }
   ],
   "8yom7x": [
@@ -1642,7 +1642,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Ca să fie acceptat contractul de depunere pentru mizarea pe Ethereum, trebuie să trimiteți dintr-odată cel puțin "
+      "value": "Ca să fie acceptat contractul de depunere pentru mizarea pe Stratis, trebuie să trimiteți dintr-odată cel puțin "
     },
     {
       "type": 1,
@@ -1688,7 +1688,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Asigurați-vă că descărcați din contul GitHub oficial al Ethereum Foundation, prin verificarea url-ului: "
+      "value": "Asigurați-vă că descărcați din contul GitHub oficial al Stratis Foundation, prin verificarea url-ului: "
     },
     {
       "type": 1,
@@ -1698,7 +1698,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Fragmentarea va schimba cerința ca nodurile complete să conțină întreaga istorie a lanțului și va distribui în schimb această sarcină în rețea, asigurând în același timp disponibilitatea datelor. Acest lucru va spori în mod semnificativ capacitatea nivelului 1 Ethereum, menținând în același timp capacitatea de a opera un nod complet pe hardware-ul consumatorului, păstrând rețeaua descentralizată."
+      "value": "Fragmentarea va schimba cerința ca nodurile complete să conțină întreaga istorie a lanțului și va distribui în schimb această sarcină în rețea, asigurând în același timp disponibilitatea datelor. Acest lucru va spori în mod semnificativ capacitatea nivelului 1 Stratis, menținând în același timp capacitatea de a opera un nod complet pe hardware-ul consumatorului, păstrând rețeaua descentralizată."
     }
   ],
   "Affixg": [
@@ -1754,7 +1754,7 @@
     },
     {
       "type": 0,
-      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 ETH și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Ethereum."
+      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 STRAT și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Stratis."
     }
   ],
   "RY4SP0": [
@@ -1992,7 +1992,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Mai multe despre viziunea Ethereum"
+      "value": "Mai multe despre viziunea Stratis"
     }
   ],
   "CdKEd/": [
@@ -2056,7 +2056,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "De cât ETH am nevoie pentru a putea deveni validator?"
+      "value": "De cât STRAT am nevoie pentru a putea deveni validator?"
     }
   ],
   "5q9Lgv": [
@@ -2110,7 +2110,7 @@
     },
     {
       "type": 0,
-      "value": " rețeaua validatorii. Acest lucru este justificat din motive de securitate. Dat fiind că fiecare validator este limitat la un sold maxim efectiv de 32 ETH, acest lucru împiedică potențiala utilizare a unor părți mari de ETH într-un atac și ieșirea rapidă din rețea a tuturor participanților simultan."
+      "value": " rețeaua validatorii. Acest lucru este justificat din motive de securitate. Dat fiind că fiecare validator este limitat la un sold maxim efectiv de 32 ETH, acest lucru împiedică potențiala utilizare a unor părți mari de STRAT într-un atac și ieșirea rapidă din rețea a tuturor participanților simultan."
     }
   ],
   "DNRQa7": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Pentru a primi recompense pentru comisionul de tranzacție, participanții trebuie să furnizeze o adresă pentru destinatarul taxei pentru clientul cu nivel de consens. Aceasta este o adresă Ethereum normală cu care sunteți obișnuiți."
+      "value": "Pentru a primi recompense pentru comisionul de tranzacție, participanții trebuie să furnizeze o adresă pentru destinatarul taxei pentru clientul cu nivel de consens. Aceasta este o adresă Stratis normală cu care sunteți obișnuiți."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum a apărut pe data de 30 iulie 2015. Dimensiunea fenomenului crește în timp, iar introducerea fragmentării va spori și cerințele de stocare, memorie și lățime de bandă."
+      "value": "Stratis a apărut pe data de 30 iulie 2015. Dimensiunea fenomenului crește în timp, iar introducerea fragmentării va spori și cerințele de stocare, memorie și lățime de bandă."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Retragerea adresei Ethereum: dacă doriți să retrageți adresa portofelului de execuție după modernizarea Shanghai/Capella, puteți seta "
+      "value": "Retragerea adresei Stratis: dacă doriți să retrageți adresa portofelului de execuție după modernizarea Shanghai/Capella, puteți seta "
     },
     {
       "type": 1,
@@ -2416,7 +2416,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Un client Ethereum cu un grup uriaș de dezvoltatori. Este perfect pentru sistemele de nivel enterprise."
+      "value": "Un client Stratis cu un grup uriaș de dezvoltatori. Este perfect pentru sistemele de nivel enterprise."
     }
   ],
   "FgraU0": [
@@ -2502,7 +2502,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Nu se pot solicita manual cantități de ETH pentru retragere"
+      "value": "Nu se pot solicita manual cantități de STRAT pentru retragere"
     }
   ],
   "GUDhpC": [
@@ -2672,7 +2672,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Erigon, denumit anterior TurboGeth, este un client Ethereum care a fost creat în scopul optimizării performanțelor."
+      "value": "Erigon, denumit anterior TurboGeth, este un client Stratis care a fost creat în scopul optimizării performanțelor."
     }
   ],
   "ID3Pgm": [
@@ -2838,7 +2838,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Aprofundați-vă cunoștințele despre actualizările Ethereum."
+      "value": "Aprofundați-vă cunoștințele despre actualizările Stratis."
     }
   ],
   "JhUYU3": [
@@ -3118,7 +3118,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Vă mulțumim pentru sprijinul oferit rețelei Ethereum!"
+      "value": "Vă mulțumim pentru sprijinul oferit rețelei Stratis!"
     }
   ],
   "LpnfTF": [
@@ -3162,7 +3162,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Ethereum, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe ETH și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
+      "value": "Stratis este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Stratis, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe STRAT și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
     }
   ],
   "LwEHRm": [
@@ -3234,7 +3234,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Cum se scalează Ethereum?"
+      "value": "Cum se scalează Stratis?"
     }
   ],
   "MaZo9k": [
@@ -3258,7 +3258,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Acest panou de lansare vă va ajuta să deveniți validator, ca să puteți juca un rol activ în viitorul Ethereum. Validatorii sunt cheia unui Ethereum mai sigur, mai scalabil și sustenabil pe care îl construim împreună."
+      "value": "Acest panou de lansare vă va ajuta să deveniți validator, ca să puteți juca un rol activ în viitorul Stratis. Validatorii sunt cheia unui Stratis mai sigur, mai scalabil și sustenabil pe care îl construim împreună."
     }
   ],
   "Mc8nNE": [
@@ -3270,7 +3270,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Actualizările Ethereum se vor efectua cu succes numai dacă validatorii înțeleg care sunt riscurile și responsabilitățile."
+      "value": "Actualizările Stratis se vor efectua cu succes numai dacă validatorii înțeleg care sunt riscurile și responsabilitățile."
     }
   ],
   "MmZjeu": [
@@ -3430,7 +3430,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Aflați mai multe despre rolurile și responsabilitățile validatorilor Ethereum."
+      "value": "Aflați mai multe despre rolurile și responsabilitățile validatorilor Stratis."
     }
   ],
   "Nb5DNK": [
@@ -3532,7 +3532,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu este un client open-source Ethereum dezvoltat sub licența Apache 2.0 și scris în Java."
+      "value": "Hyperledger Besu este un client open-source Stratis dezvoltat sub licența Apache 2.0 și scris în Java."
     }
   ],
   "OIvXIO": [
@@ -3630,13 +3630,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Phishing-ul este un risc absolut real pentru validatorii Ethereum și, din nefericire, multă lume își pierde fondurile din cauza atacurilor de acest fel."
+      "value": "Phishing-ul este un risc absolut real pentru validatorii Stratis și, din nefericire, multă lume își pierde fondurile din cauza atacurilor de acest fel."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Upgrade-ul Lanțului Beacon aduce consens cu dovada mizei în Ethereum."
+      "value": "Upgrade-ul Lanțului Beacon aduce consens cu dovada mizei în Stratis."
     }
   ],
   "P1QerV": [
@@ -3860,7 +3860,7 @@
     },
     {
       "type": 0,
-      "value": " la contractul de depozit din lanțul Ethereum curent."
+      "value": " la contractul de depozit din lanțul Stratis curent."
     }
   ],
   "QlsDcr": [
@@ -4122,7 +4122,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validatorii și Ethereum"
+      "value": "Validatorii și Stratis"
     }
   ],
   "TMw9oz": [
@@ -4134,7 +4134,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Termenii „Eth1” și „Eth2” au fost scoși din uz odată cu Fuziunea. De la trecerea cu succes la dovada mizei prin intermediul Fuziunii, nu mai există două rețele Ethereum distincte; există doar Ethereum."
+      "value": "Termenii „Eth1” și „Eth2” au fost scoși din uz odată cu Fuziunea. De la trecerea cu succes la dovada mizei prin intermediul Fuziunii, nu mai există două rețele Stratis distincte; există doar Stratis."
     }
   ],
   "TfNuWP": [
@@ -4196,7 +4196,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Verificați contractul de depozit cu explorerul de bloc Ethereum preferat:"
+      "value": "Verificați contractul de depozit cu explorerul de bloc Stratis preferat:"
     }
   ],
   "UYRyWv": [
@@ -4242,7 +4242,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Una dintre cele trei implementări inițiale ale protocolului Ethereum."
+      "value": "Una dintre cele trei implementări inițiale ale protocolului Stratis."
     }
   ],
   "UykRIk": [
@@ -4332,7 +4332,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Cu alte cuvinte: dacă miza totală ETH este scăzută, recompensa (rata dobânzii) este mare, dar pe măsură ce miza totală crește, recompensa (dobânda) plătită fiecărui validator începe să scadă."
+      "value": "Cu alte cuvinte: dacă miza totală STRAT este scăzută, recompensa (rata dobânzii) este mare, dar pe măsură ce miza totală crește, recompensa (dobânda) plătită fiecărui validator începe să scadă."
     }
   ],
   "VUuZsb": [
@@ -4610,7 +4610,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Rețineți că nu există planuri la acest moment pentru a permite transferurile de ETH între validatori."
+      "value": "Rețineți că nu există planuri la acest moment pentru a permite transferurile de STRAT între validatori."
     }
   ],
   "XmddSV": [
@@ -4698,7 +4698,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Se urmează un arbore de decizie pentru a stabili ce tip de retragere va fi inițiat. În cazul în care validatorul verificat dispune de ETH eligibil pentru a fi retras, acesta se adaugă la lista de retragere. Dacă nu există, contul este omis."
+      "value": "Se urmează un arbore de decizie pentru a stabili ce tip de retragere va fi inițiat. În cazul în care validatorul verificat dispune de STRAT eligibil pentru a fi retras, acesta se adaugă la lista de retragere. Dacă nu există, contul este omis."
     }
   ],
   "YP03/j": [
@@ -4908,7 +4908,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Acestea sunt denumite, de asemenea, „retrageri parțiale” sau „plăți pentru recompense”, deoarece restul de 32 de ETH rămâne blocat și mizat."
+      "value": "Acestea sunt denumite, de asemenea, „retrageri parțiale” sau „plăți pentru recompense”, deoarece restul de 32 de STRAT rămâne blocat și mizat."
     }
   ],
   "a+xjjV": [
@@ -5150,7 +5150,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Deveniți validator și contribuiți la asigurarea viitorului sistemului Ethereum."
+      "value": "Deveniți validator și contribuiți la asigurarea viitorului sistemului Stratis."
     }
   ],
   "cRzxes": [
@@ -5244,7 +5244,7 @@
     },
     {
       "type": 0,
-      "value": " este un câmp de 32 de octeți din depozit ce servește la verificarea destinației retragerilor valide. Există actualmente două tipuri de retrageri: retragerea prin BLS și retragerea prin adresa Ethereum."
+      "value": " este un câmp de 32 de octeți din depozit ce servește la verificarea destinației retragerilor valide. Există actualmente două tipuri de retrageri: retragerea prin BLS și retragerea prin adresa Stratis."
     }
   ],
   "8FjJDx": [
@@ -5262,7 +5262,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm este o implementare a protocolului Ethereum prin clienți cu nivel de consens în Go, axată pe facilitatea utilizării, securitate și fiabilitate."
+      "value": "Prysm este o implementare a protocolului Stratis prin clienți cu nivel de consens în Go, axată pe facilitatea utilizării, securitate și fiabilitate."
     }
   ],
   "dLE9FH": [
@@ -5520,7 +5520,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Răspunsul la această întrebare depinde foarte mult de suma ETH pe care o ai la dispoziție."
+      "value": "Răspunsul la această întrebare depinde foarte mult de suma STRAT pe care o ai la dispoziție."
     }
   ],
   "fQ5yno": [
@@ -5550,7 +5550,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Puteți alege să oferiți o adresă de retragere la momentul efectuării depozitului inițial pentru a activa automat plățile de recompensă și, de asemenea, capacitatea de a retrage complet fondurile oricând, după actualizarea Shanghai/Capella. Această adresă trebuie să fie o adresă Ethereum obișnuită și va fi singura adresă la care se pot trimite fonduri din noile conturi de validator."
+      "value": "Puteți alege să oferiți o adresă de retragere la momentul efectuării depozitului inițial pentru a activa automat plățile de recompensă și, de asemenea, capacitatea de a retrage complet fondurile oricând, după actualizarea Shanghai/Capella. Această adresă trebuie să fie o adresă Stratis obișnuită și va fi singura adresă la care se pot trimite fonduri din noile conturi de validator."
     }
   ],
   "fZwn+P": [
@@ -5654,7 +5654,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generează chei de depunere folosind instrumentul de depunere al Ethereum Foundation"
+      "value": "Generează chei de depunere folosind instrumentul de depunere al Stratis Foundation"
     }
   ],
   "gVC0Wl": [
@@ -5850,7 +5850,7 @@
     },
     {
       "type": 0,
-      "value": " ETH per validator încurajează descentralizarea puterii, deoarece împiedică un singur validator să aibă un vot excesiv de mare asupra stării lanțului. De asemenea, aceasta limitează cantitatea de ETH care poate fi scoasă din joc în orice moment, întrucât numărul de validatori care pot ieși dintr-o anumită perioadă de timp este limitat. Acest lucru ajută la protejarea rețelei împotriva anumitor atacuri."
+      "value": " STRAT per validator încurajează descentralizarea puterii, deoarece împiedică un singur validator să aibă un vot excesiv de mare asupra stării lanțului. De asemenea, aceasta limitează cantitatea de STRAT care poate fi scoasă din joc în orice moment, întrucât numărul de validatori care pot ieși dintr-o anumită perioadă de timp este limitat. Acest lucru ajută la protejarea rețelei împotriva anumitor atacuri."
     }
   ],
   "huEFUF": [
@@ -5884,7 +5884,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Puteți considera contractul de depunere ca transfer de fonduri între un cont Ethereum și un cont de validator cu dovada mizei."
+      "value": "Puteți considera contractul de depunere ca transfer de fonduri între un cont Stratis și un cont de validator cu dovada mizei."
     }
   ],
   "iJXdUH": [
@@ -5916,7 +5916,7 @@
     },
     {
       "type": 0,
-      "value": " ETH activează un set de chei ale validatorului. Aceste chei sunt utilizate pentru conectare la starea rețelei. Cu cât cerința privind ETH este mai mică, cu atât rețeaua trebuie să salveze mai multe semnături rezultate. "
+      "value": " STRAT activează un set de chei ale validatorului. Aceste chei sunt utilizate pentru conectare la starea rețelei. Cu cât cerința privind STRAT este mai mică, cu atât rețeaua trebuie să salveze mai multe semnături rezultate. "
     },
     {
       "type": 1,
@@ -5924,7 +5924,7 @@
     },
     {
       "type": 0,
-      "value": " ETH a fost ales ca un echilibru între număr cât mai mare de persoane care mizează și evitarea inhibării descentralizării prin umflarea mărimii fiecărui bloc cu semnături."
+      "value": " STRAT a fost ales ca un echilibru între număr cât mai mare de persoane care mizează și evitarea inhibării descentralizării prin umflarea mărimii fiecărui bloc cu semnături."
     }
   ],
   "iX90gu": [
@@ -5976,7 +5976,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku este un client cu nivel de consens Ethereum bazat pe Java al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea."
+      "value": "PegaSys Teku este un client cu nivel de consens Stratis bazat pe Java al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea."
     }
   ],
   "XRUCUL": [
@@ -6014,7 +6014,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Cunoscut anterior ca Artemis, Teku este un client cu nivel de consens al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea. PegaSys este o ramură a ConsenSys consacrată creării de clienți și instrumente enterprise gata de a interacționa cu platforma centrală Ethereum."
+      "value": "Cunoscut anterior ca Artemis, Teku este un client cu nivel de consens al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea. PegaSys este o ramură a ConsenSys consacrată creării de clienți și instrumente enterprise gata de a interacționa cu platforma centrală Stratis."
     }
   ],
   "jBr8vs": [
@@ -6124,7 +6124,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Aceasta a marcat fuzionarea stratului de execuție (Mainnet existent) cu noul strat de consens (lanțul Beacon) pentru a forma singurul lanț Ethereum de astăzi."
+      "value": "Aceasta a marcat fuzionarea stratului de execuție (Mainnet existent) cu noul strat de consens (lanțul Beacon) pentru a forma singurul lanț Stratis de astăzi."
     }
   ],
   "k67L48": [
@@ -6182,7 +6182,7 @@
     },
     {
       "type": 0,
-      "value": ". Această propunere de îmbunătățire a Ethereum permite retragerea automată a recompenselor în stratul de execuție și, de asemenea, oferă o modalitate pentru validatorii care au ieșit să deblocheze întregul sold — nu este necesar gaz."
+      "value": ". Această propunere de îmbunătățire a Stratis permite retragerea automată a recompenselor în stratul de execuție și, de asemenea, oferă o modalitate pentru validatorii care au ieșit să deblocheze întregul sold — nu este necesar gaz."
     }
   ],
   "kTt/ND": [
@@ -6242,7 +6242,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Actualizarea fuziunii a adus în mod oficial dovada mizei la Ethereum pe 15 septembrie 2022, perimând în același timp dovada muncii. Aceasta a pregătit lanțul pentru viitoare actualizări de scalare, cum ar fi fragmentarea datelor, prin aducerea consensului cu dovada mizei cu Mainnet, reducând în acelaşi timp consumul de energie cu peste 99,9%."
+      "value": "Actualizarea fuziunii a adus în mod oficial dovada mizei la Stratis pe 15 septembrie 2022, perimând în același timp dovada muncii. Aceasta a pregătit lanțul pentru viitoare actualizări de scalare, cum ar fi fragmentarea datelor, prin aducerea consensului cu dovada mizei cu Mainnet, reducând în acelaşi timp consumul de energie cu peste 99,9%."
     }
   ],
   "kuYpoI": [
@@ -6430,7 +6430,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus este un proiect de cercetare și o implementare pentru clienții de consens pe Ethereum destinat să funcționeze bine pe sistemele integrate și pe dispozitivele mobile personale."
+      "value": "Nimbus este un proiect de cercetare și o implementare pentru clienții de consens pe Stratis destinat să funcționeze bine pe sistemele integrate și pe dispozitivele mobile personale."
     }
   ],
   "lfV1bj": [
@@ -6486,13 +6486,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "De la tranziția cu succes la dovada mizei prin intermediul Fuziunii, Ethereum este pe deplin asigurată de validatori cu dovada mizei. Prin rularea unui validator, veți ajuta la securizarea rețelei Ethereum."
+      "value": "De la tranziția cu succes la dovada mizei prin intermediul Fuziunii, Stratis este pe deplin asigurată de validatori cu dovada mizei. Prin rularea unui validator, veți ajuta la securizarea rețelei Stratis."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "Am furnizat o adresă Ethereum la generarea fișierului meu "
+      "value": "Am furnizat o adresă Stratis la generarea fișierului meu "
     },
     {
       "type": 1,
@@ -6532,7 +6532,7 @@
     },
     {
       "type": 0,
-      "value": " este o entitate virtuală care din lanțul Beacon, reprezentat de un bilanț, cheia publică și alte proprietăți și participă la consensul rețelei Ethereum."
+      "value": " este o entitate virtuală care din lanțul Beacon, reprezentat de un bilanț, cheia publică și alte proprietăți și participă la consensul rețelei Stratis."
     }
   ],
   "mcyp2f": [
@@ -6842,7 +6842,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Utilizatorii Ethereum sunt utilizați pentru tranzacțiile care sunt executate manual. Dacă doriți să transferați fonduri, trebuie să semnați o tranzacție și să plătiți gazul."
+      "value": "Utilizatorii Stratis sunt utilizați pentru tranzacțiile care sunt executate manual. Dacă doriți să transferați fonduri, trebuie să semnați o tranzacție și să plătiți gazul."
     }
   ],
   "p0b6zX": [
@@ -6874,7 +6874,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Da, dar cu sancțiuni mici. Dacă vă deconectați timp de mai multe zile în condiții normale, veți pierde o sumă de ETH aproximativ echivalentă cu cea pe care ați fi câștigat-o în perioada respectivă. Cu alte cuvinte, dacă urma să câștigați ≈ 0,01 ETH, veți suferi o penalizare de ≈ 0,01 ETH."
+      "value": "Da, dar cu sancțiuni mici. Dacă vă deconectați timp de mai multe zile în condiții normale, veți pierde o sumă de STRAT aproximativ echivalentă cu cea pe care ați fi câștigat-o în perioada respectivă. Cu alte cuvinte, dacă urma să câștigați ≈ 0,01 ETH, veți suferi o penalizare de ≈ 0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7212,7 +7212,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Un client cu nivel de consens ce se axează majoritar pe viteză și securitate. Creat de Sigma Prime, o firmă de securizare a informațiilor și de inginerie software care a finanțat Lighhouse împreună cu Fundația Ethereum, Consensys și persoane independente."
+      "value": "Un client cu nivel de consens ce se axează majoritar pe viteză și securitate. Creat de Sigma Prime, o firmă de securizare a informațiilor și de inginerie software care a finanțat Lighhouse împreună cu Fundația Stratis, Consensys și persoane independente."
     }
   ],
   "sToVAS": [
@@ -7316,7 +7316,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Specificațiile nivelului de consens din Ethereum"
+      "value": "Specificațiile nivelului de consens din Stratis"
     }
   ],
   "teyxVk": [
@@ -7384,7 +7384,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Actualizările Ethereum"
+      "value": "Actualizările Stratis"
     }
   ],
   "tzMNF3": [
@@ -7396,7 +7396,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Portofelul dumneavoastră este într-o rețea Ethereum greșită. Pentru a continua, conectați-vă la "
+      "value": "Portofelul dumneavoastră este într-o rețea Stratis greșită. Pentru a continua, conectați-vă la "
     },
     {
       "type": 1,
@@ -7572,7 +7572,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Soldul este actualizat periodic de regulile rețelei Ethereum, pe măsură ce te achiți (sau nu) de responsabilități."
+      "value": "Soldul este actualizat periodic de regulile rețelei Stratis, pe măsură ce te achiți (sau nu) de responsabilități."
     }
   ],
   "vCHTnu": [
@@ -7590,7 +7590,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Devino validator și contribuie la asigurarea viitorului sistemului Ethereum"
+      "value": "Devino validator și contribuie la asigurarea viitorului sistemului Stratis"
     }
   ],
   "vJez0K": [
@@ -7770,7 +7770,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Validarea în Ethereum este diferită de minerit. Rezultatele sunt similare: munca pe care o faci extinde și securizează lanțul, dar procesul este complet diferit, pentru că folosesc mecanisme de consens diferite."
+      "value": "Validarea în Stratis este diferită de minerit. Rezultatele sunt similare: munca pe care o faci extinde și securizează lanțul, dar procesul este complet diferit, pentru că folosesc mecanisme de consens diferite."
     }
   ],
   "x4/9vY": [
@@ -7826,7 +7826,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Recompensele pentru blocuri sunt calculate cu o scară mobilă care are la bază suma totală a mizelor de ETH din rețea."
+      "value": "Recompensele pentru blocuri sunt calculate cu o scară mobilă care are la bază suma totală a mizelor de STRAT din rețea."
     }
   ],
   "xXKkhR": [
@@ -7940,7 +7940,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Sunt în curs mai mutle actualizări ce vor oferi lui Ethereum mai multă scalabilitate, securitate și sustenabilitate. Aceste actualizări vor fi benefice pentru Ethereum și îi vor permite să își continue activitatea pe lanțul actual. Iată mai multe informații despre diversele actualizări:"
+      "value": "Sunt în curs mai mutle actualizări ce vor oferi lui Stratis mai multă scalabilitate, securitate și sustenabilitate. Aceste actualizări vor fi benefice pentru Stratis și îi vor permite să își continue activitatea pe lanțul actual. Iată mai multe informații despre diversele actualizări:"
     }
   ],
   "y4dBsA": [
@@ -8072,7 +8072,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar este o implementare open-source, de tip TypeScript, a specificației Consens Ethereum (cunoscută anterior ca et2) menținută de sistemele ChainSafe. Scopul ChainSafe este de a dezvolta, de a îmbunătăți și diversifica ecosistemul Ethereum al dovezii mizei cu Lanțul Beacon și cu clientul validator, cu accent pe implementarea ușoară a clientului."
+      "value": "Lodestar este o implementare open-source, de tip TypeScript, a specificației Consens Stratis (cunoscută anterior ca et2) menținută de sistemele ChainSafe. Scopul ChainSafe este de a dezvolta, de a îmbunătăți și diversifica ecosistemul Stratis al dovezii mizei cu Lanțul Beacon și cu clientul validator, cu accent pe implementarea ușoară a clientului."
     }
   ],
   "zAVb0/": [
@@ -8084,7 +8084,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "La cealaltă extremă, dacă soldul se apropie de 31 ETH, probabil că nu merită să alimentezi suma de ETH suplimentară necesară pentru a reveni la 32."
+      "value": "La cealaltă extremă, dacă soldul se apropie de 31 ETH, probabil că nu merită să alimentezi suma de STRAT suplimentară necesară pentru a reveni la 32."
     }
   ],
   "zJicsO": [
@@ -8104,7 +8104,7 @@
     },
     {
       "type": 0,
-      "value": " ETH pentru un singur validator. Acesta nu va adăuga la recompense și va fi blocat până la actualizarea Shanghai/Capella planificată."
+      "value": " STRAT pentru un singur validator. Acesta nu va adăuga la recompense și va fi blocat până la actualizarea Shanghai/Capella planificată."
     }
   ],
   "zbEBi9": [
@@ -8118,7 +8118,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza rețeaua principală Ethereum."
+      "value": " pentru a sincroniza rețeaua principală Stratis."
     }
   ],
   "zicXn7": [

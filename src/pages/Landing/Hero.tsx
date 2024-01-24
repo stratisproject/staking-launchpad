@@ -83,12 +83,14 @@ const TitleContainer = styled.div`
 const LogoContainer = styled.div`
   display: flex;
   min-height: 50px;
+  color: #fff !important;
 `;
 
 // @ts-ignore
 const LogoText = styled(Text)`
   line-height: 40px;
   font-weight: bold;
+  color: #fff !important;
   @media screen and (max-width: 1080px) {
     line-height: 24px;
   }
@@ -136,7 +138,7 @@ const LeslieImage: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
     <ScrollAnimation animateIn="fadeIn" delay={750} animateOnce>
       <StyledLeslieImgNode
         src={LeslieTheRhinoPNG}
-        alt="Leslie the Rhino - Ethereum staking mascot"
+        alt="Leslie the Rhino - Stratis staking mascot"
         {...{ style }}
       />
     </ScrollAnimation>
@@ -184,7 +186,7 @@ export const Hero = () => {
                       color="brand"
                       className="my20"
                     >
-                      <FormattedMessage defaultMessage="Become a validator and help secure the future of Ethereum" />
+                      <FormattedMessage defaultMessage="Become a validator and help secure the future of Stratis" />
                     </Heading>
                   </ScrollAnimation>
                   <ScrollAnimation animateIn="fadeInUp" delay={750} animateOnce>

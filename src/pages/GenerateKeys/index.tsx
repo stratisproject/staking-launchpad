@@ -221,7 +221,7 @@ const _GenerateKeysPage = ({
             defaultMessage="You may choose to provide a withdrawal address with your initial
             deposit to automatically enable reward payments and also the ability to fully
             exit your funds at anytime (recommended). This address should be to a regular
-            Ethereum address and will be the only address funds can be sent to from your new
+            Stratis address and will be the only address funds can be sent to from your new
             validator accounts, and cannot be changed once chosen."
           />
         </Text>

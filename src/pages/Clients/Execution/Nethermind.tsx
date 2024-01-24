@@ -21,7 +21,7 @@ export const NethermindDetails = () => (
       Nethermind
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="An Ethereum client with a huge pool of developers. It's perfect for enterprise-grade systems." />
+      <FormattedMessage defaultMessage="An Stratis client with a huge pool of developers. It's perfect for enterprise-grade systems." />
     </Text>
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />
@@ -51,7 +51,7 @@ export const NethermindDetails = () => (
         <>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {mainnet} to sync the Ethereum mainnet."
+              defaultMessage="Use {mainnet} to sync the Stratis mainnet."
               values={{
                 mainnet: <Code className="mt20">--config mainnet</Code>,
               }}

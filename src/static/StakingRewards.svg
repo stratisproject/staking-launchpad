@@ -107,7 +107,7 @@
                 </g>
             </g>
             <text id="TOTAL-ETH-STAKED-(mi" font-family="Helvetica" font-size="21" font-weight="normal" fill="#7F909E">
-                <tspan x="400.400146" y="451">TOTAL ETH STAKED (millions)</tspan>
+                <tspan x="400.400146" y="451">TOTAL STRAT STAKED (millions)</tspan>
             </text>
             <text id="VALIDATOR-ISSUANCE-(" transform="translate(13.000000, 206.500000) rotate(-90.000000) translate(-13.000000, -206.500000) " font-family="Helvetica" font-size="21" font-weight="normal" fill="#7F909E">
                 <tspan x="-134.610107" y="214">VALIDATOR ISSUANCE (APR)</tspan>

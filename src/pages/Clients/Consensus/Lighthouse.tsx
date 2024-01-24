@@ -43,7 +43,7 @@ export const LighthouseDetails = ({ shortened }: { shortened?: boolean }) => (
       <FormattedMessage
         defaultMessage="A consensus client with a heavy focus on speed and security. Built by Sigma
         Prime, an information security and software engineering firm who have
-        funded Lighthouse along with the Ethereum Foundation, Consensys, and
+        funded Lighthouse along with the Stratis Foundation, Consensys, and
         private individuals."
       />
     </Text>

@@ -257,7 +257,7 @@ export const Checklist = () => {
       header: 'Besu',
       text: formatMessage({
         defaultMessage:
-          'Hyperledger Besu is an open-source Ethereum client developed under the Apache 2.0 license and written in Java.',
+          'Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java.',
       }),
       imgUrl: BesuBg,
       url: routesEnum.besu,
@@ -308,7 +308,7 @@ export const Checklist = () => {
       header: 'Geth',
       text: formatMessage({
         defaultMessage:
-          'Geth is one of the three original implementations of the Ethereum protocol, written in Go.',
+          'Geth is one of the three original implementations of the Stratis protocol, written in Go.',
       }),
       imgUrl: GethBg,
       url: routesEnum.geth,
@@ -344,7 +344,7 @@ export const Checklist = () => {
       header: 'Nimbus',
       text: formatMessage({
         defaultMessage:
-          'Nimbus is a research project and a consensus client implementation for Ethereum designed to perform well on embedded systems and personal mobile devices.',
+          'Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices.',
       }),
       imgUrl: NimbusBg,
       url: routesEnum.nimbus,
@@ -363,7 +363,7 @@ export const Checklist = () => {
       header: 'Prysm',
       text: formatMessage({
         defaultMessage:
-          'Prysm is a Go consensus client implementation of the Ethereum protocol with a focus on usability, security, and reliability.',
+          'Prysm is a Go consensus client implementation of the Stratis protocol with a focus on usability, security, and reliability.',
       }),
       imgUrl: PrysmaticBg,
       url: routesEnum.prysm,
@@ -384,7 +384,7 @@ export const Checklist = () => {
       header: 'Teku',
       text: formatMessage({
         defaultMessage:
-          'PegaSys Teku is a Java-based Ethereum consensus client built to meet institutional needs and security requirements.',
+          'PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements.',
       }),
       imgUrl: TekuBg,
       url: routesEnum.teku,
@@ -551,7 +551,7 @@ export const Checklist = () => {
             <li className="py5">
               <Text>
                 <FormattedMessage
-                  defaultMessage="Ethereum had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
+                  defaultMessage="Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
                   values={{
                     date: (
                       <FormattedDate
@@ -1147,7 +1147,7 @@ export const Checklist = () => {
               <div className="flex flex-column">
                 <Text className="checkbox-label mb10">
                   <FormattedMessage
-                    defaultMessage="I provided an Ethereum address when generating my {depositData} file before depositing where I would
+                    defaultMessage="I provided an Stratis address when generating my {depositData} file before depositing where I would
                     like all validator rewards and withdrawals to be deposited into."
                     values={{
                       depositData: (
@@ -1171,7 +1171,7 @@ export const Checklist = () => {
             <FormattedMessage defaultMessage="Set fee recipient" />
           </Heading>
           <Text className="mt20">
-            <FormattedMessage defaultMessage="Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Ethereum address that you're used to." />
+            <FormattedMessage defaultMessage="Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Stratis address that you're used to." />
           </Text>
           <Alert variant="warning" className="my30">
             <Text>
@@ -1204,7 +1204,7 @@ export const Checklist = () => {
           <CheckBox
             label={
               <Text className="checkbox-label">
-                <FormattedMessage defaultMessage="I've provided an Ethereum address to my validator where I would like my fee rewards to be deposited." />
+                <FormattedMessage defaultMessage="I've provided an Stratis address to my validator where I would like my fee rewards to be deposited." />
               </Text>
             }
           />

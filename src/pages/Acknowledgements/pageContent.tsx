@@ -26,7 +26,7 @@ export const pageContent = {
     content: (
       <>
         <Text size="medium" className="my10">
-          <FormattedMessage defaultMessage="Ethereum uses proof-of-stake to reach consensus." />
+          <FormattedMessage defaultMessage="Stratis uses proof-of-stake to reach consensus." />
         </Text>
         <Text size="medium" className="my10">
           <FormattedMessage
@@ -78,7 +78,7 @@ export const pageContent = {
         </Text>
         <Text size="medium" className="my20">
           <FormattedMessage
-            defaultMessage="Like all Ethereum transactions, deposits are non-reversible, but
+            defaultMessage="Like all Stratis transactions, deposits are non-reversible, but
             the ability to withdrawal your funds via a separate process after depositing remains
             under your control."
           />
@@ -111,7 +111,7 @@ export const pageContent = {
           primary
           inline
         >
-          <FormattedMessage defaultMessage="More on Ethereum staking economics" />
+          <FormattedMessage defaultMessage="More on Stratis staking economics" />
         </Link>
       </>
     ),
@@ -137,7 +137,7 @@ export const pageContent = {
           className="my10"
           primary
         >
-          <FormattedMessage defaultMessage="The Ethereum consensus layer specification" />
+          <FormattedMessage defaultMessage="The Stratis consensus layer specification" />
         </Link>
         <Link shouldOpenNewTab to="/faq" className="my10" primary>
           <FormattedMessage defaultMessage="More on slashing risks" />

@@ -1,8 +1,8 @@
-# Ethereum Staking Launchpad
+# Stratis Staking Launchpad
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/staking-launchpad/badge)](https://www.gitpoap.io/gh/ethereum/staking-launchpad)
 
-The [Launchpad](https://launchpad.ethereum.org/) is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum
+The [Launchpad](https://launchpad.ethereum.org/) is the Stratis Foundation's official way to deposit your STRAT for staking on Stratis
 
 ## Dependencies
 
@@ -56,11 +56,11 @@ By default, `dev` acts as the primary base branch which all PRs should merge int
 
 ## Launchpad translation
 
-As part of the [ethereum.org Translation Program](https://ethereum.org/en/contributing/translation-program), our community of translators is also working on translating the Ethereum Staking Launchpad.
+As part of the [ethereum.org Translation Program](https://ethereum.org/en/contributing/translation-program), our community of translators is also working on translating the Stratis Staking Launchpad.
 
 If you are interested in getting involved and helping with the translations, please [visit the project in Crowdin](https://crowdin.com/project/launchpad-translation). 
 
-After joining the project, you can start translating by opening your desired language from the language list. If your language isn't available, please reach out to Ethereum.org Team on Crowdin or [open an issue](https://github.com/ethereum/staking-launchpad/issues/new) to request adding a new language for translation.
+After joining the project, you can start translating by opening your desired language from the language list. If your language isn't available, please reach out to Stratis.org Team on Crowdin or [open an issue](https://github.com/ethereum/staking-launchpad/issues/new) to request adding a new language for translation.
 
 Detailed information on using Crowdin is available in the [Crowdin Online Editor documentation](https://support.crowdin.com/online-editor/).
 

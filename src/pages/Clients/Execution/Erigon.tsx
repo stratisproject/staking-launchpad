@@ -21,7 +21,7 @@ export const ErigonDetails = () => (
       Erigon
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="Formerly TurboGeth, Erigon is an Ethereum client built to enable performance optimizations." />
+      <FormattedMessage defaultMessage="Formerly TurboGeth, Erigon is an Stratis client built to enable performance optimizations." />
     </Text>
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />

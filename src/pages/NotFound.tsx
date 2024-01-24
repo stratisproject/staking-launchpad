@@ -1,7 +1,7 @@
 import React from 'react';
 import { FormattedMessage } from 'react-intl';
 import styled from 'styled-components';
-import EthDiamondPlain from '../static/eth-diamond-plain.svg';
+import EthDiamondPlain from '../static/stratis_logo.svg';
 import { Text } from '../components/Text';
 import { Link } from '../components/Link';
 
@@ -49,7 +49,7 @@ export const NotFoundPage = (): JSX.Element => {
         <LogoContainer>
           <EthLogo src={EthDiamondPlain} />
           <LogoText className="mt20" center size="large">
-            Ethereum Staking Launchpad
+            Stratis Staking Launchpad
           </LogoText>
         </LogoContainer>
         <Text center className="mt20">

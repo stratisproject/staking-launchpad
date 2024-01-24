@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum şunlardan oluşur: "
+      "value": "Stratis şunlardan oluşur: "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (önceden 'Eth2' veya 'Ethereum 2.0' olan hisse ispatı mutabakatı görevlerini uygulama)."
+      "value": " (önceden 'Eth2' veya 'Stratis 2.0' olan hisse ispatı mutabakatı görevlerini uygulama)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "2. Adım: Ethereum Vakfı para yatırma aracını kullanarak para yatırma anahtarları oluşturun"
+      "value": "2. Adım: Stratis Vakfı para yatırma aracını kullanarak para yatırma anahtarları oluşturun"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Doğrulayıcılar, Birleşimden bu yana, aynı zamanda işlemlerin işlenmesinden sorumlu olacak ve bu nedenle, blok teklifi yaparken dahil edilen işlemlerle ilişkili yanmamış gaz ücretlerine hak kazanacaktır. Bu ücretler fikir birliği katmanında değil yürütüm katmanında hesaba katılır ve bu nedenle müşterinize geleneksel bir Ethereum adresinin sağlanmasını gerektirir."
+      "value": "Doğrulayıcılar, Birleşimden bu yana, aynı zamanda işlemlerin işlenmesinden sorumlu olacak ve bu nedenle, blok teklifi yaparken dahil edilen işlemlerle ilişkili yanmamış gaz ücretlerine hak kazanacaktır. Bu ücretler fikir birliği katmanında değil yürütüm katmanında hesaba katılır ve bu nedenle müşterinize geleneksel bir Stratis adresinin sağlanmasını gerektirir."
     }
   ],
   "/5Hyyf": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Hiç bitmeyen bir döngüde, her bir doğrulayıcı hesabı, uygun ETH çekme işlemleri için sürekli olarak değerlendirilir (bunların iki türü vardır, aşağıda bu konuda daha fazla bilgi vardır). Doğrulayıcılar, orijinal olarak 0'dan başlayarak dizin numarasına göre sırayla işlenir ve sonraki teklif verenlerin her biri, bir öncekinin kaldığı yerden devam eder."
+      "value": "Hiç bitmeyen bir döngüde, her bir doğrulayıcı hesabı, uygun STRAT çekme işlemleri için sürekli olarak değerlendirilir (bunların iki türü vardır, aşağıda bu konuda daha fazla bilgi vardır). Doğrulayıcılar, orijinal olarak 0'dan başlayarak dizin numarasına göre sırayla işlenir ve sonraki teklif verenlerin her biri, bir öncekinin kaldığı yerden devam eder."
     }
   ],
   "/OAba6": [
@@ -224,7 +224,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth; Ethereum protokolünün, Go ile yazılan üç orijinal uygulamasından biridir."
+      "value": "Geth; Stratis protokolünün, Go ile yazılan üç orijinal uygulamasından biridir."
     }
   ],
   "/ub26/": [
@@ -378,7 +378,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Doğrulayıcıma, ücret ödüllerimin yatırılmasını istediğim bir Ethereum adresi verdim."
+      "value": "Doğrulayıcıma, ücret ödüllerimin yatırılmasını istediğim bir Stratis adresi verdim."
     }
   ],
   "0lHkrT": [
@@ -538,7 +538,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Ethereum stake etme ekonomisi hakkında daha fazla bilgi"
+      "value": "Stratis stake etme ekonomisi hakkında daha fazla bilgi"
     }
   ],
   "1p+pb5": [
@@ -698,7 +698,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Ethereum'un ağ sağlığı için istemci çeşitliliği oldukça önemlidir: %33'ten büyük bir paya sahip bir istemcideki hata, Ethereum'u çevrimdışı hâle getirebilir. Bir istemci süper çoğunluğa sahipse (>%66) bir hata, zincirin yanlış parçalanmasına neden olarak olası bir iptal edilmeye yol açabilir."
+      "value": "Stratis'un ağ sağlığı için istemci çeşitliliği oldukça önemlidir: %33'ten büyük bir paya sahip bir istemcideki hata, Stratis'u çevrimdışı hâle getirebilir. Bir istemci süper çoğunluğa sahipse (>%66) bir hata, zincirin yanlış parçalanmasına neden olarak olası bir iptal edilmeye yol açabilir."
     }
   ],
   "2t/3ab": [
@@ -842,7 +842,7 @@
     },
     {
       "type": 0,
-      "value": " ETH artışlarıyla yapıldığı anlamına gelir."
+      "value": " STRAT artışlarıyla yapıldığı anlamına gelir."
     }
   ],
   "3PbtmF": [
@@ -866,7 +866,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Bu terminoloji güncellemeleri, Ethereum'un amaçlarını veya yol haritasını değil, sadece adlandırma alışkanlıklarını değiştirir."
+      "value": "Bu terminoloji güncellemeleri, Stratis'un amaçlarını veya yol haritasını değil, sadece adlandırma alışkanlıklarını değiştirir."
     }
   ],
   "3URRZK": [
@@ -1450,7 +1450,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Hem genel hem de özel, izinli ağ kullanım durumları için kurumsal dostu olacak şekilde tasarlanmış bir Ethereum istemcisi."
+      "value": "Hem genel hem de özel, izinli ağ kullanım durumları için kurumsal dostu olacak şekilde tasarlanmış bir Stratis istemcisi."
     }
   ],
   "8yom7x": [
@@ -1646,7 +1646,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "The Ethereum staking yatırma sözleşmesinin kabul edilmesi, tek seferde minimum "
+      "value": "The Stratis staking yatırma sözleşmesinin kabul edilmesi, tek seferde minimum "
     },
     {
       "type": 1,
@@ -1692,7 +1692,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Bağlantıyı doğrulayarak resmi Ethereum Foundation Github hesabından indirme yaptığınızdan emin olun: "
+      "value": "Bağlantıyı doğrulayarak resmi Stratis Foundation Github hesabından indirme yaptığınızdan emin olun: "
     },
     {
       "type": 1,
@@ -1702,7 +1702,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Parçalama, tam düğümlerin zincirin tüm geçmişini taşıması gerekliliğini değiştirecek ve bunun yerine veri kullanılabilirliğini sağlarken bu yükü ağ arasında dağıtacaktır. Bu, tüketici donanımında tam bir düğüm çalıştırma yeteneğini koruyup ağı merkeziyetsiz hâlde tutarken katman 1 Ethereum'un kapasitesini önemli ölçüde genişletecektir."
+      "value": "Parçalama, tam düğümlerin zincirin tüm geçmişini taşıması gerekliliğini değiştirecek ve bunun yerine veri kullanılabilirliğini sağlarken bu yükü ağ arasında dağıtacaktır. Bu, tüketici donanımında tam bir düğüm çalıştırma yeteneğini koruyup ağı merkeziyetsiz hâlde tutarken katman 1 Stratis'un kapasitesini önemli ölçüde genişletecektir."
     }
   ],
   "Affixg": [
@@ -1758,7 +1758,7 @@
     },
     {
       "type": 0,
-      "value": ", etkin bir doğrulayıcının maksimum etkin bakiyesi 32 olduğunda ve toplam bakiyesi 32'nin üzerinde olduğunda işlemle konulur. Tek bir doğrulayıcı, 32 ETH üzerindeki fazla bakiye için ödül alamaz ve bu nedenle bu hesaplarda Ethereum adreslerine otomatik olarak çekilen fazladan bakiye olacaktır."
+      "value": ", etkin bir doğrulayıcının maksimum etkin bakiyesi 32 olduğunda ve toplam bakiyesi 32'nin üzerinde olduğunda işlemle konulur. Tek bir doğrulayıcı, 32 STRAT üzerindeki fazla bakiye için ödül alamaz ve bu nedenle bu hesaplarda Stratis adreslerine otomatik olarak çekilen fazladan bakiye olacaktır."
     }
   ],
   "RY4SP0": [
@@ -1996,7 +1996,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Ethereum vizyonu hakkında daha fazla bilgi"
+      "value": "Stratis vizyonu hakkında daha fazla bilgi"
     }
   ],
   "CdKEd/": [
@@ -2060,7 +2060,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Doğrulayıcı olmak ne kadar ETH stake etmeliyim?"
+      "value": "Doğrulayıcı olmak ne kadar STRAT stake etmeliyim?"
     }
   ],
   "5q9Lgv": [
@@ -2280,7 +2280,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Paydaşlar, işlem ücreti ödüllerini almak için fikir birliği istemcisine bir ücret alıcı adresi sağlamalıdır. Bu alışkın olduğunuz normal bir Ethereum adresidir."
+      "value": "Paydaşlar, işlem ücreti ödüllerini almak için fikir birliği istemcisine bir ücret alıcı adresi sağlamalıdır. Bu alışkın olduğunuz normal bir Stratis adresidir."
     }
   ],
   "EcCME0": [
@@ -2318,7 +2318,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum'un doğuşu 30 Temmuz 2015'te oldu. Zamanla boyut olarak büyüyor ve parçalamanın eklenmesiyle birlikte depolama, bellek ve bant genişliği gereksinimlerini de artıracak."
+      "value": "Stratis'un doğuşu 30 Temmuz 2015'te oldu. Zamanla boyut olarak büyüyor ve parçalamanın eklenmesiyle birlikte depolama, bellek ve bant genişliği gereksinimlerini de artıracak."
     }
   ],
   "FM92S0": [
@@ -2336,7 +2336,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Ethereum adresinden para çekme: Shanghai/Capella yükseltmesinden sonra yürütme cüzdanı adresinize para çekmek isterseniz, para yatırma-cli'yi çalıştırırken "
+      "value": "Stratis adresinden para çekme: Shanghai/Capella yükseltmesinden sonra yürütme cüzdanı adresinize para çekmek isterseniz, para yatırma-cli'yi çalıştırırken "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Büyük bir geliştirici havuzuna sahip bir Ethereum istemcisi. Kurumsal düzeydeki sistemler için mükemmeldir."
+      "value": "Büyük bir geliştirici havuzuna sahip bir Stratis istemcisi. Kurumsal düzeydeki sistemler için mükemmeldir."
     }
   ],
   "FgraU0": [
@@ -2672,7 +2672,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Eskiden TurboGeth olan Erigon, performans optimizasyonlarını mümkün kılmak için geliştirilmiş bir Ethereum istemcisidir."
+      "value": "Eskiden TurboGeth olan Erigon, performans optimizasyonlarını mümkün kılmak için geliştirilmiş bir Stratis istemcisidir."
     }
   ],
   "ID3Pgm": [
@@ -2834,7 +2834,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Ethereum yükseltmelerini yakından inceleyin."
+      "value": "Stratis yükseltmelerini yakından inceleyin."
     }
   ],
   "JhUYU3": [
@@ -3114,7 +3114,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Ethereum ağını desteklediğiniz için teşekkür ederiz!"
+      "value": "Stratis ağını desteklediğiniz için teşekkür ederiz!"
     }
   ],
   "LpnfTF": [
@@ -3158,7 +3158,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum, her zaman geçerli olmasa da, hisse ispatı ile güvence altına alınmıştır. İşaret Zinciri, Ana Ağ'a paralel olarak Aralık 2020'de başlatılan ve Ethereum'da bir PoS fikir birliği katmanı oluşturmanın ilk adımıydı. Bu, katılımcıların ETH'lerini hisselemeye başlamalarına ve Birleşim üzerinden iş ispatından hisse ispatına resmi geçiş için ağı hazırlamalarına olanak verdi."
+      "value": "Stratis, her zaman geçerli olmasa da, hisse ispatı ile güvence altına alınmıştır. İşaret Zinciri, Ana Ağ'a paralel olarak Aralık 2020'de başlatılan ve Stratis'da bir PoS fikir birliği katmanı oluşturmanın ilk adımıydı. Bu, katılımcıların ETH'lerini hisselemeye başlamalarına ve Birleşim üzerinden iş ispatından hisse ispatına resmi geçiş için ağı hazırlamalarına olanak verdi."
     }
   ],
   "LwEHRm": [
@@ -3230,7 +3230,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Ethereum nasıl ölçekleniyor?"
+      "value": "Stratis nasıl ölçekleniyor?"
     }
   ],
   "MaZo9k": [
@@ -3254,7 +3254,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Bu başlatma panosu, bir doğrulayıcı olmanıza yardımcı olacak, böylece Ethereum'un geleceğinde aktif bir rol oynayabilirsiniz. Doğrulayıcılar, birlikte inşa ettiğimiz daha güvenli, ölçeklenebilir ve sürdürülebilir Ethereum'un anahtarıdır."
+      "value": "Bu başlatma panosu, bir doğrulayıcı olmanıza yardımcı olacak, böylece Stratis'un geleceğinde aktif bir rol oynayabilirsiniz. Doğrulayıcılar, birlikte inşa ettiğimiz daha güvenli, ölçeklenebilir ve sürdürülebilir Stratis'un anahtarıdır."
     }
   ],
   "Mc8nNE": [
@@ -3266,7 +3266,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Ethereum yükseltmeleri sadece doğrulayıcılar riskleri ve sorumlulukları anladığında başarılı olur."
+      "value": "Stratis yükseltmeleri sadece doğrulayıcılar riskleri ve sorumlulukları anladığında başarılı olur."
     }
   ],
   "MmZjeu": [
@@ -3426,7 +3426,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Ethereum doğrulayıcılarının rolleri ve sorumlulukları hakkında daha fazla bilgi edinin."
+      "value": "Stratis doğrulayıcılarının rolleri ve sorumlulukları hakkında daha fazla bilgi edinin."
     }
   ],
   "Nb5DNK": [
@@ -3528,7 +3528,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu, Apache 2.0 lisansı altında geliştirilmiş ve Java ile yazılmış açık kaynaklı bir Ethereum istemcisidir."
+      "value": "Hyperledger Besu, Apache 2.0 lisansı altında geliştirilmiş ve Java ile yazılmış açık kaynaklı bir Stratis istemcisidir."
     }
   ],
   "OIvXIO": [
@@ -3626,13 +3626,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Oltalama, Ethereum doğrulayıcıları için çok olası bir risktir ve maalesef birçok kişi bu saldırılar nedeniyle para kaybedecektir."
+      "value": "Oltalama, Stratis doğrulayıcıları için çok olası bir risktir ve maalesef birçok kişi bu saldırılar nedeniyle para kaybedecektir."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "İşaret Zinciri yükseltmesi, Ethereum'a hisse ispatı konsensüsünü getiriyor."
+      "value": "İşaret Zinciri yükseltmesi, Stratis'a hisse ispatı konsensüsünü getiriyor."
     }
   ],
   "P1QerV": [
@@ -3848,7 +3848,7 @@
     },
     {
       "type": 0,
-      "value": " sunmanız, diğer bir deyişle, risk altında bir miktar paranız olması gerekir. Doğrulayıcı olmanın tek yolu, mevcut Ethereum zincirindeki para yatırma sözleşmesine tek yönlü bir "
+      "value": " sunmanız, diğer bir deyişle, risk altında bir miktar paranız olması gerekir. Doğrulayıcı olmanın tek yolu, mevcut Stratis zincirindeki para yatırma sözleşmesine tek yönlü bir "
     },
     {
       "type": 1,
@@ -4118,7 +4118,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Doğrulayıcılar ve Ethereum"
+      "value": "Doğrulayıcılar ve Stratis"
     }
   ],
   "TMw9oz": [
@@ -4130,7 +4130,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "'Eth1' ve 'Eth2' terimleri Birleşim üzerinden kullanımdan kaldırıldı. Birleşim üzerinden hisse ispatına başarılı bir şekilde geçiş yapıldığından bu yana iki farklı Ethereum ağı bulunmuyor; sadece Ethereum bulunuyor."
+      "value": "'Eth1' ve 'Eth2' terimleri Birleşim üzerinden kullanımdan kaldırıldı. Birleşim üzerinden hisse ispatına başarılı bir şekilde geçiş yapıldığından bu yana iki farklı Stratis ağı bulunmuyor; sadece Stratis bulunuyor."
     }
   ],
   "TfNuWP": [
@@ -4192,7 +4192,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "En sevdiğiniz Ethereum blok gezgini üzerindeki para yatırma sözleşmesini kontrol edin:"
+      "value": "En sevdiğiniz Stratis blok gezgini üzerindeki para yatırma sözleşmesini kontrol edin:"
     }
   ],
   "UYRyWv": [
@@ -4238,7 +4238,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Ethereum protokolünün üç orijinal uygulamasından biri."
+      "value": "Stratis protokolünün üç orijinal uygulamasından biri."
     }
   ],
   "UykRIk": [
@@ -4328,7 +4328,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Başka bir deyişle: stake edilen toplam ETH miktarı düşükse, ödül (faiz oranı) yüksektir, ancak toplam stake arttıkça, her doğrulayıcıya ödenen ödül (faiz) düşmeye başlar."
+      "value": "Başka bir deyişle: stake edilen toplam STRAT miktarı düşükse, ödül (faiz oranı) yüksektir, ancak toplam stake arttıkça, her doğrulayıcıya ödenen ödül (faiz) düşmeye başlar."
     }
   ],
   "VUuZsb": [
@@ -4602,7 +4602,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Mevcut durumda, doğrulayıcılar arasında ETH transferlerini etkinleştirmek için bir plan olmadığını unutmayın."
+      "value": "Mevcut durumda, doğrulayıcılar arasında STRAT transferlerini etkinleştirmek için bir plan olmadığını unutmayın."
     }
   ],
   "XmddSV": [
@@ -4900,7 +4900,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Kalan 32 ETH kilitli ve hisselenmiş durumda kaldığı için bunlara “kısmi para çekme” veya “ödül ödemeleri” de denir."
+      "value": "Kalan 32 STRAT kilitli ve hisselenmiş durumda kaldığı için bunlara “kısmi para çekme” veya “ödül ödemeleri” de denir."
     }
   ],
   "a+xjjV": [
@@ -4918,7 +4918,7 @@
   "Sv30z9": [
     {
       "type": 0,
-      "value": "Yeni bir doğrulayıcıyı etkinleştirmek için para yatırmaya hazırlanıyorsanız, ilk para yatırma işleminizle birlikte bir para çekme adresi sağlayabilirsiniz (ve sağlamalısınız). Bu, anahtar oluşturma sırasında yapılır ve ardından 32 ETH para yatırma işleminizle birlikte gönderilen "
+      "value": "Yeni bir doğrulayıcıyı etkinleştirmek için para yatırmaya hazırlanıyorsanız, ilk para yatırma işleminizle birlikte bir para çekme adresi sağlayabilirsiniz (ve sağlamalısınız). Bu, anahtar oluşturma sırasında yapılır ve ardından 32 STRAT para yatırma işleminizle birlikte gönderilen "
     },
     {
       "type": 1,
@@ -5142,7 +5142,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Doğrulayıcı olun ve Ethereum'un geleceğini güvence altına alın."
+      "value": "Doğrulayıcı olun ve Stratis'un geleceğini güvence altına alın."
     }
   ],
   "cRzxes": [
@@ -5236,7 +5236,7 @@
     },
     {
       "type": 0,
-      "value": ", geçerli para çekmelerin hedefini doğrulayan, para yatırma içerisindeki 32 bitlik bir alandır. Şu anda iki tür para çekme bulunuyor: BLS'ye para çekme ve Ethereum adresine para çekme."
+      "value": ", geçerli para çekmelerin hedefini doğrulayan, para yatırma içerisindeki 32 bitlik bir alandır. Şu anda iki tür para çekme bulunuyor: BLS'ye para çekme ve Stratis adresine para çekme."
     }
   ],
   "8FjJDx": [
@@ -5254,7 +5254,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm, kullanılabilirlik, güvenlik ve güvenilirliğe odaklanan, Ethereum protokolünün bir Go mutabakat istemci uygulamasıdır."
+      "value": "Prysm, kullanılabilirlik, güvenlik ve güvenilirliğe odaklanan, Stratis protokolünün bir Go mutabakat istemci uygulamasıdır."
     }
   ],
   "dLE9FH": [
@@ -5502,7 +5502,7 @@
     },
     {
       "type": 0,
-      "value": " ETH yatırdığını bilmek için yalnızca yürütüm katmanındaki stake depozito sözleşmesini izlemek zorundaydı. Bu bilgiler, Infura veya Alchemy gibi üçüncü taraf sağlayıcılar tarafından elde edildi ve kolayca hizmete sunuldu."
+      "value": " STRAT yatırdığını bilmek için yalnızca yürütüm katmanındaki stake depozito sözleşmesini izlemek zorundaydı. Bu bilgiler, Infura veya Alchemy gibi üçüncü taraf sağlayıcılar tarafından elde edildi ve kolayca hizmete sunuldu."
     }
   ],
   "fHLKXR": [
@@ -5538,7 +5538,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Ödül ödemelerini otomatik olarak etkinleştirmek ve ayrıca Shanghai/Capella yükseltmesinden sonra herhangi bir zamanda fonlarınızdan tamamen çıkma olanağı sağlamak için ilk para yatırma işleminizde bir para çekme adresi sağlamayı seçebilirsiniz. Bu adres normal bir Ethereum adresine olmalıdır; ayrıca bu adres yeni doğrulayıcı hesaplarınızdan paraların gönderilebileceği tek adres olacaktır."
+      "value": "Ödül ödemelerini otomatik olarak etkinleştirmek ve ayrıca Shanghai/Capella yükseltmesinden sonra herhangi bir zamanda fonlarınızdan tamamen çıkma olanağı sağlamak için ilk para yatırma işleminizde bir para çekme adresi sağlamayı seçebilirsiniz. Bu adres normal bir Stratis adresine olmalıdır; ayrıca bu adres yeni doğrulayıcı hesaplarınızdan paraların gönderilebileceği tek adres olacaktır."
     }
   ],
   "fZwn+P": [
@@ -5642,7 +5642,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Ethereum Vakfı para yatırma aracını kullanarak para yatırma anahtarları oluşturun"
+      "value": "Stratis Vakfı para yatırma aracını kullanarak para yatırma anahtarları oluşturun"
     }
   ],
   "gVC0Wl": [
@@ -5834,7 +5834,7 @@
     },
     {
       "type": 0,
-      "value": " ETH ile sınırlandırılması, herhangi bir tek doğrulayıcının zincirin durumu üzerinde aşırı büyük oy kullanmasını engellediği için gücün merkeziyetsizliğini teşvik eder. Ayrıca, belirli bir zaman diliminde çıkabilen doğrulayıcı sayısı sınırlı olduğundan, herhangi bir zamanda staking'den çıkılabilecek ETH miktarını da sınırlar. Bu, ağın belirli saldırılara karşı korunmasına yardımcı olur."
+      "value": " STRAT ile sınırlandırılması, herhangi bir tek doğrulayıcının zincirin durumu üzerinde aşırı büyük oy kullanmasını engellediği için gücün merkeziyetsizliğini teşvik eder. Ayrıca, belirli bir zaman diliminde çıkabilen doğrulayıcı sayısı sınırlı olduğundan, herhangi bir zamanda staking'den çıkılabilecek STRAT miktarını da sınırlar. Bu, ağın belirli saldırılara karşı korunmasına yardımcı olur."
     }
   ],
   "huEFUF": [
@@ -5868,7 +5868,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Para yatırma sözleşmesini, bir Ethereum hesabından bir hisse ispatı doğrulayıcı hesabına para transferi olarak düşünebilirsiniz."
+      "value": "Para yatırma sözleşmesini, bir Stratis hesabından bir hisse ispatı doğrulayıcı hesabına para transferi olarak düşünebilirsiniz."
     }
   ],
   "iJXdUH": [
@@ -5900,7 +5900,7 @@
     },
     {
       "type": 0,
-      "value": " ETH para yatırma uygulaması bir dizi doğrulayıcı anahtarını etkinleştirir. Bu anahtarlar, ağın durumunu kapatmak için kullanılır. ETH gereksinimi ne kadar düşük olursa ağ tarafından daha fazla imzanın kaydedilmesi gerekir. "
+      "value": " STRAT para yatırma uygulaması bir dizi doğrulayıcı anahtarını etkinleştirir. Bu anahtarlar, ağın durumunu kapatmak için kullanılır. STRAT gereksinimi ne kadar düşük olursa ağ tarafından daha fazla imzanın kaydedilmesi gerekir. "
     },
     {
       "type": 1,
@@ -5960,7 +5960,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku, kurumsal ihtiyaçları ve güvenlik gereksinimlerini karşılamak için oluşturulmuş Java tabanlı bir Ethereum mutabakat istemcisidir."
+      "value": "PegaSys Teku, kurumsal ihtiyaçları ve güvenlik gereksinimlerini karşılamak için oluşturulmuş Java tabanlı bir Stratis mutabakat istemcisidir."
     }
   ],
   "XRUCUL": [
@@ -5998,7 +5998,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Daha önce Artemis olarak bilinen Teku, kurumsal ihtiyaçları ve güvenlik gereksinimlerini karşılamak için oluşturulmuş bir mutabakat istemcisidir. PegaSys, kurumsal kullanıma hazır istemciler ve çekirdek Ethereum platformuyla etkileşim için araçlar oluşturmaya yönelik olan ConsenSys'un bir koludur."
+      "value": "Daha önce Artemis olarak bilinen Teku, kurumsal ihtiyaçları ve güvenlik gereksinimlerini karşılamak için oluşturulmuş bir mutabakat istemcisidir. PegaSys, kurumsal kullanıma hazır istemciler ve çekirdek Stratis platformuyla etkileşim için araçlar oluşturmaya yönelik olan ConsenSys'un bir koludur."
     }
   ],
   "jBr8vs": [
@@ -6112,7 +6112,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Bu, yürütme katmanı (mevcut Ana Ağ) ile yeni fikir birliği katmanının (İşaret Zinciri) günümüzün tek Ethereum zincirini oluşturmak için birleştirilmesini simgeledi."
+      "value": "Bu, yürütme katmanı (mevcut Ana Ağ) ile yeni fikir birliği katmanının (İşaret Zinciri) günümüzün tek Stratis zincirini oluşturmak için birleştirilmesini simgeledi."
     }
   ],
   "k67L48": [
@@ -6166,7 +6166,7 @@
     },
     {
       "type": 0,
-      "value": "'nin eklenmesiyle İşaret Zincirinde para çekme işlemleri etkinleştirildi. Bu Ethereum İyileştirme Önerisi, ödüllerin otomatik olarak yürütüm katmanına çekilmesini sağlar ve aynı zamanda çıkış yapan doğrulayıcıların bakiyelerinin tamamının kilidini açmaları için bir olanak sağlar - gas gerektirmez."
+      "value": "'nin eklenmesiyle İşaret Zincirinde para çekme işlemleri etkinleştirildi. Bu Stratis İyileştirme Önerisi, ödüllerin otomatik olarak yürütüm katmanına çekilmesini sağlar ve aynı zamanda çıkış yapan doğrulayıcıların bakiyelerinin tamamının kilidini açmaları için bir olanak sağlar - gas gerektirmez."
     }
   ],
   "kTt/ND": [
@@ -6226,7 +6226,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Birleşim yükseltmesi, hisse ispatını 15 Eylül 2022'de Ethereum'a resmen getirdi ve eş zamanlı olarak iş ispatını kullanımdan kaldırdı. Bu, zinciri veri parçalama gibi gelecekte uygulanacak ölçeklendirme yükseltmeleri için hazırladı. Ana Ağın hisse ispatı mutabakatıyla bir araya getirilmesiyle atılan bu adım sayesinde enerji sarfiyatı %99,9'un üzerinde bir oranda azaldı."
+      "value": "Birleşim yükseltmesi, hisse ispatını 15 Eylül 2022'de Stratis'a resmen getirdi ve eş zamanlı olarak iş ispatını kullanımdan kaldırdı. Bu, zinciri veri parçalama gibi gelecekte uygulanacak ölçeklendirme yükseltmeleri için hazırladı. Ana Ağın hisse ispatı mutabakatıyla bir araya getirilmesiyle atılan bu adım sayesinde enerji sarfiyatı %99,9'un üzerinde bir oranda azaldı."
     }
   ],
   "kuYpoI": [
@@ -6406,7 +6406,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus, gömülü sistemlerde ve kişisel mobil cihazlarda iyi performans göstermesi için tasarlanmış bir araştırma projesi ve Ethereum için bir mutabakat istemci uygulamasıdır."
+      "value": "Nimbus, gömülü sistemlerde ve kişisel mobil cihazlarda iyi performans göstermesi için tasarlanmış bir araştırma projesi ve Stratis için bir mutabakat istemci uygulamasıdır."
     }
   ],
   "lfV1bj": [
@@ -6458,7 +6458,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Birleşim aracılığıyla hisse ispatına başarılı bir geçişten bu yana Ethereum, hisse ispatı doğrulayıcıları tarafından tam olarak güvence altına alınmıştır. Siz de bir doğrulayıcı çalıştırarak, Ethereum ağının güvenliğini sağlamaya yardımcı olabilirsiniz."
+      "value": "Birleşim aracılığıyla hisse ispatına başarılı bir geçişten bu yana Stratis, hisse ispatı doğrulayıcıları tarafından tam olarak güvence altına alınmıştır. Siz de bir doğrulayıcı çalıştırarak, Stratis ağının güvenliğini sağlamaya yardımcı olabilirsiniz."
     }
   ],
   "mROPz+": [
@@ -6472,7 +6472,7 @@
     },
     {
       "type": 0,
-      "value": " dosyamı oluştururken bir Ethereum adresi verdim."
+      "value": " dosyamı oluştururken bir Stratis adresi verdim."
     }
   ],
   "mUZnem": [
@@ -6504,7 +6504,7 @@
     },
     {
       "type": 0,
-      "value": ", bir denge, ortak anahtar ve diğer özellikler ile temsil edilen İşaret Zincirinde yaşayan ve Ethereum ağının konsensusuna katılan sanal bir varlıktır."
+      "value": ", bir denge, ortak anahtar ve diğer özellikler ile temsil edilen İşaret Zincirinde yaşayan ve Stratis ağının konsensusuna katılan sanal bir varlıktır."
     }
   ],
   "mcyp2f": [
@@ -6814,7 +6814,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Ethereum kullanıcıları, manuel olarak yürütülen işlemlere alışkındır - para transferi yapmak istiyorsanız, bir işlem imzalamanız ve gazı ödemeniz gerekir."
+      "value": "Stratis kullanıcıları, manuel olarak yürütülen işlemlere alışkındır - para transferi yapmak istiyorsanız, bir işlem imzalamanız ve gazı ödemeniz gerekir."
     }
   ],
   "p0b6zX": [
@@ -6846,7 +6846,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Durum böyle, ancak bunun sonucunda küçük cezalar alınıyor. Birkaç gün çevrimdışı kalırsanız, normal koşullarda kaba bir hesapla o dönemde kazanacağınız ETH miktarına denk miktarda ETH kaybedersiniz. Başka bir deyişle, ≈0,01 ETH kazanma durumunda, bunun yerine ≈0,01 ETH cezalandırılırsınız."
+      "value": "Durum böyle, ancak bunun sonucunda küçük cezalar alınıyor. Birkaç gün çevrimdışı kalırsanız, normal koşullarda kaba bir hesapla o dönemde kazanacağınız STRAT miktarına denk miktarda STRAT kaybedersiniz. Başka bir deyişle, ≈0,01 STRAT kazanma durumunda, bunun yerine ≈0,01 STRAT cezalandırılırsınız."
     }
   ],
   "pHQwsN": [
@@ -7188,7 +7188,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Hız ve güvenliğe yoğun bir şekilde odaklanan bir mutabakat istemcisi. Ethereum Vakfı, Consensys ve özel şahıslarla birlikte Lighthouse'u finanse eden bir bilgi güvenliği ve yazılım mühendisliği firması olan Sigma Prime tarafından kurulmuştur."
+      "value": "Hız ve güvenliğe yoğun bir şekilde odaklanan bir mutabakat istemcisi. Stratis Vakfı, Consensys ve özel şahıslarla birlikte Lighthouse'u finanse eden bir bilgi güvenliği ve yazılım mühendisliği firması olan Sigma Prime tarafından kurulmuştur."
     }
   ],
   "sToVAS": [
@@ -7292,7 +7292,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Ethereum mutabakat katmanı şartnamesi"
+      "value": "Stratis mutabakat katmanı şartnamesi"
     }
   ],
   "teyxVk": [
@@ -7364,7 +7364,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Ethereum yükseltmeleri"
+      "value": "Stratis yükseltmeleri"
     }
   ],
   "tzMNF3": [
@@ -7376,7 +7376,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Cüzdanınız yanlış Ethereum ağında. Devam etmek için "
+      "value": "Cüzdanınız yanlış Stratis ağında. Devam etmek için "
     },
     {
       "type": 1,
@@ -7560,7 +7560,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Sorumluluklarınızı yerine getirirken (veya yerine getirmede başarısız olurken) bakiyeniz Ethereum ağ kuralları tarafından periyodik olarak güncellenir."
+      "value": "Sorumluluklarınızı yerine getirirken (veya yerine getirmede başarısız olurken) bakiyeniz Stratis ağ kuralları tarafından periyodik olarak güncellenir."
     }
   ],
   "vCHTnu": [
@@ -7578,7 +7578,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Doğrulayıcı olun ve Ethereum'un geleceğini güvence altına alın"
+      "value": "Doğrulayıcı olun ve Stratis'un geleceğini güvence altına alın"
     }
   ],
   "vJez0K": [
@@ -7754,7 +7754,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Ethereum'da doğrulama madencilikle aynı şey değildir. Sonuçları benzerdir: Yaptığınız iş zinciri genişletecek ve güvence altına alacaktır. Ancak süreç tamamen farklıdır çünkü farklı konsensüs mekanizmaları kullanırlar."
+      "value": "Stratis'da doğrulama madencilikle aynı şey değildir. Sonuçları benzerdir: Yaptığınız iş zinciri genişletecek ve güvence altına alacaktır. Ancak süreç tamamen farklıdır çünkü farklı konsensüs mekanizmaları kullanırlar."
     }
   ],
   "x4/9vY": [
@@ -7810,7 +7810,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Blok ödülleri, ağda stake edilen toplam ETH miktarına göre kayan bir ölçek kullanılarak hesaplanır."
+      "value": "Blok ödülleri, ağda stake edilen toplam STRAT miktarına göre kayan bir ölçek kullanılarak hesaplanır."
     }
   ],
   "xXKkhR": [
@@ -7916,7 +7916,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Ethereum'u daha ölçeklenebilir, güvenli ve sürdürülebilir hâle getirecek çeşitli yükseltmeler devam ediyor. Bu yükseltmeler, bugünün zincirinde sorunsuz bir şekilde devam ederken Ethereum'u iyileştirecek. İşte farklı yükseltmeler hakkında daha fazlası:"
+      "value": "Stratis'u daha ölçeklenebilir, güvenli ve sürdürülebilir hâle getirecek çeşitli yükseltmeler devam ediyor. Bu yükseltmeler, bugünün zincirinde sorunsuz bir şekilde devam ederken Stratis'u iyileştirecek. İşte farklı yükseltmeler hakkında daha fazlası:"
     }
   ],
   "y4dBsA": [
@@ -8036,7 +8036,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar, ChainSafe Systems tarafından sağlanan Ethereum Consensus (eski adıyla eth2) spesifikasyonunun açık kaynaklı bir TypeScript uygulamasıdır. ChainSafe'in amacı, açık müşteri uygulamalarına odaklanan işaret zinciri ve doğrulayıcı müşteri ile Ethereum hisse ispatı ekosistemini geliştirmek, iyileştirmek ve çeşitlendirmektir."
+      "value": "Lodestar, ChainSafe Systems tarafından sağlanan Stratis Consensus (eski adıyla eth2) spesifikasyonunun açık kaynaklı bir TypeScript uygulamasıdır. ChainSafe'in amacı, açık müşteri uygulamalarına odaklanan işaret zinciri ve doğrulayıcı müşteri ile Stratis hisse ispatı ekosistemini geliştirmek, iyileştirmek ve çeşitlendirmektir."
     }
   ],
   "zAVb0/": [
@@ -8068,13 +8068,13 @@
     },
     {
       "type": 0,
-      "value": " ETH yatırın. Bunlar ödüllerinize eklenmeyecek ve planlanan Shanghai/Capella yükseltmesine kadar kilitli kalacak."
+      "value": " STRAT yatırın. Bunlar ödüllerinize eklenmeyecek ve planlanan Shanghai/Capella yükseltmesine kadar kilitli kalacak."
     }
   ],
   "zbEBi9": [
     {
       "type": 0,
-      "value": "Ethereum ana ağını senkronize etmek için "
+      "value": "Stratis ana ağını senkronize etmek için "
     },
     {
       "type": 1,

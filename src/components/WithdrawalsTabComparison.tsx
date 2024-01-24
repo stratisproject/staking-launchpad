@@ -119,7 +119,7 @@ export const WithdrawalsTabComparison: FC<IProps> = () => {
               defaultMessage="If you’re preparing to make a deposit to activate a new
               validator, you can (and should) provide a withdrawal address with your initial deposit. This is
               done at time of key generation, and is then included in your deposit data json file {depositData}
-              which is submitted with your 32 ETH deposit transaction."
+              which is submitted with your 32 STRAT deposit transaction."
               values={{
                 depositData: (
                   <Code>

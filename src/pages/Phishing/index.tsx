@@ -19,7 +19,7 @@ export const Phishing = () => {
     <PageTemplate title={formatMessage({ defaultMessage: 'Avoid phishing' })}>
       <Text className="mt10">
         <FormattedMessage
-          defaultMessage="Phishing is a very real risk for Ethereum validators and, unfortunately,
+          defaultMessage="Phishing is a very real risk for Stratis validators and, unfortunately,
         many people will lose funds due to these attacks."
         />
       </Text>
@@ -34,9 +34,9 @@ export const Phishing = () => {
                 defaultMessage="Does the site asking you for your {ethAmount} deposit have a URL you
                 expect?"
                 values={{
-                  ethAmount: `${PRICE_PER_VALIDATOR} ETH`,
+                  ethAmount: `${PRICE_PER_VALIDATOR} STRAT`,
                 }}
-                description="{ethAmount} will generally refer to 32 ETH"
+                description="{ethAmount} will generally refer to 32 STRAT"
               />
             </Text>
           </li>
@@ -81,7 +81,7 @@ export const Phishing = () => {
           </li>
           <li>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Ethereum block explorer:" />
+              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Stratis block explorer:" />
             </Text>
             <ul>
               <li>
@@ -89,9 +89,9 @@ export const Phishing = () => {
                   <FormattedMessage
                     defaultMessage="Are there recent {ethAmount} deposits?"
                     values={{
-                      ethAmount: `${PRICE_PER_VALIDATOR} ETH`,
+                      ethAmount: `${PRICE_PER_VALIDATOR} STRAT`,
                     }}
-                    description="Asks users to check deposit contract address against a block explorer and confirm 32 ETH deposits are present"
+                    description="Asks users to check deposit contract address against a block explorer and confirm 32 STRAT deposits are present"
                   />
                 </Text>
               </li>

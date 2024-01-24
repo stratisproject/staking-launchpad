@@ -24,7 +24,7 @@ const ComponentStyles = styled.div`
   p,
   ol,
   ul {
-    color: ${(p: any) => p.theme.blue.dark};
+    color: ${(p: any) => p.theme.white};
   }
   li {
     font-weight: 300;

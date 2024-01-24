@@ -6,7 +6,7 @@ import { Box, DropButton } from 'grommet';
 import { Menu, Language, FormDown } from 'grommet-icons';
 import { useWeb3React } from '@web3-react/core';
 import { Web3Provider } from '@ethersproject/providers';
-import EthDiamond from '../static/eth-diamond-plain.svg';
+import EthDiamond from '../static/stratis_logo_white.svg';
 import { web3ReactInterface } from '../pages/ConnectWallet';
 import {
   AllowedELNetworks,
@@ -53,6 +53,7 @@ const NetworkText = styled.div`
   justify-content: center;
   width: 100%;
   border-radius: 4px;
+  color: white !important;
   &:hover {
     border-radius: 4px;
     box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.15);
@@ -131,6 +132,7 @@ const BarLinkText = styled(Heading)`
     padding: 0 12px;
     white-space: nowrap;
   }
+  color: #fff;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -203,10 +205,10 @@ const _AppBar = ({ location }: RouteComponentProps) => {
               <BarLinkText
                 active={pathname === routesEnum.landingPage}
                 level={4}
-                margin="none"
+                margin="none"                
                 className="bar-link-text no-padding"
               >
-                <Text>
+                <Text color="#fff !important">
                   <FormattedMessage
                     defaultMessage="Staking Launchpad {network}"
                     values={{
@@ -246,25 +248,14 @@ const _AppBar = ({ location }: RouteComponentProps) => {
               <Text className="my10">
                 <b>Execution clients</b>
               </Text>
-              <Box pad="small">
-                <DropdownLink to={routesEnum.besu}>Besu</DropdownLink>
-                <DropdownLink to={routesEnum.erigon}>Erigon</DropdownLink>
+              <Box pad="small">               
                 <DropdownLink to={routesEnum.geth}>Geth</DropdownLink>
-                <DropdownLink to={routesEnum.nethermind}>
-                  Nethermind
-                </DropdownLink>
               </Box>
               <Text className="my10">
                 <b>Consensus clients</b>
               </Text>
               <Box pad="small">
-                <DropdownLink to={routesEnum.lighthouse}>
-                  Lighthouse
-                </DropdownLink>
-                <DropdownLink to={routesEnum.lodestar}>Lodestar</DropdownLink>
-                <DropdownLink to={routesEnum.nimbus}>Nimbus</DropdownLink>
                 <DropdownLink to={routesEnum.prysm}>Prysm</DropdownLink>
-                <DropdownLink to={routesEnum.teku}>Teku</DropdownLink>
               </Box>
             </Box>
           }
@@ -316,6 +307,7 @@ const _AppBar = ({ location }: RouteComponentProps) => {
             <BarLinkText
               level={4}
               margin="none"
+              color="#fff !important"
               className="bar-link-text"
               active={pathname === routesEnum.languagesPage}
             >
@@ -331,6 +323,7 @@ const _AppBar = ({ location }: RouteComponentProps) => {
         {mobile && (
           <ValidatorDropdown
             className="secondary-link"
+            color="white !important"
             label={<Menu color="black" />}
             dropAlign={{ top: 'bottom', right: dropAlignInline }}
             dropContent={
@@ -339,7 +332,7 @@ const _AppBar = ({ location }: RouteComponentProps) => {
                   {walletConnected && (
                     <DotBox>
                       <Dot success={networkAllowed} error={!networkAllowed} />
-                      <Text size="small" color="blueDark">
+                      <Text size="small" color="#fff !important">
                         {trimString(account as string, 10)}
                       </Text>
                     </DotBox>

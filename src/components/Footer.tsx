@@ -118,7 +118,7 @@ export const Footer = () => {
             <FormattedMessage defaultMessage="More on staking" />
           </Heading>
           <Link to="https://ethereum.org/en/roadmap/">
-            <FormattedMessage defaultMessage="The Ethereum roadmap" />
+            <FormattedMessage defaultMessage="The Stratis roadmap" />
           </Link>
           <Link to={routesEnum.phishingPage}>
             <FormattedMessage defaultMessage="Avoid phishing" />

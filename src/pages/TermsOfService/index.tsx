@@ -66,7 +66,7 @@ export const TermsOfService = () => {
           </Text>
           <Text className="tos-text">
             Acceptance of the Terms of Use These terms of use are entered into
-            by and between you and the Ethereum Foundation ("Foundation", "we"
+            by and between you and the Stratis Foundation ("Foundation", "we"
             or "us"). The following terms and conditions, together with any
             documents they expressly incorporate by reference (collectively,
             these "Terms of Use"), govern your access to and use of
@@ -205,7 +205,7 @@ export const TermsOfService = () => {
             Trademarks
           </Text>
           <Text className="tos-text">
-            The Foundation name, the terms Ethereum Switzerland, Ethereum Asia,
+            The Foundation name, the terms Stratis Switzerland, Stratis Asia,
             the Foundation logo and all related names, logos, product and
             service names, designs and slogans are trademarks of the Foundation
             or its affiliates or licensors. You must not use such marks without
@@ -528,7 +528,7 @@ export const TermsOfService = () => {
           <Text className="tos-text">
             The Terms of Use, our Privacy Policy and terms of conditions for the
             registration of events constitute the sole and entire agreement
-            between you and the Ethereum Foundation with respect to the Websites
+            between you and the Stratis Foundation with respect to the Websites
             and supersede all prior and contemporaneous understandings,
             agreements, representations and warranties, both written and oral,
             with respect to the Websites.

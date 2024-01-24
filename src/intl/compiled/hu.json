@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Az Ethereum a tranzakciókat és a végrehajtást kezelő "
+      "value": "Az Stratis a tranzakciókat és a végrehajtást kezelő "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (korábban „Eth2” vagy „Ethereum 2.0”) rétegből áll."
+      "value": " (korábban „Eth2” vagy „Stratis 2.0”) rétegből áll."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "2. Lépés: A letéti kulcsok generálása az Ethereum Foundation letéti eszköz használatával"
+      "value": "2. Lépés: A letéti kulcsok generálása az Stratis Foundation letéti eszköz használatával"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "A beolvadás után a validátorok a tranzakciók feldolgozásáért is felelősök lesznek, és így a blokkokra vonatkozó javaslattételkor jogosulttá válnak a bevont tranzakciókhoz kapcsolódó, fel nem használt üzemanyagdíjakra is. Ezeknek a díjaknak az elszámolása a végrehajtási rétegben történik, nem a konszenzus rétegben, és így egy hagyományos Ethereum-címet kell a kliensnek megadni."
+      "value": "A beolvadás után a validátorok a tranzakciók feldolgozásáért is felelősök lesznek, és így a blokkokra vonatkozó javaslattételkor jogosulttá válnak a bevont tranzakciókhoz kapcsolódó, fel nem használt üzemanyagdíjakra is. Ezeknek a díjaknak az elszámolása a végrehajtási rétegben történik, nem a konszenzus rétegben, és így egy hagyományos Stratis-címet kell a kliensnek megadni."
     }
   ],
   "/5Hyyf": [
@@ -196,7 +196,7 @@
     },
     {
       "type": 0,
-      "value": " ETH maximális értékre?"
+      "value": " STRAT maximális értékre?"
     }
   ],
   "/jJLYy": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "A geth az Ethereum-protokoll három eredeti kivitelezésének egyike, amely Go nyelven van megírva."
+      "value": "A geth az Stratis-protokoll három eredeti kivitelezésének egyike, amely Go nyelven van megírva."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Megadtam a validátoromnak azt az Ethereum-címet, ahová szeretném, ha a díjjutalmaimat befizetnék."
+      "value": "Megadtam a validátoromnak azt az Stratis-címet, ahová szeretném, ha a díjjutalmaimat befizetnék."
     }
   ],
   "0lHkrT": [
@@ -538,7 +538,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Bővebben az Ethereum-letétbe helyezés gazdasági vonatkozásairól"
+      "value": "Bővebben az Stratis-letétbe helyezés gazdasági vonatkozásairól"
     }
   ],
   "1p+pb5": [
@@ -698,7 +698,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "A kliensdiverzitás rendkívül fontos az Ethereum hálózat állapota szempontjából: egy több mint 33%-ban előforduló hiba a kliensben az Ethereum offline állapotba kapcsolását eredményezheti. Ha a kliens túlnyomó többséggel rendelkezik (>66%), a hiba a lánc nem megfelelő kettéosztását okozhatja, ami súlyos büntetéssel egybekötött kizáráshoz vezethet."
+      "value": "A kliensdiverzitás rendkívül fontos az Stratis hálózat állapota szempontjából: egy több mint 33%-ban előforduló hiba a kliensben az Stratis offline állapotba kapcsolását eredményezheti. Ha a kliens túlnyomó többséggel rendelkezik (>66%), a hiba a lánc nem megfelelő kettéosztását okozhatja, ami súlyos büntetéssel egybekötött kizáráshoz vezethet."
     }
   ],
   "2t/3ab": [
@@ -810,7 +810,7 @@
     },
     {
       "type": 0,
-      "value": " ETH egyetlen kulcskészlethez való letétbe helyezése nem növeli a jutalompotenciált, és a "
+      "value": " STRAT egyetlen kulcskészlethez való letétbe helyezése nem növeli a jutalompotenciált, és a "
     },
     {
       "type": 1,
@@ -818,7 +818,7 @@
     },
     {
       "type": 0,
-      "value": " ETH fölé sem gyűjti a jutalmakat, mivel minden validátor esetében ott van a korlát: "
+      "value": " STRAT fölé sem gyűjti a jutalmakat, mivel minden validátor esetében ott van a korlát: "
     },
     {
       "type": 1,
@@ -866,7 +866,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Ezek a terminológiai módosítások csak az elnevezési szabályokat változtatják meg; ez nem változtat az Ethereum céljain vagy ütemtervén."
+      "value": "Ezek a terminológiai módosítások csak az elnevezési szabályokat változtatják meg; ez nem változtat az Stratis céljain vagy ütemtervén."
     }
   ],
   "3URRZK": [
@@ -1466,7 +1466,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Egy Ethereum-kliens, amelyet vállalkozásbarátnak terveztek mind a nyilvános, mind a privát engedélyezett hálózathasználati esetekhez."
+      "value": "Egy Stratis-kliens, amelyet vállalkozásbarátnak terveztek mind a nyilvános, mind a privát engedélyezett hálózathasználati esetekhez."
     }
   ],
   "8yom7x": [
@@ -1504,7 +1504,7 @@
     },
     {
       "type": 0,
-      "value": " ETH van letétben?"
+      "value": " STRAT van letétben?"
     }
   ],
   "9JktQX": [
@@ -1666,7 +1666,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Az Ethereum-letétbe helyezésről szóló szerződés elfogadásához legalább "
+      "value": "Az Stratis-letétbe helyezésről szóló szerződés elfogadásához legalább "
     },
     {
       "type": 1,
@@ -1712,7 +1712,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Kérjük, hogy az URL ellenőrzésével győződjön meg arról, hogy a hivatalos Ethereum Foundation GitHub-fiókból tölt le: "
+      "value": "Kérjük, hogy az URL ellenőrzésével győződjön meg arról, hogy a hivatalos Stratis Foundation GitHub-fiókból tölt le: "
     },
     {
       "type": 1,
@@ -1722,7 +1722,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "A szilánkosítás megváltoztatja azt a követelményt, amely szerint teljes csomópontok hordozzák a lánc teljes előzményeit: ehelyett a terhelést a hálózat között osztja el, miközben továbbra is biztosítja az adatok rendelkezésre állását. Ez jelentősen megnöveli az Ethereum 1. rétegének kapacitását, miközben fenntartja a teljes csomópontok üzemeltetésének lehetőségét fogyasztói hardveren, megőrizve a hálózat decentralizáltságát."
+      "value": "A szilánkosítás megváltoztatja azt a követelményt, amely szerint teljes csomópontok hordozzák a lánc teljes előzményeit: ehelyett a terhelést a hálózat között osztja el, miközben továbbra is biztosítja az adatok rendelkezésre állását. Ez jelentősen megnöveli az Stratis 1. rétegének kapacitását, miközben fenntartja a teljes csomópontok üzemeltetésének lehetőségét fogyasztói hardveren, megőrizve a hálózat decentralizáltságát."
     }
   ],
   "Affixg": [
@@ -1778,7 +1778,7 @@
     },
     {
       "type": 0,
-      "value": " akkor kerül feldolgozásra, ha egy aktív validátor hatékony egyenlege 32-nél nagyobb, és a teljes egyenlege meghaladja a 32-t. Egyetlen validátor nem kaphat jutalmat a 32 ETH feletti többletegyenlegre, ezért ezeknél a fiókoknál a többletegyenleg automatikusan kivételre kerül az Ethereum-címükre."
+      "value": " akkor kerül feldolgozásra, ha egy aktív validátor hatékony egyenlege 32-nél nagyobb, és a teljes egyenlege meghaladja a 32-t. Egyetlen validátor nem kaphat jutalmat a 32 STRAT feletti többletegyenlegre, ezért ezeknél a fiókoknál a többletegyenleg automatikusan kivételre kerül az Stratis-címükre."
     }
   ],
   "RY4SP0": [
@@ -1854,7 +1854,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Miután egy validátor kilépett, és a teljes egyenlegét kivette, az adott validátorra letétbe helyezett további összegek automatikusan átutalásra kerülnek a következő validátor átfésülés során a kivételi címre. Az ETH újbóli letétbe helyezéséhez egy új validátort kell aktiválni."
+      "value": "Miután egy validátor kilépett, és a teljes egyenlegét kivette, az adott validátorra letétbe helyezett további összegek automatikusan átutalásra kerülnek a következő validátor átfésülés során a kivételi címre. Az STRAT újbóli letétbe helyezéséhez egy új validátort kell aktiválni."
     }
   ],
   "BPpnlJ": [
@@ -2004,7 +2004,7 @@
   "0WPDnu": [
     {
       "type": 0,
-      "value": "Mindenképpen töltse fel az egyenlegét, ha az megközelíti a 16 ETH -t. Ez biztosítja, hogy ne zárják ki a validátorok közül (ez automatikusan megtörténik, ha az egyenlege 16 ETH alá esik)."
+      "value": "Mindenképpen töltse fel az egyenlegét, ha az megközelíti a 16 STRAT -t. Ez biztosítja, hogy ne zárják ki a validátorok közül (ez automatikusan megtörténik, ha az egyenlege 16 STRAT alá esik)."
     }
   ],
   "CWKE9c": [
@@ -2020,7 +2020,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Bővebben az Ethereum-vízióról"
+      "value": "Bővebben az Stratis-vízióról"
     }
   ],
   "CdKEd/": [
@@ -2084,7 +2084,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Mennyi ETH -t kell letétbe helyeznem, hogy validátor lehessek?"
+      "value": "Mennyi STRAT -t kell letétbe helyeznem, hogy validátor lehessek?"
     }
   ],
   "5q9Lgv": [
@@ -2134,7 +2134,7 @@
     },
     {
       "type": 0,
-      "value": " a hálózatot. Ez biztonsági okokból történik. Tekintettel arra, hogy minden validátor maximum 32 ETH hatékony egyenlegre van korlátozva, ez megakadályozza, hogy az ETH nagy részét potenciálisan felhasználják egy támadásban, majd egyszerre gyorsan kilépjenek a hálózatból."
+      "value": " a hálózatot. Ez biztonsági okokból történik. Tekintettel arra, hogy minden validátor maximum 32 STRAT hatékony egyenlegre van korlátozva, ez megakadályozza, hogy az STRAT nagy részét potenciálisan felhasználják egy támadásban, majd egyszerre gyorsan kilépjenek a hálózatból."
     }
   ],
   "DNRQa7": [
@@ -2300,7 +2300,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "A letétbe helyezőknek meg kell adniuk a díj kedvezményezettjének címét a konszenzusos kliensük számára, hogy megkaphassák ezeket a jutalmakat. Ez egy normál Ethereum-cím, amit már ismer."
+      "value": "A letétbe helyezőknek meg kell adniuk a díj kedvezményezettjének címét a konszenzusos kliensük számára, hogy megkaphassák ezeket a jutalmakat. Ez egy normál Stratis-cím, amit már ismer."
     }
   ],
   "EcCME0": [
@@ -2338,7 +2338,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Az Ethereum 2015. július 30-án keletkezett. Idővel nő a mérete, és a szilánkosítás bevezetése növelni fogja a tárhely-, a memória- és a sávszélességi követelményeket is."
+      "value": "Az Stratis 2015. július 30-án keletkezett. Idővel nő a mérete, és a szilánkosítás bevezetése növelni fogja a tárhely-, a memória- és a sávszélességi követelményeket is."
     }
   ],
   "FM92S0": [
@@ -2356,7 +2356,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Ethereum-címre történő kivétel: ha a Shanghai/Capella frissítést követően a végrehajtási tárcája címére szeretné kivenni a pénzét, beállíthatja a(z) "
+      "value": "Stratis-címre történő kivétel: ha a Shanghai/Capella frissítést követően a végrehajtási tárcája címére szeretné kivenni a pénzét, beállíthatja a(z) "
     },
     {
       "type": 1,
@@ -2440,7 +2440,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Egy Ethereum-kliens hatalmas fejlesztői körrel. Vállalati szintű rendszerekhez tökéletes."
+      "value": "Egy Stratis-kliens hatalmas fejlesztői körrel. Vállalati szintű rendszerekhez tökéletes."
     }
   ],
   "FgraU0": [
@@ -2526,7 +2526,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Nem lehetséges manuálisan kérvényezni bizonyos mennyiségű ETH kivételét"
+      "value": "Nem lehetséges manuálisan kérvényezni bizonyos mennyiségű STRAT kivételét"
     }
   ],
   "GUDhpC": [
@@ -2692,7 +2692,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "A korábban TurboGeth néven ismert Erigon egy Ethereum-kliens, amelyet a teljesítmény optimalizálására fejlesztettek ki."
+      "value": "A korábban TurboGeth néven ismert Erigon egy Stratis-kliens, amelyet a teljesítmény optimalizálására fejlesztettek ki."
     }
   ],
   "ID3Pgm": [
@@ -2854,7 +2854,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Merüljön el mélyebben az Ethereum verziófrissítéseiben."
+      "value": "Merüljön el mélyebben az Stratis verziófrissítéseiben."
     }
   ],
   "JhUYU3": [
@@ -3134,7 +3134,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Köszönjük, hogy támogatja az Ethereum hálózatot!"
+      "value": "Köszönjük, hogy támogatja az Stratis hálózatot!"
     }
   ],
   "LpnfTF": [
@@ -3182,7 +3182,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Az Ethereumot a tét igazolása biztosítja, ám ez nem volt mindig így. A Beacon lánc volt az első lépés a tét igazolása konszenzusos réteg megalapozására az Ethereumon, amelyet a főhálózattal egyidejűleg indítottunk el 2020 decemberében. Ez lehetővé tette a résztvevők számára, hogy elkezdjék letétbe helyezni az ETH-jukat, és előkészítsék a hálózatot a munka igazolásáról a tét igazolására való formális átmenetre a beolvadás során."
+      "value": "Az Stratisot a tét igazolása biztosítja, ám ez nem volt mindig így. A Beacon lánc volt az első lépés a tét igazolása konszenzusos réteg megalapozására az Stratison, amelyet a főhálózattal egyidejűleg indítottunk el 2020 decemberében. Ez lehetővé tette a résztvevők számára, hogy elkezdjék letétbe helyezni az ETH-jukat, és előkészítsék a hálózatot a munka igazolásáról a tét igazolására való formális átmenetre a beolvadás során."
     }
   ],
   "LwEHRm": [
@@ -3254,7 +3254,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Hogyan működik az Ethereum skálázása?"
+      "value": "Hogyan működik az Stratis skálázása?"
     }
   ],
   "MaZo9k": [
@@ -3278,7 +3278,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Ez az indítópult segít validátorrá válni, így aktív szerepet játszhat az Ethereum jövőjében. Az érvényesítők kulcsfontosságúak egy biztonságosabb, skálázhatóbb és fenntartható Ethereum közös építésében."
+      "value": "Ez az indítópult segít validátorrá válni, így aktív szerepet játszhat az Stratis jövőjében. Az érvényesítők kulcsfontosságúak egy biztonságosabb, skálázhatóbb és fenntartható Stratis közös építésében."
     }
   ],
   "Mc8nNE": [
@@ -3290,7 +3290,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Az Ethereum-verziófrissítések csak akkor lesznek sikeresek, ha a validátorok megértik a kockázatokat és feladataikat."
+      "value": "Az Stratis-verziófrissítések csak akkor lesznek sikeresek, ha a validátorok megértik a kockázatokat és feladataikat."
     }
   ],
   "MmZjeu": [
@@ -3454,7 +3454,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Tudjon meg többet az Ethereum-validátorok szerepéről és feladatairól."
+      "value": "Tudjon meg többet az Stratis-validátorok szerepéről és feladatairól."
     }
   ],
   "Nb5DNK": [
@@ -3556,7 +3556,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "A Hyperledger Besu egy nyílt forrású, az Apache 2.0 licenc alapján kifejlesztett, és Java nyelven megírt Ethereum-kliens."
+      "value": "A Hyperledger Besu egy nyílt forrású, az Apache 2.0 licenc alapján kifejlesztett, és Java nyelven megírt Stratis-kliens."
     }
   ],
   "OIvXIO": [
@@ -3654,13 +3654,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Az adathalászat valódi kockázatot jelent az Ethereum-validátorok számára, és sajnos sokan elveszítik a pénzüket ilyen támadások miatt."
+      "value": "Az adathalászat valódi kockázatot jelent az Stratis-validátorok számára, és sajnos sokan elveszítik a pénzüket ilyen támadások miatt."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "A Beacon lánc frissítés bevezeti a tét igazolása konszenzust az Ethereumba."
+      "value": "A Beacon lánc frissítés bevezeti a tét igazolása konszenzust az Stratisba."
     }
   ],
   "P1QerV": [
@@ -3888,7 +3888,7 @@
     },
     {
       "type": 0,
-      "value": "-tranzakciót küld a letétbe helyezési szerződésnek az aktuális Ethereum-láncon."
+      "value": "-tranzakciót küld a letétbe helyezési szerződésnek az aktuális Stratis-láncon."
     }
   ],
   "QlsDcr": [
@@ -4154,7 +4154,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validátorok és az Ethereum"
+      "value": "Validátorok és az Stratis"
     }
   ],
   "TMw9oz": [
@@ -4166,7 +4166,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Az „Eth1” és „Eth2” kifejezéseket kivezettük a beolvadással. Mivel a beolvadáson keresztül megvalósult a tét igazolására való áttérés, a továbbiakban már nincs két különálló Ethereum-hálózat – csak az Ethereum van."
+      "value": "Az „Eth1” és „Eth2” kifejezéseket kivezettük a beolvadással. Mivel a beolvadáson keresztül megvalósult a tét igazolására való áttérés, a továbbiakban már nincs két különálló Stratis-hálózat – csak az Stratis van."
     }
   ],
   "TfNuWP": [
@@ -4224,7 +4224,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Nézze át a letétbe helyezési szerződést a kedvenc Ethereum-blokkfelfedezőjén:"
+      "value": "Nézze át a letétbe helyezési szerződést a kedvenc Stratis-blokkfelfedezőjén:"
     }
   ],
   "UYRyWv": [
@@ -4270,7 +4270,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Az Ethereum-protokoll három eredeti kivitelezésének egyike."
+      "value": "Az Stratis-protokoll három eredeti kivitelezésének egyike."
     }
   ],
   "UykRIk": [
@@ -4360,7 +4360,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Más szavakkal: ha az összes letétbe helyezett ETH összege alacsony, a jutalom (kamatláb) magas, de ahogy a letétek összege növekszik, az egyes validátoroknak kifizetett jutalom (kamat) csökkenni kezd."
+      "value": "Más szavakkal: ha az összes letétbe helyezett STRAT összege alacsony, a jutalom (kamatláb) magas, de ahogy a letétek összege növekszik, az egyes validátoroknak kifizetett jutalom (kamat) csökkenni kezd."
     }
   ],
   "VUuZsb": [
@@ -4638,7 +4638,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Megjegyzés: jelenleg nincs tervben, hogy lehetővé tegyék az ETH átutalását a validátorok között."
+      "value": "Megjegyzés: jelenleg nincs tervben, hogy lehetővé tegyék az STRAT átutalását a validátorok között."
     }
   ],
   "XmddSV": [
@@ -4932,7 +4932,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Ezekre „részleges kivételként” vagy „jutalomkifizetésként” is hivatkozunk, mivel a fennmaradó 32 ETH továbbra is zárolva és letétbe helyezve marad."
+      "value": "Ezekre „részleges kivételként” vagy „jutalomkifizetésként” is hivatkozunk, mivel a fennmaradó 32 STRAT továbbra is zárolva és letétbe helyezve marad."
     }
   ],
   "a+xjjV": [
@@ -4958,7 +4958,7 @@
     },
     {
       "type": 0,
-      "value": " fájlban, amely a 32 ETH letéti tranzakcióval együtt kerül benyújtásra."
+      "value": " fájlban, amely a 32 STRAT letéti tranzakcióval együtt kerül benyújtásra."
     }
   ],
   "9/yem6": [
@@ -4976,7 +4976,7 @@
   "fpe4Gx": [
     {
       "type": 0,
-      "value": "A 32 ETH alatti hatékony vagy teljes egyenleggel rendelkező aktív fiókok kihagyásra kerülnek"
+      "value": "A 32 STRAT alatti hatékony vagy teljes egyenleggel rendelkező aktív fiókok kihagyásra kerülnek"
     }
   ],
   "aR50Oc": [
@@ -5026,7 +5026,7 @@
     },
     {
       "type": 0,
-      "value": " ETH letétbe helyezésének."
+      "value": " STRAT letétbe helyezésének."
     }
   ],
   "FWtWw3": [
@@ -5174,7 +5174,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Legyen validátor, és segítsen biztosítani az Ethereum jövőjét."
+      "value": "Legyen validátor, és segítsen biztosítani az Stratis jövőjét."
     }
   ],
   "cRzxes": [
@@ -5268,7 +5268,7 @@
     },
     {
       "type": 0,
-      "value": ": az érvényes kivételek célhelyének ellenőrzésére szolgáló, 32 bájtos mező a befizetésnél. Jelenleg kétféle kivétel létezik: BLS-kivétel és Ethereum-címre történő kivétel."
+      "value": ": az érvényes kivételek célhelyének ellenőrzésére szolgáló, 32 bájtos mező a befizetésnél. Jelenleg kétféle kivétel létezik: BLS-kivétel és Stratis-címre történő kivétel."
     }
   ],
   "8FjJDx": [
@@ -5286,7 +5286,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "A Prysm az Ethereum-protokollnak egy Go konszenzusos kliensimplementációja, amelynél a kihasználhatóság, a biztonság és megbízhatóság szerepel a középpontban."
+      "value": "A Prysm az Stratis-protokollnak egy Go konszenzusos kliensimplementációja, amelynél a kihasználhatóság, a biztonság és megbízhatóság szerepel a középpontban."
     }
   ],
   "dLE9FH": [
@@ -5544,7 +5544,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "A kérdés megválaszolása nagyban függ attól, hogy mennyi ETH áll rendelkezésére."
+      "value": "A kérdés megválaszolása nagyban függ attól, hogy mennyi STRAT áll rendelkezésére."
     }
   ],
   "fQ5yno": [
@@ -5574,7 +5574,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "A kezdeti letétbe helyezéskor megadhat egy kivételi címet, hogy automatikusan lehetővé váljon a jutalom kifizetése, és hogy a Shanghai/Capella frissítés után bármikor teljes mértékben kivehesse a pénzét. Ennek a címnek egy hagyományos Ethereum-címnek kell lennie, és ez lesz az egyetlen cím, ahol pénzeszközöket fogadhat az új validátor fiókjaitól."
+      "value": "A kezdeti letétbe helyezéskor megadhat egy kivételi címet, hogy automatikusan lehetővé váljon a jutalom kifizetése, és hogy a Shanghai/Capella frissítés után bármikor teljes mértékben kivehesse a pénzét. Ennek a címnek egy hagyományos Stratis-címnek kell lennie, és ez lesz az egyetlen cím, ahol pénzeszközöket fogadhat az új validátor fiókjaitól."
     }
   ],
   "fZwn+P": [
@@ -5678,7 +5678,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Hozzon létre letéti kulcsokat az Ethereum Alapítvány letéti eszköz használatával"
+      "value": "Hozzon létre letéti kulcsokat az Stratis Alapítvány letéti eszköz használatával"
     }
   ],
   "gVC0Wl": [
@@ -5874,7 +5874,7 @@
     },
     {
       "type": 0,
-      "value": " ETH-ra korlátozása a hatalom decentralizálását ösztönzi, mivel megakadályozza, hogy egyetlen validátornak túl nagy súlyú szavazati joga legyen a lánc állapotáról. Emellett korlátozza a letétből bármikor kiléptethető ETH mennyiségét is, mivel az adott időszakban kilépő validátorok száma korlátozott. Ez segít megvédeni a hálózatot bizonyos támadások ellen."
+      "value": " ETH-ra korlátozása a hatalom decentralizálását ösztönzi, mivel megakadályozza, hogy egyetlen validátornak túl nagy súlyú szavazati joga legyen a lánc állapotáról. Emellett korlátozza a letétből bármikor kiléptethető STRAT mennyiségét is, mivel az adott időszakban kilépő validátorok száma korlátozott. Ez segít megvédeni a hálózatot bizonyos támadások ellen."
     }
   ],
   "huEFUF": [
@@ -5912,7 +5912,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "A letétbe helyezésről szóló szerződésre úgy tekinthet, mint az Ethereum-fiókok és a tét igazolása validátorszámlák közötti pénzátutalásra."
+      "value": "A letétbe helyezésről szóló szerződésre úgy tekinthet, mint az Stratis-fiókok és a tét igazolása validátorszámlák közötti pénzátutalásra."
     }
   ],
   "iJXdUH": [
@@ -5952,7 +5952,7 @@
     },
     {
       "type": 0,
-      "value": " ETH úgy lett kiválasztva, hogy egyensúlyt teremtsen aközött, hogy a lehető legtöbb embernek lehetővé tegye a letétbe helyezést anélkül, hogy a decentralizációt gátolná az egyes blokkok méretének aláírásokkal való felduzzasztása."
+      "value": " STRAT úgy lett kiválasztva, hogy egyensúlyt teremtsen aközött, hogy a lehető legtöbb embernek lehetővé tegye a letétbe helyezést anélkül, hogy a decentralizációt gátolná az egyes blokkok méretének aláírásokkal való felduzzasztása."
     }
   ],
   "iX90gu": [
@@ -6004,7 +6004,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "A PegaSys Teku egy Java-alapú Ethereum konszenzusos kliens, amelyet az intézményi igények és biztonsági követelmények kielégítését szem előtt tartva fejlesztettek ki."
+      "value": "A PegaSys Teku egy Java-alapú Stratis konszenzusos kliens, amelyet az intézményi igények és biztonsági követelmények kielégítését szem előtt tartva fejlesztettek ki."
     }
   ],
   "XRUCUL": [
@@ -6042,7 +6042,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "A korábban Artemis néven ismert Teku egy konszenzusos kliens, amelyet az intézményi igények és biztonsági követelmények kielégítését szem előtt tartva fejlesztettek ki. A PegaSys a ConsenSys egyik ága, amely vállalati használatra kész kliensek és eszközök létrehozására szolgál az Ethereum alapfelületével való interakcióhoz."
+      "value": "A korábban Artemis néven ismert Teku egy konszenzusos kliens, amelyet az intézményi igények és biztonsági követelmények kielégítését szem előtt tartva fejlesztettek ki. A PegaSys a ConsenSys egyik ága, amely vállalati használatra kész kliensek és eszközök létrehozására szolgál az Stratis alapfelületével való interakcióhoz."
     }
   ],
   "jBr8vs": [
@@ -6156,7 +6156,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Ez jelentette a végrehajtásos réteg (a meglévő főhálózat) és az új konszenzusréteg (a Beacon lánc) egyesülését a mai egységes Ethereum-lánc formájában."
+      "value": "Ez jelentette a végrehajtásos réteg (a meglévő főhálózat) és az új konszenzusréteg (a Beacon lánc) egyesülését a mai egységes Stratis-lánc formájában."
     }
   ],
   "k67L48": [
@@ -6214,7 +6214,7 @@
     },
     {
       "type": 0,
-      "value": " bevonásával. Ez az Ethereum fejlesztési javaslat lehetővé teszi a jutalmak automatikus kivételét a végrehajtási rétegbe, valamint módot biztosít a kilépett validátorok számára, hogy feloldják a teljes egyenlegüket – üzemanyag nélkül."
+      "value": " bevonásával. Ez az Stratis fejlesztési javaslat lehetővé teszi a jutalmak automatikus kivételét a végrehajtási rétegbe, valamint módot biztosít a kilépett validátorok számára, hogy feloldják a teljes egyenlegüket – üzemanyag nélkül."
     }
   ],
   "kTt/ND": [
@@ -6274,7 +6274,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Az egyesítéssel hivatalosan is bevezettük a tét igazolása konszenzust az Ethereumba 2022. szeptember 15-én, és ezzel egyidejűleg kivezettük a munka igazolása konszenzust. Ez előkészítette a láncot a jövőbeli skálázási frissítésekre (pl. adatszilánkosítás) azáltal, hogy a tét igazolása konszenzust összehozta a főhálózattal, és ezzel egyidejűleg több mint 99,9%-kal csökkentette az energiafelhasználást."
+      "value": "Az egyesítéssel hivatalosan is bevezettük a tét igazolása konszenzust az Stratisba 2022. szeptember 15-én, és ezzel egyidejűleg kivezettük a munka igazolása konszenzust. Ez előkészítette a láncot a jövőbeli skálázási frissítésekre (pl. adatszilánkosítás) azáltal, hogy a tét igazolása konszenzust összehozta a főhálózattal, és ezzel egyidejűleg több mint 99,9%-kal csökkentette az energiafelhasználást."
     }
   ],
   "kuYpoI": [
@@ -6462,7 +6462,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "A Nimbus egy kutatási projekt és az Ethereumhoz szánt konszenzusos kliensimplementáció, amelynek megalkotásakor a cél az volt, hogy jól teljesítsen beágyazott rendszereken és személyes mobileszközökön."
+      "value": "A Nimbus egy kutatási projekt és az Stratishoz szánt konszenzusos kliensimplementáció, amelynek megalkotásakor a cél az volt, hogy jól teljesítsen beágyazott rendszereken és személyes mobileszközökön."
     }
   ],
   "lfV1bj": [
@@ -6518,13 +6518,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "A tét igazolása konszenzusra az egyesülés során való sikeres átmenet óta az Ethereumot teljes mértékben biztosítják a tét igazolása validátorok. Validátor futtatásával segít az Ethereum-hálózat biztonságának fenntartásában."
+      "value": "A tét igazolása konszenzusra az egyesülés során való sikeres átmenet óta az Stratisot teljes mértékben biztosítják a tét igazolása validátorok. Validátor futtatásával segít az Stratis-hálózat biztonságának fenntartásában."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "Megadtam egy Ethereum-címet a "
+      "value": "Megadtam egy Stratis-címet a "
     },
     {
       "type": 1,
@@ -6538,7 +6538,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Határozottan javasoljuk, hogy először próbálja végig az egész folyamatot egy tesztelő hálózaton, hogy a valódi ETH kockáztatása előtt magabiztossá váljon."
+      "value": "Határozottan javasoljuk, hogy először próbálja végig az egész folyamatot egy tesztelő hálózaton, hogy a valódi STRAT kockáztatása előtt magabiztossá váljon."
     }
   ],
   "mXSzq5": [
@@ -6564,7 +6564,7 @@
     },
     {
       "type": 0,
-      "value": " validátor egy virtuális entitás, amely a Beacon láncon él, egy egyenleg, egy publikus kulcs és egyéb tulajdonságok által reprezentálva, és részt vesz az Ethereum-hálózat konszenzusában."
+      "value": " validátor egy virtuális entitás, amely a Beacon láncon él, egy egyenleg, egy publikus kulcs és egyéb tulajdonságok által reprezentálva, és részt vesz az Stratis-hálózat konszenzusában."
     }
   ],
   "mcyp2f": [
@@ -6674,7 +6674,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "Amint magabiztos lesz, végig fog menni a kulcsok létrehozásán és az ETH letétbe helyezésén."
+      "value": "Amint magabiztos lesz, végig fog menni a kulcsok létrehozásán és az STRAT letétbe helyezésén."
     }
   ],
   "njAU72": [
@@ -6878,7 +6878,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Az Ethereum felhasználói hozzászoktak ahhoz, hogy a tranzakciókat manuálisan hajtják végre – ha pénzt szeretne utalni, alá kell írnia egy tranzakciót, és ki kell fizetnie az üzemanyagot."
+      "value": "Az Stratis felhasználói hozzászoktak ahhoz, hogy a tranzakciókat manuálisan hajtják végre – ha pénzt szeretne utalni, alá kell írnia egy tranzakciót, és ki kell fizetnie az üzemanyagot."
     }
   ],
   "p0b6zX": [
@@ -6910,7 +6910,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Igen, kisebb büntetésekkel. Ha normál körülmények között több napra offline állapotba kerül, nagyjából azt az ETH-mennyiséget veszíti el, amelyet az adott időszak alatt megszerzett volna. Más szóval, ha 0,01 ETH-t keresne, akkor ehelyett 0,01 ETH büntetést kap."
+      "value": "Igen, kisebb büntetésekkel. Ha normál körülmények között több napra offline állapotba kerül, nagyjából azt az ETH-mennyiséget veszíti el, amelyet az adott időszak alatt megszerzett volna. Más szóval, ha 0,01 ETH-t keresne, akkor ehelyett 0,01 STRAT büntetést kap."
     }
   ],
   "pHQwsN": [
@@ -7244,7 +7244,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Egy konszenzusos kliens, amely nagy hangsúlyt fektet a sebességre és a biztonságra. A Sigma Prime információbiztonsági és szoftverfejlesztő cég építette, amely az Ethereum Alapítvánnyal, a Consensys vállalattal és magánszemélyekkel együtt alapította a Lighthouse-t."
+      "value": "Egy konszenzusos kliens, amely nagy hangsúlyt fektet a sebességre és a biztonságra. A Sigma Prime információbiztonsági és szoftverfejlesztő cég építette, amely az Stratis Alapítvánnyal, a Consensys vállalattal és magánszemélyekkel együtt alapította a Lighthouse-t."
     }
   ],
   "sToVAS": [
@@ -7348,7 +7348,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Az Ethereum konszenzusos réteg részletes leírása"
+      "value": "Az Stratis konszenzusos réteg részletes leírása"
     }
   ],
   "teyxVk": [
@@ -7416,7 +7416,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Az Ethereum verziófrissítései"
+      "value": "Az Stratis verziófrissítései"
     }
   ],
   "tzMNF3": [
@@ -7428,7 +7428,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "A tárcája rossz Ethereum-hálózaton van. A folytatáshoz csatlakozzon a következőhöz: "
+      "value": "A tárcája rossz Stratis-hálózaton van. A folytatáshoz csatlakozzon a következőhöz: "
     },
     {
       "type": 1,
@@ -7612,7 +7612,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Az egyenlege rendszeresen frissül az Ethereum hálózati szabályai alapján, miközben végrehajtja (vagy elmulasztja) a feladatait."
+      "value": "Az egyenlege rendszeresen frissül az Stratis hálózati szabályai alapján, miközben végrehajtja (vagy elmulasztja) a feladatait."
     }
   ],
   "vCHTnu": [
@@ -7630,7 +7630,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Legyen validátor, és segítsen biztosítani az Ethereum jövőjét"
+      "value": "Legyen validátor, és segítsen biztosítani az Stratis jövőjét"
     }
   ],
   "vJez0K": [
@@ -7810,7 +7810,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Az Ethereumban történő validálás nem ugyanaz, mint a bányászat. Az eredmények hasonlóak: az általad végzett munka növeli és biztosítja a láncot, de a folyamat teljesen más, mert különböző konszenzusmechanizmust használnak."
+      "value": "Az Stratisban történő validálás nem ugyanaz, mint a bányászat. Az eredmények hasonlóak: az általad végzett munka növeli és biztosítja a láncot, de a folyamat teljesen más, mert különböző konszenzusmechanizmust használnak."
     }
   ],
   "x4/9vY": [
@@ -7866,7 +7866,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "A blokkjutalmakat csúszóskála segítségével számítják ki a hálózaton letétbe helyezett ETH teljes mennyisége alapján."
+      "value": "A blokkjutalmakat csúszóskála segítségével számítják ki a hálózaton letétbe helyezett STRAT teljes mennyisége alapján."
     }
   ],
   "xXKkhR": [
@@ -7976,7 +7976,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Több olyan frissítés is folyamatban van, amely skálázhatóbbá, biztonságosabbá és fenntarthatóbbá teszi majd az Ethereumot. Ezek a frissítések javítják az Ethereumot, miközben zökkenőmentesen folytatják a mai láncot. Bővebben a különböző frissítésekről:"
+      "value": "Több olyan frissítés is folyamatban van, amely skálázhatóbbá, biztonságosabbá és fenntarthatóbbá teszi majd az Stratisot. Ezek a frissítések javítják az Stratisot, miközben zökkenőmentesen folytatják a mai láncot. Bővebben a különböző frissítésekről:"
     }
   ],
   "y4dBsA": [
@@ -8108,7 +8108,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "A Lodestar a ChainSafe Systems által karbantartott Ethereum-konszenzus (korábbi nevén eth2) specifikáció nyílt forráskódú TypeScript-implementációja. A ChainSafe célja az Ethereum „tét igazolása”-ökoszisztéma fejlesztése, javítása és diverzifikálása a Beacon lánc és validátorkliensükkel, a hangsúlyt a könnyű kliens implementációkra helyezve."
+      "value": "A Lodestar a ChainSafe Systems által karbantartott Stratis-konszenzus (korábbi nevén eth2) specifikáció nyílt forráskódú TypeScript-implementációja. A ChainSafe célja az Stratis „tét igazolása”-ökoszisztéma fejlesztése, javítása és diverzifikálása a Beacon lánc és validátorkliensükkel, a hangsúlyt a könnyű kliens implementációkra helyezve."
     }
   ],
   "zAVb0/": [
@@ -8154,7 +8154,7 @@
     },
     {
       "type": 0,
-      "value": " használatával szinkronizálhatja az Ethereum-főhálózatot."
+      "value": " használatával szinkronizálhatja az Stratis-főhálózatot."
     }
   ],
   "zicXn7": [

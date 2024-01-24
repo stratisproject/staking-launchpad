@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum consists of the "
+      "value": "Stratis consists of the "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Ethereum 2.0')."
+      "value": " (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Stratis 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -30,7 +30,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Step 2: Generate deposit keys using the Ethereum Foundation deposit tool"
+      "value": "Step 2: Generate deposit keys using the Stratis Foundation deposit tool"
     }
   ],
   "+UUcBt": [
@@ -96,7 +96,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Ethereum address to be provided to your client."
+      "value": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Stratis address to be provided to your client."
     }
   ],
   "/5Hyyf": [
@@ -108,7 +108,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "On a never-ending loop, every single validator account is continuously evaluated for eligible ETH withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
+      "value": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAT withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
     }
   ],
   "/OAba6": [
@@ -184,7 +184,7 @@
     },
     {
       "type": 0,
-      "value": " ETH maximum?"
+      "value": " STRAT maximum?"
     }
   ],
   "/jJLYy": [
@@ -208,7 +208,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth is one of the three original implementations of the Ethereum protocol, written in Go."
+      "value": "Geth is one of the three original implementations of the Stratis protocol, written in Go."
     }
   ],
   "/ub26/": [
@@ -386,7 +386,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "I've provided an Ethereum address to my validator where I would like my fee rewards to be deposited."
+      "value": "I've provided an Stratis address to my validator where I would like my fee rewards to be deposited."
     }
   ],
   "0lHkrT": [
@@ -532,7 +532,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "More on Ethereum staking economics"
+      "value": "More on Stratis staking economics"
     }
   ],
   "1p+pb5": [
@@ -684,7 +684,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Client diversity is extremely important for the network health of Ethereum: A bug in a client with a share of over 33% can cause Ethereum to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
+      "value": "Client diversity is extremely important for the network health of Stratis: A bug in a client with a share of over 33% can cause Stratis to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
     }
   ],
   "2t/3ab": [
@@ -800,7 +800,7 @@
     },
     {
       "type": 0,
-      "value": " ETH to a single set of keys does not increase rewards potential, nor does accumulating rewards above "
+      "value": " STRAT to a single set of keys does not increase rewards potential, nor does accumulating rewards above "
     },
     {
       "type": 1,
@@ -832,7 +832,7 @@
     },
     {
       "type": 0,
-      "value": " ETH increments, each with its own set of keys and balance."
+      "value": " STRAT increments, each with its own set of keys and balance."
     }
   ],
   "3PbtmF": [
@@ -856,7 +856,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "These terminology updates only change naming conventions; this does not alter Ethereum's goals or roadmap."
+      "value": "These terminology updates only change naming conventions; this does not alter Stratis's goals or roadmap."
     }
   ],
   "3URRZK": [
@@ -974,7 +974,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of ETH staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
+      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAT staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
     }
   ],
   "4hb+GK": [
@@ -1208,7 +1208,7 @@
     },
     {
       "type": 0,
-      "value": ") and execution (Ethereum address) credentials (Type 1, or "
+      "value": ") and execution (Stratis address) credentials (Type 1, or "
     },
     {
       "type": 1,
@@ -1510,7 +1510,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "An Ethereum client designed to be enterprise-friendly for both public and private, permissioned network use cases."
+      "value": "An Stratis client designed to be enterprise-friendly for both public and private, permissioned network use cases."
     }
   ],
   "8yom7x": [
@@ -1548,7 +1548,7 @@
     },
     {
       "type": 0,
-      "value": " ETH at stake?"
+      "value": " STRAT at stake?"
     }
   ],
   "9JktQX": [
@@ -1758,7 +1758,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "The Ethereum staking deposit contract requires a minimum of "
+      "value": "The Stratis staking deposit contract requires a minimum of "
     },
     {
       "type": 1,
@@ -1804,7 +1804,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Please make sure that you are downloading from the official Ethereum Foundation GitHub account by verifying the url: "
+      "value": "Please make sure that you are downloading from the official Stratis Foundation GitHub account by verifying the url: "
     },
     {
       "type": 1,
@@ -2028,7 +2028,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "More on the Ethereum vision"
+      "value": "More on the Stratis vision"
     }
   ],
   "CdKEd/": [
@@ -2078,7 +2078,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "How much ETH do I need to stake to become a validator?"
+      "value": "How much STRAT do I need to stake to become a validator?"
     }
   ],
   "DCaq7N": [
@@ -2236,7 +2236,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "The Merge upgrade officially brought proof-of-stake to Ethereum on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
+      "value": "The Merge upgrade officially brought proof-of-stake to Stratis on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
     }
   ],
   "ETJ2T5": [
@@ -2260,7 +2260,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Ethereum address that you're used to."
+      "value": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Stratis address that you're used to."
     }
   ],
   "EcCME0": [
@@ -2382,7 +2382,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "An Ethereum client with a huge pool of developers. It's perfect for enterprise-grade systems."
+      "value": "An Stratis client with a huge pool of developers. It's perfect for enterprise-grade systems."
     }
   ],
   "FgraU0": [
@@ -2476,7 +2476,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "It is not possible to manually request specific amounts of ETH to be withdrawn"
+      "value": "It is not possible to manually request specific amounts of STRAT to be withdrawn"
     }
   ],
   "GUDhpC": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Formerly TurboGeth, Erigon is an Ethereum client built to enable performance optimizations."
+      "value": "Formerly TurboGeth, Erigon is an Stratis client built to enable performance optimizations."
     }
   ],
   "ID3Pgm": [
@@ -2850,7 +2850,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Ethereum while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
+      "value": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Stratis while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
     }
   ],
   "Js4uuA": [
@@ -2952,7 +2952,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "The Ethereum consensus layer specification"
+      "value": "The Stratis consensus layer specification"
     }
   ],
   "KN7zKn": [
@@ -3096,7 +3096,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Thank you for supporting the Ethereum network!"
+      "value": "Thank you for supporting the Stratis network!"
     }
   ],
   "LpnfTF": [
@@ -3140,7 +3140,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Ethereum, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their ETH and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+      "value": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAT and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
     }
   ],
   "LwEHRm": [
@@ -3206,7 +3206,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "How is Ethereum scaling?"
+      "value": "How is Stratis scaling?"
     }
   ],
   "MaZo9k": [
@@ -3230,7 +3230,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "This launchpad will help you become a validator, so you can play an active part in Ethereum's future. Validators are key to the more secure, scalable, and sustainable Ethereum we're building together."
+      "value": "This launchpad will help you become a validator, so you can play an active part in Stratis's future. Validators are key to the more secure, scalable, and sustainable Stratis we're building together."
     }
   ],
   "Mc8nNE": [
@@ -3242,7 +3242,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "The Ethereum upgrades will only be successful if validators understand the risks and responsibilities."
+      "value": "The Stratis upgrades will only be successful if validators understand the risks and responsibilities."
     }
   ],
   "MmZjeu": [
@@ -3384,7 +3384,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Learn more about the roles and responsibilities of Ethereum validators."
+      "value": "Learn more about the roles and responsibilities of Stratis validators."
     }
   ],
   "Nb5DNK": [
@@ -3472,13 +3472,13 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu is an open-source Ethereum client developed under the Apache 2.0 license and written in Java."
+      "value": "Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java."
     }
   ],
   "OCl7KQ": [
     {
       "type": 0,
-      "value": "Like all Ethereum transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
+      "value": "Like all Stratis transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
     }
   ],
   "OIvXIO": [
@@ -3602,7 +3602,7 @@
     },
     {
       "type": 0,
-      "value": ", this prevents large portions of the ETH from potentially being used in an attack and then quickly exiting from the network all at once."
+      "value": ", this prevents large portions of the STRAT from potentially being used in an attack and then quickly exiting from the network all at once."
     }
   ],
   "P+nziG": [
@@ -3614,7 +3614,7 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Phishing is a very real risk for Ethereum validators and, unfortunately, many people will lose funds due to these attacks."
+      "value": "Phishing is a very real risk for Stratis validators and, unfortunately, many people will lose funds due to these attacks."
     }
   ],
   "P1QerV": [
@@ -3730,7 +3730,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
+      "value": "Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
     }
   ],
   "Q8P0rZ": [
@@ -4098,7 +4098,7 @@
     },
     {
       "type": 0,
-      "value": " which is submitted with your 32 ETH deposit transaction."
+      "value": " which is submitted with your 32 STRAT deposit transaction."
     }
   ],
   "Sy5bAo": [
@@ -4138,7 +4138,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validators and Ethereum"
+      "value": "Validators and Stratis"
     }
   ],
   "TKCr16": [
@@ -4156,7 +4156,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Ethereum networks; there is only Ethereum."
+      "value": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Stratis networks; there is only Stratis."
     }
   ],
   "TfNuWP": [
@@ -4212,7 +4212,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Check the deposit contract on your favorite Ethereum block explorer:"
+      "value": "Check the deposit contract on your favorite Stratis block explorer:"
     }
   ],
   "UYRyWv": [
@@ -4264,7 +4264,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "One of the three original implementations of the Ethereum protocol."
+      "value": "One of the three original implementations of the Stratis protocol."
     }
   ],
   "UykRIk": [
@@ -4348,7 +4348,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "In other words: if the total amount of ETH staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
+      "value": "In other words: if the total amount of STRAT staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
     }
   ],
   "VUuZsb": [
@@ -4698,7 +4698,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has ETH that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
+      "value": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAT that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
     }
   ],
   "YP03/j": [
@@ -4974,7 +4974,7 @@
     },
     {
       "type": 0,
-      "value": " ETH staked."
+      "value": " STRAT staked."
     }
   ],
   "b8APBK": [
@@ -5030,7 +5030,7 @@
   "bagKCF": [
     {
       "type": 0,
-      "value": "If you've already provided an Ethereum withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
+      "value": "If you've already provided an Stratis withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
     }
   ],
   "bbr+aD": [
@@ -5106,7 +5106,7 @@
     },
     {
       "type": 0,
-      "value": " ETH for a single validator—it will not add to your rewards."
+      "value": " STRAT for a single validator—it will not add to your rewards."
     }
   ],
   "cE71F9": [
@@ -5144,7 +5144,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Become a validator and help secure the future of Ethereum."
+      "value": "Become a validator and help secure the future of Stratis."
     }
   ],
   "cRzxes": [
@@ -5156,7 +5156,7 @@
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Ethereum uses proof-of-stake to reach consensus."
+      "value": "Stratis uses proof-of-stake to reach consensus."
     }
   ],
   "cav520": [
@@ -5240,7 +5240,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm is a Go consensus client implementation of the Ethereum protocol with a focus on usability, security, and reliability."
+      "value": "Prysm is a Go consensus client implementation of the Stratis protocol with a focus on usability, security, and reliability."
     }
   ],
   "dLE9FH": [
@@ -5330,7 +5330,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Ethereum address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
+      "value": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Stratis address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
     }
   ],
   "dzdAcD": [
@@ -5492,7 +5492,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "The answer to this question very much depends on how much ETH you have at your disposal."
+      "value": "The answer to this question very much depends on how much STRAT you have at your disposal."
     }
   ],
   "fQ5yno": [
@@ -5624,7 +5624,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generate deposit keys using the Ethereum Foundation deposit tool"
+      "value": "Generate deposit keys using the Stratis Foundation deposit tool"
     }
   ],
   "gVC0Wl": [
@@ -5814,7 +5814,7 @@
     },
     {
       "type": 0,
-      "value": " ETH per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of ETH that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+      "value": " STRAT per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAT that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
     }
   ],
   "hrJ1oM": [
@@ -5880,7 +5880,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "You can think of the deposit contract as a transfer of funds from an Ethereum account to a proof-of-stake validator account."
+      "value": "You can think of the deposit contract as a transfer of funds from an Stratis account to a proof-of-stake validator account."
     }
   ],
   "iJXdUH": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " ETH deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the ETH requirement, the more resulting signatures must be saved by the network. "
+      "value": " STRAT deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAT requirement, the more resulting signatures must be saved by the network. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " ETH was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+      "value": " STRAT was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
     }
   ],
   "iX90gu": [
@@ -5978,7 +5978,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku is a Java-based Ethereum consensus client built to meet institutional needs and security requirements."
+      "value": "PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements."
     }
   ],
   "iqy/7c": [
@@ -6032,7 +6032,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Ethereum platform."
+      "value": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Stratis platform."
     }
   ],
   "jBr8vs": [
@@ -6044,7 +6044,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Dig deeper into the Ethereum roadmap."
+      "value": "Dig deeper into the Stratis roadmap."
     }
   ],
   "jXer8/": [
@@ -6158,7 +6158,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Ethereum chain of today."
+      "value": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Stratis chain of today."
     }
   ],
   "k67L48": [
@@ -6216,7 +6216,7 @@
     },
     {
       "type": 0,
-      "value": ". This Ethereum Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
+      "value": ". This Stratis Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
     }
   ],
   "kTt/ND": [
@@ -6450,7 +6450,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus is a research project and a consensus client implementation for Ethereum designed to perform well on embedded systems and personal mobile devices."
+      "value": "Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices."
     }
   ],
   "lfV1bj": [
@@ -6500,13 +6500,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Since the successful transition to proof-of-stake via The Merge, Ethereum is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Ethereum network."
+      "value": "Since the successful transition to proof-of-stake via The Merge, Stratis is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Stratis network."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "I provided an Ethereum address when generating my "
+      "value": "I provided an Stratis address when generating my "
     },
     {
       "type": 1,
@@ -6546,7 +6546,7 @@
     },
     {
       "type": 0,
-      "value": " is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Ethereum network."
+      "value": " is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Stratis network."
     }
   ],
   "mcyp2f": [
@@ -6576,7 +6576,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "The Ethereum roadmap"
+      "value": "The Stratis roadmap"
     }
   ],
   "mpmFDY": [
@@ -6674,7 +6674,7 @@
   "naZC3k": [
     {
       "type": 0,
-      "value": "Your ETH address"
+      "value": "Your STRAT address"
     }
   ],
   "ndhFef": [
@@ -6772,7 +6772,7 @@
     },
     {
       "type": 0,
-      "value": " message signed with your BLS withdrawal keys to specific your desired Ethereum withdrawal address. This address can only be provided once, and cannot be changed again."
+      "value": " message signed with your BLS withdrawal keys to specific your desired Stratis withdrawal address. This address can only be provided once, and cannot be changed again."
     }
   ],
   "oF4os+": [
@@ -6938,7 +6938,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Ethereum users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
+      "value": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
     }
   ],
   "p0b6zX": [
@@ -6976,7 +6976,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of ETH roughly equivalent to the amount of ETH you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
+      "value": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAT roughly equivalent to the amount of STRAT you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7104,7 +7104,7 @@
     },
     {
       "type": 0,
-      "value": " format. This format is not compatible with Beacon Chain withdrawals and must be updated to Ethereum address credentials to enable withdrawals."
+      "value": " format. This format is not compatible with Beacon Chain withdrawals and must be updated to Stratis address credentials to enable withdrawals."
     }
   ],
   "qB6aU6": [
@@ -7342,7 +7342,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Ethereum Foundation, Consensys, and private individuals."
+      "value": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis Foundation, Consensys, and private individuals."
     }
   ],
   "sNUrEO": [
@@ -7534,7 +7534,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Your wallet is on the wrong Ethereum network. To continue, connect to "
+      "value": "Your wallet is on the wrong Stratis network. To continue, connect to "
     },
     {
       "type": 1,
@@ -7668,7 +7668,7 @@
     },
     {
       "type": 0,
-      "value": ", and thus these accounts will have any extra balance automatically withdrawn to their Ethereum address."
+      "value": ", and thus these accounts will have any extra balance automatically withdrawn to their Stratis address."
     }
   ],
   "uJzGSb": [
@@ -7782,7 +7782,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Your balance is updated periodically by the Ethereum network rules as you carry (or fail to carry) out your responsibilities."
+      "value": "Your balance is updated periodically by the Stratis network rules as you carry (or fail to carry) out your responsibilities."
     }
   ],
   "vCHTnu": [
@@ -7800,7 +7800,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Become a validator and help secure the future of Ethereum"
+      "value": "Become a validator and help secure the future of Stratis"
     }
   ],
   "vJez0K": [
@@ -7936,7 +7936,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Validating in Ethereum is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
+      "value": "Validating in Stratis is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
     }
   ],
   "x4/9vY": [
@@ -7958,7 +7958,7 @@
   "xETYo6": [
     {
       "type": 0,
-      "value": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Ethereum (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
+      "value": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Stratis (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
     }
   ],
   "xGQ38+": [
@@ -7994,7 +7994,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Block rewards are calculated using a sliding scale based on the total amount of ETH staked on the network."
+      "value": "Block rewards are calculated using a sliding scale based on the total amount of STRAT staked on the network."
     }
   ],
   "xXKkhR": [
@@ -8032,7 +8032,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Those looking to exit their validator from staking and withdrawal their ETH should check out the guide below that matches your setup:"
+      "value": "Those looking to exit their validator from staking and withdrawal their STRAT should check out the guide below that matches your setup:"
     }
   ],
   "xm3Ivd": [
@@ -8114,7 +8114,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Several upgrades are underway that will make Ethereum more scalable, secure, and sustainable. These upgrades will improve Ethereum while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
+      "value": "Several upgrades are underway that will make Stratis more scalable, secure, and sustainable. These upgrades will improve Stratis while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
     }
   ],
   "y4dBsA": [
@@ -8224,7 +8224,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar is an open-sourced TypeScript implementation of the Ethereum Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Ethereum proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
+      "value": "Lodestar is an open-sourced TypeScript implementation of the Stratis Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Stratis proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
     }
   ],
   "zAVb0/": [
@@ -8254,7 +8254,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra ETH required to get back to 32."
+      "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAT required to get back to 32."
     }
   ],
   "zJicsO": [
@@ -8274,7 +8274,7 @@
     },
     {
       "type": 0,
-      "value": " to sync the Ethereum mainnet."
+      "value": " to sync the Stratis mainnet."
     }
   ],
   "zicXn7": [

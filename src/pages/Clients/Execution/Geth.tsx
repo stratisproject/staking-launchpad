@@ -26,7 +26,7 @@ export const GethDetails = () => (
       Geth
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="One of the three original implementations of the Ethereum protocol." />
+      <FormattedMessage defaultMessage="One of the three original implementations of the Stratis protocol." />
     </Text>
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />
