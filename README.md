@@ -2,7 +2,7 @@
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/staking-launchpad/badge)](https://www.gitpoap.io/gh/ethereum/staking-launchpad)
 
-The [Launchpad](https://launchpad.ethereum.org/) is the Stratis Foundation's official way to deposit your STRAT for staking on Stratis
+The [Launchpad](https://launchpad.ethereum.org/) is the Stratis's official way to deposit your STRAT for staking on Stratis
 
 ## Dependencies
 

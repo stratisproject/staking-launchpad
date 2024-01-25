@@ -70,12 +70,11 @@ export const Option1 = ({
             style={{ wordBreak: 'break-word' }}
           >
             <FormattedMessage
-              defaultMessage="Please make sure that you are downloading from the official Stratis
-              Foundation GitHub account by verifying the url: {url}"
+              defaultMessage="Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: {url}"
               values={{
                 url: (
                   <strong>
-                    https://github.com/ethereum/staking-deposit-cli/releases/
+                    https://github.com/stratisproject/StratisEVM-src/blob/master/bin/deposit/
                   </strong>
                 ),
               }}
@@ -88,7 +87,7 @@ export const Option1 = ({
       <GithubScreenshot />
 
       <Text weight={500} className="mt20">
-        <FormattedMessage defaultMessage="Step 2: Generate deposit keys using the Stratis Foundation deposit tool" />
+        <FormattedMessage defaultMessage="Step 2: Generate deposit keys using the Stratis deposit tool" />
       </Text>
       <Alert className="my20" variant="info">
         <FormattedMessage defaultMessage="For security, we recommend you disconnect from the internet to complete this step." />

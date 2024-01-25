@@ -10,7 +10,7 @@ import { CONTRACT_ADDRESS, PRICE_PER_VALIDATOR } from '../../utils/envVars';
 import { DepositKeyInterface } from '../../store/reducers';
 
 const pricePerValidator = new BigNumber(PRICE_PER_VALIDATOR);
-const TX_VALUE = pricePerValidator.multipliedBy(1e18).toNumber();
+const TX_VALUE = pricePerValidator.multipliedBy(1e18).toNumber(); // 20000000000000000000000
 
 const isUserRejectionError = (error: any) => {
   if (error.code === 4001) return true; // Metamask reject
@@ -50,6 +50,18 @@ const isUserRejectionError = (error: any) => {
   return false;
 };
 
+const formatLargeNumber = (number: number) => {
+  const numberString = number.toString();
+  const parts = numberString.split(/[eE]/);
+  if (parts.length === 2) {
+      const coefficient = parts[0];
+      const exponent = parseInt(parts[1], 10);
+      const zeros = exponent - coefficient.length + 1;
+      return coefficient + '0'.repeat(zeros);
+  }
+  return numberString;
+};
+
 /*
   Recursive func for calling each transaction in succession after
   the previous one has been signed
@@ -73,7 +85,7 @@ export const handleMultipleTransactions = async (
     // gasLimit: '0x124f8', TODO set gas limit
     gasPrice: web3.utils.toHex(await web3.eth.getGasPrice()),
     from: account as string,
-    value: TX_VALUE,
+    value: formatLargeNumber(TX_VALUE),
   };
 
   const remainingTxs = depositKeys.filter(

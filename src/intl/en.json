@@ -7,7 +7,7 @@
     "message": "Interactive mode"
   },
   "+L0IkF": {
-    "message": "Step 2: Generate deposit keys using the Stratis Foundation deposit tool"
+    "message": "Step 2: Generate deposit keys using the Stratis deposit tool"
   },
   "+UUcBt": {
     "message": "Choose a language"
@@ -650,7 +650,7 @@
   },
   "Ad61gz": {
     "description": "{url} is link to GitHub CLI release, made bold for emphasis",
-    "message": "Please make sure that you are downloading from the official Stratis Foundation GitHub account by verifying the url: {url}"
+    "message": "Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: {url}"
   },
   "Affixg": {
     "message": "The deposit"
@@ -2140,7 +2140,7 @@
     "message": "Use {goerli} to sync the Goerli testnet."
   },
   "gQkd2y": {
-    "message": "Generate deposit keys using the Stratis Foundation deposit tool"
+    "message": "Generate deposit keys using the Stratis deposit tool"
   },
   "gVC0Wl": {
     "message": "It uses the assisted password in your secrets folder."
@@ -2791,7 +2791,7 @@
     "message": "Teku can also be configured via a YAML file which is passed in via a few different ways."
   },
   "sMHQRT": {
-    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis Foundation, Consensys, and private individuals."
+    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis, Consensys, and private individuals."
   },
   "sNUrEO": {
     "message": "If not, I've submitted a {btec} message signed with my BLS withdrawal keys to update my withdrawal credentials."

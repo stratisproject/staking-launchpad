@@ -37,7 +37,7 @@ export const Instructions = ({
         >
           {formatMessage({ defaultMessage: 'Download CLI app' })}
         </TextSelectionBox>
-        <TextSelectionBox
+        {/* <TextSelectionBox
           isActive={chosenTool === keysTool.GUI}
           onClick={() => setChosenTool(keysTool.GUI)}
           style={{ marginEnd: '20px' }}
@@ -49,7 +49,7 @@ export const Instructions = ({
           onClick={() => setChosenTool(keysTool.CLISOURCE)}
         >
           {formatMessage({ defaultMessage: 'Build from source' })}
-        </TextSelectionBox>
+        </TextSelectionBox> */}
       </div>
       <div>
         {chosenTool === keysTool.CLI && (

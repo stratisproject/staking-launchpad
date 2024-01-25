@@ -61,10 +61,11 @@ const validateFieldFormatting = (
     return false;
   }
 
-  // check the deposit amount
+  
+  console.log(depositDatum.amount, MIN_DEPOSIT_AMOUNT, ETHER_TO_GWEI);
   if (
     depositDatum.amount < MIN_DEPOSIT_AMOUNT ||
-    depositDatum.amount > 32 * ETHER_TO_GWEI
+    depositDatum.amount > 20_000 * ETHER_TO_GWEI
   ) {
     return false;
   }

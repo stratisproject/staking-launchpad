@@ -30,7 +30,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Step 2: Generate deposit keys using the Stratis Foundation deposit tool"
+      "value": "Step 2: Generate deposit keys using the Stratis deposit tool"
     }
   ],
   "+UUcBt": [
@@ -1804,7 +1804,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Please make sure that you are downloading from the official Stratis Foundation GitHub account by verifying the url: "
+      "value": "Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: "
     },
     {
       "type": 1,
@@ -5624,7 +5624,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generate deposit keys using the Stratis Foundation deposit tool"
+      "value": "Generate deposit keys using the Stratis deposit tool"
     }
   ],
   "gVC0Wl": [
@@ -7342,7 +7342,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis Foundation, Consensys, and private individuals."
+      "value": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis, Consensys, and private individuals."
     }
   ],
   "sNUrEO": [

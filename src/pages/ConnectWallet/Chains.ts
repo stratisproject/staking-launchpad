@@ -5,7 +5,7 @@ export const changeToTestnet = async (chainId: number) => {
   const metamask = ethereum;
   try {
     await metamask?.request({
-      method: 'wallet_addStratisChain',
+      method: 'wallet_addEthereumChain',
       params: [
         {
           chainId: `0x${chainId.toString(16)}`,
@@ -23,7 +23,7 @@ export const changeToTestnet = async (chainId: number) => {
   } catch (error) {
     console.log(error);
     await metamask?.request({
-      method: 'wallet_switchStratisChain',
+      method: 'wallet_switchEthereumChain',
       params: [
         {
           chainId: `0x${chainId.toString(16)}`,
