@@ -325,7 +325,7 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="More on withdrawals" />
             </Link>
           </section>
-          <section>
+          {/* <section>
             <Heading level={4}>
               <FormattedMessage defaultMessage="What happened to 'Eth2?'" />
             </Heading>
@@ -372,7 +372,7 @@ export const FAQ = () => {
             >
               <FormattedMessage defaultMessage="Learn more about the great renaming" />
             </Link>
-          </section>
+          </section> */}
         </section>
         <section>
           <Anchor to="#responsibilities" id="responsibilities">
@@ -1048,16 +1048,16 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="If you have questions, EthStaker community is a good place to get
+                defaultMessage="If you have questions, Stratis Platform community is a good place to get
                   help! You can find support on {discord} or {reddit}."
                 values={{
                   discord: (
-                    <Link primary inline to="https://dsc.gg/ethstaker">
+                    <Link primary inline to="https://discord.gg/9tDyfZs">
                       Discord
                     </Link>
                   ),
                   reddit: (
-                    <Link primary inline to="https://reddit.com/r/ethstaker">
+                    <Link primary inline to="https://www.reddit.com/r/stratisplatform/">
                       Reddit
                     </Link>
                   ),
