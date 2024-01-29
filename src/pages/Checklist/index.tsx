@@ -11,20 +11,19 @@ import { Heading } from '../../components/Heading';
 import { Text } from '../../components/Text';
 import {
   BEACONCHAIN_URL,
-  IS_MAINNET,
-  TESTNET_LAUNCHPAD_URL,
+  IS_MAINNET,  
   TESTNET_LAUNCHPAD_NAME,
   TUTORIAL_URL,
   NETWORK_NAME,
 } from '../../utils/envVars';
 import { ClientCard } from '../Congratulations/ClientCard';
 import PrysmaticBg from '../../static/prysmatic-bg.png';
-import LighthouseBg from '../../static/lighthouse-bg.png';
-import NimbusBg from '../../static/nimbus-bg.png';
-import TekuBg from '../../static/teku-bg.png';
-import BesuBg from '../../static/besu-bg.png';
-import NethermindBg from '../../static/nethermind-bg.png';
-import ErigonBg from '../../static/erigon-bg.png';
+// import LighthouseBg from '../../static/lighthouse-bg.png';
+// import NimbusBg from '../../static/nimbus-bg.png';
+// import TekuBg from '../../static/teku-bg.png';
+// import BesuBg from '../../static/besu-bg.png';
+// import NethermindBg from '../../static/nethermind-bg.png';
+// import ErigonBg from '../../static/erigon-bg.png';
 import GethBg from '../../static/geth-bg.png';
 import { routesEnum } from '../../Routes';
 import { Code } from '../../components/Code';
@@ -244,71 +243,71 @@ export const Checklist = () => {
     defaultUdp: 30303,
   };
 
-  const defaultConsensusPorts: {
-    defaultTcp: number;
-    defaultUdp: number;
-  } = {
-    defaultTcp: 9000,
-    defaultUdp: 9000,
-  };
+  // const defaultConsensusPorts: {
+  //   defaultTcp: number;
+  //   defaultUdp: number;
+  // } = {
+  //   defaultTcp: 9000,
+  //   defaultUdp: 9000,
+  // };
 
   const clientInfo: Client[] = _shuffle([
-    {
-      header: 'Besu',
-      text: formatMessage({
-        defaultMessage:
-          'Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java.',
-      }),
-      imgUrl: BesuBg,
-      url: routesEnum.besu,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Besu',
-      }),
-      layer: layerEnum.execution,
-      discord: 'https://discord.gg/hyperledger',
-      ...defaultExecutionPorts,
-      jwtUrl:
-        'https://besu.hyperledger.org/en/stable/public-networks/reference/cli/options/#engine-jwt-secret',
-    },
-    {
-      header: 'Nethermind',
-      text: formatMessage({
-        defaultMessage:
-          'Nethermind is a robust client built on .NET core designed for performance, versatility and customizability.',
-      }),
-      imgUrl: NethermindBg,
-      url: routesEnum.nethermind,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Nethermind',
-      }),
-      layer: layerEnum.execution,
-      discord: 'https://discord.gg/PaCMRFdvWT',
-      ...defaultExecutionPorts,
-      jwtUrl:
-        'https://docs.nethermind.io/nethermind/first-steps-with-nethermind/running-nethermind-post-merge#jwt-secrets',
-    },
-    {
-      header: 'Erigon',
-      text: formatMessage({
-        defaultMessage:
-          'Erigon is an execution client on the efficiency frontier, written in Go.',
-      }),
-      imgUrl: ErigonBg,
-      url: routesEnum.erigon,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Erigon',
-      }),
-      layer: layerEnum.execution,
-      discord: 'https://github.com/ledgerwatch/erigon#erigon-discord-server',
-      ...defaultExecutionPorts,
-      jwtUrl:
-        'https://github.com/ledgerwatch/erigon#beacon-chain-consensus-layer',
-    },
+    // {
+    //   header: 'Besu',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java.',
+    //   }),
+    //   imgUrl: BesuBg,
+    //   url: routesEnum.besu,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Besu',
+    //   }),
+    //   layer: layerEnum.execution,
+    //   discord: 'https://discord.gg/hyperledger',
+    //   ...defaultExecutionPorts,
+    //   jwtUrl:
+    //     'https://besu.hyperledger.org/en/stable/public-networks/reference/cli/options/#engine-jwt-secret',
+    // },
+    // {
+    //   header: 'Nethermind',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'Nethermind is a robust client built on .NET core designed for performance, versatility and customizability.',
+    //   }),
+    //   imgUrl: NethermindBg,
+    //   url: routesEnum.nethermind,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Nethermind',
+    //   }),
+    //   layer: layerEnum.execution,
+    //   discord: 'https://discord.gg/PaCMRFdvWT',
+    //   ...defaultExecutionPorts,
+    //   jwtUrl:
+    //     'https://docs.nethermind.io/nethermind/first-steps-with-nethermind/running-nethermind-post-merge#jwt-secrets',
+    // },
+    // {
+    //   header: 'Erigon',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'Erigon is an execution client on the efficiency frontier, written in Go.',
+    //   }),
+    //   imgUrl: ErigonBg,
+    //   url: routesEnum.erigon,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Erigon',
+    //   }),
+    //   layer: layerEnum.execution,
+    //   discord: 'https://github.com/ledgerwatch/erigon#erigon-discord-server',
+    //   ...defaultExecutionPorts,
+    //   jwtUrl:
+    //     'https://github.com/ledgerwatch/erigon#beacon-chain-consensus-layer',
+    // },
     {
       header: 'Geth',
       text: formatMessage({
         defaultMessage:
-          'Geth is one of the three original implementations of the Stratis protocol, written in Go.',
+          'Geth is one of the three original implementations of the Ethereum protocol, written in Go.',
       }),
       imgUrl: GethBg,
       url: routesEnum.geth,
@@ -320,45 +319,45 @@ export const Checklist = () => {
       ...defaultExecutionPorts,
       jwtUrl: 'https://geth.stratisevm.com/docs/interface/consensus-clients',
     },
-    {
-      header: 'Lighthouse',
-      text: formatMessage({
-        defaultMessage:
-          'Lighthouse is a consensus client implementation, written in Rust with a heavy focus on speed and security.',
-      }),
-      imgUrl: LighthouseBg,
-      url: routesEnum.lighthouse,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Lighthouse',
-      }),
-      layer: layerEnum.consensus,
-      discord: 'https://discord.gg/uC7TuaH',
-      ...defaultConsensusPorts,
-      jwtUrl:
-        'https://lighthouse-book.sigmaprime.io/merge-migration.html#connecting-to-an-execution-engine',
-      feeRecipientUrl:
-        'https://lighthouse-book.sigmaprime.io/suggested-fee-recipient.html',
-      metricsUrl: 'https://github.com/sigp/lighthouse-metrics',
-    },
-    {
-      header: 'Nimbus',
-      text: formatMessage({
-        defaultMessage:
-          'Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices.',
-      }),
-      imgUrl: NimbusBg,
-      url: routesEnum.nimbus,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Nimbus',
-      }),
-      layer: layerEnum.consensus,
-      discord: 'https://discord.gg/YbTCNat',
-      ...defaultConsensusPorts,
-      jwtUrl:
-        'https://nimbus.guide/eth1.html#3-pass-the-url-and-jwt-secret-to-nimbus',
-      feeRecipientUrl: 'https://nimbus.guide/suggested-fee-recipient.html',
-      metricsUrl: 'https://nimbus.guide/metrics-pretty-pictures.html',
-    },
+    // {
+    //   header: 'Lighthouse',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'Lighthouse is a consensus client implementation, written in Rust with a heavy focus on speed and security.',
+    //   }),
+    //   imgUrl: LighthouseBg,
+    //   url: routesEnum.lighthouse,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Lighthouse',
+    //   }),
+    //   layer: layerEnum.consensus,
+    //   discord: 'https://discord.gg/uC7TuaH',
+    //   ...defaultConsensusPorts,
+    //   jwtUrl:
+    //     'https://lighthouse-book.sigmaprime.io/merge-migration.html#connecting-to-an-execution-engine',
+    //   feeRecipientUrl:
+    //     'https://lighthouse-book.sigmaprime.io/suggested-fee-recipient.html',
+    //   metricsUrl: 'https://github.com/sigp/lighthouse-metrics',
+    // },
+    // {
+    //   header: 'Nimbus',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices.',
+    //   }),
+    //   imgUrl: NimbusBg,
+    //   url: routesEnum.nimbus,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Nimbus',
+    //   }),
+    //   layer: layerEnum.consensus,
+    //   discord: 'https://discord.gg/YbTCNat',
+    //   ...defaultConsensusPorts,
+    //   jwtUrl:
+    //     'https://nimbus.guide/eth1.html#3-pass-the-url-and-jwt-secret-to-nimbus',
+    //   feeRecipientUrl: 'https://nimbus.guide/suggested-fee-recipient.html',
+    //   metricsUrl: 'https://nimbus.guide/metrics-pretty-pictures.html',
+    // },
     {
       header: 'Prysm',
       text: formatMessage({
@@ -380,26 +379,26 @@ export const Checklist = () => {
       metricsUrl:
         'https://docs.prylabs.network/docs/prysm-usage/monitoring/grafana-dashboard/',
     },
-    {
-      header: 'Teku',
-      text: formatMessage({
-        defaultMessage:
-          'PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements.',
-      }),
-      imgUrl: TekuBg,
-      url: routesEnum.teku,
-      linkText: formatMessage({
-        defaultMessage: 'Configure Teku',
-      }),
-      layer: layerEnum.consensus,
-      discord: 'https://discord.gg/7hPv2T6',
-      ...defaultConsensusPorts,
-      jwtUrl:
-        'https://docs.teku.consensys.net/get-started/connect/mainnet#1-generate-the-shared-secret',
-      feeRecipientUrl:
-        'https://docs.teku.consensys.net/reference/cli#validators-proposer-default-fee-recipient',
-      metricsUrl: 'https://docs.teku.consensys.net/how-to/monitor/use-metrics',
-    },
+    // {
+    //   header: 'Teku',
+    //   text: formatMessage({
+    //     defaultMessage:
+    //       'PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements.',
+    //   }),
+    //   imgUrl: TekuBg,
+    //   url: routesEnum.teku,
+    //   linkText: formatMessage({
+    //     defaultMessage: 'Configure Teku',
+    //   }),
+    //   layer: layerEnum.consensus,
+    //   discord: 'https://discord.gg/7hPv2T6',
+    //   ...defaultConsensusPorts,
+    //   jwtUrl:
+    //     'https://docs.teku.consensys.net/get-started/connect/mainnet#1-generate-the-shared-secret',
+    //   feeRecipientUrl:
+    //     'https://docs.teku.consensys.net/reference/cli#validators-proposer-default-fee-recipient',
+    //   metricsUrl: 'https://docs.teku.consensys.net/how-to/monitor/use-metrics',
+    // },
   ]);
 
   const formArrow = React.useMemo(
@@ -529,10 +528,10 @@ export const Checklist = () => {
             </li>
             <li className="py5">
               <Text>
-                <FormattedMessage defaultMessage="Since the Merge, third-party providers (such as Infura and Alchemy) are no longer viable options to outsource execution layer responsibilities. All stakers must run both an execution and a consensus client to properly attest to the network." />
+                <FormattedMessage defaultMessage="All stakers must run both an execution and a consensus client to properly attest to the network." />
               </Text>
             </li>
-            <li className="py5">
+            {/* <li className="py5">
               <Text>
                 <FormattedMessage
                   defaultMessage="As of {date}, you'll need ~1TB for the Mainnet execution chain data alone (growing at >1GB/day)."
@@ -547,8 +546,8 @@ export const Checklist = () => {
                   }}
                 />
               </Text>
-            </li>
-            <li className="py5">
+            </li> */}
+            {/* <li className="py5">
               <Text>
                 <FormattedMessage
                   defaultMessage="Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
@@ -564,7 +563,7 @@ export const Checklist = () => {
                   }}
                 />
               </Text>
-            </li>
+            </li> */}
             <li className="py5">
               <Text>
                 <FormattedMessage defaultMessage="You'll need SSD storage to consistently handle necessary read/write speeds." />
@@ -584,12 +583,12 @@ export const Checklist = () => {
           <ul className="sub-checklist-item">
             <li className="py5">
               <Text>
-                <FormattedMessage defaultMessage="Check with client documentation to ensure the hardware you want to use is sufficient and supported." />
+                <FormattedMessage defaultMessage="CPU: We recommened a minnimum of 4 Cores" />
               </Text>
             </li>
             <li className="py5">
               <Text>
-                <FormattedMessage defaultMessage="Resource usage can vary significantly between clients. Research the different clients if you're working with resource constraints." />
+                <FormattedMessage defaultMessage="RAM: We recommend a minnimum of 8GB" />
               </Text>
             </li>
           </ul>
@@ -873,10 +872,10 @@ export const Checklist = () => {
           </Heading>
           <Text className="mt20">
             <FormattedMessage defaultMessage="We strongly recommended you complete these steps on the current testnet before Mainnet." />
-            {'  '}
+            {/* {'  '}
             <Link inline primary to={TESTNET_LAUNCHPAD_URL}>
               {TESTNET_LAUNCHPAD_NAME}
-            </Link>
+            </Link> */}
           </Text>
         </Alert>
         <section>
@@ -932,7 +931,7 @@ export const Checklist = () => {
           <CheckBox
             label={
               <Text className="checkbox-label">
-                <FormattedMessage defaultMessage="I've joined my execution client's Discord server." />
+                <FormattedMessage defaultMessage="I've joined Stratis Discord server." />
               </Text>
             }
           />

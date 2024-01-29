@@ -61,11 +61,11 @@ export const BesuDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--network=goerli</Code>,
+                auroria: <Code className="mt20">--network=auroria</Code>,
               }}
-              description="{goerli} shows '--network=goerli' terminal command"
+              description="{auroria} shows '--network=auroria' terminal command"
             />
           </Text>
           <Link

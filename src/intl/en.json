@@ -82,7 +82,7 @@
     "message": "If at all possible, consider running another client at this time to help protect yourself and the network."
   },
   "/tHxib": {
-    "message": "Geth is one of the three original implementations of the Stratis protocol, written in Go."
+    "message": "Geth is one of the three original implementations of the Ethereum protocol, written in Go."
   },
   "/ub26/": {
     "message": "Understand the risks"
@@ -515,8 +515,8 @@
     "message": "Spanish"
   },
   "8XQmxX": {
-    "description": "{goerli} shows '--chain goerli' terminal command",
-    "message": "Use {goerli} to sync the Auroria testnet."
+    "description": "{auroria} shows '--chain auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "8boRAk": {
     "message": "slashings"
@@ -1182,8 +1182,8 @@
     "message": "Validator FAQs"
   },
   "LibVut": {
-    "description": "{goerli} shows '--config goerli' terminal command",
-    "message": "Use {goerli} to sync the Auroria testnet."
+    "description": "{auroria} shows '--config auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "Ljo9dF": {
     "message": "Bulgarian"
@@ -1736,7 +1736,7 @@
     "message": "Besu on Auroria documentation"
   },
   "XVRQoq": {
-    "message": "Since the Merge, third-party providers (such as Infura and Alchemy) are no longer viable options to outsource execution layer responsibilities. All stakers must run both an execution and a consensus client to properly attest to the network."
+    "message": "All stakers must run both an execution and a consensus client to properly attest to the network."
   },
   "XVehvN": {
     "description": "{filesPattern} refers to a computer command which will find {keyFile} and\n                {passwordFile} - both files within a computer.",
@@ -2137,7 +2137,7 @@
     "message": "Validators still need to complete their validation duties until they are exited"
   },
   "gN9D/h": {
-    "message": "Use {goerli} to sync the Auroria testnet."
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "gQkd2y": {
     "message": "Generate deposit keys using the Stratis deposit tool"
@@ -2641,8 +2641,8 @@
     "message": "An error occurred"
   },
   "ozEkVY": {
-    "description": "{goerli} shows '--network=goerli' terminal command",
-    "message": "Use {goerli} to sync the Auroria testnet."
+    "description": "{auroria} shows '--network=auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "p+kDTB": {
     "message": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."

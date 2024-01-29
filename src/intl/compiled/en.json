@@ -208,7 +208,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth is one of the three original implementations of the Stratis protocol, written in Go."
+      "value": "Geth is one of the three original implementations of the Ethereum protocol, written in Go."
     }
   ],
   "/ub26/": [
@@ -1436,7 +1436,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -3080,7 +3080,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -4564,7 +4564,7 @@
   "XVRQoq": [
     {
       "type": 0,
-      "value": "Since the Merge, third-party providers (such as Infura and Alchemy) are no longer viable options to outsource execution layer responsibilities. All stakers must run both an execution and a consensus client to properly attest to the network."
+      "value": "All stakers must run both an execution and a consensus client to properly attest to the network."
     }
   ],
   "XVehvN": [
@@ -5614,7 +5614,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -6928,7 +6928,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,

@@ -1079,7 +1079,7 @@ export const Withdrawals = () => {
               <Link
                 primary
                 inline
-                to="https://notes.stratisevm.com/@launchpad/goerli"
+                to="https://notes.stratisevm.com/@launchpad/auroria"
               >
                 <FormattedMessage defaultMessage="How to join the public withdrawals testnet" />
               </Link>

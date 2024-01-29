@@ -74,17 +74,17 @@ export const NethermindDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--config goerli</Code>,
+                auroria: <Code className="mt20">--config auroria</Code>,
               }}
-              description="{goerli} shows '--config goerli' terminal command"
+              description="{auroria} shows '--config auroria' terminal command"
             />
           </Text>
           <Link
             primary
             className="mt20"
-            to="https://docs.nethermind.io/nethermind/ethereum-client/networks#goerli-goerli"
+            to="https://docs.nethermind.io/nethermind/ethereum-client/networks#auroria-auroria"
           >
             <FormattedMessage
               defaultMessage="Nethermind on Auroria documentation"

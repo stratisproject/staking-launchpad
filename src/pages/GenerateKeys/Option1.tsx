@@ -50,7 +50,7 @@ export const Option1 = ({
       </Text>
       <Link
         isTextLink={false}
-        to="https://github.com/ethereum/staking-deposit-cli/releases/"
+        to="https://github.com/stratisproject/staking-deposit-cli/releases/"
         className="my40"
       >
         <Button

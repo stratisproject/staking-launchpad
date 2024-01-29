@@ -12,22 +12,22 @@ import { Link } from '../../../components/Link';
 import { Code } from '../../../components/Code';
 import { Heading } from '../../../components/Heading';
 import { IS_GOERLI } from '../../ConnectWallet/web3Utils';
-import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
+// import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
 
 import { IS_MAINNET } from '../../../utils/envVars';
 
 // eslint-disable-next-line no-unused-vars
 export const GethDetails = () => (
   <>
-    <ClientDiversityWarning>
+    {/* <ClientDiversityWarning>
       <FormattedMessage defaultMessage="Currently Geth is used by >66% of the network." />
-    </ClientDiversityWarning>
-    <SectionTitle level={2} className="mb5">
+    </ClientDiversityWarning> */}
+    {/* <SectionTitle level={2} className="mb5">
       Geth
     </SectionTitle>
     <Text className="mt10">
       <FormattedMessage defaultMessage="One of the three original implementations of the Stratis protocol." />
-    </Text>
+    </Text> */}
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />
     </SectionTitle>
@@ -63,9 +63,9 @@ export const GethDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--goerli</Code>,
+                auroria: <Code className="mt20">--auroria</Code>,
               }}
             />
           </Text>

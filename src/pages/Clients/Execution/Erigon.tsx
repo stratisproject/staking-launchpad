@@ -61,11 +61,11 @@ export const ErigonDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--chain goerli</Code>,
+                auroria: <Code className="mt20">--chain auroria</Code>,
               }}
-              description="{goerli} shows '--chain goerli' terminal command"
+              description="{auroria} shows '--chain auroria' terminal command"
             />
           </Text>
           <Link

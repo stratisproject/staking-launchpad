@@ -516,13 +516,13 @@ const _CongratulationsPage = ({
                   </Link>
                   <Link
                     isTextLink={false}
-                    to="https://dsc.gg/ethstaker"
+                    to="https://discord.com/invite/9tDyfZs"
                     className="mt20"
                   >
                     <Button
                       fullWidth
                       label={formatMessage({
-                        defaultMessage: 'EthStaker community',
+                        defaultMessage: 'Stratis community',
                       })}
                     />
                   </Link>
