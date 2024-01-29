@@ -34,9 +34,9 @@ export const Phishing = () => {
                 defaultMessage="Does the site asking you for your {ethAmount} deposit have a URL you
                 expect?"
                 values={{
-                  ethAmount: `${PRICE_PER_VALIDATOR} STRAT`,
+                  ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                 }}
-                description="{ethAmount} will generally refer to 32 STRAT"
+                description="{ethAmount} will generally refer to 32 STRAX"
               />
             </Text>
           </li>
@@ -69,13 +69,13 @@ export const Phishing = () => {
                   ethereumorg: (
                     <Link
                       inline
-                      to="https://ethereum.org/en/staking/deposit-contract/"
+                      to="https://stratisevm.com/en/staking/deposit-contract/"
                     >
-                      ethereum.org
+                      stratisevm.com
                     </Link>
                   ),
                 }}
-                description="{ethereumorg} is a link to deposit contract page on ethereum.org"
+                description="{ethereumorg} is a link to deposit contract page on stratisevm.com"
               />
             </Text>
           </li>
@@ -89,9 +89,9 @@ export const Phishing = () => {
                   <FormattedMessage
                     defaultMessage="Are there recent {ethAmount} deposits?"
                     values={{
-                      ethAmount: `${PRICE_PER_VALIDATOR} STRAT`,
+                      ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                     }}
-                    description="Asks users to check deposit contract address against a block explorer and confirm 32 STRAT deposits are present"
+                    description="Asks users to check deposit contract address against a block explorer and confirm 32 STRAX deposits are present"
                   />
                 </Text>
               </li>

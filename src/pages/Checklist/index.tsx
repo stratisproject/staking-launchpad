@@ -318,7 +318,7 @@ export const Checklist = () => {
       layer: layerEnum.execution,
       discord: 'https://discord.gg/nthXNEv',
       ...defaultExecutionPorts,
-      jwtUrl: 'https://geth.ethereum.org/docs/interface/consensus-clients',
+      jwtUrl: 'https://geth.stratisevm.com/docs/interface/consensus-clients',
     },
     {
       header: 'Lighthouse',
@@ -508,7 +508,7 @@ export const Checklist = () => {
                   values={{
                     executionClient: (
                       <Link
-                        to="https://ethereum.org/en/glossary/#execution-client"
+                        to="https://stratisevm.com/en/glossary/#execution-client"
                         inline
                       >
                         <FormattedMessage defaultMessage="execution client" />
@@ -516,7 +516,7 @@ export const Checklist = () => {
                     ),
                     consensusClient: (
                       <Link
-                        to="https://ethereum.org/en/glossary/#consensus-client"
+                        to="https://stratisevm.com/en/glossary/#consensus-client"
                         inline
                       >
                         <FormattedMessage defaultMessage="consensus client" />

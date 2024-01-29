@@ -28,7 +28,8 @@ import {
   TICKER_NAME,
 } from '../../utils/envVars';
 import { routesEnum } from '../../Routes';
-import LeslieTheRhinoPNG from '../../static/leslie-rhino.png';
+// import LeslieTheRhinoPNG from '../../static/leslie-rhino.png';
+import LargeLogoPNG from '../../static/large_logo.png';
 import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowStep';
 import {
   DepositStatus,
@@ -185,7 +186,7 @@ const ChecklistAlert = styled.div`
   }
 `;
 
-const Leslie = styled.img.attrs({ src: LeslieTheRhinoPNG })`
+const Leslie = styled.img.attrs({ src: LargeLogoPNG })`
   width: 200px;
   transform: scale(-1.2, 1.2);
   margin: 3rem 0 5rem 4rem;

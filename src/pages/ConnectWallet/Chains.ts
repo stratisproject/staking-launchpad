@@ -12,7 +12,7 @@ export const changeToTestnet = async (chainId: number) => {
           chainName: NETWORK_NAME,
           nativeCurrency: {
             name: 'Testnet Stratis',
-            symbol: 'tSTRAT',
+            symbol: 'tSTRAX',
             decimals: 18,
           },
           rpcUrls: [RPC_URL],

@@ -5,7 +5,6 @@ import { Hero } from './Hero';
 import { NetworkStatus } from './NetworkStatus';
 import { Introduction } from './Introduction';
 import { SignupSteps } from './SignupSteps';
-import { Upgrades } from './Upgrades';
 import { IS_MAINNET } from '../../utils/envVars';
 import { useBeaconchainData } from '../../hooks/useBeaconchainData';
 
@@ -20,7 +19,6 @@ export const LandingPage = (): JSX.Element => {
       <NetworkStatus {...{ state }} />
       <Introduction />
       <SignupSteps />
-      <Upgrades />
     </>
   );
 };

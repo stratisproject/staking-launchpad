@@ -112,13 +112,13 @@ export const FAQ = () => {
           </section>
           <section>
             <Heading level={4}>
-              <FormattedMessage defaultMessage="How much STRAT do I need to stake to become a validator?" />
+              <FormattedMessage defaultMessage="How much STRAX do I need to stake to become a validator?" />
             </Heading>
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Each key-pair associated with a validator requires locking {ethPerValidator} to be activated, which represents your initial balance as well as your {initialAndMaximum} voting power for any validator."
                 values={{
-                  ethPerValidator: <strong>{PRICE_PER_VALIDATOR} STRAT</strong>,
+                  ethPerValidator: <strong>{PRICE_PER_VALIDATOR} STRAX</strong>,
                   initialAndMaximum: (
                     <em>
                       <FormattedMessage defaultMessage="initial and maximum" />
@@ -131,7 +131,7 @@ export const FAQ = () => {
           <section>
             <Heading level={4}>
               <FormattedMessage
-                defaultMessage="Is there any advantage to having more than {pricePerValidator} STRAT at stake?"
+                defaultMessage="Is there any advantage to having more than {pricePerValidator} STRAX at stake?"
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -139,7 +139,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="No. There is no advantage to having more than {pricePerValidator} STRAT staked."
+                defaultMessage="No. There is no advantage to having more than {pricePerValidator} STRAX staked."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -147,7 +147,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Depositing more than {pricePerValidator} STRAT to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} STRAT, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAT increments, each with its own set of keys and balance."
+                defaultMessage="Depositing more than {pricePerValidator} STRAX to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} STRAX, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAX increments, each with its own set of keys and balance."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                   effectiveBalance: (
@@ -172,7 +172,7 @@ export const FAQ = () => {
           <section>
             <Heading level={4}>
               <FormattedMessage
-                defaultMessage="Why the {pricePerValidator} STRAT maximum?"
+                defaultMessage="Why the {pricePerValidator} STRAX maximum?"
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -180,7 +180,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Each {pricePerValidator} STRAT deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAT requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAT was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+                defaultMessage="Each {pricePerValidator} STRAX deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAX requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAX was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -188,7 +188,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Limiting the maximum stake to {pricePerValidator} STRAT per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAT that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+                defaultMessage="Limiting the maximum stake to {pricePerValidator} STRAX per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAX that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -202,7 +202,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Do not deposit more than {PRICE_PER_VALIDATOR} STRAT for a single validator—it will not add to your rewards."
+                defaultMessage="Do not deposit more than {PRICE_PER_VALIDATOR} STRAX for a single validator—it will not add to your rewards."
                 values={{ PRICE_PER_VALIDATOR }}
               />
             </Text>
@@ -250,7 +250,7 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="Can I stop running my validator for a few days and then start it back up again?" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAT roughly equivalent to the amount of STRAT you would have gained in that period. In other words, if you stood to earn ≈0.01 STRAT, you would instead be penalized ≈0.01 STRAT." />
+              <FormattedMessage defaultMessage="Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAX roughly equivalent to the amount of STRAX you would have gained in that period. In other words, if you stood to earn ≈0.01 STRAX, you would instead be penalized ≈0.01 STRAX." />
             </Text>
           </section>
           <section>
@@ -259,23 +259,23 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="The answer to this question very much depends on how much STRAT you
+                defaultMessage="The answer to this question very much depends on how much STRAX you
                   have at your disposal."
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="You should certainly top up if your balance is close to {EJECTION_PRICE} STRAT.
+                defaultMessage="You should certainly top up if your balance is close to {EJECTION_PRICE} STRAX.
                   This is to ensure you don’t get kicked out of the validator
                   set (which automatically happens if your balance falls below {EJECTION_PRICE}
-                  STRAT)."
+                  STRAX)."
                 values={{ EJECTION_PRICE }}
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="At the other end of the spectrum, if your balance is closer to 31
-                  STRAT, it’s probably not worth adding the extra STRAT required to get back to 32."
+                  STRAX, it’s probably not worth adding the extra STRAX required to get back to 32."
               />
             </Text>
           </section>
@@ -339,7 +339,7 @@ export const FAQ = () => {
                 values={{
                   executionLayer: (
                     <Link
-                      to="https://ethereum.org/en/glossary/#execution-layer"
+                      to="https://stratisevm.com/en/glossary/#execution-layer"
                       primary
                       inline
                     >
@@ -348,7 +348,7 @@ export const FAQ = () => {
                   ),
                   consensusLayer: (
                     <Link
-                      to="https://ethereum.org/en/glossary/#consensus-layer"
+                      to="https://stratisevm.com/en/glossary/#consensus-layer"
                       primary
                       inline
                     >
@@ -366,7 +366,7 @@ export const FAQ = () => {
               />
             </Text>
             <Link
-              to="https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/"
+              to="https://blog.stratisevm.com/2022/01/24/the-great-eth2-renaming/"
               primary
               className="mt20"
             >
@@ -402,7 +402,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} STRAT. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
+                defaultMessage="Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} STRAX. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
                 values={{
                   pricePerValidator: PRICE_PER_VALIDATOR,
                 }}
@@ -604,12 +604,12 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Block rewards are calculated using a sliding scale based on the
-                  total amount of STRAT staked on the network."
+                  total amount of STRAX staked on the network."
               />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="In other words: if the total amount of STRAT staked is low, the
+                defaultMessage="In other words: if the total amount of STRAX staked is low, the
                   reward (interest rate) is high, but as the total stake rises, the
                   reward (interest) paid out to each validator starts to fall."
               />
@@ -618,7 +618,7 @@ export const FAQ = () => {
               <FormattedMessage
                 defaultMessage="Why a sliding scale? While we won’t get into the gory details
                   here, the basic intution is that there needs to be a minimum
-                  number of validators (and hence a minimum amount of STRAT staked)
+                  number of validators (and hence a minimum amount of STRAX staked)
                   for the network to function properly. So, to incentivize more
                   validators to join, it’s important that the interest rate remains
                   high until this minimum number is reached."
@@ -701,7 +701,7 @@ export const FAQ = () => {
               <Text className="my20">
                 <FormattedMessage
                   defaultMessage="Note that in the second (unlikely) scenario, you stand to progressively lose up to 50%
-                  ({EJECTION_PRICE} STRAT) of your stake over 21 days. After 21 days you are ejected out of the validator set.
+                  ({EJECTION_PRICE} STRAX) of your stake over 21 days. After 21 days you are ejected out of the validator set.
                   This ensures that blocks start finalizing again at some point."
                   values={{ EJECTION_PRICE }}
                 />
@@ -719,7 +719,7 @@ export const FAQ = () => {
                 values={{
                   greaterThan50Percent: (
                     <Link
-                      to="https://blog.ethereum.org/2020/01/13/validated-staking-on-eth2-1-incentives/"
+                      to="https://blog.stratisevm.com/2020/01/13/validated-staking-on-eth2-1-incentives/"
                       primary
                       inline
                     >
@@ -743,7 +743,7 @@ export const FAQ = () => {
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="The minimum amount that can be slashed is 1 STRAT, but {strongText}."
+                defaultMessage="The minimum amount that can be slashed is 1 STRAX, but {strongText}."
                 values={{
                   strongText: (
                     <strong>
@@ -833,7 +833,7 @@ export const FAQ = () => {
                         <Link
                           primary
                           inline
-                          to="https://eips.ethereum.org/EIPS/eip-2334"
+                          to="https://eips.stratisevm.com/EIPS/eip-2334"
                         >
                           EIP2334
                         </Link>
@@ -854,7 +854,7 @@ export const FAQ = () => {
                           {' '}
                           {`--eth1_withdrawal_address <`}
                           <AllCaps>
-                            <FormattedMessage defaultMessage="Your STRAT address" />
+                            <FormattedMessage defaultMessage="Your STRAX address" />
                           </AllCaps>
                           {`>`}{' '}
                         </Code>
@@ -909,7 +909,7 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="Over time, your balance will decrease as you are penalized for not participating in the
-                consensus process. When your balance reaches {EJECTION_PRICE} STRAT, you will be automatically exited from
+                consensus process. When your balance reaches {EJECTION_PRICE} STRAX, you will be automatically exited from
                 the validator set."
                 values={{ EJECTION_PRICE }}
               />
@@ -924,7 +924,7 @@ export const FAQ = () => {
                       <Link
                         primary
                         inline
-                        to="https://eips.ethereum.org/EIPS/eip-2334"
+                        to="https://eips.stratisevm.com/EIPS/eip-2334"
                       >
                         EIP2334
                       </Link>

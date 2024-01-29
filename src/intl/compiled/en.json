@@ -108,7 +108,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAT withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
+      "value": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAX withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
     }
   ],
   "/OAba6": [
@@ -184,7 +184,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT maximum?"
+      "value": " STRAX maximum?"
     }
   ],
   "/jJLYy": [
@@ -786,7 +786,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testing on Goerli"
+      "value": "Testing on Auroria"
     }
   ],
   "3ODqP9": [
@@ -800,7 +800,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT to a single set of keys does not increase rewards potential, nor does accumulating rewards above "
+      "value": " STRAX to a single set of keys does not increase rewards potential, nor does accumulating rewards above "
     },
     {
       "type": 1,
@@ -832,7 +832,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT increments, each with its own set of keys and balance."
+      "value": " STRAX increments, each with its own set of keys and balance."
     }
   ],
   "3PbtmF": [
@@ -862,7 +862,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Geth on Goerli documentation"
+      "value": "Geth on Auroria documentation"
     }
   ],
   "3aykgN": [
@@ -974,7 +974,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAT staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
+      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAX staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
     }
   ],
   "4hb+GK": [
@@ -1440,7 +1440,7 @@
     },
     {
       "type": 0,
-      "value": " to sync the Goerli testnet."
+      "value": " to sync the Auroria testnet."
     }
   ],
   "8boRAk": [
@@ -1548,7 +1548,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT at stake?"
+      "value": " STRAX at stake?"
     }
   ],
   "9JktQX": [
@@ -2078,7 +2078,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "How much STRAT do I need to stake to become a validator?"
+      "value": "How much STRAX do I need to stake to become a validator?"
     }
   ],
   "DCaq7N": [
@@ -2476,7 +2476,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "It is not possible to manually request specific amounts of STRAT to be withdrawn"
+      "value": "It is not possible to manually request specific amounts of STRAX to be withdrawn"
     }
   ],
   "GUDhpC": [
@@ -3084,7 +3084,7 @@
     },
     {
       "type": 0,
-      "value": " to sync the Goerli testnet."
+      "value": " to sync the Auroria testnet."
     }
   ],
   "Ljo9dF": [
@@ -3140,7 +3140,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAT and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+      "value": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
     }
   ],
   "LwEHRm": [
@@ -3602,7 +3602,7 @@
     },
     {
       "type": 0,
-      "value": ", this prevents large portions of the STRAT from potentially being used in an attack and then quickly exiting from the network all at once."
+      "value": ", this prevents large portions of the STRAX from potentially being used in an attack and then quickly exiting from the network all at once."
     }
   ],
   "P+nziG": [
@@ -3688,7 +3688,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Nethermind on Goerli documentation"
+      "value": "Nethermind on Auroria documentation"
     }
   ],
   "PoBIK+": [
@@ -4098,7 +4098,7 @@
     },
     {
       "type": 0,
-      "value": " which is submitted with your 32 STRAT deposit transaction."
+      "value": " which is submitted with your 32 STRAX deposit transaction."
     }
   ],
   "Sy5bAo": [
@@ -4348,7 +4348,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "In other words: if the total amount of STRAT staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
+      "value": "In other words: if the total amount of STRAX staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
     }
   ],
   "VUuZsb": [
@@ -4558,7 +4558,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Besu on Goerli documentation"
+      "value": "Besu on Auroria documentation"
     }
   ],
   "XVRQoq": [
@@ -4698,7 +4698,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAT that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
+      "value": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAX that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
     }
   ],
   "YP03/j": [
@@ -4974,7 +4974,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT staked."
+      "value": " STRAX staked."
     }
   ],
   "b8APBK": [
@@ -5106,7 +5106,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT for a single validator—it will not add to your rewards."
+      "value": " STRAX for a single validator—it will not add to your rewards."
     }
   ],
   "cE71F9": [
@@ -5492,7 +5492,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "The answer to this question very much depends on how much STRAT you have at your disposal."
+      "value": "The answer to this question very much depends on how much STRAX you have at your disposal."
     }
   ],
   "fQ5yno": [
@@ -5618,7 +5618,7 @@
     },
     {
       "type": 0,
-      "value": " to sync the Goerli testnet."
+      "value": " to sync the Auroria testnet."
     }
   ],
   "gQkd2y": [
@@ -5814,7 +5814,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAT that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+      "value": " STRAX per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAX that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
     }
   ],
   "hrJ1oM": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAT requirement, the more resulting signatures must be saved by the network. "
+      "value": " STRAX deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAX requirement, the more resulting signatures must be saved by the network. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+      "value": " STRAX was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
     }
   ],
   "iX90gu": [
@@ -6674,7 +6674,7 @@
   "naZC3k": [
     {
       "type": 0,
-      "value": "Your STRAT address"
+      "value": "Your STRAX address"
     }
   ],
   "ndhFef": [
@@ -6932,7 +6932,7 @@
     },
     {
       "type": 0,
-      "value": " to sync the Goerli testnet."
+      "value": " to sync the Auroria testnet."
     }
   ],
   "p+kDTB": [
@@ -6976,7 +6976,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAT roughly equivalent to the amount of STRAT you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
+      "value": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAX roughly equivalent to the amount of STRAX you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7994,7 +7994,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Block rewards are calculated using a sliding scale based on the total amount of STRAT staked on the network."
+      "value": "Block rewards are calculated using a sliding scale based on the total amount of STRAX staked on the network."
     }
   ],
   "xXKkhR": [
@@ -8032,7 +8032,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Those looking to exit their validator from staking and withdrawal their STRAT should check out the guide below that matches your setup:"
+      "value": "Those looking to exit their validator from staking and withdrawal their STRAX should check out the guide below that matches your setup:"
     }
   ],
   "xm3Ivd": [
@@ -8254,7 +8254,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAT required to get back to 32."
+      "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAX required to get back to 32."
     }
   ],
   "zJicsO": [

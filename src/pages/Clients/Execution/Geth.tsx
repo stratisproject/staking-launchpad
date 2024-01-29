@@ -43,7 +43,7 @@ export const GethDetails = () => (
       </Text>
       <Link
         primary
-        to="https://geth.ethereum.org/docs/install-and-build/installing-geth"
+        to="https://geth.stratisevm.com/docs/install-and-build/installing-geth"
         className="mt10"
       >
         <FormattedMessage defaultMessage="Geth installation documentation" />
@@ -59,11 +59,11 @@ export const GethDetails = () => (
       {!IS_MAINNET && IS_GOERLI && (
         <>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {goerli} to sync the Auroria testnet."
               values={{
                 goerli: <Code className="mt20">--goerli</Code>,
               }}
@@ -71,9 +71,9 @@ export const GethDetails = () => (
           </Text>
           <Link
             primary
-            to="https://geth.ethereum.org/docs/interface/command-line-options"
+            to="https://geth.stratisevm.com/docs/interface/command-line-options"
           >
-            <FormattedMessage defaultMessage="Geth on Goerli documentation" />
+            <FormattedMessage defaultMessage="Geth on Auroria documentation" />
           </Link>
         </>
       )}
@@ -93,7 +93,7 @@ export const GethDetails = () => (
       </Text>
       <Link
         primary
-        to="https://geth.ethereum.org/docs/interface/command-line-options"
+        to="https://geth.stratisevm.com/docs/interface/command-line-options"
       >
         <FormattedMessage defaultMessage="--http documentation" />
       </Link>
@@ -117,7 +117,7 @@ export const Geth = () => {
           <SectionTitle level={2} className="mb5">
             <FormattedMessage defaultMessage="Documentation" />
           </SectionTitle>
-          <Link primary to="https://geth.ethereum.org/docs/">
+          <Link primary to="https://geth.stratisevm.com/docs/">
             <FormattedMessage defaultMessage="Documentation on running Geth" />
           </Link>
         </section>

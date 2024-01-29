@@ -5,7 +5,8 @@ import ScrollAnimation from 'react-animate-on-scroll';
 // @ts-ignore
 import Animate from 'animate.css-react';
 import { FormattedMessage, useIntl } from 'react-intl';
-import LeslieTheRhinoPNG from '../../static/leslie-rhino.png';
+// import LeslieTheRhinoPNG from '../../static/leslie-rhino.png';
+import LargeLogoPNG from '../../static/large_logo.png';
 import { routesEnum } from '../../Routes';
 import { Heading } from '../../components/Heading';
 import { Text } from '../../components/Text';
@@ -137,7 +138,7 @@ const LeslieImage: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
   <div>
     <ScrollAnimation animateIn="fadeIn" delay={750} animateOnce>
       <StyledLeslieImgNode
-        src={LeslieTheRhinoPNG}
+        src={LargeLogoPNG}
         alt="Leslie the Rhino - Stratis staking mascot"
         {...{ style }}
       />

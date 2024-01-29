@@ -113,11 +113,11 @@ export const Footer = () => {
             </ButtonLink>
           </ButtonContainer>
         )}
-        <div className="col extra-links">
+        {/* <div className="col extra-links">
           <Heading level={4}>
             <FormattedMessage defaultMessage="More on staking" />
           </Heading>
-          <Link to="https://ethereum.org/en/roadmap/">
+          <Link to="https://stratisevm.com/en/roadmap/">
             <FormattedMessage defaultMessage="The Stratis roadmap" />
           </Link>
           <Link to={routesEnum.phishingPage}>
@@ -129,7 +129,7 @@ export const Footer = () => {
           <Link to="https://github.com/runtimeverification/deposit-contract-verification/blob/96434de/deposit-contract-verification.pdf">
             <FormattedMessage defaultMessage="Formal verification report" />
           </Link>
-        </div>
+        </div> */}
       </FooterStyles>
     </RainbowBackground>
   );

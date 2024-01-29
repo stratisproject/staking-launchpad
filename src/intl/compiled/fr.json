@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Sur une boucle sans fin, chaque compte de validateur est évalué en permanence en fonction des retraits de STRAT admissibles (dont il existe deux types, plus à ce sujet ci-dessous). Les validateurs sont traités en ordre par numéro d'index, commençant à l'origine à 0, chaque proposant suivant reprenant là où le dernier s'était arrêté."
+      "value": "Sur une boucle sans fin, chaque compte de validateur est évalué en permanence en fonction des retraits de STRAX admissibles (dont il existe deux types, plus à ce sujet ci-dessous). Les validateurs sont traités en ordre par numéro d'index, commençant à l'origine à 0, chaque proposant suivant reprenant là où le dernier s'était arrêté."
     }
   ],
   "/OAba6": [
@@ -772,7 +772,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Tests sur Goerli"
+      "value": "Tests sur Auroria"
     }
   ],
   "3ODqP9": [
@@ -786,7 +786,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT à un seul ensemble de clés n'augmente pas le potentiel de récompense, pas plus que l'accumulation de récompenses au-dessus de "
+      "value": " STRAX à un seul ensemble de clés n'augmente pas le potentiel de récompense, pas plus que l'accumulation de récompenses au-dessus de "
     },
     {
       "type": 1,
@@ -818,7 +818,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT par échelons, chacun avec son propre ensemble de clés et de solde."
+      "value": " STRAX par échelons, chacun avec son propre ensemble de clés et de solde."
     }
   ],
   "3PbtmF": [
@@ -848,7 +848,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Documentation Geth sur Goerli"
+      "value": "Documentation Geth sur Auroria"
     }
   ],
   "3aykgN": [
@@ -1468,7 +1468,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT en jeu ?"
+      "value": " STRAX en jeu ?"
     }
   ],
   "9JktQX": [
@@ -3154,7 +3154,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis est sécurisé par une preuve d'enjeu, bien que ce ne fut pas toujours le cas. La Chaîne phare a été la première étape vers l'établissement d'une couche de consensus PoS sur Stratis, lancée en parallèle du réseau principal en décembre 2020. Cela a permis aux participants de commencer à staker leur STRAT et de préparer le réseau pour la transition officielle de la preuve de travail à la preuve d'enjeu au moyen de la fusion (The Merge)."
+      "value": "Stratis est sécurisé par une preuve d'enjeu, bien que ce ne fut pas toujours le cas. La Chaîne phare a été la première étape vers l'établissement d'une couche de consensus PoS sur Stratis, lancée en parallèle du réseau principal en décembre 2020. Cela a permis aux participants de commencer à staker leur STRAX et de préparer le réseau pour la transition officielle de la preuve de travail à la preuve d'enjeu au moyen de la fusion (The Merge)."
     }
   ],
   "LwEHRm": [
@@ -3702,7 +3702,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Documentation Nethermind sur Goerli"
+      "value": "Documentation Nethermind sur Auroria"
     }
   ],
   "PoBIK+": [
@@ -4548,7 +4548,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Documentation Besu sur Goerli"
+      "value": "Documentation Besu sur Auroria"
     }
   ],
   "XVRQoq": [
@@ -4904,7 +4904,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "On les appelle aussi « retraits partiels » ou « paiements de récompense » puisque les 32 STRAT restants restent bloqués et mis en jeu."
+      "value": "On les appelle aussi « retraits partiels » ou « paiements de récompense » puisque les 32 STRAX restants restent bloqués et mis en jeu."
     }
   ],
   "a+xjjV": [
@@ -4998,7 +4998,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT engagés."
+      "value": " STRAX engagés."
     }
   ],
   "FWtWw3": [
@@ -5850,7 +5850,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT par validateur encourage la décentralisation du pouvoir, car cela empêche tout validateur unique d'avoir un vote excessivement important sur l'état de la chaîne. Cela limite également la quantité d'ETH qui peut être sortie de la mise en jeu à tout moment, car le nombre de validateurs pouvant se retirer dans une période donnée est limité. Cela aide à protéger le réseau contre certaines attaques."
+      "value": " STRAX par validateur encourage la décentralisation du pouvoir, car cela empêche tout validateur unique d'avoir un vote excessivement important sur l'état de la chaîne. Cela limite également la quantité d'ETH qui peut être sortie de la mise en jeu à tout moment, car le nombre de validateurs pouvant se retirer dans une période donnée est limité. Cela aide à protéger le réseau contre certaines attaques."
     }
   ],
   "huEFUF": [
@@ -5928,7 +5928,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT a été choisi en guise d'équilibre : permettre au plus grand nombre de personnes possible de miser sans entraver la décentralisation en gonflant la taille de chaque bloc au moyen de signatures."
+      "value": " STRAX a été choisi en guise d'équilibre : permettre au plus grand nombre de personnes possible de miser sans entraver la décentralisation en gonflant la taille de chaque bloc au moyen de signatures."
     }
   ],
   "iX90gu": [
@@ -7872,7 +7872,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Ceux qui cherchent à sortir leur validateur du staking et retirer leur STRAT devraient consulter le guide ci-dessous qui correspond à votre configuration :"
+      "value": "Ceux qui cherchent à sortir leur validateur du staking et retirer leur STRAX devraient consulter le guide ci-dessous qui correspond à votre configuration :"
     }
   ],
   "xm3Ivd": [
@@ -8112,7 +8112,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT pour un seul validateur. Il ne sera pas ajouté à vos récompenses et sera verrouillé jusqu'à la mise à jour de Shanghai/Capella prévue."
+      "value": " STRAX pour un seul validateur. Il ne sera pas ajouté à vos récompenses et sera verrouillé jusqu'à la mise à jour de Shanghai/Capella prévue."
     }
   ],
   "zbEBi9": [

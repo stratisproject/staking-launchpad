@@ -46,7 +46,7 @@
     "message": "Indonesian"
   },
   "/JiR8D": {
-    "message": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAT withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
+    "message": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAX withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
   },
   "/OAba6": {
     "message": "Note the “activation” and “exit” queues are independent and do not compete. Each are limited on a per-epoch basis."
@@ -70,7 +70,7 @@
     "message": "withdrawable epoch"
   },
   "/h0DGY": {
-    "message": "Why the {pricePerValidator} STRAT maximum?"
+    "message": "Why the {pricePerValidator} STRAX maximum?"
   },
   "/jJLYy": {
     "message": "Transactions"
@@ -298,10 +298,10 @@
     "message": "Command line with flags"
   },
   "3NHygY": {
-    "message": "Testing on Goerli"
+    "message": "Testing on Auroria"
   },
   "3ODqP9": {
-    "message": "Depositing more than {pricePerValidator} STRAT to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} ETH, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAT increments, each with its own set of keys and balance."
+    "message": "Depositing more than {pricePerValidator} STRAX to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} ETH, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAX increments, each with its own set of keys and balance."
   },
   "3PbtmF": {
     "message": "Check the whole address, not just a portion of it. There could be just a few bytes different."
@@ -316,7 +316,7 @@
     "message": "These terminology updates only change naming conventions; this does not alter Stratis's goals or roadmap."
   },
   "3URRZK": {
-    "message": "Geth on Goerli documentation"
+    "message": "Geth on Auroria documentation"
   },
   "3aykgN": {
     "message": "Your validator will also receives unburnt gas fees when proposing blocks. Validators are chosen randomly by the protocol to propose blocks, and only one validator can propose a block for each 12-second slot. There are 7200 slots each day, so each validator has 7200 chances-per-day to propose a block. If there are 500,000 validators, each validator will {average} a block proposal every 70 days."
@@ -347,7 +347,7 @@
     "message": "Start by setting up your chosen hardware and operating system."
   },
   "4QNsja": {
-    "message": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAT staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
+    "message": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAX staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
   },
   "4hb+GK": {
     "message": "Withdrawal address"
@@ -516,7 +516,7 @@
   },
   "8XQmxX": {
     "description": "{goerli} shows '--chain goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "message": "Use {goerli} to sync the Auroria testnet."
   },
   "8boRAk": {
     "message": "slashings"
@@ -558,7 +558,7 @@
     "message": "For security, we recommend you disconnect from the internet to complete this step."
   },
   "9DZdsc": {
-    "message": "Is there any advantage to having more than {pricePerValidator} STRAT at stake?"
+    "message": "Is there any advantage to having more than {pricePerValidator} STRAX at stake?"
   },
   "9JktQX": {
     "message": "There is no easy answer to this question as there are many factors that go into this calculation."
@@ -770,7 +770,7 @@
     "message": "Current APR"
   },
   "D4cQV/": {
-    "message": "How much STRAT do I need to stake to become a validator?"
+    "message": "How much STRAX do I need to stake to become a validator?"
   },
   "DCaq7N": {
     "message": "Your wallet is connected to the right network!"
@@ -806,7 +806,7 @@
     "message": "The clients support Prometheus and Grafana to help you visualize important real-time metrics about your validator."
   },
   "DoCZT1": {
-    "description": "{minTopupValue} is a number, and {TICKER_NAME} is either STRAT or GöETH depending on network",
+    "description": "{minTopupValue} is a number, and {TICKER_NAME} is either STRAX or GöETH depending on network",
     "message": "Validator effective balance is currently maxed out. If desired, you may add {minTopupValue} {TICKER_NAME} (the minimum allowed by the deposit contract)"
   },
   "DsJ/Mk": {
@@ -933,7 +933,7 @@
     "message": "How badly will I be penalized for being offline?"
   },
   "GTkW7D": {
-    "message": "It is not possible to manually request specific amounts of STRAT to be withdrawn"
+    "message": "It is not possible to manually request specific amounts of STRAX to be withdrawn"
   },
   "GUDhpC": {
     "message": "Section 1"
@@ -1183,7 +1183,7 @@
   },
   "LibVut": {
     "description": "{goerli} shows '--config goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "message": "Use {goerli} to sync the Auroria testnet."
   },
   "Ljo9dF": {
     "message": "Bulgarian"
@@ -1202,7 +1202,7 @@
     "message": "Your initial deposit has already been made for this validator public key. Please wait and check the status of your deposit on the Beaconchain data provider."
   },
   "Lv57+8": {
-    "message": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAT and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+    "message": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
   },
   "LwEHRm": {
     "message": "Why do I need to run an execution client now?"
@@ -1367,7 +1367,7 @@
     "message": "Everything you should understand before becoming a validator."
   },
   "Ox4e26": {
-    "message": "Similarly, there is also an {exitQueue}, which limits how quickly validators can {leave} the network. This is for security reasons. Given each validator is limited to a max effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the STRAT from potentially being used in an attack and then quickly exiting from the network all at once."
+    "message": "Similarly, there is also an {exitQueue}, which limits how quickly validators can {leave} the network. This is for security reasons. Given each validator is limited to a max effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the STRAX from potentially being used in an attack and then quickly exiting from the network all at once."
   },
   "P+nziG": {
     "message": "As a validator, you'll need to have funds at stake so you can be penalized for behaving dishonestly."
@@ -1401,8 +1401,8 @@
     "message": "Formal verification report"
   },
   "PmrcLE": {
-    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Goerli",
-    "message": "Nethermind on Goerli documentation"
+    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Auroria",
+    "message": "Nethermind on Auroria documentation"
   },
   "PoBIK+": {
     "message": "You'll need SSD storage to consistently handle necessary read/write speeds."
@@ -1556,7 +1556,7 @@
     "message": "Exit queue summary"
   },
   "Sv30z9": {
-    "message": "If you’re preparing to make a deposit to activate a new validator, you can (and should) provide a withdrawal address with your initial deposit. This is done at time of key generation, and is then included in your deposit data json file {depositData} which is submitted with your 32 STRAT deposit transaction."
+    "message": "If you’re preparing to make a deposit to activate a new validator, you can (and should) provide a withdrawal address with your initial deposit. This is done at time of key generation, and is then included in your deposit data json file {depositData} which is submitted with your 32 STRAX deposit transaction."
   },
   "Sy5bAo": {
     "message": "With the transition to proof-of-stake complete via The Merge, validators are now responsible for processing transactions and signing off on their validity. This data is {not} available from popular third-party sources as of The Merge. Using a third-party provider will result in your validator being offline. When Danksharding is implemented, validators may also be at risk of slashing under the {pocGame}."
@@ -1651,7 +1651,7 @@
     "message": "{PRICE_PER_VALIDATOR} {TICKER_NAME} is the maximum effective validator balance. This means you won't earn more rewards if your validator's balance goes above {PRICE_PER_VALIDATOR}. However you will earn less if it dips below {PRICE_PER_VALIDATOR}."
   },
   "VSSmNp": {
-    "message": "In other words: if the total amount of STRAT staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
+    "message": "In other words: if the total amount of STRAX staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
   },
   "VUuZsb": {
     "message": "martial arts uniform"
@@ -1732,8 +1732,8 @@
     "message": "Once an execution address has been provided by signing the BLS To Execution Change message, the withdrawal keys derived from your validator mnemonic are no longer utilized. Therefore, providing an execution address that you control as early as possible is the recommended option for most users, and is the default path for those who join via this site's onboarding process. This protects you against permanent loss of all funds in the event you are unable to recover your mnemonic and withdrawal keys."
   },
   "XRxD8r": {
-    "description": "Link to documentation about execution client Besu, specifically for Goerli testnet",
-    "message": "Besu on Goerli documentation"
+    "description": "Link to documentation about execution client Besu, specifically for Auroria testnet",
+    "message": "Besu on Auroria documentation"
   },
   "XVRQoq": {
     "message": "Since the Merge, third-party providers (such as Infura and Alchemy) are no longer viable options to outsource execution layer responsibilities. All stakers must run both an execution and a consensus client to properly attest to the network."
@@ -1778,7 +1778,7 @@
     "message": "Keys"
   },
   "YJI2xv": {
-    "message": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAT that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
+    "message": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAX that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
   },
   "YP03/j": {
     "message": "Afterwards, validators are still encouraged to join (the more validators the more decentralized the network), but it’s not absolutely essential that they do so (so the interest rate can fall)."
@@ -1890,7 +1890,7 @@
     "message": "Build deposit-cli from the Python source code"
   },
   "b3J7Pw": {
-    "message": "No. There is no advantage to having more than {pricePerValidator} STRAT staked."
+    "message": "No. There is no advantage to having more than {pricePerValidator} STRAX staked."
   },
   "b8APBK": {
     "message": "More on client diversity"
@@ -1944,7 +1944,7 @@
     "message": "What is a validator client?"
   },
   "cD0jre": {
-    "message": "Do not deposit more than {PRICE_PER_VALIDATOR} STRAT for a single validator—it will not add to your rewards."
+    "message": "Do not deposit more than {PRICE_PER_VALIDATOR} STRAX for a single validator—it will not add to your rewards."
   },
   "cE71F9": {
     "message": "[Example: {fork}]"
@@ -2086,7 +2086,7 @@
     "message": "Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} ETH. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
   },
   "fHLKXR": {
-    "message": "The answer to this question very much depends on how much STRAT you have at your disposal."
+    "message": "The answer to this question very much depends on how much STRAX you have at your disposal."
   },
   "fQ5yno": {
     "message": "Arabic"
@@ -2137,7 +2137,7 @@
     "message": "Validators still need to complete their validation duties until they are exited"
   },
   "gN9D/h": {
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "message": "Use {goerli} to sync the Auroria testnet."
   },
   "gQkd2y": {
     "message": "Generate deposit keys using the Stratis deposit tool"
@@ -2211,7 +2211,7 @@
     "message": "More on effective balance"
   },
   "hlxt3T": {
-    "message": "Limiting the maximum stake to {pricePerValidator} STRAT per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAT that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+    "message": "Limiting the maximum stake to {pricePerValidator} STRAX per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAX that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
   },
   "hrJ1oM": {
     "message": "You can signal your intent to stop validating by signing a voluntary exit message with your validator at any time."
@@ -2245,7 +2245,7 @@
     "message": "Running the validator client"
   },
   "iN1PPs": {
-    "message": "Each {pricePerValidator} STRAT deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAT requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAT was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+    "message": "Each {pricePerValidator} STRAX deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAX requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAX was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
   },
   "iX90gu": {
     "message": "I've joined my execution client's Discord server."
@@ -2547,7 +2547,7 @@
     "message": "Enabling withdrawals"
   },
   "naZC3k": {
-    "message": "Your STRAT address"
+    "message": "Your STRAX address"
   },
   "ndhFef": {
     "message": "Once you're comfortable, you'll go through generating your keys and depositing your ETH."
@@ -2642,7 +2642,7 @@
   },
   "ozEkVY": {
     "description": "{goerli} shows '--network=goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "message": "Use {goerli} to sync the Auroria testnet."
   },
   "p+kDTB": {
     "message": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
@@ -2660,7 +2660,7 @@
     "message": "If you'd like to see the launchpad in another language, or if you can help translate, {getInTouch}!"
   },
   "pGnk/z": {
-    "message": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAT roughly equivalent to the amount of STRAT you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
+    "message": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAX roughly equivalent to the amount of STRAX you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
   },
   "pHQwsN": {
     "message": "Launch the app from your desktop environment by double clicking on it."
@@ -2924,7 +2924,7 @@
     "message": "Become a validator with Nimbus"
   },
   "up+5YH": {
-    "description": "Asks users to check deposit contract address against a block explorer and confirm 32 STRAT deposits are present",
+    "description": "Asks users to check deposit contract address against a block explorer and confirm 32 STRAX deposits are present",
     "message": "Are there recent {ethAmount} deposits?"
   },
   "vBJ79e": {
@@ -3008,7 +3008,7 @@
     "message": "We strongly recommended you complete these steps on the current testnet before Mainnet."
   },
   "xDyl3T": {
-    "description": "{ethereumorg} is a link to deposit contract page on ethereum.org",
+    "description": "{ethereumorg} is a link to deposit contract page on stratisevm.com",
     "message": "Cross check the deposit contract address against other websites – for example: Reddit, Twitter, and GitHub. There's also a list of trusted sources on {ethereumorg}"
   },
   "xETYo6": {
@@ -3030,7 +3030,7 @@
     "message": "Please review the staking checklist prior to proceeding. Use this as a guide to check off tasks as you complete validator setup."
   },
   "xSvJIi": {
-    "message": "Block rewards are calculated using a sliding scale based on the total amount of STRAT staked on the network."
+    "message": "Block rewards are calculated using a sliding scale based on the total amount of STRAX staked on the network."
   },
   "xXKkhR": {
     "message": "I've installed and synced my {network} execution client (do not wait on this as it can take several days)."
@@ -3045,7 +3045,7 @@
     "message": "Install python3.7+"
   },
   "xh7oVn": {
-    "message": "Those looking to exit their validator from staking and withdrawal their STRAT should check out the guide below that matches your setup:"
+    "message": "Those looking to exit their validator from staking and withdrawal their STRAX should check out the guide below that matches your setup:"
   },
   "xm3Ivd": {
     "message": "This JSON file isn't for the right network. Upload a file generated for your current network: {consensusLayerName}."
@@ -3133,7 +3133,7 @@
     "message": "{stakingDepositCli}: if you used the “eth1 withdrawal address” ({eth1WithdrawalAddress}) flag when generating your keys, you're good to go"
   },
   "zGkAVo": {
-    "message": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAT required to get back to 32."
+    "message": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAX required to get back to 32."
   },
   "zJicsO": {
     "message": "Staking economics"

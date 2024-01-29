@@ -70,11 +70,11 @@ export const NethermindDetails = () => (
       {!IS_MAINNET && IS_GOERLI && (
         <>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {goerli} to sync the Auroria testnet."
               values={{
                 goerli: <Code className="mt20">--config goerli</Code>,
               }}
@@ -87,8 +87,8 @@ export const NethermindDetails = () => (
             to="https://docs.nethermind.io/nethermind/ethereum-client/networks#goerli-goerli"
           >
             <FormattedMessage
-              defaultMessage="Nethermind on Goerli documentation"
-              description="Links to the documentation for the execution client Nethermind, specifically for testnet Goerli"
+              defaultMessage="Nethermind on Auroria documentation"
+              description="Links to the documentation for the execution client Nethermind, specifically for testnet Auroria"
             />
           </Link>
         </>

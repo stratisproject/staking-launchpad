@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Em uma repetição interminável, cada conta validadora é continuamente avaliada para saques STRAT elegíveis (dos quais existem dois tipos, veja mais sobre isto abaixo). Os validadores são processados em ordem por número de índice, começando originalmente em 0, com cada proponente subsequente retomando de onde o último parou."
+      "value": "Em uma repetição interminável, cada conta validadora é continuamente avaliada para saques STRAX elegíveis (dos quais existem dois tipos, veja mais sobre isto abaixo). Os validadores são processados em ordem por número de índice, começando originalmente em 0, com cada proponente subsequente retomando de onde o último parou."
     }
   ],
   "/OAba6": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testes em Goerli"
+      "value": "Testes em Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT para um único conjunto de chaves não aumenta o potencial das recompensas, nem acumular recompensas acima de "
+      "value": " STRAX para um único conjunto de chaves não aumenta o potencial das recompensas, nem acumular recompensas acima de "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Documentação do Geth on Goerli"
+      "value": "Documentação do Geth on Auroria"
     }
   ],
   "3aykgN": [
@@ -948,7 +948,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Por que uma escala deslizante? Embora não entraremos em maiores detalhes aqui, a intuição básica é que precisa haver um número mínimo de validadores (e, portanto, uma quantidade mínima de STRAT depositados) para que a rede funcione corretamente. Então, para incentivar a entrada de mais validadores, é importante que a taxa de juros permaneça alta até atingir esse número mínimo."
+      "value": "Por que uma escala deslizante? Embora não entraremos em maiores detalhes aqui, a intuição básica é que precisa haver um número mínimo de validadores (e, portanto, uma quantidade mínima de STRAX depositados) para que a rede funcione corretamente. Então, para incentivar a entrada de mais validadores, é importante que a taxa de juros permaneça alta até atingir esse número mínimo."
     }
   ],
   "4hb+GK": [
@@ -1366,7 +1366,7 @@
     },
     {
       "type": 0,
-      "value": " para sincronizar a rede de teste Goerli."
+      "value": " para sincronizar a rede de teste Auroria."
     }
   ],
   "8boRAk": [
@@ -1480,7 +1480,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT de participação?"
+      "value": " STRAX de participação?"
     }
   ],
   "9JktQX": [
@@ -1830,7 +1830,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Uma vez que um validador tenha saído e seu saldo total tenha sido sacado, todos os fundos adicionais depositados nesse validador serão automaticamente transferidos para o endereço de saque durante a próxima varredura do validador. Para recolocar o STRAT em stake, um novo validador deve ser ativado."
+      "value": "Uma vez que um validador tenha saído e seu saldo total tenha sido sacado, todos os fundos adicionais depositados nesse validador serão automaticamente transferidos para o endereço de saque durante a próxima varredura do validador. Para recolocar o STRAX em stake, um novo validador deve ser ativado."
     }
   ],
   "BPpnlJ": [
@@ -2060,7 +2060,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Quantos STRAT eu preciso depositar para me tornar um validador?"
+      "value": "Quantos STRAX eu preciso depositar para me tornar um validador?"
     }
   ],
   "5q9Lgv": [
@@ -2114,7 +2114,7 @@
     },
     {
       "type": 0,
-      "value": " a rede, devido a motivos de segurança. Dado que cada validador é limitado a um saldo máximo efetivo de 32 ETH, isso impede que grandes partes do STRAT sejam potencialmente usadas em um ataque e, em seguida, saírem rapidamente da rede de uma vez."
+      "value": " a rede, devido a motivos de segurança. Dado que cada validador é limitado a um saldo máximo efetivo de 32 ETH, isso impede que grandes partes do STRAX sejam potencialmente usadas em um ataque e, em seguida, saírem rapidamente da rede de uma vez."
     }
   ],
   "DNRQa7": [
@@ -3110,7 +3110,7 @@
     },
     {
       "type": 0,
-      "value": " para sincronizar a testnet Goerli."
+      "value": " para sincronizar a testnet Auroria."
     }
   ],
   "Ljo9dF": [
@@ -3166,7 +3166,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "O Stratis é protegido pela prova de participação, embora este nem sempre tenha sido o caso. A Beacon Chain foi o primeiro passo para estabelecer uma camada de consenso PoS sobre o Stratis, lançada em paralelo à Rede principal em Dezembro de 2020. Isso permitiu que os participantes começassem a implantar seu STRAT e preparassem a rede para a transição formal da prova de trabalho para prova de participação por meio da Fusão."
+      "value": "O Stratis é protegido pela prova de participação, embora este nem sempre tenha sido o caso. A Beacon Chain foi o primeiro passo para estabelecer uma camada de consenso PoS sobre o Stratis, lançada em paralelo à Rede principal em Dezembro de 2020. Isso permitiu que os participantes começassem a implantar seu STRAX e preparassem a rede para a transição formal da prova de trabalho para prova de participação por meio da Fusão."
     }
   ],
   "LwEHRm": [
@@ -3714,7 +3714,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Documentação Nethermind on Goerli"
+      "value": "Documentação Nethermind on Auroria"
     }
   ],
   "PoBIK+": [
@@ -4336,7 +4336,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Em outras palavras: se a quantidade total de STRAT depositada é baixa, a recompensa (taxa de juros) é alta, mas conforme a participação total aumenta, a recompensa (juros) paga para cada validador começa a cair."
+      "value": "Em outras palavras: se a quantidade total de STRAX depositada é baixa, a recompensa (taxa de juros) é alta, mas conforme a participação total aumenta, a recompensa (juros) paga para cada validador começa a cair."
     }
   ],
   "VUuZsb": [
@@ -4556,7 +4556,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Documentação Besu on Goerli"
+      "value": "Documentação Besu on Auroria"
     }
   ],
   "XVRQoq": [
@@ -4614,7 +4614,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Observe que não existem planos atuais para permitir transferências de STRAT entre validadores."
+      "value": "Observe que não existem planos atuais para permitir transferências de STRAX entre validadores."
     }
   ],
   "XmddSV": [
@@ -4702,7 +4702,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Segue-se uma árvore de decisão para determinar que tipo de saque será iniciado. Se o validador que está sendo verificado tiver STRAT qualificados para saque, ele é adicionado à fila de saque. Se não houver, a conta será ignorada."
+      "value": "Segue-se uma árvore de decisão para determinar que tipo de saque será iniciado. Se o validador que está sendo verificado tiver STRAX qualificados para saque, ele é adicionado à fila de saque. Se não houver, a conta será ignorada."
     }
   ],
   "YP03/j": [
@@ -4912,7 +4912,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Eles também são conhecidos como “saques parciais” ou “pagamentos de recompensa”, pois os 32 STRAT restantes permanecem bloqueados e em jogo."
+      "value": "Eles também são conhecidos como “saques parciais” ou “pagamentos de recompensa”, pois os 32 STRAX restantes permanecem bloqueados e em jogo."
     }
   ],
   "a+xjjV": [
@@ -5006,7 +5006,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT depositados."
+      "value": " STRAX depositados."
     }
   ],
   "FWtWw3": [
@@ -5524,7 +5524,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "A resposta a esta pergunta depende muito de quanto STRAT você tem à sua disposição."
+      "value": "A resposta a esta pergunta depende muito de quanto STRAX você tem à sua disposição."
     }
   ],
   "fQ5yno": [
@@ -5652,7 +5652,7 @@
     },
     {
       "type": 0,
-      "value": " para sincronizar a testnet Goerli."
+      "value": " para sincronizar a testnet Auroria."
     }
   ],
   "gQkd2y": [
@@ -5854,7 +5854,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT por validador incentiva a descentralização do poder, pois impede que qualquer validador único tenha um voto excessivamente importante sobre o estado da cadeia. Ele também limita a quantidade de STRAT que pode sair da participação a qualquer momento, assim como o número de validadores que podem sair em um determinado período de tempo é limitado. Isso ajuda a proteger a rede contra certos ataques."
+      "value": " STRAX por validador incentiva a descentralização do poder, pois impede que qualquer validador único tenha um voto excessivamente importante sobre o estado da cadeia. Ele também limita a quantidade de STRAX que pode sair da participação a qualquer momento, assim como o número de validadores que podem sair em um determinado período de tempo é limitado. Isso ajuda a proteger a rede contra certos ataques."
     }
   ],
   "huEFUF": [
@@ -5924,7 +5924,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT ativa um conjunto de chaves de validadors. Essas chaves são usadas para se increver no estado da rede. Quanto menor for o requisito ETH, mais assinaturas resultantes devem ser salvas pela rede. O "
+      "value": " STRAX ativa um conjunto de chaves de validadors. Essas chaves são usadas para se increver no estado da rede. Quanto menor for o requisito ETH, mais assinaturas resultantes devem ser salvas pela rede. O "
     },
     {
       "type": 1,
@@ -5932,7 +5932,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT foi escolhido como um equilíbrio: permitir que o maior número possível de pessoas participe sem inibir a descentralização com o aumento do tamanho de cada bloco com assinaturas."
+      "value": " STRAX foi escolhido como um equilíbrio: permitir que o maior número possível de pessoas participe sem inibir a descentralização com o aumento do tamanho de cada bloco com assinaturas."
     }
   ],
   "iX90gu": [
@@ -6518,7 +6518,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Recomendamos que você participe primeiro de todo o processo em uma rede de teste para se sentir confortável antes de se arriscar com um STRAT real."
+      "value": "Recomendamos que você participe primeiro de todo o processo em uma rede de teste para se sentir confortável antes de se arriscar com um STRAX real."
     }
   ],
   "mXSzq5": [
@@ -6848,7 +6848,7 @@
     },
     {
       "type": 0,
-      "value": " para sincronizar a testnet Goerli."
+      "value": " para sincronizar a testnet Auroria."
     }
   ],
   "p+kDTB": [
@@ -6886,7 +6886,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Sim, mas com penalizações pequenas. Se você ficar offline por um número de dias em condições normais, você perderá uma quantidade de STRAT aproximadamente equivalente à quantidade de STRAT que você teria ganhado nesse período. Em outras palavras, se ganhou cerca de 0,01 ETH, você seria penalizado em 0,01 ETH."
+      "value": "Sim, mas com penalizações pequenas. Se você ficar offline por um número de dias em condições normais, você perderá uma quantidade de STRAX aproximadamente equivalente à quantidade de STRAX que você teria ganhado nesse período. Em outras palavras, se ganhou cerca de 0,01 ETH, você seria penalizado em 0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7830,7 +7830,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "As recompensas do bloco são calculadas usando uma escala deslizante com base na quantidade total de STRAT depositada na rede."
+      "value": "As recompensas do bloco são calculadas usando uma escala deslizante com base na quantidade total de STRAX depositada na rede."
     }
   ],
   "xXKkhR": [
@@ -7868,7 +7868,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Aqueles que quiserem sair de seu validador de stake e sacar seus STRAT devem conferir o guia abaixo que corresponde à sua configuração:"
+      "value": "Aqueles que quiserem sair de seu validador de stake e sacar seus STRAX devem conferir o guia abaixo que corresponde à sua configuração:"
     }
   ],
   "xm3Ivd": [
@@ -8088,7 +8088,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "No outro extremo do espectro, se o seu saldo estiver mais próximo de 31 ETH, provavelmente não vale a pena adicionar o STRAT extra necessário para voltar para 32."
+      "value": "No outro extremo do espectro, se o seu saldo estiver mais próximo de 31 ETH, provavelmente não vale a pena adicionar o STRAX extra necessário para voltar para 32."
     }
   ],
   "zJicsO": [
@@ -8108,7 +8108,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT para um único validador. Ele não será adicionado às suas recompensas e ficará bloqueado até a atualização Shanghai/Capella planejada."
+      "value": " STRAX para um único validador. Ele não será adicionado às suas recompensas e ficará bloqueado até a atualização Shanghai/Capella planejada."
     }
   ],
   "zbEBi9": [

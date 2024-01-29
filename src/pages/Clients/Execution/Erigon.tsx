@@ -57,11 +57,11 @@ export const ErigonDetails = () => (
             <FormattedMessage defaultMessage="Make sure you do the following to get your execution client working properly." />
           </Text>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {goerli} to sync the Auroria testnet."
               values={{
                 goerli: <Code className="mt20">--chain goerli</Code>,
               }}

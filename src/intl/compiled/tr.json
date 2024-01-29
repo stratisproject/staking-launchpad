@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Hiç bitmeyen bir döngüde, her bir doğrulayıcı hesabı, uygun STRAT çekme işlemleri için sürekli olarak değerlendirilir (bunların iki türü vardır, aşağıda bu konuda daha fazla bilgi vardır). Doğrulayıcılar, orijinal olarak 0'dan başlayarak dizin numarasına göre sırayla işlenir ve sonraki teklif verenlerin her biri, bir öncekinin kaldığı yerden devam eder."
+      "value": "Hiç bitmeyen bir döngüde, her bir doğrulayıcı hesabı, uygun STRAX çekme işlemleri için sürekli olarak değerlendirilir (bunların iki türü vardır, aşağıda bu konuda daha fazla bilgi vardır). Doğrulayıcılar, orijinal olarak 0'dan başlayarak dizin numarasına göre sırayla işlenir ve sonraki teklif verenlerin her biri, bir öncekinin kaldığı yerden devam eder."
     }
   ],
   "/OAba6": [
@@ -796,7 +796,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Goerli'de test"
+      "value": "Auroria'de test"
     }
   ],
   "3ODqP9": [
@@ -842,7 +842,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT artışlarıyla yapıldığı anlamına gelir."
+      "value": " STRAX artışlarıyla yapıldığı anlamına gelir."
     }
   ],
   "3PbtmF": [
@@ -872,7 +872,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Geth on Goerli belgesi"
+      "value": "Geth on Auroria belgesi"
     }
   ],
   "3aykgN": [
@@ -1366,7 +1366,7 @@
   "8XQmxX": [
     {
       "type": 0,
-      "value": "Goerli test ağını senkronize etmek için "
+      "value": "Auroria test ağını senkronize etmek için "
     },
     {
       "type": 1,
@@ -1758,7 +1758,7 @@
     },
     {
       "type": 0,
-      "value": ", etkin bir doğrulayıcının maksimum etkin bakiyesi 32 olduğunda ve toplam bakiyesi 32'nin üzerinde olduğunda işlemle konulur. Tek bir doğrulayıcı, 32 STRAT üzerindeki fazla bakiye için ödül alamaz ve bu nedenle bu hesaplarda Stratis adreslerine otomatik olarak çekilen fazladan bakiye olacaktır."
+      "value": ", etkin bir doğrulayıcının maksimum etkin bakiyesi 32 olduğunda ve toplam bakiyesi 32'nin üzerinde olduğunda işlemle konulur. Tek bir doğrulayıcı, 32 STRAX üzerindeki fazla bakiye için ödül alamaz ve bu nedenle bu hesaplarda Stratis adreslerine otomatik olarak çekilen fazladan bakiye olacaktır."
     }
   ],
   "RY4SP0": [
@@ -2060,7 +2060,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Doğrulayıcı olmak ne kadar STRAT stake etmeliyim?"
+      "value": "Doğrulayıcı olmak ne kadar STRAX stake etmeliyim?"
     }
   ],
   "5q9Lgv": [
@@ -3094,7 +3094,7 @@
   "LibVut": [
     {
       "type": 0,
-      "value": "Goerli test ağını senkronize etmek için "
+      "value": "Auroria test ağını senkronize etmek için "
     },
     {
       "type": 1,
@@ -3706,7 +3706,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Goerli belgeleri üzerinde Nethermind"
+      "value": "Auroria belgeleri üzerinde Nethermind"
     }
   ],
   "PoBIK+": [
@@ -4328,7 +4328,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Başka bir deyişle: stake edilen toplam STRAT miktarı düşükse, ödül (faiz oranı) yüksektir, ancak toplam stake arttıkça, her doğrulayıcıya ödenen ödül (faiz) düşmeye başlar."
+      "value": "Başka bir deyişle: stake edilen toplam STRAX miktarı düşükse, ödül (faiz oranı) yüksektir, ancak toplam stake arttıkça, her doğrulayıcıya ödenen ödül (faiz) düşmeye başlar."
     }
   ],
   "VUuZsb": [
@@ -4544,7 +4544,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Goerli belgeleri üzerinde Besu"
+      "value": "Auroria belgeleri üzerinde Besu"
     }
   ],
   "XVRQoq": [
@@ -4602,7 +4602,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Mevcut durumda, doğrulayıcılar arasında STRAT transferlerini etkinleştirmek için bir plan olmadığını unutmayın."
+      "value": "Mevcut durumda, doğrulayıcılar arasında STRAX transferlerini etkinleştirmek için bir plan olmadığını unutmayın."
     }
   ],
   "XmddSV": [
@@ -4900,7 +4900,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Kalan 32 STRAT kilitli ve hisselenmiş durumda kaldığı için bunlara “kısmi para çekme” veya “ödül ödemeleri” de denir."
+      "value": "Kalan 32 STRAX kilitli ve hisselenmiş durumda kaldığı için bunlara “kısmi para çekme” veya “ödül ödemeleri” de denir."
     }
   ],
   "a+xjjV": [
@@ -4918,7 +4918,7 @@
   "Sv30z9": [
     {
       "type": 0,
-      "value": "Yeni bir doğrulayıcıyı etkinleştirmek için para yatırmaya hazırlanıyorsanız, ilk para yatırma işleminizle birlikte bir para çekme adresi sağlayabilirsiniz (ve sağlamalısınız). Bu, anahtar oluşturma sırasında yapılır ve ardından 32 STRAT para yatırma işleminizle birlikte gönderilen "
+      "value": "Yeni bir doğrulayıcıyı etkinleştirmek için para yatırmaya hazırlanıyorsanız, ilk para yatırma işleminizle birlikte bir para çekme adresi sağlayabilirsiniz (ve sağlamalısınız). Bu, anahtar oluşturma sırasında yapılır ve ardından 32 STRAX para yatırma işleminizle birlikte gönderilen "
     },
     {
       "type": 1,
@@ -5502,7 +5502,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT yatırdığını bilmek için yalnızca yürütüm katmanındaki stake depozito sözleşmesini izlemek zorundaydı. Bu bilgiler, Infura veya Alchemy gibi üçüncü taraf sağlayıcılar tarafından elde edildi ve kolayca hizmete sunuldu."
+      "value": " STRAX yatırdığını bilmek için yalnızca yürütüm katmanındaki stake depozito sözleşmesini izlemek zorundaydı. Bu bilgiler, Infura veya Alchemy gibi üçüncü taraf sağlayıcılar tarafından elde edildi ve kolayca hizmete sunuldu."
     }
   ],
   "fHLKXR": [
@@ -5628,7 +5628,7 @@
   "gN9D/h": [
     {
       "type": 0,
-      "value": "Goerli test ağını senkronize etmek için "
+      "value": "Auroria test ağını senkronize etmek için "
     },
     {
       "type": 1,
@@ -5834,7 +5834,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT ile sınırlandırılması, herhangi bir tek doğrulayıcının zincirin durumu üzerinde aşırı büyük oy kullanmasını engellediği için gücün merkeziyetsizliğini teşvik eder. Ayrıca, belirli bir zaman diliminde çıkabilen doğrulayıcı sayısı sınırlı olduğundan, herhangi bir zamanda staking'den çıkılabilecek STRAT miktarını da sınırlar. Bu, ağın belirli saldırılara karşı korunmasına yardımcı olur."
+      "value": " STRAX ile sınırlandırılması, herhangi bir tek doğrulayıcının zincirin durumu üzerinde aşırı büyük oy kullanmasını engellediği için gücün merkeziyetsizliğini teşvik eder. Ayrıca, belirli bir zaman diliminde çıkabilen doğrulayıcı sayısı sınırlı olduğundan, herhangi bir zamanda staking'den çıkılabilecek STRAX miktarını da sınırlar. Bu, ağın belirli saldırılara karşı korunmasına yardımcı olur."
     }
   ],
   "huEFUF": [
@@ -5900,7 +5900,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT para yatırma uygulaması bir dizi doğrulayıcı anahtarını etkinleştirir. Bu anahtarlar, ağın durumunu kapatmak için kullanılır. STRAT gereksinimi ne kadar düşük olursa ağ tarafından daha fazla imzanın kaydedilmesi gerekir. "
+      "value": " STRAX para yatırma uygulaması bir dizi doğrulayıcı anahtarını etkinleştirir. Bu anahtarlar, ağın durumunu kapatmak için kullanılır. STRAX gereksinimi ne kadar düşük olursa ağ tarafından daha fazla imzanın kaydedilmesi gerekir. "
     },
     {
       "type": 1,
@@ -6800,7 +6800,7 @@
   "ozEkVY": [
     {
       "type": 0,
-      "value": "Goerli test ağını senkronize etmek için "
+      "value": "Auroria test ağını senkronize etmek için "
     },
     {
       "type": 1,
@@ -6846,7 +6846,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Durum böyle, ancak bunun sonucunda küçük cezalar alınıyor. Birkaç gün çevrimdışı kalırsanız, normal koşullarda kaba bir hesapla o dönemde kazanacağınız STRAT miktarına denk miktarda STRAT kaybedersiniz. Başka bir deyişle, ≈0,01 STRAT kazanma durumunda, bunun yerine ≈0,01 STRAT cezalandırılırsınız."
+      "value": "Durum böyle, ancak bunun sonucunda küçük cezalar alınıyor. Birkaç gün çevrimdışı kalırsanız, normal koşullarda kaba bir hesapla o dönemde kazanacağınız STRAX miktarına denk miktarda STRAX kaybedersiniz. Başka bir deyişle, ≈0,01 STRAX kazanma durumunda, bunun yerine ≈0,01 STRAX cezalandırılırsınız."
     }
   ],
   "pHQwsN": [
@@ -7810,7 +7810,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Blok ödülleri, ağda stake edilen toplam STRAT miktarına göre kayan bir ölçek kullanılarak hesaplanır."
+      "value": "Blok ödülleri, ağda stake edilen toplam STRAX miktarına göre kayan bir ölçek kullanılarak hesaplanır."
     }
   ],
   "xXKkhR": [
@@ -8068,7 +8068,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT yatırın. Bunlar ödüllerinize eklenmeyecek ve planlanan Shanghai/Capella yükseltmesine kadar kilitli kalacak."
+      "value": " STRAX yatırın. Bunlar ödüllerinize eklenmeyecek ve planlanan Shanghai/Capella yükseltmesine kadar kilitli kalacak."
     }
   ],
   "zbEBi9": [

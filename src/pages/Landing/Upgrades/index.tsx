@@ -60,7 +60,7 @@ export const Upgrades = (): JSX.Element => {
       subTitle: formatMessage({
         defaultMessage: 'Dig deeper into the Stratis roadmap.',
       }),
-      linkUrl: 'https://ethereum.org/en/roadmap/',
+      linkUrl: 'https://stratisevm.com/en/roadmap/',
       link: formatMessage({ defaultMessage: 'How does this all happen?' }),
     },
     {
@@ -110,12 +110,12 @@ export const Upgrades = (): JSX.Element => {
                 <FormattedMessage
                   defaultMessage="Stratis is secured by proof-of-stake, although this was not always the case.
                   The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020.
-                  This allowed participants to start staking their STRAT and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+                  This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
                 />
               </Text>
               <Link
                 className="mt20 mb40"
-                to="https://ethereum.org/en/roadmap/beacon-chain/"
+                to="https://stratisevm.com/en/roadmap/beacon-chain/"
               >
                 <FormattedMessage defaultMessage="More on the Beacon Chain" />
               </Link>
@@ -130,7 +130,7 @@ export const Upgrades = (): JSX.Element => {
               </Text>
               <Link
                 className="mt20 mb40"
-                to="https://ethereum.org/en/roadmap/merge/"
+                to="https://stratisevm.com/en/roadmap/merge/"
               >
                 <FormattedMessage defaultMessage="More on the Merge" />
               </Link>
@@ -142,7 +142,7 @@ export const Upgrades = (): JSX.Element => {
               </Text>
               <Link
                 className="mt20 mb40"
-                to="https://ethereum.org/en/roadmap/danksharding/"
+                to="https://stratisevm.com/en/roadmap/danksharding/"
               >
                 <FormattedMessage defaultMessage="More on Danksharding" />
               </Link>

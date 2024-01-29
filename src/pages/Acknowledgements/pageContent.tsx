@@ -46,14 +46,14 @@ export const pageContent = {
           />
         </Text>
         <Link
-          to="https://ethereum.org/en/roadmap/beacon-chain/"
+          to="https://stratisevm.com/en/roadmap/beacon-chain/"
           className="my10"
           primary
         >
           <FormattedMessage defaultMessage="More on the Beacon Chain" />
         </Link>
         <Link
-          to="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/"
+          to="https://stratisevm.com/en/developers/docs/consensus-mechanisms/pos/"
           className="my10"
           primary
         >

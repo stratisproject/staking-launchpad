@@ -37,7 +37,7 @@ export const ClientDiversityWarning = (props: ClientDiversityWarningProps) => {
       <ul>
         <li>
           <Link
-            to="https://ethereum.org/en/developers/docs/nodes-and-clients/client-diversity/"
+            to="https://stratisevm.com/en/developers/docs/nodes-and-clients/client-diversity/"
             primary
           >
             <FormattedMessage defaultMessage="More on client diversity" />

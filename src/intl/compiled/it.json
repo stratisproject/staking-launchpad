@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "In un ciclo infinito, il conto di ogni singolo validatore viene valutato di continuo per i prelievi di STRAT idonei (ne esistono di due tipi, come vedremo più avanti). I validatori vengono elaborati in ordine per numero di indice, che inizia da 0, e ogni proponente successivo riprende da dove ha lasciato l'ultimo."
+      "value": "In un ciclo infinito, il conto di ogni singolo validatore viene valutato di continuo per i prelievi di STRAX idonei (ne esistono di due tipi, come vedremo più avanti). I validatori vengono elaborati in ordine per numero di indice, che inizia da 0, e ogni proponente successivo riprende da dove ha lasciato l'ultimo."
     }
   ],
   "/OAba6": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Test su Goerli"
+      "value": "Test su Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT su un singolo set di chiavi non aumenta il potenziale di ricompensa, e nemmeno accumulare ricompense superiori a "
+      "value": " STRAX su un singolo set di chiavi non aumenta il potenziale di ricompensa, e nemmeno accumulare ricompense superiori a "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Documentazione di Geth su Goerli"
+      "value": "Documentazione di Geth su Auroria"
     }
   ],
   "3aykgN": [
@@ -948,7 +948,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Perché una scala mobile? Non entreremo nei dettagli in questa sede, ma il motivo principale è che ci deve essere un numero minimo di validatori (e quindi una quantità minima di STRAT coinvolti) affinché la rete funzioni correttamente. Quindi, per incentivare più validatori a partecipare, è importante che il tasso di interesse rimanga alto fino al raggiungimento del numero minimo."
+      "value": "Perché una scala mobile? Non entreremo nei dettagli in questa sede, ma il motivo principale è che ci deve essere un numero minimo di validatori (e quindi una quantità minima di STRAX coinvolti) affinché la rete funzioni correttamente. Quindi, per incentivare più validatori a partecipare, è importante che il tasso di interesse rimanga alto fino al raggiungimento del numero minimo."
     }
   ],
   "4hb+GK": [
@@ -1366,7 +1366,7 @@
     },
     {
       "type": 0,
-      "value": " per sincronizzare la rete di test Goerli."
+      "value": " per sincronizzare la rete di test Auroria."
     }
   ],
   "8boRAk": [
@@ -1480,7 +1480,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT in gioco?"
+      "value": " STRAX in gioco?"
     }
   ],
   "9JktQX": [
@@ -2052,7 +2052,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Con quanti STRAT devo fare staking per diventare validatore?"
+      "value": "Con quanti STRAX devo fare staking per diventare validatore?"
     }
   ],
   "5q9Lgv": [
@@ -2106,7 +2106,7 @@
     },
     {
       "type": 0,
-      "value": " la rete. Questo avviene per motivi di sicurezza. Dato che ogni validatore è limitato a un saldo effettivo massimo di 32 ETH, ciò impedisce che grandi percentuali di STRAT possano essere utilizzate potenzialmente in un attacco e poi uscire subito dalla rete in un attimo."
+      "value": " la rete. Questo avviene per motivi di sicurezza. Dato che ogni validatore è limitato a un saldo effettivo massimo di 32 ETH, ciò impedisce che grandi percentuali di STRAX possano essere utilizzate potenzialmente in un attacco e poi uscire subito dalla rete in un attimo."
     }
   ],
   "DNRQa7": [
@@ -2498,7 +2498,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Non è possibile richiedere manualmente importi specifici di STRAT da prelevare"
+      "value": "Non è possibile richiedere manualmente importi specifici di STRAX da prelevare"
     }
   ],
   "GUDhpC": [
@@ -3094,7 +3094,7 @@
     },
     {
       "type": 0,
-      "value": " per sincronizzare la rete di test Goerli."
+      "value": " per sincronizzare la rete di test Auroria."
     }
   ],
   "Ljo9dF": [
@@ -3698,7 +3698,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Nethermind sulla documentazione di Goerli"
+      "value": "Nethermind sulla documentazione di Auroria"
     }
   ],
   "PoBIK+": [
@@ -4320,7 +4320,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "In altre parole: se l’importo totale degli STRAT messi a disposizione è basso, la ricompensa (tasso di interesse) sarà elevata, però man mano che la quota totale aumenterà, la ricompensa (interessi) versata a ogni validatore inizierà a diminuire."
+      "value": "In altre parole: se l’importo totale degli STRAX messi a disposizione è basso, la ricompensa (tasso di interesse) sarà elevata, però man mano che la quota totale aumenterà, la ricompensa (interessi) versata a ogni validatore inizierà a diminuire."
     }
   ],
   "VUuZsb": [
@@ -4540,7 +4540,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Besu sulla documentazione di Goerli"
+      "value": "Besu sulla documentazione di Auroria"
     }
   ],
   "XVRQoq": [
@@ -4598,7 +4598,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Ricorda che non esistono piani correnti per abilitare trasferimenti di STRAT tra validatori."
+      "value": "Ricorda che non esistono piani correnti per abilitare trasferimenti di STRAX tra validatori."
     }
   ],
   "XmddSV": [
@@ -4686,7 +4686,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Si segue un albero decisionale per stabilire che tipo di prelievo sarà avviato. Se il validatore sottoposto a controllo presenta STRAT idonei al prelievo, viene aggiunto alla coda di prelievo. Se non sono presenti ETH, il conto viene ignorato."
+      "value": "Si segue un albero decisionale per stabilire che tipo di prelievo sarà avviato. Se il validatore sottoposto a controllo presenta STRAX idonei al prelievo, viene aggiunto alla coda di prelievo. Se non sono presenti ETH, il conto viene ignorato."
     }
   ],
   "YP03/j": [
@@ -4900,7 +4900,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Questi sono anche detti “prelievi parziali” o “pagamenti di ricompensa” in quanto i restanti 32 STRAT rimangono bloccati e in staking."
+      "value": "Questi sono anche detti “prelievi parziali” o “pagamenti di ricompensa” in quanto i restanti 32 STRAX rimangono bloccati e in staking."
     }
   ],
   "a+xjjV": [
@@ -5512,7 +5512,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "La risposta a questa domanda dipende molto da quanti STRAT hai a disposizione."
+      "value": "La risposta a questa domanda dipende molto da quanti STRAX hai a disposizione."
     }
   ],
   "fQ5yno": [
@@ -5640,7 +5640,7 @@
     },
     {
       "type": 0,
-      "value": " per sincronizzare la rete di test Goerli."
+      "value": " per sincronizzare la rete di test Auroria."
     }
   ],
   "gQkd2y": [
@@ -5842,7 +5842,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT per validatore incoraggia la decentralizzazione del potere di voto, perché impedisce a un singolo validatore di avere un voto eccessivo sullo stato della catena. Inoltre, limita la quantità di STRAT che può essere prelevata in un dato momento, poiché il numero di validatori che possono uscire in un determinato periodo di tempo è limitato. Questo contribuisce a proteggere la rete da alcuni attacchi."
+      "value": " STRAX per validatore incoraggia la decentralizzazione del potere di voto, perché impedisce a un singolo validatore di avere un voto eccessivo sullo stato della catena. Inoltre, limita la quantità di STRAX che può essere prelevata in un dato momento, poiché il numero di validatori che possono uscire in un determinato periodo di tempo è limitato. Questo contribuisce a proteggere la rete da alcuni attacchi."
     }
   ],
   "huEFUF": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT attiva un set di chiavi del validatore. Queste chiavi vengono usate per convalidare lo stato della rete. Quanto minori sono gli STRAT richiesti, tante più sono le firme che devono essere salvate dalla rete. "
+      "value": " STRAX attiva un set di chiavi del validatore. Queste chiavi vengono usate per convalidare lo stato della rete. Quanto minori sono gli STRAX richiesti, tante più sono le firme che devono essere salvate dalla rete. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT è stato scelto come punto di equilibrio tra consentire al numero massimo di persone di fare staking senza però pregiudicare la decentralizzazione facendo esplodere la dimensione di ogni blocco di firme."
+      "value": " STRAX è stato scelto come punto di equilibrio tra consentire al numero massimo di persone di fare staking senza però pregiudicare la decentralizzazione facendo esplodere la dimensione di ogni blocco di firme."
     }
   ],
   "iX90gu": [
@@ -6506,7 +6506,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Prima di rischiare degli STRAT reali, ti consigliamo vivamente di seguire prima tutto il processo su una rete di prova per acquisire dimestichezza."
+      "value": "Prima di rischiare degli STRAX reali, ti consigliamo vivamente di seguire prima tutto il processo su una rete di prova per acquisire dimestichezza."
     }
   ],
   "mXSzq5": [
@@ -6836,7 +6836,7 @@
     },
     {
       "type": 0,
-      "value": " per sincronizzare la rete di test Goerli."
+      "value": " per sincronizzare la rete di test Auroria."
     }
   ],
   "p+kDTB": [
@@ -6874,7 +6874,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Sì, ma con piccole penalità. Andando offline per un certo numero di giorni in condizioni normali, si perderebbe una quantità di STRAT approssimativamente equivalente a quella che si sarebbe potuta guadagnare nello stesso periodo. In altre parole, con la possibilità di guadagnare ≈0,01 ETH, si perderebbero ≈0,01 ETH."
+      "value": "Sì, ma con piccole penalità. Andando offline per un certo numero di giorni in condizioni normali, si perderebbe una quantità di STRAX approssimativamente equivalente a quella che si sarebbe potuta guadagnare nello stesso periodo. In altre parole, con la possibilità di guadagnare ≈0,01 ETH, si perderebbero ≈0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7822,7 +7822,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Le ricompense dei blocchi sono calcolate utilizzando una scala mobile basata sulla quantità totale di STRAT messi a disposizione sulla rete."
+      "value": "Le ricompense dei blocchi sono calcolate utilizzando una scala mobile basata sulla quantità totale di STRAX messi a disposizione sulla rete."
     }
   ],
   "xXKkhR": [
@@ -7860,7 +7860,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Chi vuole far uscire il validatore dallo staking e prelevare i propri STRAT deve consultare la guida qui sotto che corrisponde alla propria configurazione:"
+      "value": "Chi vuole far uscire il validatore dallo staking e prelevare i propri STRAX deve consultare la guida qui sotto che corrisponde alla propria configurazione:"
     }
   ],
   "xm3Ivd": [
@@ -8080,7 +8080,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "All'altra estremità dello spettro, se il tuo saldo è più vicino a 31 ETH, probabilmente non vale la pena aggiungere gli ulteriori STRAT richiesti per tornare a 32."
+      "value": "All'altra estremità dello spettro, se il tuo saldo è più vicino a 31 ETH, probabilmente non vale la pena aggiungere gli ulteriori STRAX richiesti per tornare a 32."
     }
   ],
   "zJicsO": [
@@ -8100,7 +8100,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT per un singolo validatore. Le tue ricompense non aumenteranno e il validatore sarà bloccato fino all'aggiornamento Shanghai/Capella programmato."
+      "value": " STRAX per un singolo validatore. Le tue ricompense non aumenteranno e il validatore sarà bloccato fino all'aggiornamento Shanghai/Capella programmato."
     }
   ],
   "zbEBi9": [

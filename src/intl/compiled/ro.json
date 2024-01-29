@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Pe o buclă permanentă, fiecare cont de validator este evaluat continuu pentru retrageri eligibile de STRAT (dintre care două tipuri, mai multe despre aceasta mai jos). Validatorii sunt procesați în ordine în funcție de numărul indicelui, iniţial de la 0, fiecare dintre cei care au propus ulterior revenind de unde a rămas ultimul."
+      "value": "Pe o buclă permanentă, fiecare cont de validator este evaluat continuu pentru retrageri eligibile de STRAX (dintre care două tipuri, mai multe despre aceasta mai jos). Validatorii sunt procesați în ordine în funcție de numărul indicelui, iniţial de la 0, fiecare dintre cei care au propus ulterior revenind de unde a rămas ultimul."
     }
   ],
   "/OAba6": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testare pe Goerli"
+      "value": "Testare pe Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT într-un singur set de chei nu crește potențialul de recompense, dar nici nu acumulează recompense mai mari de "
+      "value": " STRAX într-un singur set de chei nu crește potențialul de recompense, dar nici nu acumulează recompense mai mari de "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Documentație Geth pe Goerli"
+      "value": "Documentație Geth pe Auroria"
     }
   ],
   "3aykgN": [
@@ -1366,7 +1366,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza rețeaua de testare Goerli."
+      "value": " pentru a sincroniza rețeaua de testare Auroria."
     }
   ],
   "8boRAk": [
@@ -1754,7 +1754,7 @@
     },
     {
       "type": 0,
-      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 STRAT și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Stratis."
+      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 STRAX și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Stratis."
     }
   ],
   "RY4SP0": [
@@ -2056,7 +2056,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "De cât STRAT am nevoie pentru a putea deveni validator?"
+      "value": "De cât STRAX am nevoie pentru a putea deveni validator?"
     }
   ],
   "5q9Lgv": [
@@ -2110,7 +2110,7 @@
     },
     {
       "type": 0,
-      "value": " rețeaua validatorii. Acest lucru este justificat din motive de securitate. Dat fiind că fiecare validator este limitat la un sold maxim efectiv de 32 ETH, acest lucru împiedică potențiala utilizare a unor părți mari de STRAT într-un atac și ieșirea rapidă din rețea a tuturor participanților simultan."
+      "value": " rețeaua validatorii. Acest lucru este justificat din motive de securitate. Dat fiind că fiecare validator este limitat la un sold maxim efectiv de 32 ETH, acest lucru împiedică potențiala utilizare a unor părți mari de STRAX într-un atac și ieșirea rapidă din rețea a tuturor participanților simultan."
     }
   ],
   "DNRQa7": [
@@ -2502,7 +2502,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Nu se pot solicita manual cantități de STRAT pentru retragere"
+      "value": "Nu se pot solicita manual cantități de STRAX pentru retragere"
     }
   ],
   "GUDhpC": [
@@ -3106,7 +3106,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza rețeaua de testare Goerli."
+      "value": " pentru a sincroniza rețeaua de testare Auroria."
     }
   ],
   "Ljo9dF": [
@@ -3162,7 +3162,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Stratis, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe STRAT și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
+      "value": "Stratis este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Stratis, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe STRAX și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
     }
   ],
   "LwEHRm": [
@@ -3710,7 +3710,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Documentație Nethermind pe Goerli"
+      "value": "Documentație Nethermind pe Auroria"
     }
   ],
   "PoBIK+": [
@@ -4332,7 +4332,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Cu alte cuvinte: dacă miza totală STRAT este scăzută, recompensa (rata dobânzii) este mare, dar pe măsură ce miza totală crește, recompensa (dobânda) plătită fiecărui validator începe să scadă."
+      "value": "Cu alte cuvinte: dacă miza totală STRAX este scăzută, recompensa (rata dobânzii) este mare, dar pe măsură ce miza totală crește, recompensa (dobânda) plătită fiecărui validator începe să scadă."
     }
   ],
   "VUuZsb": [
@@ -4552,7 +4552,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Documentație Besu pe Goerli"
+      "value": "Documentație Besu pe Auroria"
     }
   ],
   "XVRQoq": [
@@ -4610,7 +4610,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Rețineți că nu există planuri la acest moment pentru a permite transferurile de STRAT între validatori."
+      "value": "Rețineți că nu există planuri la acest moment pentru a permite transferurile de STRAX între validatori."
     }
   ],
   "XmddSV": [
@@ -4698,7 +4698,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Se urmează un arbore de decizie pentru a stabili ce tip de retragere va fi inițiat. În cazul în care validatorul verificat dispune de STRAT eligibil pentru a fi retras, acesta se adaugă la lista de retragere. Dacă nu există, contul este omis."
+      "value": "Se urmează un arbore de decizie pentru a stabili ce tip de retragere va fi inițiat. În cazul în care validatorul verificat dispune de STRAX eligibil pentru a fi retras, acesta se adaugă la lista de retragere. Dacă nu există, contul este omis."
     }
   ],
   "YP03/j": [
@@ -4908,7 +4908,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Acestea sunt denumite, de asemenea, „retrageri parțiale” sau „plăți pentru recompense”, deoarece restul de 32 de STRAT rămâne blocat și mizat."
+      "value": "Acestea sunt denumite, de asemenea, „retrageri parțiale” sau „plăți pentru recompense”, deoarece restul de 32 de STRAX rămâne blocat și mizat."
     }
   ],
   "a+xjjV": [
@@ -5520,7 +5520,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Răspunsul la această întrebare depinde foarte mult de suma STRAT pe care o ai la dispoziție."
+      "value": "Răspunsul la această întrebare depinde foarte mult de suma STRAX pe care o ai la dispoziție."
     }
   ],
   "fQ5yno": [
@@ -5648,7 +5648,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza testnetul Goerli."
+      "value": " pentru a sincroniza testnetul Auroria."
     }
   ],
   "gQkd2y": [
@@ -5850,7 +5850,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT per validator încurajează descentralizarea puterii, deoarece împiedică un singur validator să aibă un vot excesiv de mare asupra stării lanțului. De asemenea, aceasta limitează cantitatea de STRAT care poate fi scoasă din joc în orice moment, întrucât numărul de validatori care pot ieși dintr-o anumită perioadă de timp este limitat. Acest lucru ajută la protejarea rețelei împotriva anumitor atacuri."
+      "value": " STRAX per validator încurajează descentralizarea puterii, deoarece împiedică un singur validator să aibă un vot excesiv de mare asupra stării lanțului. De asemenea, aceasta limitează cantitatea de STRAX care poate fi scoasă din joc în orice moment, întrucât numărul de validatori care pot ieși dintr-o anumită perioadă de timp este limitat. Acest lucru ajută la protejarea rețelei împotriva anumitor atacuri."
     }
   ],
   "huEFUF": [
@@ -5916,7 +5916,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT activează un set de chei ale validatorului. Aceste chei sunt utilizate pentru conectare la starea rețelei. Cu cât cerința privind STRAT este mai mică, cu atât rețeaua trebuie să salveze mai multe semnături rezultate. "
+      "value": " STRAX activează un set de chei ale validatorului. Aceste chei sunt utilizate pentru conectare la starea rețelei. Cu cât cerința privind STRAX este mai mică, cu atât rețeaua trebuie să salveze mai multe semnături rezultate. "
     },
     {
       "type": 1,
@@ -5924,7 +5924,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT a fost ales ca un echilibru între număr cât mai mare de persoane care mizează și evitarea inhibării descentralizării prin umflarea mărimii fiecărui bloc cu semnături."
+      "value": " STRAX a fost ales ca un echilibru între număr cât mai mare de persoane care mizează și evitarea inhibării descentralizării prin umflarea mărimii fiecărui bloc cu semnături."
     }
   ],
   "iX90gu": [
@@ -6836,7 +6836,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza testnetul Goerli."
+      "value": " pentru a sincroniza testnetul Auroria."
     }
   ],
   "p+kDTB": [
@@ -6874,7 +6874,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Da, dar cu sancțiuni mici. Dacă vă deconectați timp de mai multe zile în condiții normale, veți pierde o sumă de STRAT aproximativ echivalentă cu cea pe care ați fi câștigat-o în perioada respectivă. Cu alte cuvinte, dacă urma să câștigați ≈ 0,01 ETH, veți suferi o penalizare de ≈ 0,01 ETH."
+      "value": "Da, dar cu sancțiuni mici. Dacă vă deconectați timp de mai multe zile în condiții normale, veți pierde o sumă de STRAX aproximativ echivalentă cu cea pe care ați fi câștigat-o în perioada respectivă. Cu alte cuvinte, dacă urma să câștigați ≈ 0,01 ETH, veți suferi o penalizare de ≈ 0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7826,7 +7826,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Recompensele pentru blocuri sunt calculate cu o scară mobilă care are la bază suma totală a mizelor de STRAT din rețea."
+      "value": "Recompensele pentru blocuri sunt calculate cu o scară mobilă care are la bază suma totală a mizelor de STRAX din rețea."
     }
   ],
   "xXKkhR": [
@@ -8084,7 +8084,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "La cealaltă extremă, dacă soldul se apropie de 31 ETH, probabil că nu merită să alimentezi suma de STRAT suplimentară necesară pentru a reveni la 32."
+      "value": "La cealaltă extremă, dacă soldul se apropie de 31 ETH, probabil că nu merită să alimentezi suma de STRAX suplimentară necesară pentru a reveni la 32."
     }
   ],
   "zJicsO": [
@@ -8104,7 +8104,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT pentru un singur validator. Acesta nu va adăuga la recompense și va fi blocat până la actualizarea Shanghai/Capella planificată."
+      "value": " STRAX pentru un singur validator. Acesta nu va adăuga la recompense și va fi blocat până la actualizarea Shanghai/Capella planificată."
     }
   ],
   "zbEBi9": [

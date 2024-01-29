@@ -796,7 +796,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testen auf Goerli"
+      "value": "Testen auf Auroria"
     }
   ],
   "3ODqP9": [
@@ -810,7 +810,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT für einen einzelnen Schlüsselsatz hinterlegst, lässt sich damit nicht die Möglichkeit zum Erhalt von Prümien steigern. Damit kannst du auch nicht mehr Belohnungen als "
+      "value": " STRAX für einen einzelnen Schlüsselsatz hinterlegst, lässt sich damit nicht die Möglichkeit zum Erhalt von Prümien steigern. Damit kannst du auch nicht mehr Belohnungen als "
     },
     {
       "type": 1,
@@ -818,7 +818,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT verdienen, denn jeder Validator ist beschränkt auf einen "
+      "value": " STRAX verdienen, denn jeder Validator ist beschränkt auf einen "
     },
     {
       "type": 1,
@@ -842,7 +842,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT erfolgt. Dabei verfügt jeder der Schritte über einen eigenen Schlüsselsatz und einen eigenen Saldo."
+      "value": " STRAX erfolgt. Dabei verfügt jeder der Schritte über einen eigenen Schlüsselsatz und einen eigenen Saldo."
     }
   ],
   "3PbtmF": [
@@ -872,7 +872,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Dokumentation zu Geth auf Goerli"
+      "value": "Dokumentation zu Geth auf Auroria"
     }
   ],
   "3aykgN": [
@@ -1386,7 +1386,7 @@
     },
     {
       "type": 0,
-      "value": " um das Goerli-Testnet zu synchronisieren."
+      "value": " um das Auroria-Testnet zu synchronisieren."
     }
   ],
   "8boRAk": [
@@ -1500,7 +1500,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT im Spiel sind?"
+      "value": " STRAX im Spiel sind?"
     }
   ],
   "9JktQX": [
@@ -1774,7 +1774,7 @@
     },
     {
       "type": 0,
-      "value": " verarbeitet. Ein einzelner Validator kann keine Prämien für einen Überschusssaldo über 32 STRAT erhalten. Daher werden zusätzliche Salden auf diesen Konten automatisch abgehoben und die zugehörige Stratis-Adresse übertragen."
+      "value": " verarbeitet. Ein einzelner Validator kann keine Prämien für einen Überschusssaldo über 32 STRAX erhalten. Daher werden zusätzliche Salden auf diesen Konten automatisch abgehoben und die zugehörige Stratis-Adresse übertragen."
     }
   ],
   "RY4SP0": [
@@ -1850,7 +1850,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Sobald ein Validator ausgetreten ist und sein Gesamtsaldo abgehoben wurde, werden alle zusätzlichen Gelder, die für diesen Validator hinterlegt sind, beim nächsten Validator-Sweep automatisch an die Abhebungsadresse übertragen. Wenn du STRAT erneut staken möchtest, muss ein neuer Validator aktiviert werden."
+      "value": "Sobald ein Validator ausgetreten ist und sein Gesamtsaldo abgehoben wurde, werden alle zusätzlichen Gelder, die für diesen Validator hinterlegt sind, beim nächsten Validator-Sweep automatisch an die Abhebungsadresse übertragen. Wenn du STRAX erneut staken möchtest, muss ein neuer Validator aktiviert werden."
     }
   ],
   "BPpnlJ": [
@@ -2000,7 +2000,7 @@
   "0WPDnu": [
     {
       "type": 0,
-      "value": "Du solltest auf jeden Fall aufstocken, wenn dein Kontostand um die 16 STRAT beträgt. Damit stellst du sicher, dass du nicht aus dem Validator-Set herausgeschmissen wirst (was automatisch passiert, wenn dein Guthaben unter 16 STRAT fällt)."
+      "value": "Du solltest auf jeden Fall aufstocken, wenn dein Kontostand um die 16 STRAX beträgt. Damit stellst du sicher, dass du nicht aus dem Validator-Set herausgeschmissen wirst (was automatisch passiert, wenn dein Guthaben unter 16 STRAX fällt)."
     }
   ],
   "CWKE9c": [
@@ -2080,7 +2080,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Wie viel STRAT brauche ich, um Validator zu werden?"
+      "value": "Wie viel STRAX brauche ich, um Validator zu werden?"
     }
   ],
   "5q9Lgv": [
@@ -2130,7 +2130,7 @@
     },
     {
       "type": 0,
-      "value": " können. Das hat Sicherheitsgründe. Jeder Validator ist auf einen maximalen effektiven Saldo von 32 STRAT beschränkt. So wird verhindert, dass große Teile der STRAT in einem Angriff eingesetzt und dann gleichzeitig aus dem Netzwerk abgezogen werden."
+      "value": " können. Das hat Sicherheitsgründe. Jeder Validator ist auf einen maximalen effektiven Saldo von 32 STRAX beschränkt. So wird verhindert, dass große Teile der STRAX in einem Angriff eingesetzt und dann gleichzeitig aus dem Netzwerk abgezogen werden."
     }
   ],
   "DNRQa7": [
@@ -3138,7 +3138,7 @@
     },
     {
       "type": 0,
-      "value": " um das Goerli-Testnet zu synchronisieren."
+      "value": " um das Auroria-Testnet zu synchronisieren."
     }
   ],
   "Ljo9dF": [
@@ -3194,7 +3194,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis ist durch Proof-of-Stake gesichert, obwohl dies nicht immer der Fall war. Die Beacon-Chain war der erste Schritt zur Etablierung einer PoS-Konsensschicht auf Stratis und wurde im Dezember 2020 parallel zum Mainnet eingeführt. Dies ermöglichte es den Teilnehmern, mit dem Einsetzen ihrer STRAT zu beginnen und das Netzwerk auf den formellen Übergang von Proof-of-Work zu Proof-of-Stake über The Merge vorzubereiten."
+      "value": "Stratis ist durch Proof-of-Stake gesichert, obwohl dies nicht immer der Fall war. Die Beacon-Chain war der erste Schritt zur Etablierung einer PoS-Konsensschicht auf Stratis und wurde im Dezember 2020 parallel zum Mainnet eingeführt. Dies ermöglichte es den Teilnehmern, mit dem Einsetzen ihrer STRAX zu beginnen und das Netzwerk auf den formellen Übergang von Proof-of-Work zu Proof-of-Stake über The Merge vorzubereiten."
     }
   ],
   "LwEHRm": [
@@ -3742,7 +3742,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Dokumentation zu Nethermind auf Goerli"
+      "value": "Dokumentation zu Nethermind auf Auroria"
     }
   ],
   "PoBIK+": [
@@ -4372,7 +4372,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Mit anderen Worten: Wenn der Gesamteinsatz an STRAT niedrig ist, ist die Belohnung (der Zinssatz) hoch, aber wenn der Gesamteinsatz steigt, beginnt die Belohnung (der Zinssatz), die an jeden Validator ausgezahlt wird, zu fallen."
+      "value": "Mit anderen Worten: Wenn der Gesamteinsatz an STRAX niedrig ist, ist die Belohnung (der Zinssatz) hoch, aber wenn der Gesamteinsatz steigt, beginnt die Belohnung (der Zinssatz), die an jeden Validator ausgezahlt wird, zu fallen."
     }
   ],
   "VUuZsb": [
@@ -4592,7 +4592,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Dokumentation zu Besu auf Goerli"
+      "value": "Dokumentation zu Besu auf Auroria"
     }
   ],
   "XVRQoq": [
@@ -4738,7 +4738,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Anhand eines Entscheidungsbaums wird bestimmt, welche Art der Abhebung erfolgt. Wenn der geprüfte Validator STRAT aufweist, für die eine Abhebeberechtigung besteht, wird der Betrag zur Abhebewarteschlange hinzugefügt. Anderenfalls wird der Betrag übersprungen."
+      "value": "Anhand eines Entscheidungsbaums wird bestimmt, welche Art der Abhebung erfolgt. Wenn der geprüfte Validator STRAX aufweist, für die eine Abhebeberechtigung besteht, wird der Betrag zur Abhebewarteschlange hinzugefügt. Anderenfalls wird der Betrag übersprungen."
     }
   ],
   "YP03/j": [
@@ -4952,7 +4952,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Diese werden auch als \"Teilauszahlungen\" oder \"Prämienzahlungen\" bezeichnet, da die restlichen 32 STRAT gesperrt und gestaket bleiben."
+      "value": "Diese werden auch als \"Teilauszahlungen\" oder \"Prämienzahlungen\" bezeichnet, da die restlichen 32 STRAX gesperrt und gestaket bleiben."
     }
   ],
   "a+xjjV": [
@@ -4978,7 +4978,7 @@
     },
     {
       "type": 0,
-      "value": "-Datei enthalten, die mit dem Einzahlungsvorgang Ihrer 32 STRAT übermittelt wird."
+      "value": "-Datei enthalten, die mit dem Einzahlungsvorgang Ihrer 32 STRAX übermittelt wird."
     }
   ],
   "9/yem6": [
@@ -4996,7 +4996,7 @@
   "fpe4Gx": [
     {
       "type": 0,
-      "value": "Aktive Konten mit einem gültigen Saldo oder einem Gesamtsaldo von weniger als 32 STRAT werden übersprungen."
+      "value": "Aktive Konten mit einem gültigen Saldo oder einem Gesamtsaldo von weniger als 32 STRAX werden übersprungen."
     }
   ],
   "aR50Oc": [
@@ -5038,7 +5038,7 @@
   "b3J7Pw": [
     {
       "type": 0,
-      "value": "Nein. Es gibt keinen Vorteil darin, mehr STRAT zu staken als "
+      "value": "Nein. Es gibt keinen Vorteil darin, mehr STRAX zu staken als "
     },
     {
       "type": 1,
@@ -5558,13 +5558,13 @@
     },
     {
       "type": 0,
-      "value": " STRAT hinterlegt hatten. Diese Informationen waren ganz einfach von Drittanbietern wie Infura oder Alchemy verfügbar."
+      "value": " STRAX hinterlegt hatten. Diese Informationen waren ganz einfach von Drittanbietern wie Infura oder Alchemy verfügbar."
     }
   ],
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Die Antwort auf diese Frage hängt sehr stark davon ab, wie viel STRAT du zur Verfügung hast."
+      "value": "Die Antwort auf diese Frage hängt sehr stark davon ab, wie viel STRAX du zur Verfügung hast."
     }
   ],
   "fQ5yno": [
@@ -5692,7 +5692,7 @@
     },
     {
       "type": 0,
-      "value": " um das Goerli-Testnet zu synchronisieren."
+      "value": " um das Auroria-Testnet zu synchronisieren."
     }
   ],
   "gQkd2y": [
@@ -5894,7 +5894,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT pro Validator wird die Macht dezentralisiert, denn auf diese Weise erhält nicht ein einzelner Validator ein übermäßig großes Stimmrecht zum Status der Chain. Zudem wird damit die Menge an STRAT eingeschränkt, die zu einem bestimmten Zeitpunkt vom Staking abgezogen werden können, denn die Anzahl an Validatoren, die zu einem bestimmten Zeitpunkt austreten können, ist begrenzt. Das trägt dazu bei, dass das Netzwerk gegen bestimmte Angriffe geschützt ist."
+      "value": " STRAX pro Validator wird die Macht dezentralisiert, denn auf diese Weise erhält nicht ein einzelner Validator ein übermäßig großes Stimmrecht zum Status der Chain. Zudem wird damit die Menge an STRAX eingeschränkt, die zu einem bestimmten Zeitpunkt vom Staking abgezogen werden können, denn die Anzahl an Validatoren, die zu einem bestimmten Zeitpunkt austreten können, ist begrenzt. Das trägt dazu bei, dass das Netzwerk gegen bestimmte Angriffe geschützt ist."
     }
   ],
   "huEFUF": [
@@ -5972,7 +5972,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT wurde gewählt, um ein Gleichgewicht zu erhalten, das so vielen Personen wie möglich das Eingreifen gestattet, ohne die Dezentralisierung durch Aufblähung der Größe jedes Blocks mit Unterschriften zu behindern."
+      "value": " STRAX wurde gewählt, um ein Gleichgewicht zu erhalten, das so vielen Personen wie möglich das Eingreifen gestattet, ohne die Dezentralisierung durch Aufblähung der Größe jedes Blocks mit Unterschriften zu behindern."
     }
   ],
   "iX90gu": [
@@ -6270,7 +6270,7 @@
   "36P4ra": [
     {
       "type": 0,
-      "value": "Mit der Zeit wird dein Guthaben abnehmen, da du für die Nichtteilnahme am Konsensprozess bestraft wirst. Wenn dein Guthaben 16 STRAT erreicht, wirst du automatisch aus dem Validator-Pool ausgeschlossen."
+      "value": "Mit der Zeit wird dein Guthaben abnehmen, da du für die Nichtteilnahme am Konsensprozess bestraft wirst. Wenn dein Guthaben 16 STRAX erreicht, wirst du automatisch aus dem Validator-Pool ausgeschlossen."
     }
   ],
   "kn06Zz": [
@@ -6562,7 +6562,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Wir empfehlen Ihnen dringend, dass Sie den vollständigen Prozess erst einmal in einem Testnet durchlaufen und sich damit vertraut machen, bevor Sie mit echten STRAT ins Risiko gehen."
+      "value": "Wir empfehlen Ihnen dringend, dass Sie den vollständigen Prozess erst einmal in einem Testnet durchlaufen und sich damit vertraut machen, bevor Sie mit echten STRAX ins Risiko gehen."
     }
   ],
   "mXSzq5": [
@@ -6698,7 +6698,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "Sobald du dich eingerichtet hast, kannst du dich mit dem Generieren deiner Schlüssel und dem Einzahlen deiner STRAT beschäftigen."
+      "value": "Sobald du dich eingerichtet hast, kannst du dich mit dem Generieren deiner Schlüssel und dem Einzahlen deiner STRAX beschäftigen."
     }
   ],
   "njAU72": [
@@ -6896,7 +6896,7 @@
     },
     {
       "type": 0,
-      "value": " um das Goerli-Testnet zu synchronisieren."
+      "value": " um das Auroria-Testnet zu synchronisieren."
     }
   ],
   "p+kDTB": [
@@ -6934,7 +6934,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Ja, aber mit kleinen Strafen. Wenn Sie unter normalen Bedingungen für einige Tage offline gehen, verlieren Sie einen ETH-Betrag, der ungefähr dem ETH-Betrag entspricht, den Sie in diesem Zeitraum gewonnen hätten. Mit anderen Worten, wenn Sie ≈0,01 STRAT verdient hätten, würden Sie stattdessen für ≈0,01 STRAT bestraft werden."
+      "value": "Ja, aber mit kleinen Strafen. Wenn Sie unter normalen Bedingungen für einige Tage offline gehen, verlieren Sie einen ETH-Betrag, der ungefähr dem ETH-Betrag entspricht, den Sie in diesem Zeitraum gewonnen hätten. Mit anderen Worten, wenn Sie ≈0,01 STRAX verdient hätten, würden Sie stattdessen für ≈0,01 STRAX bestraft werden."
     }
   ],
   "pHQwsN": [
@@ -7890,7 +7890,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Block-Belohnungen werden anhand einer Gleitskala berechnet, die auf dem Gesamtbetrag der im Netzwerk eingesetzten STRAT basiert."
+      "value": "Block-Belohnungen werden anhand einer Gleitskala berechnet, die auf dem Gesamtbetrag der im Netzwerk eingesetzten STRAX basiert."
     }
   ],
   "xXKkhR": [
@@ -7928,7 +7928,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Alle Benutzer, die ihren Validator aus dem Staking zurückziehen und ihre STRAT abheben möchten, sollten sich mit dem Leitfaden unten vertraut machen, der zu ihrer Einrichtung passt:"
+      "value": "Alle Benutzer, die ihren Validator aus dem Staking zurückziehen und ihre STRAX abheben möchten, sollten sich mit dem Leitfaden unten vertraut machen, der zu ihrer Einrichtung passt:"
     }
   ],
   "xm3Ivd": [
@@ -8148,7 +8148,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "Auf der anderen Seite, wenn dein Kontostand näher bei 31 STRAT liegt, lohnt es sich wahrscheinlich nicht, die zusätzlichen STRAT hinzuzufügen, die erforderlich sind, um wieder auf 32 zu kommen."
+      "value": "Auf der anderen Seite, wenn dein Kontostand näher bei 31 STRAX liegt, lohnt es sich wahrscheinlich nicht, die zusätzlichen STRAX hinzuzufügen, die erforderlich sind, um wieder auf 32 zu kommen."
     }
   ],
   "zJicsO": [
@@ -8168,7 +8168,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT ein. Ein höherer Betrag wirkt sich nicht auf Ihre Prämien aus und wird bis zum geplanten Shanghai/Capella-Upgrade gesperrt."
+      "value": " STRAX ein. Ein höherer Betrag wirkt sich nicht auf Ihre Prämien aus und wird bis zum geplanten Shanghai/Capella-Upgrade gesperrt."
     }
   ],
   "zbEBi9": [

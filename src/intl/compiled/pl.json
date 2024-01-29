@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "W niekończącej się pętli każde konto walidatora jest stale oceniane pod kątem kwalifikujących się wypłat STRAT (których istnieją dwa typy, więcej informacji poniżej). Walidatory są przetwarzane według numeru indeksu, zaczynając od 0, przy czym każdy kolejny proponujący rozpoczyna tam, gdzie skończył ostatni."
+      "value": "W niekończącej się pętli każde konto walidatora jest stale oceniane pod kątem kwalifikujących się wypłat STRAX (których istnieją dwa typy, więcej informacji poniżej). Walidatory są przetwarzane według numeru indeksu, zaczynając od 0, przy czym każdy kolejny proponujący rozpoczyna tam, gdzie skończył ostatni."
     }
   ],
   "/OAba6": [
@@ -784,7 +784,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testowanie na Goerli"
+      "value": "Testowanie na Auroria"
     }
   ],
   "3ODqP9": [
@@ -798,7 +798,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT do jednego zestawu kluczy nie zwiększa potencjału nagród, podobnie jak gromadzenie nagród powyżej "
+      "value": " STRAX do jednego zestawu kluczy nie zwiększa potencjału nagród, podobnie jak gromadzenie nagród powyżej "
     },
     {
       "type": 1,
@@ -860,7 +860,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Dokumentacja Geth na Goerli"
+      "value": "Dokumentacja Geth na Auroria"
     }
   ],
   "3aykgN": [
@@ -944,7 +944,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Dlaczego skala przesuwna? Nie będziemy tutaj wchodzić w szczegóły, ale podstawowa intencja jest taka, że musi istnieć minimalna liczba walidatorów (a co za tym idzie, minimalna ilość STRAT w stakach), aby sieć funkcjonowała prawidłowo. Tak więc, aby zachęcić więcej walidatorów do przyłączenia się, ważne jest, aby stopa procentowa pozostała wysoka, dopóki ta minimalna liczba nie zostanie osiągnięta."
+      "value": "Dlaczego skala przesuwna? Nie będziemy tutaj wchodzić w szczegóły, ale podstawowa intencja jest taka, że musi istnieć minimalna liczba walidatorów (a co za tym idzie, minimalna ilość STRAX w stakach), aby sieć funkcjonowała prawidłowo. Tak więc, aby zachęcić więcej walidatorów do przyłączenia się, ważne jest, aby stopa procentowa pozostała wysoka, dopóki ta minimalna liczba nie zostanie osiągnięta."
     }
   ],
   "4hb+GK": [
@@ -1362,7 +1362,7 @@
     },
     {
       "type": 0,
-      "value": ", aby zsynchronizować sieć testową Goerli."
+      "value": ", aby zsynchronizować sieć testową Auroria."
     }
   ],
   "8boRAk": [
@@ -1826,7 +1826,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Po wyjściu walidatora i wycofaniu jego pełnego salda wszelkie dodatkowe środki wpłacone na jego rzecz zostaną automatycznie przesłane na adres do wycofywania środków podczas następnego przesunięcia walidatorów. W celu dokonania re-stakingu STRAT konieczna jest aktywacja nowego walidatora."
+      "value": "Po wyjściu walidatora i wycofaniu jego pełnego salda wszelkie dodatkowe środki wpłacone na jego rzecz zostaną automatycznie przesłane na adres do wycofywania środków podczas następnego przesunięcia walidatorów. W celu dokonania re-stakingu STRAX konieczna jest aktywacja nowego walidatora."
     }
   ],
   "BPpnlJ": [
@@ -2056,7 +2056,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Ile STRAT muszę postawić, aby zostać walidatorem?"
+      "value": "Ile STRAX muszę postawić, aby zostać walidatorem?"
     }
   ],
   "5q9Lgv": [
@@ -2110,7 +2110,7 @@
     },
     {
       "type": 0,
-      "value": " walidatorów z sieci. Wynika to ze względów bezpieczeństwa. Ponieważ każdy walidator jest ograniczony do maks. efektywnego salda 32 ETH, co zapobiega potencjalnemu wykorzystaniu dużych ilości STRAT do ataku, a następnie szybkiego i jednoczesnego wyjścia z sieci."
+      "value": " walidatorów z sieci. Wynika to ze względów bezpieczeństwa. Ponieważ każdy walidator jest ograniczony do maks. efektywnego salda 32 ETH, co zapobiega potencjalnemu wykorzystaniu dużych ilości STRAX do ataku, a następnie szybkiego i jednoczesnego wyjścia z sieci."
     }
   ],
   "DNRQa7": [
@@ -3102,7 +3102,7 @@
     },
     {
       "type": 0,
-      "value": ", aby zsynchronizować sieć testową Goerli."
+      "value": ", aby zsynchronizować sieć testową Auroria."
     }
   ],
   "Ljo9dF": [
@@ -3158,7 +3158,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Zabezpieczeniem Stratis jest dowód stawki (PoS), aczkolwiek nie zawsze tak było. Pierwszy krok w kierunku ustanowienia warstwy konsensusu PoS w Stratis stanowił Łańcuch śledzący, uruchomiony równolegle z siecią główną w 2020 r. To pozwoliło uczestnikom na rozpoczęcie stawkowania STRAT i przygotowanie sieci do formalnego przejścia od dowodu pracy do dowodu stawki w drodze połączenia."
+      "value": "Zabezpieczeniem Stratis jest dowód stawki (PoS), aczkolwiek nie zawsze tak było. Pierwszy krok w kierunku ustanowienia warstwy konsensusu PoS w Stratis stanowił Łańcuch śledzący, uruchomiony równolegle z siecią główną w 2020 r. To pozwoliło uczestnikom na rozpoczęcie stawkowania STRAX i przygotowanie sieci do formalnego przejścia od dowodu pracy do dowodu stawki w drodze połączenia."
     }
   ],
   "LwEHRm": [
@@ -3706,7 +3706,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Dokumentacja Nethermind na Goerli"
+      "value": "Dokumentacja Nethermind na Auroria"
     }
   ],
   "PoBIK+": [
@@ -4328,7 +4328,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Innymi słowy: jeśli całkowita stawka STRAT jest niska, nagroda (stopa procentowa) jest wysoka, ale gdy całkowita stawka rośnie, nagroda (odsetki) wypłacana każdemu walidatorowi zaczyna spadać."
+      "value": "Innymi słowy: jeśli całkowita stawka STRAX jest niska, nagroda (stopa procentowa) jest wysoka, ale gdy całkowita stawka rośnie, nagroda (odsetki) wypłacana każdemu walidatorowi zaczyna spadać."
     }
   ],
   "VUuZsb": [
@@ -4548,7 +4548,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Dokumentacja Besu na Goerli"
+      "value": "Dokumentacja Besu na Auroria"
     }
   ],
   "XVRQoq": [
@@ -4606,7 +4606,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Uwaga: obecnie nie ma planów umożliwienia przelewów STRAT między walidatorami."
+      "value": "Uwaga: obecnie nie ma planów umożliwienia przelewów STRAX między walidatorami."
     }
   ],
   "XmddSV": [
@@ -4904,7 +4904,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Są one określane także jako „wypłaty częściowe” lub „płatności z tytułu nagród”, podczas gdy pozostałe 32 STRAT pozostaje zablokowane i w stakingu."
+      "value": "Są one określane także jako „wypłaty częściowe” lub „płatności z tytułu nagród”, podczas gdy pozostałe 32 STRAX pozostaje zablokowane i w stakingu."
     }
   ],
   "a+xjjV": [
@@ -5512,7 +5512,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Odpowiedź na to pytanie w dużej mierze zależy od tego, ile STRAT masz do dyspozycji."
+      "value": "Odpowiedź na to pytanie w dużej mierze zależy od tego, ile STRAX masz do dyspozycji."
     }
   ],
   "fQ5yno": [
@@ -5640,7 +5640,7 @@
     },
     {
       "type": 0,
-      "value": ", aby zsynchronizować sieć testową Goerli."
+      "value": ", aby zsynchronizować sieć testową Auroria."
     }
   ],
   "gQkd2y": [
@@ -5842,7 +5842,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT na walidatora sprzyja decentralizacji władzy, ponieważ zapobiega sytuacji, w której pojedynczy walidator ma zbyt duży wpływ, głosując na stan łańcucha. Ogranicza również ilość ETH, która może być wyprowadzona ze stakowania w danym czasie, ponieważ liczba walidatorów, którzy mogą wyjść w danym okresie czasu, jest ograniczona. Pozwala to chronić sieć przed niektórymi atakami."
+      "value": " STRAX na walidatora sprzyja decentralizacji władzy, ponieważ zapobiega sytuacji, w której pojedynczy walidator ma zbyt duży wpływ, głosując na stan łańcucha. Ogranicza również ilość ETH, która może być wyprowadzona ze stakowania w danym czasie, ponieważ liczba walidatorów, którzy mogą wyjść w danym okresie czasu, jest ograniczona. Pozwala to chronić sieć przed niektórymi atakami."
     }
   ],
   "huEFUF": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT aktywuje jeden zestaw kluczy walidatora. Te klucze służą do potwierdzenia stanu sieci. Im niższy wymóg ETH, tym więcej wynikowych podpisów musi zostać zapisanych przez sieć. "
+      "value": " STRAX aktywuje jeden zestaw kluczy walidatora. Te klucze służą do potwierdzenia stanu sieci. Im niższy wymóg ETH, tym więcej wynikowych podpisów musi zostać zapisanych przez sieć. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT wybrano jako wartość umożliwiającą stakowanie możliwie największej liczbie osób bez nadmiernego powiększania każdego bloku podpisami."
+      "value": " STRAX wybrano jako wartość umożliwiającą stakowanie możliwie największej liczbie osób bez nadmiernego powiększania każdego bloku podpisami."
     }
   ],
   "iX90gu": [
@@ -6494,7 +6494,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Zdecydowanie zalecamy, aby przed zaryzykowaniem prawdziwych STRAT przejść przez cały proces w sieci testowej i nabrać wprawy."
+      "value": "Zdecydowanie zalecamy, aby przed zaryzykowaniem prawdziwych STRAX przejść przez cały proces w sieci testowej i nabrać wprawy."
     }
   ],
   "mXSzq5": [
@@ -6820,7 +6820,7 @@
     },
     {
       "type": 0,
-      "value": ", aby zsynchronizować sieć testową Goerli."
+      "value": ", aby zsynchronizować sieć testową Auroria."
     }
   ],
   "p+kDTB": [
@@ -6858,7 +6858,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Tak, ale wiąże się to z drobnymi karami. Jeśli korzystasz z STRAT w trybie offline przez kilka dni w normalnych warunkach, stracisz kwotę w przybliżeniu równą kwocie ETH, którą uzyskałoby się w tym okresie. Innymi słowy, gdyby móc zarabiać 0,01 ETH, zamiast tego mozna by otrzymać karę w wysokości 0,01 ETH."
+      "value": "Tak, ale wiąże się to z drobnymi karami. Jeśli korzystasz z STRAX w trybie offline przez kilka dni w normalnych warunkach, stracisz kwotę w przybliżeniu równą kwocie ETH, którą uzyskałoby się w tym okresie. Innymi słowy, gdyby móc zarabiać 0,01 ETH, zamiast tego mozna by otrzymać karę w wysokości 0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7806,7 +7806,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Nagrody za bloki są obliczane przy użyciu ruchomej skali opartej na całkowitej kwoty STRAT zadeklarowanych w sieci."
+      "value": "Nagrody za bloki są obliczane przy użyciu ruchomej skali opartej na całkowitej kwoty STRAX zadeklarowanych w sieci."
     }
   ],
   "xXKkhR": [
@@ -8064,7 +8064,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "Z drugiej strony, jeśli twoje saldo jest bliższe 31 ETH, prawdopodobnie nie warto dodawać dodatkowego STRAT wymaganego do powrotu do 32."
+      "value": "Z drugiej strony, jeśli twoje saldo jest bliższe 31 ETH, prawdopodobnie nie warto dodawać dodatkowego STRAX wymaganego do powrotu do 32."
     }
   ],
   "zJicsO": [
@@ -8084,7 +8084,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT dla jednego walidatora. Nie zwiększy to nagród i spowoduje zablokowanie środków do czasu planowanego uaktualnienia Shanghai/Capella."
+      "value": " STRAX dla jednego walidatora. Nie zwiększy to nagród i spowoduje zablokowanie środków do czasu planowanego uaktualnienia Shanghai/Capella."
     }
   ],
   "zbEBi9": [

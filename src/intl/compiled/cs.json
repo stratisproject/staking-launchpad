@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "U každého jednotlivého účtu validátora neustále průběžně probíhá hodnocení způsobilosti výběru STRAT (pro tyto potřeby existují dva typy – další informace naleznete dále). Validátory se zpracovávají podle čísla indexu (začínající od 0), kde každý následný navrhovatel začíná od bodu, kde poslední skončil."
+      "value": "U každého jednotlivého účtu validátora neustále průběžně probíhá hodnocení způsobilosti výběru STRAX (pro tyto potřeby existují dva typy – další informace naleznete dále). Validátory se zpracovávají podle čísla indexu (začínající od 0), kde každý následný navrhovatel začíná od bodu, kde poslední skončil."
     }
   ],
   "/OAba6": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testování na Goerli"
+      "value": "Testování na Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT do jedné sady klíčů, nezvýšíte tím potenciál získání odměny. To samé platí i pro nahromadění odměn nad "
+      "value": " STRAX do jedné sady klíčů, nezvýšíte tím potenciál získání odměny. To samé platí i pro nahromadění odměn nad "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Dokumentace Geth na Goerli"
+      "value": "Dokumentace Geth na Auroria"
     }
   ],
   "3aykgN": [
@@ -1366,7 +1366,7 @@
   "8XQmxX": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
@@ -1762,7 +1762,7 @@
     },
     {
       "type": 0,
-      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 STRAT a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Stratis."
+      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 STRAX a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Stratis."
     }
   ],
   "RY4SP0": [
@@ -1838,7 +1838,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Jakmile validátor skončí a dojde k výběru celého zůstatku, veškeré další finanční prostředky uložené u tohoto validátora budou automaticky převedeny na adresu pro výběr během příštího sweepu validátora. Před opětovným uzamčením STRAT je třeba aktivovat nového validátora."
+      "value": "Jakmile validátor skončí a dojde k výběru celého zůstatku, veškeré další finanční prostředky uložené u tohoto validátora budou automaticky převedeny na adresu pro výběr během příštího sweepu validátora. Před opětovným uzamčením STRAX je třeba aktivovat nového validátora."
     }
   ],
   "BPpnlJ": [
@@ -2068,7 +2068,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Jaký podíl STRAT musím vložit, abych se mohl(a) stát validátorem?"
+      "value": "Jaký podíl STRAX musím vložit, abych se mohl(a) stát validátorem?"
     }
   ],
   "5q9Lgv": [
@@ -2122,7 +2122,7 @@
     },
     {
       "type": 0,
-      "value": " síť. Je tomu tak z bezpečnostních důvodů. Vzhledem k tomu, že každý validátor může využívat maximální zůstatek 32 ETH, opatření zabraňuje potenciálnímu použití velké části STRAT při útoku s následným rychlým opuštěním sítě."
+      "value": " síť. Je tomu tak z bezpečnostních důvodů. Vzhledem k tomu, že každý validátor může využívat maximální zůstatek 32 ETH, opatření zabraňuje potenciálnímu použití velké části STRAX při útoku s následným rychlým opuštěním sítě."
     }
   ],
   "DNRQa7": [
@@ -2514,7 +2514,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Není možné ručně vyžádat určité množství STRAT k výběru"
+      "value": "Není možné ručně vyžádat určité množství STRAX k výběru"
     }
   ],
   "GUDhpC": [
@@ -3114,7 +3114,7 @@
   "LibVut": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
@@ -3178,7 +3178,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Přestože tomu tak vždy nebylo, Stratis je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Stratis a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat STRAT a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
+      "value": "Přestože tomu tak vždy nebylo, Stratis je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Stratis a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat STRAX a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
     }
   ],
   "LwEHRm": [
@@ -3726,7 +3726,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Dokumentace Nethermind na Goerli"
+      "value": "Dokumentace Nethermind na Auroria"
     }
   ],
   "PoBIK+": [
@@ -4344,7 +4344,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Jinými slovy, pokud je celková částka podílu STRAT nízká, odměna (úroková sazba) je vysoká. Ale jak celkový podíl roste, odměna (úrok) vyplácená jednotlivým validátorům začíná klesat."
+      "value": "Jinými slovy, pokud je celková částka podílu STRAX nízká, odměna (úroková sazba) je vysoká. Ale jak celkový podíl roste, odměna (úrok) vyplácená jednotlivým validátorům začíná klesat."
     }
   ],
   "VUuZsb": [
@@ -4564,7 +4564,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Dokumentace Besu na Goerli"
+      "value": "Dokumentace Besu na Auroria"
     }
   ],
   "XVRQoq": [
@@ -4622,7 +4622,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Pozn.: neexistují žádné aktuální plány pro povolení přenosu STRAT mezi validátory."
+      "value": "Pozn.: neexistují žádné aktuální plány pro povolení přenosu STRAX mezi validátory."
     }
   ],
   "XmddSV": [
@@ -4920,7 +4920,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Těm se také někdy říká „částečné výběry“ nebo „vyplacení odměny“, protože zbývajících 32 STRAT zůstává uzamčeno."
+      "value": "Těm se také někdy říká „částečné výběry“ nebo „vyplacení odměny“, protože zbývajících 32 STRAX zůstává uzamčeno."
     }
   ],
   "a+xjjV": [
@@ -4964,7 +4964,7 @@
   "fpe4Gx": [
     {
       "type": 0,
-      "value": "Aktivní účty s platným zůstatkem nebo celkovým zůstatkem pod 32 STRAT budou přeskočeny"
+      "value": "Aktivní účty s platným zůstatkem nebo celkovým zůstatkem pod 32 STRAX budou přeskočeny"
     }
   ],
   "aR50Oc": [
@@ -5014,7 +5014,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT nemáte žádnou výhodu."
+      "value": " STRAX nemáte žádnou výhodu."
     }
   ],
   "FWtWw3": [
@@ -5528,7 +5528,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Odpověď na tuto otázku do značné míry závisí na tom, kolik STRAT máte k dispozici."
+      "value": "Odpověď na tuto otázku do značné míry závisí na tom, kolik STRAX máte k dispozici."
     }
   ],
   "fQ5yno": [
@@ -5648,7 +5648,7 @@
   "gN9D/h": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
@@ -5858,7 +5858,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT na validátor vede k decentralizaci moci a brání tomu, že libovolný validátor bude mít nadměrně velké hlasovací právo ohledně stavu řetězce. Také to omezuje částku ETH, kterou lze kdykoli vybrat z podílu, jelikož počet validátorů, které mohou v daném časovém období odejít, je omezený. Pomáhá to chránit síť před určitými útoky."
+      "value": " STRAX na validátor vede k decentralizaci moci a brání tomu, že libovolný validátor bude mít nadměrně velké hlasovací právo ohledně stavu řetězce. Také to omezuje částku ETH, kterou lze kdykoli vybrat z podílu, jelikož počet validátorů, které mohou v daném časovém období odejít, je omezený. Pomáhá to chránit síť před určitými útoky."
     }
   ],
   "huEFUF": [
@@ -5928,7 +5928,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT aktivuje jednu sadu klíčů validátora. Tyto klíče jsou používány k podepsání stavu sítě. Čím je požadovaná částka STRAT nižší, tím více výsledných podpisů musí být sítí uloženo. Částka "
+      "value": " STRAX aktivuje jednu sadu klíčů validátora. Tyto klíče jsou používány k podepsání stavu sítě. Čím je požadovaná částka STRAX nižší, tím více výsledných podpisů musí být sítí uloženo. Částka "
     },
     {
       "type": 1,
@@ -5936,7 +5936,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT byla zvolena, protože jde o částku, která umožňuje maximální možný počet podílníků, aniž by byla omezena decentralizace tím, že bude velikost každého bloku výrazně navýšena podpisy."
+      "value": " STRAX byla zvolena, protože jde o částku, která umožňuje maximální možný počet podílníků, aniž by byla omezena decentralizace tím, že bude velikost každého bloku výrazně navýšena podpisy."
     }
   ],
   "iX90gu": [
@@ -6836,7 +6836,7 @@
   "ozEkVY": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
@@ -7834,7 +7834,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Odměny za bloky jsou počítány pomocí posuvné škály založené na celkové částce podílu STRAT v síti."
+      "value": "Odměny za bloky jsou počítány pomocí posuvné škály založené na celkové částce podílu STRAX v síti."
     }
   ],
   "xXKkhR": [

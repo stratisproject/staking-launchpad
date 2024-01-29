@@ -2,7 +2,7 @@
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/staking-launchpad/badge)](https://www.gitpoap.io/gh/ethereum/staking-launchpad)
 
-The [Launchpad](https://launchpad.ethereum.org/) is the Stratis's official way to deposit your STRAT for staking on Stratis
+The [Launchpad](https://launchpad.stratisevm.com/) is the Stratis's official way to deposit your STRAX for staking on Stratis
 
 ## Dependencies
 
@@ -51,12 +51,12 @@ By default, `dev` acts as the primary base branch which all PRs should merge int
 
 ## Launchpad deployment
 
-- The `master` branch represents the live **testnet** version of the Launchpad. Open a PR to merge `dev` into `master` to deploy a testnet Launchpad (e.g. [#517](https://github.com/ethereum/staking-launchpad/pull/517) for https://goerli.launchpad.ethereum.org/ )
-- The `mainnet` branch represents the live **Mainnet** version of the Launchpad. Open a PR to merge `master` into `mainnet` to deploy the Mainnet Launchpad (e.g. [#518](https://github.com/ethereum/staking-launchpad/pull/518) for https://launchpad.ethereum.org/)
+- The `master` branch represents the live **testnet** version of the Launchpad. Open a PR to merge `dev` into `master` to deploy a testnet Launchpad (e.g. [#517](https://github.com/ethereum/staking-launchpad/pull/517) for https://goerli.launchpad.stratisevm.com/ )
+- The `mainnet` branch represents the live **Mainnet** version of the Launchpad. Open a PR to merge `master` into `mainnet` to deploy the Mainnet Launchpad (e.g. [#518](https://github.com/ethereum/staking-launchpad/pull/518) for https://launchpad.stratisevm.com/)
 
 ## Launchpad translation
 
-As part of the [ethereum.org Translation Program](https://ethereum.org/en/contributing/translation-program), our community of translators is also working on translating the Stratis Staking Launchpad.
+As part of the [stratisevm.com Translation Program](https://stratisevm.com/en/contributing/translation-program), our community of translators is also working on translating the Stratis Staking Launchpad.
 
 If you are interested in getting involved and helping with the translations, please [visit the project in Crowdin](https://crowdin.com/project/launchpad-translation). 
 

@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Pada putaran tanpa akhir, setiap akun validator terus dievaluasi atas kelayakan penarikan STRAT (yang ada dua jenis, selengkapnya tentang hal ini dijelaskan di bawah). Validator diproses secara berurutan berdasarkan nomor indeks, yang awalnya dimulai dari 0, dengan setiap pengusul berikutnya melanjutkan dari nomor yang terakhir."
+      "value": "Pada putaran tanpa akhir, setiap akun validator terus dievaluasi atas kelayakan penarikan STRAX (yang ada dua jenis, selengkapnya tentang hal ini dijelaskan di bawah). Validator diproses secara berurutan berdasarkan nomor indeks, yang awalnya dimulai dari 0, dengan setiap pengusul berikutnya melanjutkan dari nomor yang terakhir."
     }
   ],
   "/OAba6": [
@@ -196,7 +196,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT maksimum?"
+      "value": " STRAX maksimum?"
     }
   ],
   "/jJLYy": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Menguji di Goerli"
+      "value": "Menguji di Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT ke satu kumpulan kunci tidak meningkatkan potensi imbalan, juga tidak mengakumulasi imbalan di atas "
+      "value": " STRAX ke satu kumpulan kunci tidak meningkatkan potensi imbalan, juga tidak mengakumulasi imbalan di atas "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Geth di dokumentasi Goerli"
+      "value": "Geth di dokumentasi Auroria"
     }
   ],
   "3aykgN": [
@@ -1366,7 +1366,7 @@
     },
     {
       "type": 0,
-      "value": " untuk sinkronisasi testnet Goerli."
+      "value": " untuk sinkronisasi testnet Auroria."
     }
   ],
   "8boRAk": [
@@ -1480,7 +1480,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT pada stake?"
+      "value": " STRAX pada stake?"
     }
   ],
   "9JktQX": [
@@ -2052,7 +2052,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Berapa banyak STRAT yang diperlukan untuk menjadi validator?"
+      "value": "Berapa banyak STRAX yang diperlukan untuk menjadi validator?"
     }
   ],
   "5q9Lgv": [
@@ -2106,7 +2106,7 @@
     },
     {
       "type": 0,
-      "value": " jaringan. Ini untuk alasan keamanan. Mengingat setiap validator dibatasi hingga saldo efektif maksimal 32 ETH, hal ini mencegah sebagian besar STRAT kemungkinan digunakan dalam serangan lalu dengan cepat keluar dari jaringan sekaligus."
+      "value": " jaringan. Ini untuk alasan keamanan. Mengingat setiap validator dibatasi hingga saldo efektif maksimal 32 ETH, hal ini mencegah sebagian besar STRAX kemungkinan digunakan dalam serangan lalu dengan cepat keluar dari jaringan sekaligus."
     }
   ],
   "DNRQa7": [
@@ -2498,7 +2498,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Tidak dimungkinkan meminta STRAT yang akan ditarik dengan jumlah tertentu secara manual"
+      "value": "Tidak dimungkinkan meminta STRAX yang akan ditarik dengan jumlah tertentu secara manual"
     }
   ],
   "GUDhpC": [
@@ -3102,7 +3102,7 @@
     },
     {
       "type": 0,
-      "value": " untuk sinkronisasi testnet Goerli."
+      "value": " untuk sinkronisasi testnet Auroria."
     }
   ],
   "Ljo9dF": [
@@ -3158,7 +3158,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Stratis, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan STRAT mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
+      "value": "Stratis diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Stratis, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan STRAX mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
     }
   ],
   "LwEHRm": [
@@ -3706,7 +3706,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Nethermind pada dokumentasi Goerli"
+      "value": "Nethermind pada dokumentasi Auroria"
     }
   ],
   "PoBIK+": [
@@ -4328,7 +4328,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Dengan kata lain: jika jumlah total STRAT yang dipertaruhkan rendah, hadiah (tingkat bunga) tinggi, tetapi saat total taruhan meningkat, hadiah (bunga) yang dibayarkan kepada setiap validator mulai turun."
+      "value": "Dengan kata lain: jika jumlah total STRAX yang dipertaruhkan rendah, hadiah (tingkat bunga) tinggi, tetapi saat total taruhan meningkat, hadiah (bunga) yang dibayarkan kepada setiap validator mulai turun."
     }
   ],
   "VUuZsb": [
@@ -4548,7 +4548,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Besu di dokumentasi Goerli"
+      "value": "Besu di dokumentasi Auroria"
     }
   ],
   "XVRQoq": [
@@ -4606,7 +4606,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Perhatikan, saat ini tidak ada rencana mengaktifkan transfer STRAT antar validator."
+      "value": "Perhatikan, saat ini tidak ada rencana mengaktifkan transfer STRAX antar validator."
     }
   ],
   "XmddSV": [
@@ -4694,7 +4694,7 @@
   "YJI2xv": [
     {
       "type": 0,
-      "value": "Pohon keputusan diikuti untuk menentukan jenis penarikan mana yang akan dimulai. Jika validator yang diperiksa memiliki STRAT yang memenuhi syarat untuk ditarik, validator akan ditambahkan ke antrean penarikan. Jika tidak ada, akun akan dilewati."
+      "value": "Pohon keputusan diikuti untuk menentukan jenis penarikan mana yang akan dimulai. Jika validator yang diperiksa memiliki STRAX yang memenuhi syarat untuk ditarik, validator akan ditambahkan ke antrean penarikan. Jika tidak ada, akun akan dilewati."
     }
   ],
   "YP03/j": [
@@ -4904,7 +4904,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Ini juga disebut sebagai “penarikan parsial” atau “pembayaran imbalan” karena 32 STRAT yang tersisa tetap dikunci dan dipertaruhkan."
+      "value": "Ini juga disebut sebagai “penarikan parsial” atau “pembayaran imbalan” karena 32 STRAX yang tersisa tetap dikunci dan dipertaruhkan."
     }
   ],
   "a+xjjV": [
@@ -4930,7 +4930,7 @@
     },
     {
       "type": 0,
-      "value": " yang dikirimkan bersama transaksi setoran 32 STRAT Anda."
+      "value": " yang dikirimkan bersama transaksi setoran 32 STRAX Anda."
     }
   ],
   "9/yem6": [
@@ -4998,7 +4998,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT yang dipertaruhkan."
+      "value": " STRAX yang dipertaruhkan."
     }
   ],
   "FWtWw3": [
@@ -5512,7 +5512,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Jawaban atas pertanyaan ini sangat bergantung pada seberapa banyak STRAT yang Anda miliki."
+      "value": "Jawaban atas pertanyaan ini sangat bergantung pada seberapa banyak STRAX yang Anda miliki."
     }
   ],
   "fQ5yno": [
@@ -5640,7 +5640,7 @@
     },
     {
       "type": 0,
-      "value": " untuk menyinkronkan testnet Goerli."
+      "value": " untuk menyinkronkan testnet Auroria."
     }
   ],
   "gQkd2y": [
@@ -5842,7 +5842,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT per validator akan mendorong desentralisasi kekuasaan karena mencegah validator tunggal memiliki suara yang terlalu besar pada state rantai. Itu juga akan membatasi jumlah STRAT yang bisa keluar dari penaruhan pada waktu tertentu, karena jumlah validator yang bisa keluar pada waktu tertentu dibatasi. Hal ini membantu melindungi jaringan dari serangan tertentu."
+      "value": " STRAX per validator akan mendorong desentralisasi kekuasaan karena mencegah validator tunggal memiliki suara yang terlalu besar pada state rantai. Itu juga akan membatasi jumlah STRAX yang bisa keluar dari penaruhan pada waktu tertentu, karena jumlah validator yang bisa keluar pada waktu tertentu dibatasi. Hal ini membantu melindungi jaringan dari serangan tertentu."
     }
   ],
   "huEFUF": [
@@ -5912,7 +5912,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT mengaktifkan satu set kunci validator. Kunci ini digunakan untuk menandatangani state jaringan. Semakin rendah persyaratan ETH, semakin banyak tanda tangan dihasilkan yang harus disimpan oleh jaringan. "
+      "value": " STRAX mengaktifkan satu set kunci validator. Kunci ini digunakan untuk menandatangani state jaringan. Semakin rendah persyaratan ETH, semakin banyak tanda tangan dihasilkan yang harus disimpan oleh jaringan. "
     },
     {
       "type": 1,
@@ -5920,7 +5920,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT dipilih sebagai saldo antara memungkinkan sebanyak mungkin orang untuk mempertaruhkan tanpa menghambat desentralisasi dengan membengkakkan ukuran setiap blok dengan tanda tangan."
+      "value": " STRAX dipilih sebagai saldo antara memungkinkan sebanyak mungkin orang untuk mempertaruhkan tanpa menghambat desentralisasi dengan membengkakkan ukuran setiap blok dengan tanda tangan."
     }
   ],
   "iX90gu": [
@@ -6502,7 +6502,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Kami sangat menyarankan agar Anda melalui seluruh prosesnya di jaringan percobaan terlebih dahulu agar merasa nyaman sebelum mempertaruhkan STRAT yang sebenarnya."
+      "value": "Kami sangat menyarankan agar Anda melalui seluruh prosesnya di jaringan percobaan terlebih dahulu agar merasa nyaman sebelum mempertaruhkan STRAX yang sebenarnya."
     }
   ],
   "mXSzq5": [
@@ -6634,7 +6634,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "Setelah Anda sudah merasa nyaman, Anda dapat mulai membuat kunci dan menyetor STRAT Anda."
+      "value": "Setelah Anda sudah merasa nyaman, Anda dapat mulai membuat kunci dan menyetor STRAX Anda."
     }
   ],
   "njAU72": [
@@ -6828,7 +6828,7 @@
     },
     {
       "type": 0,
-      "value": " untuk menyinkronkan testnet Goerli."
+      "value": " untuk menyinkronkan testnet Auroria."
     }
   ],
   "p+kDTB": [
@@ -6866,7 +6866,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Ya, tetapi dengan penalti kecil. Jika Anda luring selama beberapa hari dalam kondisi normal, Anda akan kehilangan sejumlah STRAT yang kira-kira setara dengan jumlah STRAT yang akan Anda peroleh dalam periode itu. Dengan kata lain, jika Anda berhasil mendapatkan ≈0,01 ETH, Anda akan mendapat penalti ≈0,01 ETH."
+      "value": "Ya, tetapi dengan penalti kecil. Jika Anda luring selama beberapa hari dalam kondisi normal, Anda akan kehilangan sejumlah STRAX yang kira-kira setara dengan jumlah STRAX yang akan Anda peroleh dalam periode itu. Dengan kata lain, jika Anda berhasil mendapatkan ≈0,01 ETH, Anda akan mendapat penalti ≈0,01 ETH."
     }
   ],
   "pHQwsN": [
@@ -7810,7 +7810,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Hadiah blok dihitung menggunakan skala geser berdasarkan jumlah total STRAT yang dipertaruhkan di jaringan."
+      "value": "Hadiah blok dihitung menggunakan skala geser berdasarkan jumlah total STRAX yang dipertaruhkan di jaringan."
     }
   ],
   "xXKkhR": [
@@ -7848,7 +7848,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Mereka yang ingin keluar dari validator dari penaruhan dan penarikan STRAT mereka harus melihat panduan di bawah ini yang sesuai dengan pengaturan Anda:"
+      "value": "Mereka yang ingin keluar dari validator dari penaruhan dan penarikan STRAX mereka harus melihat panduan di bawah ini yang sesuai dengan pengaturan Anda:"
     }
   ],
   "xm3Ivd": [
@@ -8068,7 +8068,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "Di sisi lain, jika saldo Anda mendekati 31 ETH, mungkin tidak ada gunanya menambahkan STRAT ekstra yang diperlukan untuk kembali ke 32."
+      "value": "Di sisi lain, jika saldo Anda mendekati 31 ETH, mungkin tidak ada gunanya menambahkan STRAX ekstra yang diperlukan untuk kembali ke 32."
     }
   ],
   "zJicsO": [
@@ -8088,7 +8088,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT untuk satu validator. Setoran ini tidak akan ditambahkan ke imbalan Anda dan akan dikunci hingga peningkatan Shanghai/Capella yang direncanakan."
+      "value": " STRAX untuk satu validator. Setoran ini tidak akan ditambahkan ke imbalan Anda dan akan dikunci hingga peningkatan Shanghai/Capella yang direncanakan."
     }
   ],
   "zbEBi9": [

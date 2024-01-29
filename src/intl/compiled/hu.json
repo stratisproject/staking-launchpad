@@ -196,7 +196,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT maximális értékre?"
+      "value": " STRAX maximális értékre?"
     }
   ],
   "/jJLYy": [
@@ -796,7 +796,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Tesztelés a Goerlin"
+      "value": "Tesztelés a Aurorian"
     }
   ],
   "3ODqP9": [
@@ -810,7 +810,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT egyetlen kulcskészlethez való letétbe helyezése nem növeli a jutalompotenciált, és a "
+      "value": " STRAX egyetlen kulcskészlethez való letétbe helyezése nem növeli a jutalompotenciált, és a "
     },
     {
       "type": 1,
@@ -818,7 +818,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT fölé sem gyűjti a jutalmakat, mivel minden validátor esetében ott van a korlát: "
+      "value": " STRAX fölé sem gyűjti a jutalmakat, mivel minden validátor esetében ott van a korlát: "
     },
     {
       "type": 1,
@@ -872,7 +872,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "A Geth dokumentációja a Goerli tesztelő hálózathoz"
+      "value": "A Geth dokumentációja a Auroria tesztelő hálózathoz"
     }
   ],
   "3aykgN": [
@@ -1390,7 +1390,7 @@
     },
     {
       "type": 0,
-      "value": " használatával szinkronizálhatja a Goerli tesztelő hálózatot."
+      "value": " használatával szinkronizálhatja a Auroria tesztelő hálózatot."
     }
   ],
   "8boRAk": [
@@ -1504,7 +1504,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT van letétben?"
+      "value": " STRAX van letétben?"
     }
   ],
   "9JktQX": [
@@ -1778,7 +1778,7 @@
     },
     {
       "type": 0,
-      "value": " akkor kerül feldolgozásra, ha egy aktív validátor hatékony egyenlege 32-nél nagyobb, és a teljes egyenlege meghaladja a 32-t. Egyetlen validátor nem kaphat jutalmat a 32 STRAT feletti többletegyenlegre, ezért ezeknél a fiókoknál a többletegyenleg automatikusan kivételre kerül az Stratis-címükre."
+      "value": " akkor kerül feldolgozásra, ha egy aktív validátor hatékony egyenlege 32-nél nagyobb, és a teljes egyenlege meghaladja a 32-t. Egyetlen validátor nem kaphat jutalmat a 32 STRAX feletti többletegyenlegre, ezért ezeknél a fiókoknál a többletegyenleg automatikusan kivételre kerül az Stratis-címükre."
     }
   ],
   "RY4SP0": [
@@ -1854,7 +1854,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Miután egy validátor kilépett, és a teljes egyenlegét kivette, az adott validátorra letétbe helyezett további összegek automatikusan átutalásra kerülnek a következő validátor átfésülés során a kivételi címre. Az STRAT újbóli letétbe helyezéséhez egy új validátort kell aktiválni."
+      "value": "Miután egy validátor kilépett, és a teljes egyenlegét kivette, az adott validátorra letétbe helyezett további összegek automatikusan átutalásra kerülnek a következő validátor átfésülés során a kivételi címre. Az STRAX újbóli letétbe helyezéséhez egy új validátort kell aktiválni."
     }
   ],
   "BPpnlJ": [
@@ -2004,7 +2004,7 @@
   "0WPDnu": [
     {
       "type": 0,
-      "value": "Mindenképpen töltse fel az egyenlegét, ha az megközelíti a 16 STRAT -t. Ez biztosítja, hogy ne zárják ki a validátorok közül (ez automatikusan megtörténik, ha az egyenlege 16 STRAT alá esik)."
+      "value": "Mindenképpen töltse fel az egyenlegét, ha az megközelíti a 16 STRAX -t. Ez biztosítja, hogy ne zárják ki a validátorok közül (ez automatikusan megtörténik, ha az egyenlege 16 STRAX alá esik)."
     }
   ],
   "CWKE9c": [
@@ -2084,7 +2084,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Mennyi STRAT -t kell letétbe helyeznem, hogy validátor lehessek?"
+      "value": "Mennyi STRAX -t kell letétbe helyeznem, hogy validátor lehessek?"
     }
   ],
   "5q9Lgv": [
@@ -2134,7 +2134,7 @@
     },
     {
       "type": 0,
-      "value": " a hálózatot. Ez biztonsági okokból történik. Tekintettel arra, hogy minden validátor maximum 32 STRAT hatékony egyenlegre van korlátozva, ez megakadályozza, hogy az STRAT nagy részét potenciálisan felhasználják egy támadásban, majd egyszerre gyorsan kilépjenek a hálózatból."
+      "value": " a hálózatot. Ez biztonsági okokból történik. Tekintettel arra, hogy minden validátor maximum 32 STRAX hatékony egyenlegre van korlátozva, ez megakadályozza, hogy az STRAX nagy részét potenciálisan felhasználják egy támadásban, majd egyszerre gyorsan kilépjenek a hálózatból."
     }
   ],
   "DNRQa7": [
@@ -2526,7 +2526,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Nem lehetséges manuálisan kérvényezni bizonyos mennyiségű STRAT kivételét"
+      "value": "Nem lehetséges manuálisan kérvényezni bizonyos mennyiségű STRAX kivételét"
     }
   ],
   "GUDhpC": [
@@ -3122,7 +3122,7 @@
     },
     {
       "type": 0,
-      "value": " használatával szinkronizálja a Goerli tesztelő hálózatot."
+      "value": " használatával szinkronizálja a Auroria tesztelő hálózatot."
     }
   ],
   "Ljo9dF": [
@@ -3734,7 +3734,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "A Nethermind dokumentációja a Goerli tesztelő hálózathoz"
+      "value": "A Nethermind dokumentációja a Auroria tesztelő hálózathoz"
     }
   ],
   "PoBIK+": [
@@ -4360,7 +4360,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Más szavakkal: ha az összes letétbe helyezett STRAT összege alacsony, a jutalom (kamatláb) magas, de ahogy a letétek összege növekszik, az egyes validátoroknak kifizetett jutalom (kamat) csökkenni kezd."
+      "value": "Más szavakkal: ha az összes letétbe helyezett STRAX összege alacsony, a jutalom (kamatláb) magas, de ahogy a letétek összege növekszik, az egyes validátoroknak kifizetett jutalom (kamat) csökkenni kezd."
     }
   ],
   "VUuZsb": [
@@ -4580,7 +4580,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "A Besu dokumentációja a Goerli tesztelő hálózathoz"
+      "value": "A Besu dokumentációja a Auroria tesztelő hálózathoz"
     }
   ],
   "XVRQoq": [
@@ -4638,7 +4638,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Megjegyzés: jelenleg nincs tervben, hogy lehetővé tegyék az STRAT átutalását a validátorok között."
+      "value": "Megjegyzés: jelenleg nincs tervben, hogy lehetővé tegyék az STRAX átutalását a validátorok között."
     }
   ],
   "XmddSV": [
@@ -4932,7 +4932,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Ezekre „részleges kivételként” vagy „jutalomkifizetésként” is hivatkozunk, mivel a fennmaradó 32 STRAT továbbra is zárolva és letétbe helyezve marad."
+      "value": "Ezekre „részleges kivételként” vagy „jutalomkifizetésként” is hivatkozunk, mivel a fennmaradó 32 STRAX továbbra is zárolva és letétbe helyezve marad."
     }
   ],
   "a+xjjV": [
@@ -4958,7 +4958,7 @@
     },
     {
       "type": 0,
-      "value": " fájlban, amely a 32 STRAT letéti tranzakcióval együtt kerül benyújtásra."
+      "value": " fájlban, amely a 32 STRAX letéti tranzakcióval együtt kerül benyújtásra."
     }
   ],
   "9/yem6": [
@@ -4976,7 +4976,7 @@
   "fpe4Gx": [
     {
       "type": 0,
-      "value": "A 32 STRAT alatti hatékony vagy teljes egyenleggel rendelkező aktív fiókok kihagyásra kerülnek"
+      "value": "A 32 STRAX alatti hatékony vagy teljes egyenleggel rendelkező aktív fiókok kihagyásra kerülnek"
     }
   ],
   "aR50Oc": [
@@ -5026,7 +5026,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT letétbe helyezésének."
+      "value": " STRAX letétbe helyezésének."
     }
   ],
   "FWtWw3": [
@@ -5544,7 +5544,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "A kérdés megválaszolása nagyban függ attól, hogy mennyi STRAT áll rendelkezésére."
+      "value": "A kérdés megválaszolása nagyban függ attól, hogy mennyi STRAX áll rendelkezésére."
     }
   ],
   "fQ5yno": [
@@ -5672,7 +5672,7 @@
     },
     {
       "type": 0,
-      "value": "t a Goerli tesztelő hálózat szinkronizálásához."
+      "value": "t a Auroria tesztelő hálózat szinkronizálásához."
     }
   ],
   "gQkd2y": [
@@ -5874,7 +5874,7 @@
     },
     {
       "type": 0,
-      "value": " ETH-ra korlátozása a hatalom decentralizálását ösztönzi, mivel megakadályozza, hogy egyetlen validátornak túl nagy súlyú szavazati joga legyen a lánc állapotáról. Emellett korlátozza a letétből bármikor kiléptethető STRAT mennyiségét is, mivel az adott időszakban kilépő validátorok száma korlátozott. Ez segít megvédeni a hálózatot bizonyos támadások ellen."
+      "value": " ETH-ra korlátozása a hatalom decentralizálását ösztönzi, mivel megakadályozza, hogy egyetlen validátornak túl nagy súlyú szavazati joga legyen a lánc állapotáról. Emellett korlátozza a letétből bármikor kiléptethető STRAX mennyiségét is, mivel az adott időszakban kilépő validátorok száma korlátozott. Ez segít megvédeni a hálózatot bizonyos támadások ellen."
     }
   ],
   "huEFUF": [
@@ -5952,7 +5952,7 @@
     },
     {
       "type": 0,
-      "value": " STRAT úgy lett kiválasztva, hogy egyensúlyt teremtsen aközött, hogy a lehető legtöbb embernek lehetővé tegye a letétbe helyezést anélkül, hogy a decentralizációt gátolná az egyes blokkok méretének aláírásokkal való felduzzasztása."
+      "value": " STRAX úgy lett kiválasztva, hogy egyensúlyt teremtsen aközött, hogy a lehető legtöbb embernek lehetővé tegye a letétbe helyezést anélkül, hogy a decentralizációt gátolná az egyes blokkok méretének aláírásokkal való felduzzasztása."
     }
   ],
   "iX90gu": [
@@ -6538,7 +6538,7 @@
   "mUZnem": [
     {
       "type": 0,
-      "value": "Határozottan javasoljuk, hogy először próbálja végig az egész folyamatot egy tesztelő hálózaton, hogy a valódi STRAT kockáztatása előtt magabiztossá váljon."
+      "value": "Határozottan javasoljuk, hogy először próbálja végig az egész folyamatot egy tesztelő hálózaton, hogy a valódi STRAX kockáztatása előtt magabiztossá váljon."
     }
   ],
   "mXSzq5": [
@@ -6674,7 +6674,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "Amint magabiztos lesz, végig fog menni a kulcsok létrehozásán és az STRAT letétbe helyezésén."
+      "value": "Amint magabiztos lesz, végig fog menni a kulcsok létrehozásán és az STRAX letétbe helyezésén."
     }
   ],
   "njAU72": [
@@ -6872,7 +6872,7 @@
     },
     {
       "type": 0,
-      "value": " használatával szinkronizálja a Goerli tesztelő hálózatot."
+      "value": " használatával szinkronizálja a Auroria tesztelő hálózatot."
     }
   ],
   "p+kDTB": [
@@ -6910,7 +6910,7 @@
   "pGnk/z": [
     {
       "type": 0,
-      "value": "Igen, kisebb büntetésekkel. Ha normál körülmények között több napra offline állapotba kerül, nagyjából azt az ETH-mennyiséget veszíti el, amelyet az adott időszak alatt megszerzett volna. Más szóval, ha 0,01 ETH-t keresne, akkor ehelyett 0,01 STRAT büntetést kap."
+      "value": "Igen, kisebb büntetésekkel. Ha normál körülmények között több napra offline állapotba kerül, nagyjából azt az ETH-mennyiséget veszíti el, amelyet az adott időszak alatt megszerzett volna. Más szóval, ha 0,01 ETH-t keresne, akkor ehelyett 0,01 STRAX büntetést kap."
     }
   ],
   "pHQwsN": [
@@ -7866,7 +7866,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "A blokkjutalmakat csúszóskála segítségével számítják ki a hálózaton letétbe helyezett STRAT teljes mennyisége alapján."
+      "value": "A blokkjutalmakat csúszóskála segítségével számítják ki a hálózaton letétbe helyezett STRAX teljes mennyisége alapján."
     }
   ],
   "xXKkhR": [
