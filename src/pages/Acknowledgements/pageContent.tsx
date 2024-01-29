@@ -45,7 +45,7 @@ export const pageContent = {
             values={{ TICKER_NAME, NETWORK_NAME }}
           />
         </Text>
-        <Link
+        {/* <Link
           to="https://stratisevm.com/en/roadmap/beacon-chain/"
           className="my10"
           primary
@@ -58,7 +58,7 @@ export const pageContent = {
           primary
         >
           <FormattedMessage defaultMessage="More on proof of stake" />
-        </Link>
+        </Link> */}
       </>
     ),
     acknowledgementText: (
@@ -132,13 +132,13 @@ export const pageContent = {
         <Text size="medium" className="my10">
           <FormattedMessage defaultMessage="*Simply being offline with an otherwise healthy network does not result in slashing, but will result in small inactivity penalties." />
         </Text>
-        <Link
+        {/* <Link
           to="https://github.com/ethereum/consensus-specs"
           className="my10"
           primary
         >
           <FormattedMessage defaultMessage="The Stratis consensus layer specification" />
-        </Link>
+        </Link> */}
         <Link shouldOpenNewTab to="/faq" className="my10" primary>
           <FormattedMessage defaultMessage="More on slashing risks" />
         </Link>
