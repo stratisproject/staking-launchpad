@@ -4,8 +4,6 @@ import { keysTool } from './index';
 import { Paper } from '../../components/Paper';
 import { TextSelectionBox } from '../../components/TextSelectionBox';
 import { Option1 } from './Option1';
-import { Option2 } from './Option2';
-import { Option3 } from './Option3';
 import { Heading } from '../../components/Heading';
 
 interface Props {
@@ -37,27 +35,10 @@ export const Instructions = ({
         >
           {formatMessage({ defaultMessage: 'Download CLI app' })}
         </TextSelectionBox>
-        {/* <TextSelectionBox
-          isActive={chosenTool === keysTool.GUI}
-          onClick={() => setChosenTool(keysTool.GUI)}
-          style={{ marginEnd: '20px' }}
-        >
-          {formatMessage({ defaultMessage: 'Download Key Gen GUI app' })}
-        </TextSelectionBox>
-        <TextSelectionBox
-          isActive={chosenTool === keysTool.CLISOURCE}
-          onClick={() => setChosenTool(keysTool.CLISOURCE)}
-        >
-          {formatMessage({ defaultMessage: 'Build from source' })}
-        </TextSelectionBox> */}
       </div>
       <div>
         {chosenTool === keysTool.CLI && (
           <Option1 {...{ validatorCount, withdrawalAddress, os }} />
-        )}
-        {chosenTool === keysTool.GUI && <Option2 {...{ os }} />}
-        {chosenTool === keysTool.CLISOURCE && (
-          <Option3 {...{ validatorCount, withdrawalAddress, os }} />
         )}
       </div>
     </Paper>
