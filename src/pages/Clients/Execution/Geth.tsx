@@ -43,7 +43,7 @@ export const GethDetails = () => (
       </Text>
       <Link
         primary
-        to="https://geth.stratisevm.com/docs/install-and-build/installing-geth"
+        to="https://github.com/stratisproject/StratisEVM/blob/main/quickstart.md#step-3-run-an-execution-client"
         className="mt10"
       >
         <FormattedMessage defaultMessage="Geth installation documentation" />

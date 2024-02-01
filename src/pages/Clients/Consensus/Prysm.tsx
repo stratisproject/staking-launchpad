@@ -10,7 +10,6 @@ import { PageTemplate } from '../../../components/PageTemplate';
 import { Text } from '../../../components/Text';
 import { Link } from '../../../components/Link';
 // import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
-import { PRYSM_INSTALLATION_URL } from '../../../utils/envVars';
 
 // eslint-disable-next-line no-unused-vars
 export const PrysmDetails = ({ shortened }: { shortened?: boolean }) => (
@@ -47,7 +46,7 @@ export const PrysmDetails = ({ shortened }: { shortened?: boolean }) => (
             your deposit through the launchpad."
         />
       </Text>
-      <Link primary to={PRYSM_INSTALLATION_URL}>
+      <Link primary to="https://github.com/stratisproject/StratisEVM/blob/main/quickstart.md#step-3-run-a-beacon-node-using-prysm">
         <FormattedMessage defaultMessage="Prysm installation documentation" />
       </Link>
     </section>

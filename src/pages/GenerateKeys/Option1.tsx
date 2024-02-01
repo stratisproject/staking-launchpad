@@ -9,7 +9,6 @@ import { Alert } from '../../components/Alert';
 import { Code } from '../../components/Code';
 import { NETWORK_NAME, TRANSLATE_CLI_FLAGS } from '../../utils/envVars';
 import { Button } from '../../components/Button';
-import githubScreenshot from '../../static/github-cli-screenshot.png';
 import { colors } from '../../styles/styledComponentsTheme';
 import useIntlNetworkName from '../../hooks/useIntlNetworkName';
 
@@ -21,11 +20,6 @@ const AlertIcon = styled(p => <GrommetAlert {...p} />)`
 const Pre = styled.pre`
   white-space: normal;
   direction: ltr;
-`;
-
-const GithubScreenshot = styled.img.attrs({ src: githubScreenshot })`
-  max-width: 925px;
-  width: 100%;
 `;
 
 export const Option1 = ({
@@ -74,7 +68,7 @@ export const Option1 = ({
               values={{
                 url: (
                   <strong>
-                    https://github.com/stratisproject/StratisEVM-src/blob/master/bin/deposit/
+                    https://github.com/stratisproject/staking-deposit-cli/releases
                   </strong>
                 ),
               }}
@@ -83,8 +77,6 @@ export const Option1 = ({
           </Text>
         </div>
       </Alert>
-
-      <GithubScreenshot />
 
       <Text weight={500} className="mt20">
         <FormattedMessage defaultMessage="Step 2: Generate deposit keys using the Stratis deposit tool" />
