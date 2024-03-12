@@ -25,8 +25,8 @@ export const ClientDiversityWarning = (props: ClientDiversityWarningProps) => {
       {!!children && <p>{children}</p>}
       <p>
         <FormattedMessage
-          defaultMessage="Client diversity is extremely important for the network health of Ethereum:
-            A bug in a client with a share of over 33% can cause Ethereum to go offline. If the client has
+          defaultMessage="Client diversity is extremely important for the network health of Stratis:
+            A bug in a client with a share of over 33% can cause Stratis to go offline. If the client has
             a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to
             slashing."
         />
@@ -37,7 +37,7 @@ export const ClientDiversityWarning = (props: ClientDiversityWarningProps) => {
       <ul>
         <li>
           <Link
-            to="https://ethereum.org/en/developers/docs/nodes-and-clients/client-diversity/"
+            to="https://stratisevm.com/en/developers/docs/nodes-and-clients/client-diversity/"
             primary
           >
             <FormattedMessage defaultMessage="More on client diversity" />

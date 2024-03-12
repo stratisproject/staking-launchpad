@@ -14,10 +14,8 @@ import { formatEther } from '@ethersproject/units';
 import { NoEthereumProviderError } from '@web3-react/injected-connector';
 import {
   AllowedELNetworks,
-  fortmatic,
   metamask,
   NetworkChainId,
-  portis,
   useMetamaskEagerConnect,
   useMetamaskListener,
 } from './web3Utils';
@@ -30,8 +28,6 @@ import { Link } from '../../components/Link';
 import { Text } from '../../components/Text';
 import { WalletButton } from './WalletButton';
 import metamaskLogo from '../../static/metamask.svg';
-import portisLogo from '../../static/portis.svg';
-import fortmaticLogo from '../../static/fortmatic.svg';
 import { Paper } from '../../components/Paper';
 import { Heading } from '../../components/Heading';
 import { Dot } from '../../components/Dot';
@@ -41,12 +37,9 @@ import {
   WorkflowStep,
 } from '../../store/actions/workflowActions';
 import {
-  PORTIS_DAPP_ID,
-  ENABLE_RPC_FEATURES,
   IS_MAINNET,
   PRICE_PER_VALIDATOR,
   TICKER_NAME,
-  IS_NON_INFURA_TESTNET,
   FAUCET_URL,
 } from '../../utils/envVars';
 import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowStep';
@@ -270,8 +263,6 @@ const _ConnectWalletPage = ({
   const getWalletName = (provider?: AbstractConnector) => {
     if (!provider) return '';
     if (provider === metamask) return 'Metamask';
-    if (provider === portis) return 'Portis';
-    if (provider === fortmatic) return 'Fortmatic';
     return '';
   };
 
@@ -474,7 +465,7 @@ const _ConnectWalletPage = ({
                   title="Metamask"
                   error={walletProvider === metamask ? error : undefined}
                 />
-                {!IS_NON_INFURA_TESTNET && (
+                {/* {!IS_NON_INFURA_TESTNET && (
                   <WalletButton
                     invalid={PORTIS_DAPP_ID === ''}
                     selectedWallet={selectedWallet}
@@ -495,7 +486,7 @@ const _ConnectWalletPage = ({
                     title="Fortmatic"
                     error={walletProvider === fortmatic ? error : undefined}
                   />
-                )}
+                )} */}
                 <MetamaskHardwareButton />
               </WalletButtonSubContainer>
             </Animated>

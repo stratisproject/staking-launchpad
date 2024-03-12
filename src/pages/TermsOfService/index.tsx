@@ -66,13 +66,13 @@ export const TermsOfService = () => {
           </Text>
           <Text className="tos-text">
             Acceptance of the Terms of Use These terms of use are entered into
-            by and between you and the Ethereum Foundation ("Foundation", "we"
+            by and between you and the Stratis ("Foundation", "we"
             or "us"). The following terms and conditions, together with any
             documents they expressly incorporate by reference (collectively,
             these "Terms of Use"), govern your access to and use of
-            ethereum.org, including any content, functionality and services
-            offered on or through ethereum.org, ethereum.foundation, devcon.org,
-            and blog.ethereum.org (together, the "Website").
+            stratisevm.com, including any content, functionality and services
+            offered on or through stratisevm.com, ethereum.foundation, devcon.org,
+            and blog.stratisevm.com (together, the "Website").
           </Text>
           <Text className="tos-text">
             Please read the Terms of Use carefully before you start to use the
@@ -86,7 +86,7 @@ export const TermsOfService = () => {
                 <Link
                   primary
                   inline
-                  to="https://ethereum.org/en/privacy-policy/"
+                  to="https://stratisevm.com/en/privacy-policy/"
                 >
                   Privacy Policy
                 </Link>
@@ -97,12 +97,12 @@ export const TermsOfService = () => {
                 <Link
                   primary
                   inline
-                  to="https://ethereum.org/en/cookie-policy/"
+                  to="https://stratisevm.com/en/cookie-policy/"
                 >
                   Cookie Policy
                 </Link>
                 , incorporated herein by reference (note: no cookies are used on
-                launchpad.ethereum.org).
+                launchpad.stratisevm.com).
               </li>
             </ul>
           </Text>
@@ -205,7 +205,7 @@ export const TermsOfService = () => {
             Trademarks
           </Text>
           <Text className="tos-text">
-            The Foundation name, the terms Ethereum Switzerland, Ethereum Asia,
+            The Foundation name, the terms Stratis Switzerland, Stratis Asia,
             the Foundation logo and all related names, logos, product and
             service names, designs and slogans are trademarks of the Foundation
             or its affiliates or licensors. You must not use such marks without
@@ -340,7 +340,7 @@ export const TermsOfService = () => {
 
           <Text className="tos-text">
             All information we collect on this Websites is subject to our{' '}
-            <Link primary inline to="https://ethereum.org/en/privacy-policy/">
+            <Link primary inline to="https://stratisevm.com/en/privacy-policy/">
               Privacy Policy
             </Link>
             . By using the Website, you consent to all actions taken by us with
@@ -528,7 +528,7 @@ export const TermsOfService = () => {
           <Text className="tos-text">
             The Terms of Use, our Privacy Policy and terms of conditions for the
             registration of events constitute the sole and entire agreement
-            between you and the Ethereum Foundation with respect to the Websites
+            between you and the Stratis with respect to the Websites
             and supersede all prior and contemporaneous understandings,
             agreements, representations and warranties, both written and oral,
             with respect to the Websites.
@@ -540,7 +540,7 @@ export const TermsOfService = () => {
             This Websites is operated by the Foundation. All other feedback,
             comments, requests for technical support and other communications
             relating to the Websites should be directed to:
-            support@ethereum.org.
+            support@stratisevm.com.
           </Text>
         </TermsOfServiceStyles>
       </Container>

@@ -65,7 +65,7 @@ export const SignupSteps = (): JSX.Element => {
             })}
             content={formatMessage({
               defaultMessage:
-                'The Ethereum upgrades will only be successful if validators understand the risks and responsibilities.',
+                'The Stratis upgrades will only be successful if validators understand the risks and responsibilities.',
             })}
           >
             <Link to={routesEnum.FaqPage} primary>
@@ -99,7 +99,7 @@ export const SignupSteps = (): JSX.Element => {
             })}
             content={formatMessage({
               defaultMessage:
-                'We strongly recommend you go through the entire process on a testnet first to get comfortable before risking real ETH.',
+                'We strongly recommend you go through the entire process on a testnet first to get comfortable before risking real STRAX.',
             })}
           >
             {IS_MAINNET ? (
@@ -135,7 +135,7 @@ export const SignupSteps = (): JSX.Element => {
             title={formatMessage({ defaultMessage: '5. Time to deposit' })}
             content={formatMessage({
               defaultMessage:
-                "Once you're comfortable, you'll go through generating your keys and depositing your ETH.",
+                "Once you're comfortable, you'll go through generating your keys and depositing your STRAX.",
             })}
           >
             <Link to={routesEnum.acknowledgementPage} primary>

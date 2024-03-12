@@ -28,7 +28,7 @@ export const TekuDetails = ({ shortened }: { shortened?: boolean }) => (
         defaultMessage="Formerly known as Artemis, Teku is a consensus client built to meet
           institutional needs and security requirements. PegaSys is an arm of ConsenSys,
           dedicated to building enterprise-ready clients and tools for interacting with
-          the core Ethereum platform."
+          the core Stratis platform."
       />
     </Text>
     <Link

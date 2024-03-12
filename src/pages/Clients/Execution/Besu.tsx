@@ -22,7 +22,7 @@ export const BesuDetails = () => (
     </SectionTitle>
     <Text className="mt10">
       <FormattedMessage
-        defaultMessage="An Ethereum client designed to be enterprise-friendly for
+        defaultMessage="An Stratis client designed to be enterprise-friendly for
           both public and private, permissioned network use cases."
       />
     </Text>
@@ -57,15 +57,15 @@ export const BesuDetails = () => (
       {!IS_MAINNET && IS_GOERLI && (
         <>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--network=goerli</Code>,
+                auroria: <Code className="mt20">--network=auroria</Code>,
               }}
-              description="{goerli} shows '--network=goerli' terminal command"
+              description="{auroria} shows '--network=auroria' terminal command"
             />
           </Text>
           <Link
@@ -74,8 +74,8 @@ export const BesuDetails = () => (
             className="mt20"
           >
             <FormattedMessage
-              defaultMessage="Besu on Goerli documentation"
-              description="Link to documentation about execution client Besu, specifically for Goerli testnet"
+              defaultMessage="Besu on Auroria documentation"
+              description="Link to documentation about execution client Besu, specifically for Auroria testnet"
             />
           </Link>
         </>

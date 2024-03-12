@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum bude tvořeno dvěma vrstvami: "
+      "value": "Stratis bude tvořeno dvěma vrstvami: "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (zpracovává úlohy konsenzu důkazu podílem, dříve Eth2 nebo Ethereum 2.0)."
+      "value": " (zpracovává úlohy konsenzu důkazu podílem, dříve Eth2 nebo Stratis 2.0)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Krok 2: Pomocí nástroje pro vklady od Ethereum Foundation vygenerujte vkladové klíče"
+      "value": "Krok 2: Pomocí nástroje pro vklady od Stratis vygenerujte vkladové klíče"
     }
   ],
   "+UUcBt": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "U každého jednotlivého účtu validátora neustále průběžně probíhá hodnocení způsobilosti výběru ETH (pro tyto potřeby existují dva typy – další informace naleznete dále). Validátory se zpracovávají podle čísla indexu (začínající od 0), kde každý následný navrhovatel začíná od bodu, kde poslední skončil."
+      "value": "U každého jednotlivého účtu validátora neustále průběžně probíhá hodnocení způsobilosti výběru STRAX (pro tyto potřeby existují dva typy – další informace naleznete dále). Validátory se zpracovávají podle čísla indexu (začínající od 0), kde každý následný navrhovatel začíná od bodu, kde poslední skončil."
     }
   ],
   "/OAba6": [
@@ -224,7 +224,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth je jedna ze tří původních implementací protokolu Ethereum napsaná v jazyce Go."
+      "value": "Geth je jedna ze tří původních implementací protokolu Stratis napsaná v jazyce Go."
     }
   ],
   "/ub26/": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Rozmanitost klientů je velmi důležitá pro stav sítě Ethereum: Chyba v klientovi s více než 33% podílem může způsobit odpojení Etherea. Pokud má klient kvalifikovanou většinu (více než 66 %), případná chyba by mohla způsobit nesprávné rozdělení řetězce a mohla by vést i k postihu."
+      "value": "Rozmanitost klientů je velmi důležitá pro stav sítě Stratis: Chyba v klientovi s více než 33% podílem může způsobit odpojení Etherea. Pokud má klient kvalifikovanou většinu (více než 66 %), případná chyba by mohla způsobit nesprávné rozdělení řetězce a mohla by vést i k postihu."
     }
   ],
   "2t/3ab": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Testování na Goerli"
+      "value": "Testování na Auroria"
     }
   ],
   "3ODqP9": [
@@ -802,7 +802,7 @@
     },
     {
       "type": 0,
-      "value": " ETH do jedné sady klíčů, nezvýšíte tím potenciál získání odměny. To samé platí i pro nahromadění odměn nad "
+      "value": " STRAX do jedné sady klíčů, nezvýšíte tím potenciál získání odměny. To samé platí i pro nahromadění odměn nad "
     },
     {
       "type": 1,
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Dokumentace Geth na Goerli"
+      "value": "Dokumentace Geth na Auroria"
     }
   ],
   "3aykgN": [
@@ -1366,11 +1366,11 @@
   "8XQmxX": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -1450,7 +1450,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Ethereum klient navržený tak, aby byl vhodný pro veřejné i soukromé sítě s oprávněními v podnicích."
+      "value": "Stratis klient navržený tak, aby byl vhodný pro veřejné i soukromé sítě s oprávněními v podnicích."
     }
   ],
   "8yom7x": [
@@ -1696,7 +1696,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Ujistěte se, že stahujete z oficiálního účtu Ethereum Foundation na GitHubu na následující webové adrese: "
+      "value": "Ujistěte se, že stahujete z oficiálního účtu Stratis na GitHubu na následující webové adrese: "
     },
     {
       "type": 1,
@@ -1762,7 +1762,7 @@
     },
     {
       "type": 0,
-      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 ETH a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Ethereum."
+      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 STRAX a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Stratis."
     }
   ],
   "RY4SP0": [
@@ -1838,7 +1838,7 @@
   "BKDxOx": [
     {
       "type": 0,
-      "value": "Jakmile validátor skončí a dojde k výběru celého zůstatku, veškeré další finanční prostředky uložené u tohoto validátora budou automaticky převedeny na adresu pro výběr během příštího sweepu validátora. Před opětovným uzamčením ETH je třeba aktivovat nového validátora."
+      "value": "Jakmile validátor skončí a dojde k výběru celého zůstatku, veškeré další finanční prostředky uložené u tohoto validátora budou automaticky převedeny na adresu pro výběr během příštího sweepu validátora. Před opětovným uzamčením STRAX je třeba aktivovat nového validátora."
     }
   ],
   "BPpnlJ": [
@@ -2068,7 +2068,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "Jaký podíl ETH musím vložit, abych se mohl(a) stát validátorem?"
+      "value": "Jaký podíl STRAX musím vložit, abych se mohl(a) stát validátorem?"
     }
   ],
   "5q9Lgv": [
@@ -2122,7 +2122,7 @@
     },
     {
       "type": 0,
-      "value": " síť. Je tomu tak z bezpečnostních důvodů. Vzhledem k tomu, že každý validátor může využívat maximální zůstatek 32 ETH, opatření zabraňuje potenciálnímu použití velké části ETH při útoku s následným rychlým opuštěním sítě."
+      "value": " síť. Je tomu tak z bezpečnostních důvodů. Vzhledem k tomu, že každý validátor může využívat maximální zůstatek 32 ETH, opatření zabraňuje potenciálnímu použití velké části STRAX při útoku s následným rychlým opuštěním sítě."
     }
   ],
   "DNRQa7": [
@@ -2330,7 +2330,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum vzniklo 30. července 2015. Postupně nabírá na velikosti a zavedením tříštění se také zvýší jeho požadavky na úložiště, paměť a rychlost připojení."
+      "value": "Stratis vzniklo 30. července 2015. Postupně nabírá na velikosti a zavedením tříštění se také zvýší jeho požadavky na úložiště, paměť a rychlost připojení."
     }
   ],
   "FM92S0": [
@@ -2428,7 +2428,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Ethereum klient s obrovským počtem vývojářů. Je ideální pro podnikové systémy."
+      "value": "Stratis klient s obrovským počtem vývojářů. Je ideální pro podnikové systémy."
     }
   ],
   "FgraU0": [
@@ -2514,7 +2514,7 @@
   "GTkW7D": [
     {
       "type": 0,
-      "value": "Není možné ručně vyžádat určité množství ETH k výběru"
+      "value": "Není možné ručně vyžádat určité množství STRAX k výběru"
     }
   ],
   "GUDhpC": [
@@ -3114,11 +3114,11 @@
   "LibVut": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -3178,7 +3178,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Přestože tomu tak vždy nebylo, Ethereum je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Ethereum a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat ETH a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
+      "value": "Přestože tomu tak vždy nebylo, Stratis je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Stratis a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat STRAX a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
     }
   ],
   "LwEHRm": [
@@ -3250,7 +3250,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Jak se Ethereum škáluje?"
+      "value": "Jak se Stratis škáluje?"
     }
   ],
   "MaZo9k": [
@@ -3548,7 +3548,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu je opensourcový Ethereum klient vyvinutý pod licencí Apache 2.0 a napsaný v Javě."
+      "value": "Hyperledger Besu je opensourcový Stratis klient vyvinutý pod licencí Apache 2.0 a napsaný v Javě."
     }
   ],
   "OIvXIO": [
@@ -3726,7 +3726,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Dokumentace Nethermind na Goerli"
+      "value": "Dokumentace Nethermind na Auroria"
     }
   ],
   "PoBIK+": [
@@ -4138,7 +4138,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validátoři a Ethereum"
+      "value": "Validátoři a Stratis"
     }
   ],
   "TMw9oz": [
@@ -4150,7 +4150,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Pojmy Eth1 a Eth2 jsou od Sloučení zastaralé. Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení už neexistují dvě samostatné ethereové sítě. Existuje jen jedno Ethereum."
+      "value": "Pojmy Eth1 a Eth2 jsou od Sloučení zastaralé. Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení už neexistují dvě samostatné ethereové sítě. Existuje jen jedno Stratis."
     }
   ],
   "TfNuWP": [
@@ -4208,7 +4208,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Zkontrolujte smlouvu o vkladu ve svém oblíbeném průzkumníku bloků pro Ethereum:"
+      "value": "Zkontrolujte smlouvu o vkladu ve svém oblíbeném průzkumníku bloků pro Stratis:"
     }
   ],
   "UYRyWv": [
@@ -4254,7 +4254,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Jedna ze tří původních implementací protokolu Ethereum."
+      "value": "Jedna ze tří původních implementací protokolu Stratis."
     }
   ],
   "UykRIk": [
@@ -4344,7 +4344,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "Jinými slovy, pokud je celková částka podílu ETH nízká, odměna (úroková sazba) je vysoká. Ale jak celkový podíl roste, odměna (úrok) vyplácená jednotlivým validátorům začíná klesat."
+      "value": "Jinými slovy, pokud je celková částka podílu STRAX nízká, odměna (úroková sazba) je vysoká. Ale jak celkový podíl roste, odměna (úrok) vyplácená jednotlivým validátorům začíná klesat."
     }
   ],
   "VUuZsb": [
@@ -4564,7 +4564,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Dokumentace Besu na Goerli"
+      "value": "Dokumentace Besu na Auroria"
     }
   ],
   "XVRQoq": [
@@ -4622,7 +4622,7 @@
   "XgOPc8": [
     {
       "type": 0,
-      "value": "Pozn.: neexistují žádné aktuální plány pro povolení přenosu ETH mezi validátory."
+      "value": "Pozn.: neexistují žádné aktuální plány pro povolení přenosu STRAX mezi validátory."
     }
   ],
   "XmddSV": [
@@ -4920,7 +4920,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "Těm se také někdy říká „částečné výběry“ nebo „vyplacení odměny“, protože zbývajících 32 ETH zůstává uzamčeno."
+      "value": "Těm se také někdy říká „částečné výběry“ nebo „vyplacení odměny“, protože zbývajících 32 STRAX zůstává uzamčeno."
     }
   ],
   "a+xjjV": [
@@ -4964,7 +4964,7 @@
   "fpe4Gx": [
     {
       "type": 0,
-      "value": "Aktivní účty s platným zůstatkem nebo celkovým zůstatkem pod 32 ETH budou přeskočeny"
+      "value": "Aktivní účty s platným zůstatkem nebo celkovým zůstatkem pod 32 STRAX budou přeskočeny"
     }
   ],
   "aR50Oc": [
@@ -5014,7 +5014,7 @@
     },
     {
       "type": 0,
-      "value": " ETH nemáte žádnou výhodu."
+      "value": " STRAX nemáte žádnou výhodu."
     }
   ],
   "FWtWw3": [
@@ -5270,7 +5270,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm je implementace protokolu Ethereum pomocí klienta konsenzu v jazyce Go se zaměřením na použitelnost, bezpečnost a spolehlivost."
+      "value": "Prysm je implementace protokolu Stratis pomocí klienta konsenzu v jazyce Go se zaměřením na použitelnost, bezpečnost a spolehlivost."
     }
   ],
   "dLE9FH": [
@@ -5528,7 +5528,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "Odpověď na tuto otázku do značné míry závisí na tom, kolik ETH máte k dispozici."
+      "value": "Odpověď na tuto otázku do značné míry závisí na tom, kolik STRAX máte k dispozici."
     }
   ],
   "fQ5yno": [
@@ -5558,7 +5558,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Podle potřeby si můžete zvolit adresu pro výběr s počátečním vkladem a automaticky tak povolit vyplácení odměn s možností kdykoli po aktualizaci Shanghai/Capella zcela odejít s finančními prostředky. Tato adresa by měla sloužit jako pravidelná Ethereum adresa a bude jedinou adresou, na kterou můžete odesílat finanční prostředky z vašich nových účtů validátora."
+      "value": "Podle potřeby si můžete zvolit adresu pro výběr s počátečním vkladem a automaticky tak povolit vyplácení odměn s možností kdykoli po aktualizaci Shanghai/Capella zcela odejít s finančními prostředky. Tato adresa by měla sloužit jako pravidelná Stratis adresa a bude jedinou adresou, na kterou můžete odesílat finanční prostředky z vašich nových účtů validátora."
     }
   ],
   "fZwn+P": [
@@ -5648,11 +5648,11 @@
   "gN9D/h": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -5662,7 +5662,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Pomocí nástroje pro vklady od Ethereum Foundation vygenerujte vkladové klíče"
+      "value": "Pomocí nástroje pro vklady od Stratis vygenerujte vkladové klíče"
     }
   ],
   "gVC0Wl": [
@@ -5858,7 +5858,7 @@
     },
     {
       "type": 0,
-      "value": " ETH na validátor vede k decentralizaci moci a brání tomu, že libovolný validátor bude mít nadměrně velké hlasovací právo ohledně stavu řetězce. Také to omezuje částku ETH, kterou lze kdykoli vybrat z podílu, jelikož počet validátorů, které mohou v daném časovém období odejít, je omezený. Pomáhá to chránit síť před určitými útoky."
+      "value": " STRAX na validátor vede k decentralizaci moci a brání tomu, že libovolný validátor bude mít nadměrně velké hlasovací právo ohledně stavu řetězce. Také to omezuje částku ETH, kterou lze kdykoli vybrat z podílu, jelikož počet validátorů, které mohou v daném časovém období odejít, je omezený. Pomáhá to chránit síť před určitými útoky."
     }
   ],
   "huEFUF": [
@@ -5928,7 +5928,7 @@
     },
     {
       "type": 0,
-      "value": " ETH aktivuje jednu sadu klíčů validátora. Tyto klíče jsou používány k podepsání stavu sítě. Čím je požadovaná částka ETH nižší, tím více výsledných podpisů musí být sítí uloženo. Částka "
+      "value": " STRAX aktivuje jednu sadu klíčů validátora. Tyto klíče jsou používány k podepsání stavu sítě. Čím je požadovaná částka STRAX nižší, tím více výsledných podpisů musí být sítí uloženo. Částka "
     },
     {
       "type": 1,
@@ -5936,7 +5936,7 @@
     },
     {
       "type": 0,
-      "value": " ETH byla zvolena, protože jde o částku, která umožňuje maximální možný počet podílníků, aniž by byla omezena decentralizace tím, že bude velikost každého bloku výrazně navýšena podpisy."
+      "value": " STRAX byla zvolena, protože jde o částku, která umožňuje maximální možný počet podílníků, aniž by byla omezena decentralizace tím, že bude velikost každého bloku výrazně navýšena podpisy."
     }
   ],
   "iX90gu": [
@@ -5988,7 +5988,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku je klient konsenzu pro Ethereum založený na Javě a je přizpůsobený potřebám institucí a požadavkům na zabezpečení."
+      "value": "PegaSys Teku je klient konsenzu pro Stratis založený na Javě a je přizpůsobený potřebám institucí a požadavkům na zabezpečení."
     }
   ],
   "XRUCUL": [
@@ -6026,7 +6026,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Teku (dříve Artemis) je klient konsenzu pro potřeby institucí a zabezpečení. PegaSys je odnož ConsenSys vyhrazená pro vývoj podnikových klientů a nástrojů k interakci s hlavní platformou Ethereum."
+      "value": "Teku (dříve Artemis) je klient konsenzu pro potřeby institucí a zabezpečení. PegaSys je odnož ConsenSys vyhrazená pro vývoj podnikových klientů a nástrojů k interakci s hlavní platformou Stratis."
     }
   ],
   "jBr8vs": [
@@ -6254,7 +6254,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Upgrade s názvem Sloučení dne 15. září 2022 oficiálně pro Ethereum zavedl důkaz podílem a zároveň zrušil důkaz prací. Tím byl řetěz připraven na budoucí škálovací upgrady, jako je tříštění dat, protože byl společně s Hlavní sítí zaveden konsenzus na základě důkazu podílem, a zároveň byla snížena spotřeba energie o více než 99,9 %."
+      "value": "Upgrade s názvem Sloučení dne 15. září 2022 oficiálně pro Stratis zavedl důkaz podílem a zároveň zrušil důkaz prací. Tím byl řetěz připraven na budoucí škálovací upgrady, jako je tříštění dat, protože byl společně s Hlavní sítí zaveden konsenzus na základě důkazu podílem, a zároveň byla snížena spotřeba energie o více než 99,9 %."
     }
   ],
   "kuYpoI": [
@@ -6442,7 +6442,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus je výzkumný projekt a implementace klienta konsenzu pro Ethereum navržená tak, aby dobře fungovala na vestavěných systémech a osobních mobilních zařízeních."
+      "value": "Nimbus je výzkumný projekt a implementace klienta konsenzu pro Stratis navržená tak, aby dobře fungovala na vestavěných systémech a osobních mobilních zařízeních."
     }
   ],
   "lfV1bj": [
@@ -6498,7 +6498,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení je Ethereum plně zabezpečováno validátory důkazu podílem. Provozováním validátoru pomáháte zabezpečit ethereovou síť."
+      "value": "Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení je Stratis plně zabezpečováno validátory důkazu podílem. Provozováním validátoru pomáháte zabezpečit ethereovou síť."
     }
   ],
   "mROPz+": [
@@ -6512,7 +6512,7 @@
     },
     {
       "type": 0,
-      "value": " jsem zadal/a adresu Ethereum, na kterou chcí odesílat všechny odměny pro validátory a výběry."
+      "value": " jsem zadal/a adresu Stratis, na kterou chcí odesílat všechny odměny pro validátory a výběry."
     }
   ],
   "mUZnem": [
@@ -6836,11 +6836,11 @@
   "ozEkVY": [
     {
       "type": 0,
-      "value": "Synchronizujte testnet Goerli pomocí "
+      "value": "Synchronizujte testnet Auroria pomocí "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -7216,7 +7216,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Klient konsenzu silně zaměřený na rychlost a zabezpečení. Vyvinula jej firma Sigma Prime zabývající se zabezpečením dat a vývojem softwaru, která financuje Lighthouse a dále Ethereum Foundation, Consensys a různé jednotlivce."
+      "value": "Klient konsenzu silně zaměřený na rychlost a zabezpečení. Vyvinula jej firma Sigma Prime zabývající se zabezpečením dat a vývojem softwaru, která financuje Lighthouse a dále Stratis, Consensys a různé jednotlivce."
     }
   ],
   "sToVAS": [
@@ -7404,7 +7404,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Vaše peněženka je na nesprávné síti Ethereum. Chcete-li pokračovat, připojte se k vrstvě "
+      "value": "Vaše peněženka je na nesprávné síti Stratis. Chcete-li pokračovat, připojte se k vrstvě "
     },
     {
       "type": 1,
@@ -7580,7 +7580,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Váš zůstatek je pravidelně aktualizován pravidly sítě Ethereum podle toho, jak plníte (nebo neplníte) své povinnosti."
+      "value": "Váš zůstatek je pravidelně aktualizován pravidly sítě Stratis podle toho, jak plníte (nebo neplníte) své povinnosti."
     }
   ],
   "vCHTnu": [
@@ -7834,7 +7834,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "Odměny za bloky jsou počítány pomocí posuvné škály založené na celkové částce podílu ETH v síti."
+      "value": "Odměny za bloky jsou počítány pomocí posuvné škály založené na celkové částce podílu STRAX v síti."
     }
   ],
   "xXKkhR": [
@@ -7948,7 +7948,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Probíhá několik vylepšení, která zajistí vyšší škálovatelnost, bezpečnost a udržitelnost Etherea. Tyto upgrady vylepší Ethereum a plynule navážou na současný řetězec. Další informace o jednotlivých upgradech najdete tady:"
+      "value": "Probíhá několik vylepšení, která zajistí vyšší škálovatelnost, bezpečnost a udržitelnost Etherea. Tyto upgrady vylepší Stratis a plynule navážou na současný řetězec. Další informace o jednotlivých upgradech najdete tady:"
     }
   ],
   "y4dBsA": [
@@ -8080,7 +8080,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar je open-source TypeScriptová implementace Ethereum Consensus (dříve známé jako eth2) – specifikace spravovaná ChainSafe Systems. Cílem ChainSafe je rozvíjet, zlepšit a diverzifikovat ekosystém Etherea s důkazem podílem společně s řetězovou vazbou a klienty validátorů se zaměřením na drobné klientské implementace."
+      "value": "Lodestar je open-source TypeScriptová implementace Stratis Consensus (dříve známé jako eth2) – specifikace spravovaná ChainSafe Systems. Cílem ChainSafe je rozvíjet, zlepšit a diverzifikovat ekosystém Etherea s důkazem podílem společně s řetězovou vazbou a klienty validátorů se zaměřením na drobné klientské implementace."
     }
   ],
   "zAVb0/": [
@@ -8118,7 +8118,7 @@
   "zbEBi9": [
     {
       "type": 0,
-      "value": "Ethereum mainnet synchronizujte přes "
+      "value": "Stratis mainnet synchronizujte přes "
     },
     {
       "type": 1,

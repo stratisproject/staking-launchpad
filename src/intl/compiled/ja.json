@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": "(旧: Eth2またはEthereum 2.0、プルーフ・オブ・ステークのコンセンサスタスクの処理)で構成されます。"
+      "value": "(旧: Eth2またはStratis 2.0、プルーフ・オブ・ステークのコンセンサスタスクの処理)で構成されます。"
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "ステップ2: Ethereum Foundation の入金ツールを使用して入金キーを生成"
+      "value": "ステップ2: Stratis の入金ツールを使用して入金キーを生成"
     }
   ],
   "+UUcBt": [
@@ -788,7 +788,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Goerli でテスト"
+      "value": "Auroria でテスト"
     }
   ],
   "3ODqP9": [
@@ -864,7 +864,7 @@
   "3URRZK": [
     {
       "type": 0,
-      "value": "Goerli ドキュメント上の Geth"
+      "value": "Auroria ドキュメント上の Geth"
     }
   ],
   "3aykgN": [
@@ -1358,11 +1358,11 @@
   "8XQmxX": [
     {
       "type": 0,
-      "value": "Goerli テストネットを同期するには "
+      "value": "Auroria テストネットを同期するには "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -1688,7 +1688,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "URL を確認して、公式の Ethereum Foundation GitHub アカウントから ダウンロードしていることを確認してください: "
+      "value": "URL を確認して、公式の Stratis GitHub アカウントから ダウンロードしていることを確認してください: "
     },
     {
       "type": 1,
@@ -2056,7 +2056,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "バリデーターになるには、どれくらいの ETH をステーキングする必要がありますか?"
+      "value": "バリデーターになるには、どれくらいの STRAX をステーキングする必要がありますか?"
     }
   ],
   "5q9Lgv": [
@@ -3082,11 +3082,11 @@
   "LibVut": [
     {
       "type": 0,
-      "value": "Goerli テストネットを同期するには "
+      "value": "Auroria テストネットを同期するには "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -3698,7 +3698,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Nethermind ‐ Goerliドキュメント"
+      "value": "Nethermind ‐ Auroriaドキュメント"
     }
   ],
   "PoBIK+": [
@@ -4536,7 +4536,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Besu ‐ ゴエリ(Goerli)ドキュメント"
+      "value": "Besu ‐ ゴエリ(Auroria)ドキュメント"
     }
   ],
   "XVRQoq": [
@@ -4982,7 +4982,7 @@
     },
     {
       "type": 0,
-      "value": " ETH を超える利点はありません。"
+      "value": " STRAX を超える利点はありません。"
     }
   ],
   "FWtWw3": [
@@ -5126,7 +5126,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "バリデーターになりEthereumの未来を守りましょう。"
+      "value": "バリデーターになりStratisの未来を守りましょう。"
     }
   ],
   "cRzxes": [
@@ -5496,7 +5496,7 @@
   "fHLKXR": [
     {
       "type": 0,
-      "value": "この質問への答えは、自由に使える ETH をどれほど持っているかによって大きく異なります。"
+      "value": "この質問への答えは、自由に使える STRAX をどれほど持っているかによって大きく異なります。"
     }
   ],
   "fQ5yno": [
@@ -5616,11 +5616,11 @@
   "gN9D/h": [
     {
       "type": 0,
-      "value": "Goerli テストネットを同期するには "
+      "value": "Auroria テストネットを同期するには "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -5630,7 +5630,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Ethereum Foundation の入金ツールを使用して入金キーを生成"
+      "value": "Stratis の入金ツールを使用して入金キーを生成"
     }
   ],
   "gVC0Wl": [
@@ -6590,7 +6590,7 @@
   "ndhFef": [
     {
       "type": 0,
-      "value": "慣れたら、キーを生成して ETH を入金します。"
+      "value": "慣れたら、キーを生成して STRAX を入金します。"
     }
   ],
   "njAU72": [
@@ -6776,11 +6776,11 @@
   "ozEkVY": [
     {
       "type": 0,
-      "value": "Goerli テストネットを同期するには "
+      "value": "Auroria テストネットを同期するには "
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -7774,7 +7774,7 @@
   "xSvJIi": [
     {
       "type": 0,
-      "value": "ブロック報酬は、ネットワーク上のステーキングされた合計 ETH に基づいてスライディングスケールを使用して計算されます。"
+      "value": "ブロック報酬は、ネットワーク上のステーキングされた合計 STRAX に基づいてスライディングスケールを使用して計算されます。"
     }
   ],
   "xXKkhR": [
@@ -8016,7 +8016,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "その一方で残高が 31ETH に近い場合、 32に戻すために必要な ETH を追加する価値はおそらくありません。"
+      "value": "その一方で残高が 31ETH に近い場合、 32に戻すために必要な STRAX を追加する価値はおそらくありません。"
     }
   ],
   "zJicsO": [

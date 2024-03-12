@@ -133,7 +133,7 @@ export const Withdrawals = () => {
           <Text>
             <FormattedMessage
               defaultMessage="As of the Shanghai/Capella upgrade withdrawals have been enabled on
-              the Beacon Chain, with the inclusion of {eip}. This Ethereum Improvement Proposal
+              the Beacon Chain, with the inclusion of {eip}. This Stratis Improvement Proposal
               enables rewards to be automatically withdrawn to the execution layer, and also
               provides a way for exited validators to unlock their entire balance—no gas
               required."
@@ -142,7 +142,7 @@ export const Withdrawals = () => {
                   <Link
                     primary
                     inline
-                    to="https://eips.ethereum.org/EIPS/eip-4895"
+                    to="https://eips.stratisevm.com/EIPS/eip-4895"
                   >
                     <FormattedMessage defaultMessage="EIP-4895" />
                   </Link>
@@ -335,7 +335,7 @@ export const Withdrawals = () => {
                 defaultMessage="An {excessBalanceWithdrawal} is processed when an active validator has a maxed out
                 effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}.
                 A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have
-                any extra balance automatically withdrawn to their Ethereum address."
+                any extra balance automatically withdrawn to their Stratis address."
                 values={{
                   excessBalanceWithdrawal: (
                     <strong>
@@ -362,7 +362,7 @@ export const Withdrawals = () => {
                 📝
               </span>{' '}
               <Text className="inline">
-                <FormattedMessage defaultMessage="It is not possible to manually request specific amounts of ETH to be withdrawn" />
+                <FormattedMessage defaultMessage="It is not possible to manually request specific amounts of STRAX to be withdrawn" />
               </Text>
             </Alert>
           </section>
@@ -410,7 +410,7 @@ export const Withdrawals = () => {
               </Text>
               <Text className="mb10">
                 <FormattedMessage
-                  defaultMessage="Those looking to exit their validator from staking and withdrawal their ETH should
+                  defaultMessage="Those looking to exit their validator from staking and withdrawal their STRAX should
                   check out the guide below that matches your setup:"
                 />
               </Text>
@@ -583,7 +583,7 @@ export const Withdrawals = () => {
             </Anchor>
             <Text className="mb10">
               <FormattedMessage
-                defaultMessage="Ethereum users are used to transactions being executed in a manual way—if
+                defaultMessage="Stratis users are used to transactions being executed in a manual way—if
                 you want to transfer funds, you have to sign a transaction and pay the gas."
               />
             </Text>
@@ -595,7 +595,7 @@ export const Withdrawals = () => {
                     <Link
                       primary
                       inline
-                      to="https://eips.ethereum.org/EIPS/eip-4895"
+                      to="https://eips.stratisevm.com/EIPS/eip-4895"
                     >
                       <FormattedMessage defaultMessage="Beacon chain push withdrawals as operations" />
                     </Link>
@@ -628,7 +628,7 @@ export const Withdrawals = () => {
             <Text className="mb10">
               <FormattedMessage
                 defaultMessage="On a never-ending loop, every single validator account is continuously evaluated for
-                eligible ETH withdrawals (of which there are two types, more on this below). Validators are processed
+                eligible STRAX withdrawals (of which there are two types, more on this below). Validators are processed
                 in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
               />
             </Text>
@@ -690,7 +690,7 @@ export const Withdrawals = () => {
               <FormattedMessage
                 defaultMessage="Similarly, there is also an {exitQueue}, which limits how quickly validators can
                 {leave} the network. This is for security reasons. Given each validator is limited to a max effective
-                balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the ETH from potentially
+                balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the STRAX from potentially
                 being used in an attack and then quickly exiting from the network all at once."
                 values={{
                   exitQueue: (
@@ -881,7 +881,7 @@ export const Withdrawals = () => {
             <Text className="mb10">
               <FormattedMessage
                 defaultMessage="A decision tree is followed to determine what type of withdrawal will be initiated.
-                If the validator being checked has ETH that is eligible to be withdrawn, it is added to the withdrawal
+                If the validator being checked has STRAX that is eligible to be withdrawn, it is added to the withdrawal
                 queue. If there isn’t, the account is skipped."
               />
             </Text>
@@ -1070,7 +1070,7 @@ export const Withdrawals = () => {
               <Link
                 primary
                 inline
-                to="https://notes.ethereum.org/@launchpad/withdrawals-guide"
+                to="https://notes.stratisevm.com/@launchpad/withdrawals-guide"
               >
                 <FormattedMessage defaultMessage="How to trigger withdrawals, credential change" />
               </Link>
@@ -1079,7 +1079,7 @@ export const Withdrawals = () => {
               <Link
                 primary
                 inline
-                to="https://notes.ethereum.org/@launchpad/goerli"
+                to="https://notes.stratisevm.com/@launchpad/auroria"
               >
                 <FormattedMessage defaultMessage="How to join the public withdrawals testnet" />
               </Link>

@@ -24,7 +24,7 @@ const ComponentStyles = styled.div`
   p,
   ol,
   ul {
-    color: ${(p: any) => p.theme.blue.dark};
+    color: ${(p: any) => p.theme.white};
   }
   li {
     font-weight: 300;
@@ -246,7 +246,7 @@ export const BtecGuide = () => {
                     <Link
                       primary
                       inline
-                      to="https://eips.ethereum.org/EIPS/eip-2334#eth2-specific-parameters"
+                      to="https://eips.stratisevm.com/EIPS/eip-2334#eth2-specific-parameters"
                     >
                       <FormattedMessage defaultMessage="EIP-2334" />
                     </Link>

@@ -8,23 +8,9 @@ import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowSt
 import SelectClientSection from './SelectClientSection';
 import SelectClientButtons from './SelectClientButtons';
 import { PrysmDetails } from '../Clients/Consensus/Prysm';
-import { LighthouseDetails } from '../Clients/Consensus/Lighthouse';
-import { TekuDetails } from '../Clients/Consensus/Teku';
-import { NimbusDetails } from '../Clients/Consensus/Nimbus';
-import { LodestarDetails } from '../Clients/Consensus/Lodestar';
 import { GethDetails } from '../Clients/Execution/Geth';
-import { BesuDetails } from '../Clients/Execution/Besu';
-import { NethermindDetails } from '../Clients/Execution/Nethermind';
-import { ErigonDetails } from '../Clients/Execution/Erigon';
 import PrysmaticCircle from '../../static/prysmatic-labs-circle.png';
-import LighthouseCircle from '../../static/lighthouse-circle.png';
-import NimbusCircle from '../../static/nimbus-circle.png';
-import LodestarCircle from '../../static/lodestar-circle.png';
-import TekuCircle from '../../static/pegasys-teku-circle.png';
 import GethCircle from '../../static/gethereum-mascot-circle.png';
-import BesuCircle from '../../static/hyperledger-besu-circle.png';
-import NethermindCircle from '../../static/nethermind-circle.png';
-import ErigonCircle from '../../static/erigon-circle.png';
 
 import {
   DispatchWorkflowUpdateType,
@@ -53,15 +39,8 @@ interface DispatchProps {
 type Props = StateProps & DispatchProps & OwnProps;
 
 const clientDetails = {
-  [ClientId.TEKU]: <TekuDetails shortened />,
-  [ClientId.LIGHTHOUSE]: <LighthouseDetails shortened />,
   [ClientId.PRYSM]: <PrysmDetails shortened />,
-  [ClientId.NIMBUS]: <NimbusDetails shortened />,
-  [ClientId.LODESTAR]: <LodestarDetails shortened />,
-  [ClientId.GETH]: <GethDetails />,
-  [ClientId.BESU]: <BesuDetails />,
-  [ClientId.NETHERMIND]: <NethermindDetails />,
-  [ClientId.ERIGON]: <ErigonDetails />,
+  [ClientId.GETH]: <GethDetails />
 };
 
 export type Client = {
@@ -81,57 +60,15 @@ const ethClients: {
       name: 'Geth',
       imgUrl: GethCircle,
       language: 'Go',
-    },
-    {
-      clientId: ClientId.BESU,
-      name: 'Besu',
-      imgUrl: BesuCircle,
-      language: 'Java',
-    },
-    {
-      clientId: ClientId.NETHERMIND,
-      name: 'Nethermind',
-      imgUrl: NethermindCircle,
-      language: 'C#, .NET',
-    },
-    {
-      clientId: ClientId.ERIGON,
-      name: 'Erigon',
-      imgUrl: ErigonCircle,
-      language: 'Go',
-    },
+    }
   ]),
   consensus: _shuffle([
-    {
-      clientId: ClientId.TEKU,
-      name: 'Teku',
-      imgUrl: TekuCircle,
-      language: 'Java',
-    },
-    {
-      clientId: ClientId.LIGHTHOUSE,
-      name: 'Lighthouse',
-      imgUrl: LighthouseCircle,
-      language: 'Rust',
-    },
     {
       clientId: ClientId.PRYSM,
       name: 'Prysm',
       imgUrl: PrysmaticCircle,
       language: 'Go',
-    },
-    {
-      clientId: ClientId.NIMBUS,
-      name: 'Nimbus',
-      imgUrl: NimbusCircle,
-      language: 'Nim',
-    },
-    {
-      clientId: ClientId.LODESTAR,
-      name: 'Lodestar',
-      imgUrl: LodestarCircle,
-      language: 'TypeScript',
-    },
+    }
   ]),
 };
 

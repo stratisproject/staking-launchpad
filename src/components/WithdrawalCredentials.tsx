@@ -316,6 +316,7 @@ export const WithdrawalCredentials: FC<IProps> = () => {
           placeholder={formatMessage({ defaultMessage: 'Validator index' })}
         />
         <StyledButton
+          color="#fff !important"
           label={
             <FormattedMessage
               defaultMessage="Verify on {NETWORK_NAME}"

@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Ethereum est constitué de la "
+      "value": "Stratis est constitué de la "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (gère les tâches de consensus concernant la preuve d'enjeu, anciennement « Eth2 » ou « Ethereum 2.0 »)."
+      "value": " (gère les tâches de consensus concernant la preuve d'enjeu, anciennement « Eth2 » ou « Stratis 2.0 »)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Étape 2 : Générer des clés de dépôt à l'aide de l'outil de dépôt Ethereum Foundation"
+      "value": "Étape 2 : Générer des clés de dépôt à l'aide de l'outil de dépôt Stratis"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Depuis La Fusion, les validateurs seront également responsables du traitement des transactions, et auront ainsi droit à des frais de gaz non brûlés associés à ces transactions lors de la proposition de blocs. Ces frais sont comptabilisés sur la couche d'exécution, et non sur la couche de consensus, et ont donc besoin d'une adresse Ethereum classique à fournir à votre client."
+      "value": "Depuis La Fusion, les validateurs seront également responsables du traitement des transactions, et auront ainsi droit à des frais de gaz non brûlés associés à ces transactions lors de la proposition de blocs. Ces frais sont comptabilisés sur la couche d'exécution, et non sur la couche de consensus, et ont donc besoin d'une adresse Stratis classique à fournir à votre client."
     }
   ],
   "/5Hyyf": [
@@ -114,7 +114,7 @@
   "/JiR8D": [
     {
       "type": 0,
-      "value": "Sur une boucle sans fin, chaque compte de validateur est évalué en permanence en fonction des retraits de ETH admissibles (dont il existe deux types, plus à ce sujet ci-dessous). Les validateurs sont traités en ordre par numéro d'index, commençant à l'origine à 0, chaque proposant suivant reprenant là où le dernier s'était arrêté."
+      "value": "Sur une boucle sans fin, chaque compte de validateur est évalué en permanence en fonction des retraits de STRAX admissibles (dont il existe deux types, plus à ce sujet ci-dessous). Les validateurs sont traités en ordre par numéro d'index, commençant à l'origine à 0, chaque proposant suivant reprenant là où le dernier s'était arrêté."
     }
   ],
   "/OAba6": [
@@ -224,7 +224,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth est l'une des trois implémentations initiales du protocole Ethereum, écrit en Go."
+      "value": "Geth est l'une des trois implémentations initiales du protocole Stratis, écrit en Go."
     }
   ],
   "/ub26/": [
@@ -378,7 +378,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "J'ai fourni à mon validateur une adresse Ethereum où je voudrais que mes récompenses de frais soient déposées."
+      "value": "J'ai fourni à mon validateur une adresse Stratis où je voudrais que mes récompenses de frais soient déposées."
     }
   ],
   "0lHkrT": [
@@ -538,7 +538,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "En savoir plus sur l'économie de mise en jeu Ethereum"
+      "value": "En savoir plus sur l'économie de mise en jeu Stratis"
     }
   ],
   "1p+pb5": [
@@ -698,7 +698,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "La diversité des clients est essentielle à la santé du réseau d'Ethereum. En effet, un bogue dans un client ayant une part supérieure à 33 % pourrait entraîner la déconnexion d'Ethereum. Et si le client a une majorité des deux tiers (> 66 %), un bogue pourrait entraîner la division incorrecte de la chaîne, et ainsi potentiellement mener à un délestage."
+      "value": "La diversité des clients est essentielle à la santé du réseau d'Stratis. En effet, un bogue dans un client ayant une part supérieure à 33 % pourrait entraîner la déconnexion d'Stratis. Et si le client a une majorité des deux tiers (> 66 %), un bogue pourrait entraîner la division incorrecte de la chaîne, et ainsi potentiellement mener à un délestage."
     }
   ],
   "2t/3ab": [
@@ -772,7 +772,7 @@
   "3NHygY": [
     {
       "type": 0,
-      "value": "Tests sur Goerli"
+      "value": "Tests sur Auroria"
     }
   ],
   "3ODqP9": [
@@ -786,7 +786,7 @@
     },
     {
       "type": 0,
-      "value": " ETH à un seul ensemble de clés n'augmente pas le potentiel de récompense, pas plus que l'accumulation de récompenses au-dessus de "
+      "value": " STRAX à un seul ensemble de clés n'augmente pas le potentiel de récompense, pas plus que l'accumulation de récompenses au-dessus de "
     },
     {
       "type": 1,
@@ -818,7 +818,7 @@
     },
     {
       "type": 0,
-      "value": " ETH par échelons, chacun avec son propre ensemble de clés et de solde."
+      "value": " STRAX par échelons, chacun avec son propre ensemble de clés et de solde."
     }
   ],
   "3PbtmF": [
@@ -842,13 +842,13 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Ces mises à jour d'ordre terminologique ne concernent que les conventions de nommage ; les objectifs et la feuille de route d'Ethereum restent inchangés."
+      "value": "Ces mises à jour d'ordre terminologique ne concernent que les conventions de nommage ; les objectifs et la feuille de route d'Stratis restent inchangés."
     }
   ],
   "3URRZK": [
     {
       "type": 0,
-      "value": "Documentation Geth sur Goerli"
+      "value": "Documentation Geth sur Auroria"
     }
   ],
   "3aykgN": [
@@ -1350,7 +1350,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -1430,7 +1430,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Un client Ethereum conçu pour être convivial pour les entreprises dans le cadre d'une utilisation autorisée sur des réseaux publics et privés."
+      "value": "Un client Stratis conçu pour être convivial pour les entreprises dans le cadre d'une utilisation autorisée sur des réseaux publics et privés."
     }
   ],
   "8yom7x": [
@@ -1468,7 +1468,7 @@
     },
     {
       "type": 0,
-      "value": " ETH en jeu ?"
+      "value": " STRAX en jeu ?"
     }
   ],
   "9JktQX": [
@@ -1630,7 +1630,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Pour que le contrat de dépôt de mise en jeu Ethereum soit accepté, un minimum de "
+      "value": "Pour que le contrat de dépôt de mise en jeu Stratis soit accepté, un minimum de "
     },
     {
       "type": 1,
@@ -1676,7 +1676,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Assurez-vous de télécharger depuis le compte GitHub officiel Ethereum Foundation en vérifiant l’URL suivante : "
+      "value": "Assurez-vous de télécharger depuis le compte GitHub officiel Stratis en vérifiant l’URL suivante : "
     },
     {
       "type": 1,
@@ -1686,7 +1686,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "La fragmentation changera l'exigence selon laquelle que les nœuds complets portent toute l'histoire de la chaîne, et, en lieu et place, répartira cette charge entre le réseau tout en assurant la disponibilité des données. Cela augmentera considérablement la capacité de la couche 1 Ethereum tout en maintenant la possibilité d'exploiter un nœud complet sur le matériel de consommation, en conservant le réseau décentralisé."
+      "value": "La fragmentation changera l'exigence selon laquelle que les nœuds complets portent toute l'histoire de la chaîne, et, en lieu et place, répartira cette charge entre le réseau tout en assurant la disponibilité des données. Cela augmentera considérablement la capacité de la couche 1 Stratis tout en maintenant la possibilité d'exploiter un nœud complet sur le matériel de consommation, en conservant le réseau décentralisé."
     }
   ],
   "Affixg": [
@@ -1742,7 +1742,7 @@
     },
     {
       "type": 0,
-      "value": " est traité lorsqu'un validateur actif a un solde effectif maximal de 32, et a un solde total supérieur à 32. Un seul validateur ne peut pas obtenir de récompenses sur un solde excédentaire supérieur à 32 ETH, et ces comptes auront donc un solde supplémentaire automatiquement retiré à leur adresse Ethereum."
+      "value": " est traité lorsqu'un validateur actif a un solde effectif maximal de 32, et a un solde total supérieur à 32. Un seul validateur ne peut pas obtenir de récompenses sur un solde excédentaire supérieur à 32 ETH, et ces comptes auront donc un solde supplémentaire automatiquement retiré à leur adresse Stratis."
     }
   ],
   "RY4SP0": [
@@ -1984,7 +1984,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "En savoir plus sur la vision Ethereum"
+      "value": "En savoir plus sur la vision Stratis"
     }
   ],
   "CdKEd/": [
@@ -2272,7 +2272,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Le stakers doivent fournir une adresse de bénéficiaire de frais à leur client de consensus afin de recevoir des récompenses de frais de transaction. Il s'agit d'une adresse Ethereum normale à laquelle vous êtes habitué."
+      "value": "Le stakers doivent fournir une adresse de bénéficiaire de frais à leur client de consensus afin de recevoir des récompenses de frais de transaction. Il s'agit d'une adresse Stratis normale à laquelle vous êtes habitué."
     }
   ],
   "EcCME0": [
@@ -2310,7 +2310,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Ethereum a eu sa genèse le 30 juillet 2015. Depuis, elle prend de plus en plus d'ampleur, et l'introduction de la fragmentation augmentera également les besoins en stockage, en mémoire et en bande passante."
+      "value": "Stratis a eu sa genèse le 30 juillet 2015. Depuis, elle prend de plus en plus d'ampleur, et l'introduction de la fragmentation augmentera également les besoins en stockage, en mémoire et en bande passante."
     }
   ],
   "FM92S0": [
@@ -2328,7 +2328,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Retrait par adresse Ethereum : si vous souhaitez réaliser un retrait vers votre adresse de portefeuille d'exécution après la mise à niveau Shanghai/Capella, vous pouvez paramétrer "
+      "value": "Retrait par adresse Stratis : si vous souhaitez réaliser un retrait vers votre adresse de portefeuille d'exécution après la mise à niveau Shanghai/Capella, vous pouvez paramétrer "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Un client Ethereum avec un énorme pool de développeurs, parfait pour les systèmes de niveau entreprise."
+      "value": "Un client Stratis avec un énorme pool de développeurs, parfait pour les systèmes de niveau entreprise."
     }
   ],
   "FgraU0": [
@@ -2672,7 +2672,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Anciennement TurboGeth, Erigon est un client Ethereum conçu pour permettre des optimisations de performances."
+      "value": "Anciennement TurboGeth, Erigon est un client Stratis conçu pour permettre des optimisations de performances."
     }
   ],
   "ID3Pgm": [
@@ -2830,7 +2830,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Approfondissez les mises à niveau Ethereum."
+      "value": "Approfondissez les mises à niveau Stratis."
     }
   ],
   "JhUYU3": [
@@ -3094,7 +3094,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -3110,7 +3110,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Merci de soutenir le réseau Ethereum !"
+      "value": "Merci de soutenir le réseau Stratis !"
     }
   ],
   "LpnfTF": [
@@ -3154,7 +3154,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Ethereum est sécurisé par une preuve d'enjeu, bien que ce ne fut pas toujours le cas. La Chaîne phare a été la première étape vers l'établissement d'une couche de consensus PoS sur Ethereum, lancée en parallèle du réseau principal en décembre 2020. Cela a permis aux participants de commencer à staker leur ETH et de préparer le réseau pour la transition officielle de la preuve de travail à la preuve d'enjeu au moyen de la fusion (The Merge)."
+      "value": "Stratis est sécurisé par une preuve d'enjeu, bien que ce ne fut pas toujours le cas. La Chaîne phare a été la première étape vers l'établissement d'une couche de consensus PoS sur Stratis, lancée en parallèle du réseau principal en décembre 2020. Cela a permis aux participants de commencer à staker leur STRAX et de préparer le réseau pour la transition officielle de la preuve de travail à la preuve d'enjeu au moyen de la fusion (The Merge)."
     }
   ],
   "LwEHRm": [
@@ -3226,7 +3226,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "De quelles façons Ethereum se met-il à niveau ?"
+      "value": "De quelles façons Stratis se met-il à niveau ?"
     }
   ],
   "MaZo9k": [
@@ -3250,7 +3250,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Cette plateforme de lancement vous aidera à devenir validateur pour que vous puissiez jouer un rôle actif dans l'avenir d'Ethereum. Les validateurs sont des éléments clés pour construire ensemble un Ethereum plus sûr, plus évolutif et plus durable."
+      "value": "Cette plateforme de lancement vous aidera à devenir validateur pour que vous puissiez jouer un rôle actif dans l'avenir d'Stratis. Les validateurs sont des éléments clés pour construire ensemble un Stratis plus sûr, plus évolutif et plus durable."
     }
   ],
   "Mc8nNE": [
@@ -3262,7 +3262,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Les mises à niveau Ethereum ne seront une réussite que si les validateurs comprennent les risques et leurs responsabilités."
+      "value": "Les mises à niveau Stratis ne seront une réussite que si les validateurs comprennent les risques et leurs responsabilités."
     }
   ],
   "MmZjeu": [
@@ -3422,7 +3422,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Informez-vous sur les rôles et responsabilités des validateurs Ethereum."
+      "value": "Informez-vous sur les rôles et responsabilités des validateurs Stratis."
     }
   ],
   "Nb5DNK": [
@@ -3524,7 +3524,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu est un client Ethereum open-source développé sous la licence Apache 2.0 et écrit en Java."
+      "value": "Hyperledger Besu est un client Stratis open-source développé sous la licence Apache 2.0 et écrit en Java."
     }
   ],
   "OIvXIO": [
@@ -3622,13 +3622,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "L'hameçonnage est un risque bien réel pour les validateurs Ethereum, et malheureusement, nombreux sont ceux qui perdront des fonds à cause de ces attaques."
+      "value": "L'hameçonnage est un risque bien réel pour les validateurs Stratis, et malheureusement, nombreux sont ceux qui perdront des fonds à cause de ces attaques."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "La mise à niveau de la chaîne phare ajoute un consensus de preuve de participation à Ethereum."
+      "value": "La mise à niveau de la chaîne phare ajoute un consensus de preuve de participation à Stratis."
     }
   ],
   "P1QerV": [
@@ -3702,7 +3702,7 @@
   "PmrcLE": [
     {
       "type": 0,
-      "value": "Documentation Nethermind sur Goerli"
+      "value": "Documentation Nethermind sur Auroria"
     }
   ],
   "PoBIK+": [
@@ -3852,7 +3852,7 @@
     },
     {
       "type": 0,
-      "value": " vers le contrat de dépôt sur la chaîne Ethereum actuelle."
+      "value": " vers le contrat de dépôt sur la chaîne Stratis actuelle."
     }
   ],
   "QlsDcr": [
@@ -4118,7 +4118,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validateurs et Ethereum"
+      "value": "Validateurs et Stratis"
     }
   ],
   "TMw9oz": [
@@ -4130,7 +4130,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Les termes « Eth1 » et « Eth2 » sont devenus obsolètes avec la fusion (The Merge). Depuis la transition fructueuse vers la preuve d'enjeu via la fusion, il n'y a plus deux réseaux Ethereum distincts ; il ne subsiste qu'Ethereum."
+      "value": "Les termes « Eth1 » et « Eth2 » sont devenus obsolètes avec la fusion (The Merge). Depuis la transition fructueuse vers la preuve d'enjeu via la fusion, il n'y a plus deux réseaux Stratis distincts ; il ne subsiste qu'Stratis."
     }
   ],
   "TfNuWP": [
@@ -4192,7 +4192,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Vérifiez le contrat de dépôt sur votre explorateur de blocs Ethereum favori :"
+      "value": "Vérifiez le contrat de dépôt sur votre explorateur de blocs Stratis favori :"
     }
   ],
   "UYRyWv": [
@@ -4238,7 +4238,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Une des trois implémentations initiales du protocole Ethereum."
+      "value": "Une des trois implémentations initiales du protocole Stratis."
     }
   ],
   "UykRIk": [
@@ -4548,7 +4548,7 @@
   "XRxD8r": [
     {
       "type": 0,
-      "value": "Documentation Besu sur Goerli"
+      "value": "Documentation Besu sur Auroria"
     }
   ],
   "XVRQoq": [
@@ -4904,7 +4904,7 @@
   "hzsgQ5": [
     {
       "type": 0,
-      "value": "On les appelle aussi « retraits partiels » ou « paiements de récompense » puisque les 32 ETH restants restent bloqués et mis en jeu."
+      "value": "On les appelle aussi « retraits partiels » ou « paiements de récompense » puisque les 32 STRAX restants restent bloqués et mis en jeu."
     }
   ],
   "a+xjjV": [
@@ -4998,7 +4998,7 @@
     },
     {
       "type": 0,
-      "value": " ETH engagés."
+      "value": " STRAX engagés."
     }
   ],
   "FWtWw3": [
@@ -5146,7 +5146,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Devenez un validateur et contribuez à préserver le futur d’Ethereum."
+      "value": "Devenez un validateur et contribuez à préserver le futur d’Stratis."
     }
   ],
   "cRzxes": [
@@ -5240,7 +5240,7 @@
     },
     {
       "type": 0,
-      "value": " est un champ du dépôt de 32 octets servant à vérifier la destination des retraits valides. Actuellement, il existe deux types de retraits : le retrait BLS et le retrait par adresse Ethereum."
+      "value": " est un champ du dépôt de 32 octets servant à vérifier la destination des retraits valides. Actuellement, il existe deux types de retraits : le retrait BLS et le retrait par adresse Stratis."
     }
   ],
   "8FjJDx": [
@@ -5258,7 +5258,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm est une implémentation de client de consensus Go du protocole Ethereum axée sur l’ergonomie, la sécurité et la fiabilité."
+      "value": "Prysm est une implémentation de client de consensus Go du protocole Stratis axée sur l’ergonomie, la sécurité et la fiabilité."
     }
   ],
   "dLE9FH": [
@@ -5550,7 +5550,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Vous pouvez choisir de fournir une adresse de retrait avec votre dépôt initial pour activer automatiquement les paiements de récompense et également la possibilité de retirer complètement vos fonds à tout moment après la mise à niveau de Shanghai/Capella. Cette adresse doit être une adresse Ethereum régulière et sera la seule adresse à laquelle les fonds pourront être envoyés à partir de vos nouveaux comptes de validateur."
+      "value": "Vous pouvez choisir de fournir une adresse de retrait avec votre dépôt initial pour activer automatiquement les paiements de récompense et également la possibilité de retirer complètement vos fonds à tout moment après la mise à niveau de Shanghai/Capella. Cette adresse doit être une adresse Stratis régulière et sera la seule adresse à laquelle les fonds pourront être envoyés à partir de vos nouveaux comptes de validateur."
     }
   ],
   "fZwn+P": [
@@ -5644,7 +5644,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -5654,7 +5654,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Générer des clés de dépôt à l'aide de l'outil de dépôt Ethereum Foundation"
+      "value": "Générer des clés de dépôt à l'aide de l'outil de dépôt Stratis"
     }
   ],
   "gVC0Wl": [
@@ -5850,7 +5850,7 @@
     },
     {
       "type": 0,
-      "value": " ETH par validateur encourage la décentralisation du pouvoir, car cela empêche tout validateur unique d'avoir un vote excessivement important sur l'état de la chaîne. Cela limite également la quantité d'ETH qui peut être sortie de la mise en jeu à tout moment, car le nombre de validateurs pouvant se retirer dans une période donnée est limité. Cela aide à protéger le réseau contre certaines attaques."
+      "value": " STRAX par validateur encourage la décentralisation du pouvoir, car cela empêche tout validateur unique d'avoir un vote excessivement important sur l'état de la chaîne. Cela limite également la quantité d'ETH qui peut être sortie de la mise en jeu à tout moment, car le nombre de validateurs pouvant se retirer dans une période donnée est limité. Cela aide à protéger le réseau contre certaines attaques."
     }
   ],
   "huEFUF": [
@@ -5888,7 +5888,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Vous pouvez considérer le contrat de dépôt comme un transfert de fonds à partir d'un compte Ethereum vers un compte de validateur de preuve d'enjeu."
+      "value": "Vous pouvez considérer le contrat de dépôt comme un transfert de fonds à partir d'un compte Stratis vers un compte de validateur de preuve d'enjeu."
     }
   ],
   "iJXdUH": [
@@ -5928,7 +5928,7 @@
     },
     {
       "type": 0,
-      "value": " ETH a été choisi en guise d'équilibre : permettre au plus grand nombre de personnes possible de miser sans entraver la décentralisation en gonflant la taille de chaque bloc au moyen de signatures."
+      "value": " STRAX a été choisi en guise d'équilibre : permettre au plus grand nombre de personnes possible de miser sans entraver la décentralisation en gonflant la taille de chaque bloc au moyen de signatures."
     }
   ],
   "iX90gu": [
@@ -5980,7 +5980,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku est un client de consensus Ethereum basé sur Java conçu pour répondre aux besoins institutionnels et aux exigences de sécurité."
+      "value": "PegaSys Teku est un client de consensus Stratis basé sur Java conçu pour répondre aux besoins institutionnels et aux exigences de sécurité."
     }
   ],
   "XRUCUL": [
@@ -6018,7 +6018,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Anciennement connu sous le nom d'Artemis, Teku est un client de consensus conçu pour répondre aux besoins institutionnels et aux exigences de sécurité. PegaSys est une branche de ConsenSys qui se consacre à la création de clients et d'outils prêts à l'emploi pour interagir avec la plateforme Ethereum principale."
+      "value": "Anciennement connu sous le nom d'Artemis, Teku est un client de consensus conçu pour répondre aux besoins institutionnels et aux exigences de sécurité. PegaSys est une branche de ConsenSys qui se consacre à la création de clients et d'outils prêts à l'emploi pour interagir avec la plateforme Stratis principale."
     }
   ],
   "jBr8vs": [
@@ -6128,7 +6128,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Cela marqua la fusion de la couche d'exécution (réseau principal existant) avec la nouvelle couche de consensus (la Chaîne phare) pour former la chaîne Ethereum unique d'aujourd'hui."
+      "value": "Cela marqua la fusion de la couche d'exécution (réseau principal existant) avec la nouvelle couche de consensus (la Chaîne phare) pour former la chaîne Stratis unique d'aujourd'hui."
     }
   ],
   "k67L48": [
@@ -6186,7 +6186,7 @@
     },
     {
       "type": 0,
-      "value": ". Cette proposition d'amélioration d'Ethereum permet le retrait automatique des récompenses de la couche d'exécution, et fournit également un moyen pour les validateurs sortis de débloquer l'intégralité de leur solde - aucun gaz requis."
+      "value": ". Cette proposition d'amélioration d'Stratis permet le retrait automatique des récompenses de la couche d'exécution, et fournit également un moyen pour les validateurs sortis de débloquer l'intégralité de leur solde - aucun gaz requis."
     }
   ],
   "kTt/ND": [
@@ -6246,7 +6246,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "La mise à niveau de la Fusion a officiellement apporté des preuves d'enjeu sur Ethereum le 15 septembre 2022, ce qui a pour effet de déprécier la preuve de travail. Cela a préparé la chaîne pour de futures mises à l'échelle telles que la fragmentation des données en réunissant un consensus de preuve d'enjeu avec le réseau principal, tout en réduisant simultanément la consommation d'énergie de plus de 99,9 %."
+      "value": "La mise à niveau de la Fusion a officiellement apporté des preuves d'enjeu sur Stratis le 15 septembre 2022, ce qui a pour effet de déprécier la preuve de travail. Cela a préparé la chaîne pour de futures mises à l'échelle telles que la fragmentation des données en réunissant un consensus de preuve d'enjeu avec le réseau principal, tout en réduisant simultanément la consommation d'énergie de plus de 99,9 %."
     }
   ],
   "kuYpoI": [
@@ -6434,7 +6434,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus est un projet de recherche et une implémentation de client de consensus pour Ethereum, conçue pour fonctionner de façon performante sur les systèmes embarqués et les appareils mobiles personnels."
+      "value": "Nimbus est un projet de recherche et une implémentation de client de consensus pour Stratis, conçue pour fonctionner de façon performante sur les systèmes embarqués et les appareils mobiles personnels."
     }
   ],
   "lfV1bj": [
@@ -6490,13 +6490,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Depuis la transition réussie vers la preuve d'enjeu via la Fusion, Ethereum est entièrement sécurisé par des validateurs de preuves d'enjeu. En exécutant un validateur, vous aiderez à sécuriser le réseau Ethereum."
+      "value": "Depuis la transition réussie vers la preuve d'enjeu via la Fusion, Stratis est entièrement sécurisé par des validateurs de preuves d'enjeu. En exécutant un validateur, vous aiderez à sécuriser le réseau Stratis."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "J'ai fourni une adresse Ethereum lors de la génération de mon fichier "
+      "value": "J'ai fourni une adresse Stratis lors de la génération de mon fichier "
     },
     {
       "type": 1,
@@ -6536,7 +6536,7 @@
     },
     {
       "type": 0,
-      "value": " est une entité virtuelle qui vit sur la Chaîne phare, représentée par un solde, une clé publique et d'autres propriétés, et participe au consensus du réseau Ethereum."
+      "value": " est une entité virtuelle qui vit sur la Chaîne phare, représentée par un solde, une clé publique et d'autres propriétés, et participe au consensus du réseau Stratis."
     }
   ],
   "mcyp2f": [
@@ -6836,7 +6836,7 @@
     },
     {
       "type": 1,
-      "value": "goerli"
+      "value": "auroria"
     },
     {
       "type": 0,
@@ -6846,7 +6846,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Les utilisateurs d'Ethereum sont habitués à ce que les transactions soient exécutées de manière manuelle. Si vous souhaitez transférer des fonds, vous devez signer une transaction et payer le gaz."
+      "value": "Les utilisateurs d'Stratis sont habitués à ce que les transactions soient exécutées de manière manuelle. Si vous souhaitez transférer des fonds, vous devez signer une transaction et payer le gaz."
     }
   ],
   "p0b6zX": [
@@ -7216,7 +7216,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Client de consensus axé sur la vitesse et la sécurité, Lighthouse a été créé par la société d'ingénierie informatique et de sécurité de l'information Sigma Prime, qui l'a financé avec l'aide d'Ethereum Foundation, de Consensys et de particuliers."
+      "value": "Client de consensus axé sur la vitesse et la sécurité, Lighthouse a été créé par la société d'ingénierie informatique et de sécurité de l'information Sigma Prime, qui l'a financé avec l'aide d'Stratis, de Consensys et de particuliers."
     }
   ],
   "sToVAS": [
@@ -7320,7 +7320,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "La spécification de la couche de consensus Ethereum"
+      "value": "La spécification de la couche de consensus Stratis"
     }
   ],
   "teyxVk": [
@@ -7392,7 +7392,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Les mises à niveau Ethereum"
+      "value": "Les mises à niveau Stratis"
     }
   ],
   "tzMNF3": [
@@ -7404,7 +7404,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Votre portefeuille est sur le mauvais réseau Ethereum. Pour continuer, connectez-vous à "
+      "value": "Votre portefeuille est sur le mauvais réseau Stratis. Pour continuer, connectez-vous à "
     },
     {
       "type": 1,
@@ -7580,7 +7580,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Votre solde est mis à jour périodiquement selon les règles du réseau Ethereum, au fur et à mesure que vous assumez (ou pas) vos responsabilités."
+      "value": "Votre solde est mis à jour périodiquement selon les règles du réseau Stratis, au fur et à mesure que vous assumez (ou pas) vos responsabilités."
     }
   ],
   "vCHTnu": [
@@ -7598,7 +7598,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Devenir validateur et aider à sécuriser l'avenir d'Ethereum"
+      "value": "Devenir validateur et aider à sécuriser l'avenir d'Stratis"
     }
   ],
   "vJez0K": [
@@ -7778,7 +7778,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Sur Ethereum, la validation est différente du minage. Les résultats sont similaires : le travail que vous faites va étendre et sécuriser la chaîne, mais le processus est complètement différent, car des mécanismes de consensus différents sont utilisés."
+      "value": "Sur Stratis, la validation est différente du minage. Les résultats sont similaires : le travail que vous faites va étendre et sécuriser la chaîne, mais le processus est complètement différent, car des mécanismes de consensus différents sont utilisés."
     }
   ],
   "x4/9vY": [
@@ -7872,7 +7872,7 @@
   "xh7oVn": [
     {
       "type": 0,
-      "value": "Ceux qui cherchent à sortir leur validateur du staking et retirer leur ETH devraient consulter le guide ci-dessous qui correspond à votre configuration :"
+      "value": "Ceux qui cherchent à sortir leur validateur du staking et retirer leur STRAX devraient consulter le guide ci-dessous qui correspond à votre configuration :"
     }
   ],
   "xm3Ivd": [
@@ -7948,7 +7948,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Plusieurs mises à niveau visant à rendre Ethereum plus évolutif, plus sécurisé et plus durable sont en cours. Ces mises à niveau amélioreront Ethereum tout en continuant de manière transparente sur la chaîne d'aujourd'hui. Voici plus d'informations sur les différentes mises à niveau :"
+      "value": "Plusieurs mises à niveau visant à rendre Stratis plus évolutif, plus sécurisé et plus durable sont en cours. Ces mises à niveau amélioreront Stratis tout en continuant de manière transparente sur la chaîne d'aujourd'hui. Voici plus d'informations sur les différentes mises à niveau :"
     }
   ],
   "y4dBsA": [
@@ -8080,7 +8080,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar est une implémentation TypeScript open source de la spécification Ethereum Consensus (anciennement connue sous le nom d'eth2) maintenue par ChainSafe Systems. L'objectif de ChainSafe est de développer, d'améliorer et de diversifier l'écosystème de la preuve d'enjeu Ethereum avec leur chaîne phare et leur client de validateur en mettant l'accent sur les implémentations de clients légers."
+      "value": "Lodestar est une implémentation TypeScript open source de la spécification Stratis Consensus (anciennement connue sous le nom d'eth2) maintenue par ChainSafe Systems. L'objectif de ChainSafe est de développer, d'améliorer et de diversifier l'écosystème de la preuve d'enjeu Stratis avec leur chaîne phare et leur client de validateur en mettant l'accent sur les implémentations de clients légers."
     }
   ],
   "zAVb0/": [
@@ -8112,7 +8112,7 @@
     },
     {
       "type": 0,
-      "value": " ETH pour un seul validateur. Il ne sera pas ajouté à vos récompenses et sera verrouillé jusqu'à la mise à jour de Shanghai/Capella prévue."
+      "value": " STRAX pour un seul validateur. Il ne sera pas ajouté à vos récompenses et sera verrouillé jusqu'à la mise à jour de Shanghai/Capella prévue."
     }
   ],
   "zbEBi9": [
@@ -8126,7 +8126,7 @@
     },
     {
       "type": 0,
-      "value": " pour synchroniser le réseau principal Ethereum."
+      "value": " pour synchroniser le réseau principal Stratis."
     }
   ],
   "zicXn7": [

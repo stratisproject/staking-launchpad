@@ -21,7 +21,7 @@ export const NethermindDetails = () => (
       Nethermind
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="An Ethereum client with a huge pool of developers. It's perfect for enterprise-grade systems." />
+      <FormattedMessage defaultMessage="An Stratis client with a huge pool of developers. It's perfect for enterprise-grade systems." />
     </Text>
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />
@@ -51,7 +51,7 @@ export const NethermindDetails = () => (
         <>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {mainnet} to sync the Ethereum mainnet."
+              defaultMessage="Use {mainnet} to sync the Stratis mainnet."
               values={{
                 mainnet: <Code className="mt20">--config mainnet</Code>,
               }}
@@ -70,25 +70,25 @@ export const NethermindDetails = () => (
       {!IS_MAINNET && IS_GOERLI && (
         <>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--config goerli</Code>,
+                auroria: <Code className="mt20">--config auroria</Code>,
               }}
-              description="{goerli} shows '--config goerli' terminal command"
+              description="{auroria} shows '--config auroria' terminal command"
             />
           </Text>
           <Link
             primary
             className="mt20"
-            to="https://docs.nethermind.io/nethermind/ethereum-client/networks#goerli-goerli"
+            to="https://docs.nethermind.io/nethermind/ethereum-client/networks#auroria-auroria"
           >
             <FormattedMessage
-              defaultMessage="Nethermind on Goerli documentation"
-              description="Links to the documentation for the execution client Nethermind, specifically for testnet Goerli"
+              defaultMessage="Nethermind on Auroria documentation"
+              description="Links to the documentation for the execution client Nethermind, specifically for testnet Auroria"
             />
           </Link>
         </>

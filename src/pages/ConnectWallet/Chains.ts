@@ -11,8 +11,8 @@ export const changeToTestnet = async (chainId: number) => {
           chainId: `0x${chainId.toString(16)}`,
           chainName: NETWORK_NAME,
           nativeCurrency: {
-            name: 'Testnet Ether',
-            symbol: 'tETH',
+            name: 'Testnet Stratis',
+            symbol: 'tSTRAX',
             decimals: 18,
           },
           rpcUrls: [RPC_URL],

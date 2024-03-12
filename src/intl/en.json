@@ -1,13 +1,13 @@
 {
   "+2VHUU": {
     "description": "{executionLayer} is a link labeled 'execution layer'. {consensusLayer} is a link labeled 'consensus layer'",
-    "message": "Ethereum consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Ethereum 2.0')."
+    "message": "Stratis consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Stratis 2.0')."
   },
   "+EZ9E/": {
     "message": "Interactive mode"
   },
   "+L0IkF": {
-    "message": "Step 2: Generate deposit keys using the Ethereum Foundation deposit tool"
+    "message": "Step 2: Generate deposit keys using the Stratis deposit tool"
   },
   "+UUcBt": {
     "message": "Choose a language"
@@ -40,13 +40,13 @@
     "message": "You can start all the transactions at once, or start them individually."
   },
   "/4e3mN": {
-    "message": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Ethereum address to be provided to your client."
+    "message": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Stratis address to be provided to your client."
   },
   "/5Hyyf": {
     "message": "Indonesian"
   },
   "/JiR8D": {
-    "message": "On a never-ending loop, every single validator account is continuously evaluated for eligible ETH withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
+    "message": "On a never-ending loop, every single validator account is continuously evaluated for eligible STRAX withdrawals (of which there are two types, more on this below). Validators are processed in order by index number, originally starting at 0, with each subsequent proposer picking up where the last one left off."
   },
   "/OAba6": {
     "message": "Note the “activation” and “exit” queues are independent and do not compete. Each are limited on a per-epoch basis."
@@ -70,7 +70,7 @@
     "message": "withdrawable epoch"
   },
   "/h0DGY": {
-    "message": "Why the {pricePerValidator} ETH maximum?"
+    "message": "Why the {pricePerValidator} STRAX maximum?"
   },
   "/jJLYy": {
     "message": "Transactions"
@@ -140,7 +140,7 @@
     "message": "Confirm deposits ({depositKeys})"
   },
   "0kxaf/": {
-    "message": "I've provided an Ethereum address to my validator where I would like my fee rewards to be deposited."
+    "message": "I've provided an Stratis address to my validator where I would like my fee rewards to be deposited."
   },
   "0lHkrT": {
     "message": "Second, install the dependency packages:"
@@ -209,7 +209,7 @@
     "message": "Check deposit contract details"
   },
   "1ingnQ": {
-    "message": "More on Ethereum staking economics"
+    "message": "More on Stratis staking economics"
   },
   "1p+pb5": {
     "message": "fee recipient"
@@ -265,7 +265,7 @@
     "message": "excess balance withdrawal"
   },
   "2rflCq": {
-    "message": "Client diversity is extremely important for the network health of Ethereum: A bug in a client with a share of over 33% can cause Ethereum to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
+    "message": "Client diversity is extremely important for the network health of Stratis: A bug in a client with a share of over 33% can cause Stratis to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
   },
   "2t/3ab": {
     "message": "The other file you just generated is {depositDataJson}. This file contains the public key(s) associated with your validator(s); You will need to upload this in the next step."
@@ -298,10 +298,10 @@
     "message": "Command line with flags"
   },
   "3NHygY": {
-    "message": "Testing on Goerli"
+    "message": "Testing on Auroria"
   },
   "3ODqP9": {
-    "message": "Depositing more than {pricePerValidator} ETH to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} ETH, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} ETH increments, each with its own set of keys and balance."
+    "message": "Depositing more than {pricePerValidator} STRAX to a single set of keys does not increase rewards potential, nor does accumulating rewards above {pricePerValidator} ETH, as each validator is limited to an {effectiveBalance} of {pricePerValidator}. This means that staking is done in {pricePerValidator} STRAX increments, each with its own set of keys and balance."
   },
   "3PbtmF": {
     "message": "Check the whole address, not just a portion of it. There could be just a few bytes different."
@@ -313,10 +313,10 @@
     "message": "Top-up transaction"
   },
   "3SOKyg": {
-    "message": "These terminology updates only change naming conventions; this does not alter Ethereum's goals or roadmap."
+    "message": "These terminology updates only change naming conventions; this does not alter Stratis's goals or roadmap."
   },
   "3URRZK": {
-    "message": "Geth on Goerli documentation"
+    "message": "Geth on Auroria documentation"
   },
   "3aykgN": {
     "message": "Your validator will also receives unburnt gas fees when proposing blocks. Validators are chosen randomly by the protocol to propose blocks, and only one validator can propose a block for each 12-second slot. There are 7200 slots each day, so each validator has 7200 chances-per-day to propose a block. If there are 500,000 validators, each validator will {average} a block proposal every 70 days."
@@ -347,7 +347,7 @@
     "message": "Start by setting up your chosen hardware and operating system."
   },
   "4QNsja": {
-    "message": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of ETH staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
+    "message": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STRAX staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
   },
   "4hb+GK": {
     "message": "Withdrawal address"
@@ -429,7 +429,7 @@
     "message": "You're joining a network in its early stages. As with any new piece of software, there is the potential for software bugs. While unlikely, potential bugs may result in slashing."
   },
   "6vdHjj": {
-    "message": "{withdrawalCredentials} is a 32-byte field associated with every validator, initially set during deposit, for verifying the destination of valid withdrawals. Currently, there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution (Ethereum address) credentials (Type 1, or {type1})."
+    "message": "{withdrawalCredentials} is a 32-byte field associated with every validator, initially set during deposit, for verifying the destination of valid withdrawals. Currently, there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution (Stratis address) credentials (Type 1, or {type1})."
   },
   "7+Domh": {
     "message": "Notes"
@@ -515,8 +515,8 @@
     "message": "Spanish"
   },
   "8XQmxX": {
-    "description": "{goerli} shows '--chain goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "description": "{auroria} shows '--chain auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "8boRAk": {
     "message": "slashings"
@@ -543,7 +543,7 @@
     "message": "Signal your intent to exit staking by signing and broadcasting a voluntary exit message to the network using your validator keys and validator client"
   },
   "8wd0q5": {
-    "message": "An Ethereum client designed to be enterprise-friendly for both public and private, permissioned network use cases."
+    "message": "An Stratis client designed to be enterprise-friendly for both public and private, permissioned network use cases."
   },
   "8yom7x": {
     "message": "Run the Wagyu Key Gen app from withing Applications by right clicking and clicking Open. You will get a warning stating macOS cannot verify the developer of “Wagyu Key Gen.app”. Are you sure you want to open it?. Click Open and the app will open."
@@ -558,7 +558,7 @@
     "message": "For security, we recommend you disconnect from the internet to complete this step."
   },
   "9DZdsc": {
-    "message": "Is there any advantage to having more than {pricePerValidator} ETH at stake?"
+    "message": "Is there any advantage to having more than {pricePerValidator} STRAX at stake?"
   },
   "9JktQX": {
     "message": "There is no easy answer to this question as there are many factors that go into this calculation."
@@ -634,7 +634,7 @@
     "message": "Also be sure you understand how staking withdrawals work before setting up your keys and deposit data."
   },
   "AJD+66": {
-    "message": "The Ethereum staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted."
+    "message": "The Stratis staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted."
   },
   "ATwOPg": {
     "message": "execution client"
@@ -650,7 +650,7 @@
   },
   "Ad61gz": {
     "description": "{url} is link to GitHub CLI release, made bold for emphasis",
-    "message": "Please make sure that you are downloading from the official Ethereum Foundation GitHub account by verifying the url: {url}"
+    "message": "Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: {url}"
   },
   "Affixg": {
     "message": "The deposit"
@@ -747,7 +747,7 @@
     "message": "Your wallet is on the wrong network. Switch to {executionLayerName}"
   },
   "Cacfkx": {
-    "message": "More on the Ethereum vision"
+    "message": "More on the Stratis vision"
   },
   "CdKEd/": {
     "description": "{strongText} is a warning, bolded for emphasis",
@@ -770,7 +770,7 @@
     "message": "Current APR"
   },
   "D4cQV/": {
-    "message": "How much ETH do I need to stake to become a validator?"
+    "message": "How much STRAX do I need to stake to become a validator?"
   },
   "DCaq7N": {
     "message": "Your wallet is connected to the right network!"
@@ -806,7 +806,7 @@
     "message": "The clients support Prometheus and Grafana to help you visualize important real-time metrics about your validator."
   },
   "DoCZT1": {
-    "description": "{minTopupValue} is a number, and {TICKER_NAME} is either ETH or GöETH depending on network",
+    "description": "{minTopupValue} is a number, and {TICKER_NAME} is either STRAX or GöETH depending on network",
     "message": "Validator effective balance is currently maxed out. If desired, you may add {minTopupValue} {TICKER_NAME} (the minimum allowed by the deposit contract)"
   },
   "DsJ/Mk": {
@@ -836,7 +836,7 @@
     "message": "I've simulated power loss (server and internet) and automatic resumption."
   },
   "ER2q1V": {
-    "message": "The Merge upgrade officially brought proof-of-stake to Ethereum on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
+    "message": "The Merge upgrade officially brought proof-of-stake to Stratis on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
   },
   "ETJ2T5": {
     "message": "If you have questions about deposit-cli, please visit the GitHub repository."
@@ -848,7 +848,7 @@
     "message": "This is a test network ⚠️"
   },
   "EXt8Xd": {
-    "message": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Ethereum address that you're used to."
+    "message": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Stratis address that you're used to."
   },
   "EcCME0": {
     "message": "Staking Launchpad"
@@ -894,7 +894,7 @@
     "message": "A {validatorClient} is the software that acts on behalf of the validator by holding and using its private key to make attestations about the state of the chain. A single validator client can hold many key pairs, controlling many validators."
   },
   "FfLWt5": {
-    "message": "An Ethereum client with a huge pool of developers. It's perfect for enterprise-grade systems."
+    "message": "An Stratis client with a huge pool of developers. It's perfect for enterprise-grade systems."
   },
   "FgraU0": {
     "message": "Step 1: Download the deposit command line interface app for your operating system"
@@ -933,7 +933,7 @@
     "message": "How badly will I be penalized for being offline?"
   },
   "GTkW7D": {
-    "message": "It is not possible to manually request specific amounts of ETH to be withdrawn"
+    "message": "It is not possible to manually request specific amounts of STRAX to be withdrawn"
   },
   "GUDhpC": {
     "message": "Section 1"
@@ -1012,7 +1012,7 @@
     "message": "Can I change the withdrawal credentials of my validator after the first deposit?"
   },
   "I7MjRD": {
-    "message": "Formerly TurboGeth, Erigon is an Ethereum client built to enable performance optimizations."
+    "message": "Formerly TurboGeth, Erigon is an Stratis client built to enable performance optimizations."
   },
   "ID3Pgm": {
     "message": "Maximum number of withdrawals that can be processed in a single block"
@@ -1083,7 +1083,7 @@
     "message": "Resource usage can vary significantly between clients. Research the different clients if you're working with resource constraints."
   },
   "Jrg1Me": {
-    "message": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Ethereum while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
+    "message": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Stratis while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
   },
   "Js4uuA": {
     "message": "effective balance"
@@ -1125,7 +1125,7 @@
     "message": "I've installed the {latestRelease} of my consensus client."
   },
   "KJ7R/V": {
-    "message": "The Ethereum consensus layer specification"
+    "message": "The Stratis consensus layer specification"
   },
   "KN7zKn": {
     "message": "Error"
@@ -1182,14 +1182,14 @@
     "message": "Validator FAQs"
   },
   "LibVut": {
-    "description": "{goerli} shows '--config goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "description": "{auroria} shows '--config auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "Ljo9dF": {
     "message": "Bulgarian"
   },
   "LlClXS": {
-    "message": "Thank you for supporting the Ethereum network!"
+    "message": "Thank you for supporting the Stratis network!"
   },
   "LpnfTF": {
     "message": "Lodestar installation documentation"
@@ -1202,7 +1202,7 @@
     "message": "Your initial deposit has already been made for this validator public key. Please wait and check the status of your deposit on the Beaconchain data provider."
   },
   "Lv57+8": {
-    "message": "Ethereum is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Ethereum, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their ETH and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+    "message": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
   },
   "LwEHRm": {
     "message": "Why do I need to run an execution client now?"
@@ -1235,7 +1235,7 @@
     "message": "The upgrades"
   },
   "MZzOnU": {
-    "message": "How is Ethereum scaling?"
+    "message": "How is Stratis scaling?"
   },
   "MaZo9k": {
     "message": "Wagyu Key Gen GUI"
@@ -1247,13 +1247,13 @@
     "message": "This can be summarized to estimate the upper limit of how long a complete sweep takes depending on how many withdrawals need processing:"
   },
   "MbsAo3": {
-    "message": "This launchpad will help you become a validator, so you can play an active part in Ethereum's future. Validators are key to the more secure, scalable, and sustainable Ethereum we're building together."
+    "message": "This launchpad will help you become a validator, so you can play an active part in Stratis's future. Validators are key to the more secure, scalable, and sustainable Stratis we're building together."
   },
   "Mc8nNE": {
     "message": "Transaction failed"
   },
   "Mlc7Vr": {
-    "message": "The Ethereum upgrades will only be successful if validators understand the risks and responsibilities."
+    "message": "The Stratis upgrades will only be successful if validators understand the risks and responsibilities."
   },
   "MmZjeu": {
     "message": "Top-up details"
@@ -1310,7 +1310,7 @@
     "message": "Mainnet"
   },
   "NatYUJ": {
-    "message": "Learn more about the roles and responsibilities of Ethereum validators."
+    "message": "Learn more about the roles and responsibilities of Stratis validators."
   },
   "Nb5DNK": {
     "message": "Become a validator with Teku"
@@ -1334,10 +1334,10 @@
     "message": "Total number of validator accounts (index count, every validator account ever registered, up-only over time)"
   },
   "OBmVqN": {
-    "message": "Hyperledger Besu is an open-source Ethereum client developed under the Apache 2.0 license and written in Java."
+    "message": "Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java."
   },
   "OCl7KQ": {
-    "message": "Like all Ethereum transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
+    "message": "Like all Stratis transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
   },
   "OIvXIO": {
     "message": "Complete remaining {remainingTxCount} deposits"
@@ -1367,13 +1367,13 @@
     "message": "Everything you should understand before becoming a validator."
   },
   "Ox4e26": {
-    "message": "Similarly, there is also an {exitQueue}, which limits how quickly validators can {leave} the network. This is for security reasons. Given each validator is limited to a max effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the ETH from potentially being used in an attack and then quickly exiting from the network all at once."
+    "message": "Similarly, there is also an {exitQueue}, which limits how quickly validators can {leave} the network. This is for security reasons. Given each validator is limited to a max effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, this prevents large portions of the STRAX from potentially being used in an attack and then quickly exiting from the network all at once."
   },
   "P+nziG": {
     "message": "As a validator, you'll need to have funds at stake so you can be penalized for behaving dishonestly."
   },
   "P/Oh91": {
-    "message": "Phishing is a very real risk for Ethereum validators and, unfortunately, many people will lose funds due to these attacks."
+    "message": "Phishing is a very real risk for Stratis validators and, unfortunately, many people will lose funds due to these attacks."
   },
   "P1QerV": {
     "description": "{discord} and {reddit} are links to EthStaker forums on Discord and Reddit respectively",
@@ -1401,8 +1401,8 @@
     "message": "Formal verification report"
   },
   "PmrcLE": {
-    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Goerli",
-    "message": "Nethermind on Goerli documentation"
+    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Auroria",
+    "message": "Nethermind on Auroria documentation"
   },
   "PoBIK+": {
     "message": "You'll need SSD storage to consistently handle necessary read/write speeds."
@@ -1423,7 +1423,7 @@
     "message": "clipboard"
   },
   "Q6N+C6": {
-    "message": "Ethereum had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
+    "message": "Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
   },
   "Q8P0rZ": {
     "message": "Validators have a maximum effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}. You only need to top up {maxTopupValue} {TICKER_NAME} to max out your effective balance."
@@ -1556,7 +1556,7 @@
     "message": "Exit queue summary"
   },
   "Sv30z9": {
-    "message": "If you’re preparing to make a deposit to activate a new validator, you can (and should) provide a withdrawal address with your initial deposit. This is done at time of key generation, and is then included in your deposit data json file {depositData} which is submitted with your 32 ETH deposit transaction."
+    "message": "If you’re preparing to make a deposit to activate a new validator, you can (and should) provide a withdrawal address with your initial deposit. This is done at time of key generation, and is then included in your deposit data json file {depositData} which is submitted with your 32 STRAX deposit transaction."
   },
   "Sy5bAo": {
     "message": "With the transition to proof-of-stake complete via The Merge, validators are now responsible for processing transactions and signing off on their validity. This data is {not} available from popular third-party sources as of The Merge. Using a third-party provider will result in your validator being offline. When Danksharding is implemented, validators may also be at risk of slashing under the {pocGame}."
@@ -1568,7 +1568,7 @@
     "message": "initial and maximum"
   },
   "THIzw6": {
-    "message": "Validators and Ethereum"
+    "message": "Validators and Stratis"
   },
   "TKCr16": {
     "message": "This full withdraw of funds requires that a withdrawal address be set, and will be automatically transferred in the next validator sweep."
@@ -1577,7 +1577,7 @@
     "message": "Visit this site on desktop to become a validator."
   },
   "TZtYuA": {
-    "message": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Ethereum networks; there is only Ethereum."
+    "message": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Stratis networks; there is only Stratis."
   },
   "TfNuWP": {
     "message": "virtualenv would help you to create an isolated Python environment for deposit-cli tool."
@@ -1602,7 +1602,7 @@
     "message": "Check {etherscan} for more details"
   },
   "UWv7yD": {
-    "message": "Check the deposit contract on your favorite Ethereum block explorer:"
+    "message": "Check the deposit contract on your favorite Stratis block explorer:"
   },
   "UYRyWv": {
     "message": "Mechanics of withdrawals: How they work"
@@ -1627,7 +1627,7 @@
     "message": "Being offline at the same time as more than 1/3 of the total number of validators leads to harsher penalties, since blocks do not finalize anymore. {strongText}"
   },
   "UygdAl": {
-    "message": "One of the three original implementations of the Ethereum protocol."
+    "message": "One of the three original implementations of the Stratis protocol."
   },
   "UykRIk": {
     "message": "Becoming a validator is a big responsibility with important preparation steps. Only start the deposit process when you're ready."
@@ -1651,7 +1651,7 @@
     "message": "{PRICE_PER_VALIDATOR} {TICKER_NAME} is the maximum effective validator balance. This means you won't earn more rewards if your validator's balance goes above {PRICE_PER_VALIDATOR}. However you will earn less if it dips below {PRICE_PER_VALIDATOR}."
   },
   "VSSmNp": {
-    "message": "In other words: if the total amount of ETH staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
+    "message": "In other words: if the total amount of STRAX staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
   },
   "VUuZsb": {
     "message": "martial arts uniform"
@@ -1732,11 +1732,11 @@
     "message": "Once an execution address has been provided by signing the BLS To Execution Change message, the withdrawal keys derived from your validator mnemonic are no longer utilized. Therefore, providing an execution address that you control as early as possible is the recommended option for most users, and is the default path for those who join via this site's onboarding process. This protects you against permanent loss of all funds in the event you are unable to recover your mnemonic and withdrawal keys."
   },
   "XRxD8r": {
-    "description": "Link to documentation about execution client Besu, specifically for Goerli testnet",
-    "message": "Besu on Goerli documentation"
+    "description": "Link to documentation about execution client Besu, specifically for Auroria testnet",
+    "message": "Besu on Auroria documentation"
   },
   "XVRQoq": {
-    "message": "Since the Merge, third-party providers (such as Infura and Alchemy) are no longer viable options to outsource execution layer responsibilities. All stakers must run both an execution and a consensus client to properly attest to the network."
+    "message": "All stakers must run both an execution and a consensus client to properly attest to the network."
   },
   "XVehvN": {
     "description": "{filesPattern} refers to a computer command which will find {keyFile} and\n                {passwordFile} - both files within a computer.",
@@ -1778,7 +1778,7 @@
     "message": "Keys"
   },
   "YJI2xv": {
-    "message": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has ETH that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
+    "message": "A decision tree is followed to determine what type of withdrawal will be initiated. If the validator being checked has STRAX that is eligible to be withdrawn, it is added to the withdrawal queue. If there isn’t, the account is skipped."
   },
   "YP03/j": {
     "message": "Afterwards, validators are still encouraged to join (the more validators the more decentralized the network), but it’s not absolutely essential that they do so (so the interest rate can fall)."
@@ -1890,7 +1890,7 @@
     "message": "Build deposit-cli from the Python source code"
   },
   "b3J7Pw": {
-    "message": "No. There is no advantage to having more than {pricePerValidator} ETH staked."
+    "message": "No. There is no advantage to having more than {pricePerValidator} STRAX staked."
   },
   "b8APBK": {
     "message": "More on client diversity"
@@ -1914,7 +1914,7 @@
     "message": "Be sure to account for enough space on your drive until you run maintenance on your node."
   },
   "bagKCF": {
-    "message": "If you've already provided an Ethereum withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
+    "message": "If you've already provided an Stratis withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
   },
   "bbr+aD": {
     "message": "The YAML files can have different syntaxes."
@@ -1944,7 +1944,7 @@
     "message": "What is a validator client?"
   },
   "cD0jre": {
-    "message": "Do not deposit more than {PRICE_PER_VALIDATOR} ETH for a single validator—it will not add to your rewards."
+    "message": "Do not deposit more than {PRICE_PER_VALIDATOR} STRAX for a single validator—it will not add to your rewards."
   },
   "cE71F9": {
     "message": "[Example: {fork}]"
@@ -1959,13 +1959,13 @@
     "message": "Check your favorite Beacon Chain block explorer:"
   },
   "cPsIkp": {
-    "message": "Become a validator and help secure the future of Ethereum."
+    "message": "Become a validator and help secure the future of Stratis."
   },
   "cRzxes": {
     "message": "Current APR"
   },
   "cU/ZP6": {
-    "message": "Ethereum uses proof-of-stake to reach consensus."
+    "message": "Stratis uses proof-of-stake to reach consensus."
   },
   "cav520": {
     "message": "Download from GitHub"
@@ -2007,7 +2007,7 @@
     "message": "Deposit"
   },
   "dJMce5": {
-    "message": "Prysm is a Go consensus client implementation of the Ethereum protocol with a focus on usability, security, and reliability."
+    "message": "Prysm is a Go consensus client implementation of the Stratis protocol with a focus on usability, security, and reliability."
   },
   "dLE9FH": {
     "message": "If not, no withdrawal will be processed and account skipped"
@@ -2034,7 +2034,7 @@
     "message": "Setup"
   },
   "dwahMV": {
-    "message": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Ethereum address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
+    "message": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Stratis address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
   },
   "dzdAcD": {
     "message": "Default Port"
@@ -2086,7 +2086,7 @@
     "message": "Previously a Beacon Node (consensus layer) only had to watch the staking deposit contract on the execution layer in order to know which validator accounts had deposited {pricePerValidator} ETH. This information was easily served by and obtained from third-party providers such as Infura or Alchemy."
   },
   "fHLKXR": {
-    "message": "The answer to this question very much depends on how much ETH you have at your disposal."
+    "message": "The answer to this question very much depends on how much STRAX you have at your disposal."
   },
   "fQ5yno": {
     "message": "Arabic"
@@ -2137,10 +2137,10 @@
     "message": "Validators still need to complete their validation duties until they are exited"
   },
   "gN9D/h": {
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "gQkd2y": {
-    "message": "Generate deposit keys using the Ethereum Foundation deposit tool"
+    "message": "Generate deposit keys using the Stratis deposit tool"
   },
   "gVC0Wl": {
     "message": "It uses the assisted password in your secrets folder."
@@ -2211,7 +2211,7 @@
     "message": "More on effective balance"
   },
   "hlxt3T": {
-    "message": "Limiting the maximum stake to {pricePerValidator} ETH per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of ETH that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
+    "message": "Limiting the maximum stake to {pricePerValidator} STRAX per validator encourages decentralization of power as it prevents any single validator from having an excessively large vote on the state of the chain. It also limits the amount of STRAX that can be exited from staking at any given time, as the number of validator that can exit in a given time period is limited. This helps protect the network against certain attacks."
   },
   "hrJ1oM": {
     "message": "You can signal your intent to stop validating by signing a voluntary exit message with your validator at any time."
@@ -2233,7 +2233,7 @@
     "message": "Clients"
   },
   "iFWLYC": {
-    "message": "You can think of the deposit contract as a transfer of funds from an Ethereum account to a proof-of-stake validator account."
+    "message": "You can think of the deposit contract as a transfer of funds from an Stratis account to a proof-of-stake validator account."
   },
   "iJXdUH": {
     "message": "docs"
@@ -2245,7 +2245,7 @@
     "message": "Running the validator client"
   },
   "iN1PPs": {
-    "message": "Each {pricePerValidator} ETH deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the ETH requirement, the more resulting signatures must be saved by the network. {pricePerValidator} ETH was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
+    "message": "Each {pricePerValidator} STRAX deposit activates one set of validator keys. These keys are used to sign off on the state of the network. The lower the STRAX requirement, the more resulting signatures must be saved by the network. {pricePerValidator} STRAX was chosen as a balance between enabling as many people as possible to stake without inhibiting decentralization by bloating the size of each block with signatures."
   },
   "iX90gu": {
     "message": "I've joined my execution client's Discord server."
@@ -2273,7 +2273,7 @@
     "message": "Number of empty slots (missed block opportunities, variable, typically minimal)"
   },
   "iqJ3LM": {
-    "message": "PegaSys Teku is a Java-based Ethereum consensus client built to meet institutional needs and security requirements."
+    "message": "PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements."
   },
   "iqy/7c": {
     "message": "To enable your Beacon Chain validator(s) to automatically withdraw balances to your {executionAddress}, you can use the staking deposit CLI tool to generate the signed “BLS To Execution Change” ({signed}) message JSON file. This message includes the request to change your old BLS withdrawal credentials to the new withdrawal credentials in execution address format."
@@ -2288,13 +2288,13 @@
     "message": "A withdrawal address has not been set for these validators. Staked funds and rewards will remain locked until withdrawal credentials are provided."
   },
   "j8GPOH": {
-    "message": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Ethereum platform."
+    "message": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Stratis platform."
   },
   "jBr8vs": {
     "message": "The execution address for withdrawals"
   },
   "jVlgXS": {
-    "message": "Dig deeper into the Ethereum roadmap."
+    "message": "Dig deeper into the Stratis roadmap."
   },
   "jXer8/": {
     "message": "Prysm documentation"
@@ -2346,7 +2346,7 @@
     "message": "View Wagyu Key Gen audit by HashCloak"
   },
   "k4x6Ud": {
-    "message": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Ethereum chain of today."
+    "message": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Stratis chain of today."
   },
   "k67L48": {
     "message": "Install dependencies:"
@@ -2367,7 +2367,7 @@
     "message": "Time to complete"
   },
   "kSt9db": {
-    "message": "As of the Shanghai/Capella upgrade withdrawals have been enabled on the Beacon Chain, with the inclusion of {eip}. This Ethereum Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
+    "message": "As of the Shanghai/Capella upgrade withdrawals have been enabled on the Beacon Chain, with the inclusion of {eip}. This Stratis Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
   },
   "kTt/ND": {
     "message": "Russian"
@@ -2451,7 +2451,7 @@
     "message": "Upload the deposit data file you just generated. The {json} is located in your {validatorKeys} directory."
   },
   "lfHCV+": {
-    "message": "Nimbus is a research project and a consensus client implementation for Ethereum designed to perform well on embedded systems and personal mobile devices."
+    "message": "Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices."
   },
   "lfV1bj": {
     "message": "Importing from Launchpad documentation"
@@ -2472,10 +2472,10 @@
     "message": "Hard drive"
   },
   "mH6bSl": {
-    "message": "Since the successful transition to proof-of-stake via The Merge, Ethereum is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Ethereum network."
+    "message": "Since the successful transition to proof-of-stake via The Merge, Stratis is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Stratis network."
   },
   "mROPz+": {
-    "message": "I provided an Ethereum address when generating my {depositData} file before depositing where I would like all validator rewards and withdrawals to be deposited into."
+    "message": "I provided an Stratis address when generating my {depositData} file before depositing where I would like all validator rewards and withdrawals to be deposited into."
   },
   "mUZnem": {
     "message": "We strongly recommend you go through the entire process on a testnet first to get comfortable before risking real ETH."
@@ -2487,7 +2487,7 @@
     "message": "Validators"
   },
   "mc27Pv": {
-    "message": "A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Ethereum network."
+    "message": "A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Stratis network."
   },
   "mcyp2f": {
     "message": "More on frequency of payouts below."
@@ -2502,7 +2502,7 @@
     "message": "All stakers must operate an execution client with their consensus client."
   },
   "mm+OKT": {
-    "message": "The Ethereum roadmap"
+    "message": "The Stratis roadmap"
   },
   "mpmFDY": {
     "message": "No pending deposits"
@@ -2547,7 +2547,7 @@
     "message": "Enabling withdrawals"
   },
   "naZC3k": {
-    "message": "Your ETH address"
+    "message": "Your STRAX address"
   },
   "ndhFef": {
     "message": "Once you're comfortable, you'll go through generating your keys and depositing your ETH."
@@ -2581,7 +2581,7 @@
     "message": "Withdrawals enabled"
   },
   "oDObOQ": {
-    "message": "If the “eth1 withdrawal address” was not provided on initial deposit, you can submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your desired Ethereum withdrawal address. This address can only be provided once, and cannot be changed again."
+    "message": "If the “eth1 withdrawal address” was not provided on initial deposit, you can submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your desired Stratis withdrawal address. This address can only be provided once, and cannot be changed again."
   },
   "oF4os+": {
     "message": "Currently Prysm is used by >33% of the network."
@@ -2641,11 +2641,11 @@
     "message": "An error occurred"
   },
   "ozEkVY": {
-    "description": "{goerli} shows '--network=goerli' terminal command",
-    "message": "Use {goerli} to sync the Goerli testnet."
+    "description": "{auroria} shows '--network=auroria' terminal command",
+    "message": "Use {auroria} to sync the Auroria testnet."
   },
   "p+kDTB": {
-    "message": "Ethereum users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
+    "message": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
   },
   "p0b6zX": {
     "message": "More on Status"
@@ -2660,7 +2660,7 @@
     "message": "If you'd like to see the launchpad in another language, or if you can help translate, {getInTouch}!"
   },
   "pGnk/z": {
-    "message": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of ETH roughly equivalent to the amount of ETH you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
+    "message": "Yes, but with small penalties. If you go offline for a number of days under normal conditions you will lose an amount of STRAX roughly equivalent to the amount of STRAX you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalized ≈0.01 ETH."
   },
   "pHQwsN": {
     "message": "Launch the app from your desktop environment by double clicking on it."
@@ -2703,7 +2703,7 @@
     "message": "As a validator you are rewarded for proposing/attesting to blocks that are included in the chain."
   },
   "q8Cxf5": {
-    "message": "BLS credentials: By default, the deposit CLI would generate withdrawal credentials with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible with Beacon Chain withdrawals and must be updated to Ethereum address credentials to enable withdrawals."
+    "message": "BLS credentials: By default, the deposit CLI would generate withdrawal credentials with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible with Beacon Chain withdrawals and must be updated to Stratis address credentials to enable withdrawals."
   },
   "qB6aU6": {
     "message": "What happened to 'Eth2?'"
@@ -2791,7 +2791,7 @@
     "message": "Teku can also be configured via a YAML file which is passed in via a few different ways."
   },
   "sMHQRT": {
-    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Ethereum Foundation, Consensys, and private individuals."
+    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis, Consensys, and private individuals."
   },
   "sNUrEO": {
     "message": "If not, I've submitted a {btec} message signed with my BLS withdrawal keys to update my withdrawal credentials."
@@ -2870,7 +2870,7 @@
     "message": "Status"
   },
   "u/3saa": {
-    "message": "Your wallet is on the wrong Ethereum network. To continue, connect to {executionLayerName}."
+    "message": "Your wallet is on the wrong Stratis network. To continue, connect to {executionLayerName}."
   },
   "u28qA1": {
     "message": "After depositing"
@@ -2891,7 +2891,7 @@
     "message": "Execution credentials: If you want to withdraw to your execution wallet address you can set an “eth1 withdrawal address” using {ethAddressWithdraw} when running the deposit CLI. {boldWarning}"
   },
   "uHSqYx": {
-    "message": "An {excessBalanceWithdrawal} is processed when an active validator has a maxed out effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}. A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have any extra balance automatically withdrawn to their Ethereum address."
+    "message": "An {excessBalanceWithdrawal} is processed when an active validator has a maxed out effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}. A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have any extra balance automatically withdrawn to their Stratis address."
   },
   "uJzGSb": {
     "message": "Make sure you're aware of how to avoid phishing attacks. We've prepared a list of things to look out for."
@@ -2924,14 +2924,14 @@
     "message": "Become a validator with Nimbus"
   },
   "up+5YH": {
-    "description": "Asks users to check deposit contract address against a block explorer and confirm 32 ETH deposits are present",
+    "description": "Asks users to check deposit contract address against a block explorer and confirm 32 STRAX deposits are present",
     "message": "Are there recent {ethAmount} deposits?"
   },
   "vBJ79e": {
     "message": "I've simulated how to safely migrate from one execution client to another."
   },
   "vBOf5K": {
-    "message": "Your balance is updated periodically by the Ethereum network rules as you carry (or fail to carry) out your responsibilities."
+    "message": "Your balance is updated periodically by the Stratis network rules as you carry (or fail to carry) out your responsibilities."
   },
   "vCHTnu": {
     "message": "Withdrawal credentials"
@@ -2940,7 +2940,7 @@
     "message": "Protect your funds using monitoring software, and learn how to handle different real world scenarios."
   },
   "vIF140": {
-    "message": "Become a validator and help secure the future of Ethereum"
+    "message": "Become a validator and help secure the future of Stratis"
   },
   "vJez0K": {
     "message": "Proceed with caution. Our on-chain data source is down and we are unable to flag any double deposits."
@@ -3002,17 +3002,17 @@
     "message": "Testnet simulations"
   },
   "x0tVK4": {
-    "message": "Validating in Ethereum is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
+    "message": "Validating in Stratis is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
   },
   "x4/9vY": {
     "message": "We strongly recommended you complete these steps on the current testnet before Mainnet."
   },
   "xDyl3T": {
-    "description": "{ethereumorg} is a link to deposit contract page on ethereum.org",
+    "description": "{ethereumorg} is a link to deposit contract page on stratisevm.com",
     "message": "Cross check the deposit contract address against other websites – for example: Reddit, Twitter, and GitHub. There's also a list of trusted sources on {ethereumorg}"
   },
   "xETYo6": {
-    "message": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Ethereum (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
+    "message": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Stratis (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
   },
   "xGQ38+": {
     "message": "Has the validator completed the exiting process?"
@@ -3030,7 +3030,7 @@
     "message": "Please review the staking checklist prior to proceeding. Use this as a guide to check off tasks as you complete validator setup."
   },
   "xSvJIi": {
-    "message": "Block rewards are calculated using a sliding scale based on the total amount of ETH staked on the network."
+    "message": "Block rewards are calculated using a sliding scale based on the total amount of STRAX staked on the network."
   },
   "xXKkhR": {
     "message": "I've installed and synced my {network} execution client (do not wait on this as it can take several days)."
@@ -3045,7 +3045,7 @@
     "message": "Install python3.7+"
   },
   "xh7oVn": {
-    "message": "Those looking to exit their validator from staking and withdrawal their ETH should check out the guide below that matches your setup:"
+    "message": "Those looking to exit their validator from staking and withdrawal their STRAX should check out the guide below that matches your setup:"
   },
   "xm3Ivd": {
     "message": "This JSON file isn't for the right network. Upload a file generated for your current network: {consensusLayerName}."
@@ -3072,7 +3072,7 @@
     "message": "Your validator has its own balance, with the initial balance outlined in the deposit contract. Your rewards and penalties are reflected in your validator's balance over time."
   },
   "y44jV2": {
-    "message": "Several upgrades are underway that will make Ethereum more scalable, secure, and sustainable. These upgrades will improve Ethereum while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
+    "message": "Several upgrades are underway that will make Stratis more scalable, secure, and sustainable. These upgrades will improve Stratis while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
   },
   "y4dBsA": {
     "message": "Configure time sync"
@@ -3124,7 +3124,7 @@
     "message": "I've set up my {prometheus} service."
   },
   "z8zpxp": {
-    "message": "Lodestar is an open-sourced TypeScript implementation of the Ethereum Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Ethereum proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
+    "message": "Lodestar is an open-sourced TypeScript implementation of the Stratis Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Stratis proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
   },
   "zAVb0/": {
     "message": "More on Lighthouse and Sigma Prime"
@@ -3133,14 +3133,14 @@
     "message": "{stakingDepositCli}: if you used the “eth1 withdrawal address” ({eth1WithdrawalAddress}) flag when generating your keys, you're good to go"
   },
   "zGkAVo": {
-    "message": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra ETH required to get back to 32."
+    "message": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra STRAX required to get back to 32."
   },
   "zJicsO": {
     "message": "Staking economics"
   },
   "zbEBi9": {
     "description": "{mainnet} shows '--config mainnet' terminal command",
-    "message": "Use {mainnet} to sync the Ethereum mainnet."
+    "message": "Use {mainnet} to sync the Stratis mainnet."
   },
   "zicXn7": {
     "message": "Node security"

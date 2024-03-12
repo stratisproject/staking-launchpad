@@ -25,13 +25,6 @@ import {
 } from './pages';
 import ScrollToTop from './utils/ScrollToTop';
 import { Prysm } from './pages/Clients/Consensus/Prysm';
-import { Teku } from './pages/Clients/Consensus/Teku';
-import { Nimbus } from './pages/Clients/Consensus/Nimbus';
-import { Lighthouse } from './pages/Clients/Consensus/Lighthouse';
-import { Lodestar } from './pages/Clients/Consensus/Lodestar';
-import { Besu } from './pages/Clients/Execution/Besu';
-import { Nethermind } from './pages/Clients/Execution/Nethermind';
-import { Erigon } from './pages/Clients/Execution/Erigon';
 import { Geth } from './pages/Clients/Execution/Geth';
 
 type RouteType = {
@@ -108,15 +101,8 @@ const routes: RouteType[] = [
     component: TransactionsPage,
   },
   { path: routesEnum.FaqPage, exact: true, component: FAQ },
-  { path: routesEnum.besu, exact: true, component: Besu },
-  { path: routesEnum.erigon, exact: true, component: Erigon },
   { path: routesEnum.geth, exact: true, component: Geth },
-  { path: routesEnum.lighthouse, exact: true, component: Lighthouse },
-  { path: routesEnum.nethermind, exact: true, component: Nethermind },
-  { path: routesEnum.nimbus, exact: true, component: Nimbus },
   { path: routesEnum.prysm, exact: true, component: Prysm },
-  { path: routesEnum.teku, exact: true, component: Teku },
-  { path: routesEnum.lodestar, exact: true, component: Lodestar },
   { path: routesEnum.phishingPage, exact: true, component: Phishing },
   { path: routesEnum.checklistPage, exact: true, component: Checklist },
   { path: routesEnum.languagesPage, exact: true, component: Languages },
@@ -151,7 +137,7 @@ const _Routes = () => {
   const title = formatMessage({ defaultMessage: 'Staking Launchpad' });
   const description = formatMessage({
     defaultMessage:
-      'Become a validator and help secure the future of Ethereum.',
+      'Become a validator and help secure the future of Stratis.',
   });
   return (
     <>

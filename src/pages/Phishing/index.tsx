@@ -19,7 +19,7 @@ export const Phishing = () => {
     <PageTemplate title={formatMessage({ defaultMessage: 'Avoid phishing' })}>
       <Text className="mt10">
         <FormattedMessage
-          defaultMessage="Phishing is a very real risk for Ethereum validators and, unfortunately,
+          defaultMessage="Phishing is a very real risk for Stratis validators and, unfortunately,
         many people will lose funds due to these attacks."
         />
       </Text>
@@ -34,9 +34,9 @@ export const Phishing = () => {
                 defaultMessage="Does the site asking you for your {ethAmount} deposit have a URL you
                 expect?"
                 values={{
-                  ethAmount: `${PRICE_PER_VALIDATOR} ETH`,
+                  ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                 }}
-                description="{ethAmount} will generally refer to 32 ETH"
+                description="{ethAmount} will generally refer to 32 STRAX"
               />
             </Text>
           </li>
@@ -69,19 +69,19 @@ export const Phishing = () => {
                   ethereumorg: (
                     <Link
                       inline
-                      to="https://ethereum.org/en/staking/deposit-contract/"
+                      to="https://stratisevm.com/en/staking/deposit-contract/"
                     >
-                      ethereum.org
+                      stratisevm.com
                     </Link>
                   ),
                 }}
-                description="{ethereumorg} is a link to deposit contract page on ethereum.org"
+                description="{ethereumorg} is a link to deposit contract page on stratisevm.com"
               />
             </Text>
           </li>
           <li>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Ethereum block explorer:" />
+              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Stratis block explorer:" />
             </Text>
             <ul>
               <li>
@@ -89,9 +89,9 @@ export const Phishing = () => {
                   <FormattedMessage
                     defaultMessage="Are there recent {ethAmount} deposits?"
                     values={{
-                      ethAmount: `${PRICE_PER_VALIDATOR} ETH`,
+                      ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                     }}
-                    description="Asks users to check deposit contract address against a block explorer and confirm 32 ETH deposits are present"
+                    description="Asks users to check deposit contract address against a block explorer and confirm 32 STRAX deposits are present"
                   />
                 </Text>
               </li>

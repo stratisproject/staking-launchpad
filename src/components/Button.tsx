@@ -27,7 +27,7 @@ const StyledButton = styled(GrommetButton)`
   font-size: 18px;
   letter-spacing: 1.5px;
   background-color: ${p =>
-    p.primary ? p.theme.blue.dark : p.theme.gray.light};
+    p.primary ? p.theme.white: p.theme.gray.light};
   border: ${p => `1px solid ${p.theme.gray.medium}`};
   &:hover {
     border-radius: 4px;
@@ -41,8 +41,8 @@ const StyledButton = styled(GrommetButton)`
     // @ts-ignore
     p.rainbow &&
     `background-image: linear-gradient(to right, ${p.theme.rainbow});
-     color: ${p.theme.blue.dark};
-     border: 1px solid ${p.theme.blue.dark};
+     color: ${p.theme.white};
+     border: 1px solid ${p.theme.white};
    `}
 `;
 

@@ -9,7 +9,6 @@ import { Alert } from '../../components/Alert';
 import { Code } from '../../components/Code';
 import { NETWORK_NAME, TRANSLATE_CLI_FLAGS } from '../../utils/envVars';
 import { Button } from '../../components/Button';
-import githubScreenshot from '../../static/github-cli-screenshot.png';
 import { colors } from '../../styles/styledComponentsTheme';
 import useIntlNetworkName from '../../hooks/useIntlNetworkName';
 
@@ -21,11 +20,6 @@ const AlertIcon = styled(p => <GrommetAlert {...p} />)`
 const Pre = styled.pre`
   white-space: normal;
   direction: ltr;
-`;
-
-const GithubScreenshot = styled.img.attrs({ src: githubScreenshot })`
-  max-width: 925px;
-  width: 100%;
 `;
 
 export const Option1 = ({
@@ -50,7 +44,7 @@ export const Option1 = ({
       </Text>
       <Link
         isTextLink={false}
-        to="https://github.com/ethereum/staking-deposit-cli/releases/"
+        to="https://github.com/stratisproject/staking-deposit-cli/releases/"
         className="my40"
       >
         <Button
@@ -70,12 +64,11 @@ export const Option1 = ({
             style={{ wordBreak: 'break-word' }}
           >
             <FormattedMessage
-              defaultMessage="Please make sure that you are downloading from the official Ethereum
-              Foundation GitHub account by verifying the url: {url}"
+              defaultMessage="Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: {url}"
               values={{
                 url: (
                   <strong>
-                    https://github.com/ethereum/staking-deposit-cli/releases/
+                    https://github.com/stratisproject/staking-deposit-cli/releases
                   </strong>
                 ),
               }}
@@ -85,10 +78,8 @@ export const Option1 = ({
         </div>
       </Alert>
 
-      <GithubScreenshot />
-
       <Text weight={500} className="mt20">
-        <FormattedMessage defaultMessage="Step 2: Generate deposit keys using the Ethereum Foundation deposit tool" />
+        <FormattedMessage defaultMessage="Step 2: Generate deposit keys using the Stratis deposit tool" />
       </Text>
       <Alert className="my20" variant="info">
         <FormattedMessage defaultMessage="For security, we recommend you disconnect from the internet to complete this step." />

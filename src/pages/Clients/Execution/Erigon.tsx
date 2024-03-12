@@ -21,7 +21,7 @@ export const ErigonDetails = () => (
       Erigon
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="Formerly TurboGeth, Erigon is an Ethereum client built to enable performance optimizations." />
+      <FormattedMessage defaultMessage="Formerly TurboGeth, Erigon is an Stratis client built to enable performance optimizations." />
     </Text>
     <SectionTitle level={2} className="mb5">
       <FormattedMessage defaultMessage="Language information" />
@@ -57,15 +57,15 @@ export const ErigonDetails = () => (
             <FormattedMessage defaultMessage="Make sure you do the following to get your execution client working properly." />
           </Text>
           <Heading level={3} className="mt20">
-            <FormattedMessage defaultMessage="Testing on Goerli" />
+            <FormattedMessage defaultMessage="Testing on Auroria" />
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {goerli} to sync the Goerli testnet."
+              defaultMessage="Use {auroria} to sync the Auroria testnet."
               values={{
-                goerli: <Code className="mt20">--chain goerli</Code>,
+                auroria: <Code className="mt20">--chain auroria</Code>,
               }}
-              description="{goerli} shows '--chain goerli' terminal command"
+              description="{auroria} shows '--chain auroria' terminal command"
             />
           </Text>
           <Link

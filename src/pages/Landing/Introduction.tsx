@@ -2,11 +2,11 @@ import React from 'react';
 import styled from 'styled-components';
 import ScrollAnimation from 'react-animate-on-scroll';
 import { FormattedMessage } from 'react-intl';
-import EthDiamondPlain from '../../static/eth-diamond-plain.svg';
-import EthRound from '../../static/eth-round-landing.svg';
+import EthDiamondPlain from '../../static/stratis_logo.svg';
+import EthRound from '../../static/stratis_logo.svg';
 import { Text } from '../../components/Text';
 import { Heading } from '../../components/Heading';
-import { Link } from '../../components/Link';
+// import { Link } from '../../components/Link';
 
 const Container = styled.div`
   background: ${p => p.theme.white};
@@ -66,56 +66,56 @@ export const Introduction = (): JSX.Element => {
         <ContentContainer>
           <ScrollAnimation animateIn="fadeIn" animateOnce>
             <Heading level={2} size="medium" color="blueDark" margin="none">
-              <FormattedMessage defaultMessage="Validators and Ethereum" />
+              <FormattedMessage defaultMessage="Validators and Stratis" />
             </Heading>
           </ScrollAnimation>
           <ScrollAnimation animateIn="fadeInUp" animateOnce>
             <Text className="mt20">
               <FormattedMessage
                 defaultMessage="This launchpad will help you become a validator, so you can play
-                  an active part in Ethereum's future. Validators are key to the
-                  more secure, scalable, and sustainable Ethereum we're building
+                  an active part in Stratis's future. Validators are key to the
+                  more secure, scalable, and sustainable Stratis we're building
                   together."
               />
             </Text>
-            <Link
+            {/* <Link
               className="mt20 mb40"
-              to="https://ethereum.org/en/roadmap/vision/"
+              to="https://stratisevm.com/en/roadmap/vision/"
             >
-              <FormattedMessage defaultMessage="More on the Ethereum vision" />
-            </Link>
+              <FormattedMessage defaultMessage="More on the Stratis vision" />
+            </Link> */}
             <Text className="mt20">
               <FormattedMessage defaultMessage="By running a validator, you'll be responsible for securing the network and receive continuous payouts for actions that help the network reach consensus." />
             </Text>
             <Text className="mt20">
-              <FormattedMessage defaultMessage="Since the successful transition to proof-of-stake via The Merge, Ethereum is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Ethereum network." />
+              <FormattedMessage defaultMessage="Since the successful transition to proof-of-stake via The Merge, Stratis is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Stratis network." />
             </Text>
-            <Link
+            {/* <Link
               className="mt20"
-              to="https://ethereum.org/en/roadmap/beacon-chain/"
+              to="https://stratisevm.com/en/roadmap/beacon-chain/"
             >
               <FormattedMessage defaultMessage="More on the Beacon Chain" />
             </Link>
             <Link
               className="mt20 mb40"
-              to="https://ethereum.org/en/roadmap/merge/"
+              to="https://stratisevm.com/en/roadmap/merge/"
             >
               <FormattedMessage defaultMessage="More on the Merge" />
-            </Link>
+            </Link> */}
             <Text className="mt20">
               <FormattedMessage
-                defaultMessage="Validating in Ethereum is not the same as mining. The outcomes are
+                defaultMessage="Validating in Stratis is not the same as mining. The outcomes are
                   similar: the work you do will extend and secure the chain. But the
                   process is completely different because they use different
                   consensus mechanisms."
               />
             </Text>
-            <Link
+            {/* <Link
               className="mt20 mb40"
-              to="https://ethereum.org/en/developers/docs/consensus-mechanisms/"
+              to="https://stratisevm.com/en/developers/docs/consensus-mechanisms/"
             >
               <FormattedMessage defaultMessage="More on consensus mechanisms" />
-            </Link>
+            </Link> */}
             {/* NOTE: this section felt like there was a lot of repetition with the section below so have reframed to talk about validators in the context of the upgrades */}
           </ScrollAnimation>
         </ContentContainer>

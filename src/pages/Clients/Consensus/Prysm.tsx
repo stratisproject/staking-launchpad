@@ -9,15 +9,14 @@ import {
 import { PageTemplate } from '../../../components/PageTemplate';
 import { Text } from '../../../components/Text';
 import { Link } from '../../../components/Link';
-import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
-import { PRYSM_INSTALLATION_URL } from '../../../utils/envVars';
+// import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
 
 // eslint-disable-next-line no-unused-vars
 export const PrysmDetails = ({ shortened }: { shortened?: boolean }) => (
   <>
-    <ClientDiversityWarning>
+    {/* <ClientDiversityWarning>
       <FormattedMessage defaultMessage="Currently Prysm is used by >33% of the network." />
-    </ClientDiversityWarning>
+    </ClientDiversityWarning> */}
     <SectionTitle level={2} className="mb5">
       Prysm
     </SectionTitle>
@@ -47,7 +46,7 @@ export const PrysmDetails = ({ shortened }: { shortened?: boolean }) => (
             your deposit through the launchpad."
         />
       </Text>
-      <Link primary to={PRYSM_INSTALLATION_URL}>
+      <Link primary to="https://github.com/stratisproject/StratisEVM/blob/main/quickstart.md#step-3-run-a-beacon-node-using-prysm">
         <FormattedMessage defaultMessage="Prysm installation documentation" />
       </Link>
     </section>

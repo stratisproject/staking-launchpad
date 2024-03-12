@@ -26,7 +26,7 @@ export const pageContent = {
     content: (
       <>
         <Text size="medium" className="my10">
-          <FormattedMessage defaultMessage="Ethereum uses proof-of-stake to reach consensus." />
+          <FormattedMessage defaultMessage="Stratis uses proof-of-stake to reach consensus." />
         </Text>
         <Text size="medium" className="my10">
           <FormattedMessage
@@ -45,20 +45,20 @@ export const pageContent = {
             values={{ TICKER_NAME, NETWORK_NAME }}
           />
         </Text>
-        <Link
-          to="https://ethereum.org/en/roadmap/beacon-chain/"
+        {/* <Link
+          to="https://stratisevm.com/en/roadmap/beacon-chain/"
           className="my10"
           primary
         >
           <FormattedMessage defaultMessage="More on the Beacon Chain" />
         </Link>
         <Link
-          to="https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/"
+          to="https://stratisevm.com/en/developers/docs/consensus-mechanisms/pos/"
           className="my10"
           primary
         >
           <FormattedMessage defaultMessage="More on proof of stake" />
-        </Link>
+        </Link> */}
       </>
     ),
     acknowledgementText: (
@@ -78,7 +78,7 @@ export const pageContent = {
         </Text>
         <Text size="medium" className="my20">
           <FormattedMessage
-            defaultMessage="Like all Ethereum transactions, deposits are non-reversible, but
+            defaultMessage="Like all Stratis transactions, deposits are non-reversible, but
             the ability to withdrawal your funds via a separate process after depositing remains
             under your control."
           />
@@ -111,7 +111,7 @@ export const pageContent = {
           primary
           inline
         >
-          <FormattedMessage defaultMessage="More on Ethereum staking economics" />
+          <FormattedMessage defaultMessage="More on Stratis staking economics" />
         </Link>
       </>
     ),
@@ -132,13 +132,13 @@ export const pageContent = {
         <Text size="medium" className="my10">
           <FormattedMessage defaultMessage="*Simply being offline with an otherwise healthy network does not result in slashing, but will result in small inactivity penalties." />
         </Text>
-        <Link
+        {/* <Link
           to="https://github.com/ethereum/consensus-specs"
           className="my10"
           primary
         >
-          <FormattedMessage defaultMessage="The Ethereum consensus layer specification" />
-        </Link>
+          <FormattedMessage defaultMessage="The Stratis consensus layer specification" />
+        </Link> */}
         <Link shouldOpenNewTab to="/faq" className="my10" primary>
           <FormattedMessage defaultMessage="More on slashing risks" />
         </Link>
