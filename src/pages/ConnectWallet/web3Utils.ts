@@ -14,19 +14,21 @@ import {
 export enum NetworkChainId {
   'Mainnet' = 1,
   'Ropsten' = 3,
-  'Auroria' = 205205,
+  'Strax' = 105105,
   'Sepolia' = 11155111,
   'Zhejiang' = 1337803,
   'Holesky' = 17000,
+  'Auroria' = 205205,
 }
 
 export const NetworkChainIdDict: { [id: string]: number } = {
   Mainnet: 1,
   Ropsten: 3,
-  Auroria: 205205,
+  Strax: 105105,
   Sepolia: 11155111,
   Zhejiang: 1337803,
   Holesky: 17000,
+  Auroria: 205205,
 };
 
 /*
@@ -37,18 +39,20 @@ export const NetworkChainIdDict: { [id: string]: number } = {
 const supportedNetworks = [
   NetworkChainId.Mainnet,
   NetworkChainId.Ropsten,
-  NetworkChainId.Auroria,
+  NetworkChainId.Strax,
   NetworkChainId.Sepolia,
   NetworkChainId.Zhejiang,
   NetworkChainId.Holesky,
+  NetworkChainId.Auroria,
 ];
 
 enum Testnet {
   'Ropsten',
-  'Auroria',
+  'Strax',
   'Sepolia',
   'Zhejiang',
   'Holesky',
+  'Auroria',
 }
 
 enum Mainnet {
@@ -58,6 +62,7 @@ enum Mainnet {
 export const NetworkNameToChainId: { [key: string]: NetworkChainId } = {
   Mainnet: NetworkChainId.Mainnet,
   Ropsten: NetworkChainId.Ropsten,
+  Strax: NetworkChainId.Strax,
   Auroria: NetworkChainId.Auroria,
   Zhejiang: NetworkChainId.Zhejiang,
   Holesky: NetworkChainId.Holesky,
@@ -67,7 +72,7 @@ export const TARGET_NETWORK_CHAIN_ID = IS_MAINNET
   ? NetworkChainId.Mainnet
   : NetworkNameToChainId[TESTNET_LAUNCHPAD_NAME];
 
-export const IS_GOERLI = TARGET_NETWORK_CHAIN_ID === NetworkChainId.Auroria;
+export const IS_GOERLI = TARGET_NETWORK_CHAIN_ID === NetworkChainId.Strax;
 
 export const AllowedNetworks = IS_MAINNET ? Mainnet : Testnet;
 
