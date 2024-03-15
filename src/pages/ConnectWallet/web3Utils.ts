@@ -69,7 +69,7 @@ export const NetworkNameToChainId: { [key: string]: NetworkChainId } = {
 };
 
 export const TARGET_NETWORK_CHAIN_ID = IS_MAINNET
-  ? NetworkChainId.Mainnet
+  ? NetworkChainId.Strax
   : NetworkNameToChainId[TESTNET_LAUNCHPAD_NAME];
 
 export const IS_GOERLI = TARGET_NETWORK_CHAIN_ID === NetworkChainId.Auroria;
