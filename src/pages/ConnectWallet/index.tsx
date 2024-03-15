@@ -43,7 +43,6 @@ import {
   FAUCET_URL,
 } from '../../utils/envVars';
 import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowStep';
-import { MetamaskHardwareButton } from './MetamaskHardwareButton';
 import useIntlNetworkName from '../../hooks/useIntlNetworkName';
 
 // styled components
@@ -487,7 +486,7 @@ const _ConnectWalletPage = ({
                     error={walletProvider === fortmatic ? error : undefined}
                   />
                 )} */}
-                <MetamaskHardwareButton />
+                {/* <MetamaskHardwareButton /> */}
               </WalletButtonSubContainer>
             </Animated>
           </WalletButtonContainer>
