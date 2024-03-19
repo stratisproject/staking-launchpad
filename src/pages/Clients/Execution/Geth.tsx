@@ -63,7 +63,7 @@ export const GethDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {auroria} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Strax testnet."
               values={{
                 auroria: <Code className="mt20">--auroria</Code>,
               }}
@@ -73,7 +73,7 @@ export const GethDetails = () => (
             primary
             to="https://geth.stratisevm.com/docs/interface/command-line-options"
           >
-            <FormattedMessage defaultMessage="Geth on Auroria documentation" />
+            <FormattedMessage defaultMessage="Geth on Strax documentation" />
           </Link>
         </>
       )}

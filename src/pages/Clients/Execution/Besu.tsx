@@ -61,7 +61,7 @@ export const BesuDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {auroria} to sync the Auroria testnet."
+              defaultMessage="Use {auroria} to sync the Strax testnet."
               values={{
                 auroria: <Code className="mt20">--network=auroria</Code>,
               }}
@@ -74,8 +74,8 @@ export const BesuDetails = () => (
             className="mt20"
           >
             <FormattedMessage
-              defaultMessage="Besu on Auroria documentation"
-              description="Link to documentation about execution client Besu, specifically for Auroria testnet"
+              defaultMessage="Besu on Strax documentation"
+              description="Link to documentation about execution client Besu, specifically for Strax testnet"
             />
           </Link>
         </>

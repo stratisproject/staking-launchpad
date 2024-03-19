@@ -316,7 +316,7 @@
     "message": "These terminology updates only change naming conventions; this does not alter Stratis's goals or roadmap."
   },
   "3URRZK": {
-    "message": "Geth on Auroria documentation"
+    "message": "Geth on Strax documentation"
   },
   "3aykgN": {
     "message": "Your validator will also receives unburnt gas fees when proposing blocks. Validators are chosen randomly by the protocol to propose blocks, and only one validator can propose a block for each 12-second slot. There are 7200 slots each day, so each validator has 7200 chances-per-day to propose a block. If there are 500,000 validators, each validator will {average} a block proposal every 70 days."
@@ -515,8 +515,8 @@
     "message": "Spanish"
   },
   "8XQmxX": {
-    "description": "{auroria} shows '--chain auroria' terminal command",
-    "message": "Use {auroria} to sync the Auroria testnet."
+    "description": "{auroria} shows '--chain strax' terminal command",
+    "message": "Use {auroria} to sync the Strax testnet."
   },
   "8boRAk": {
     "message": "slashings"
@@ -1182,8 +1182,8 @@
     "message": "Validator FAQs"
   },
   "LibVut": {
-    "description": "{auroria} shows '--config auroria' terminal command",
-    "message": "Use {auroria} to sync the Auroria testnet."
+    "description": "{auroria} shows '--config strax' terminal command",
+    "message": "Use {auroria} to sync the Strax testnet."
   },
   "Ljo9dF": {
     "message": "Bulgarian"
@@ -1401,8 +1401,8 @@
     "message": "Formal verification report"
   },
   "PmrcLE": {
-    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Auroria",
-    "message": "Nethermind on Auroria documentation"
+    "description": "Links to the documentation for the execution client Nethermind, specifically for testnet Strax",
+    "message": "Nethermind on Strax documentation"
   },
   "PoBIK+": {
     "message": "You'll need SSD storage to consistently handle necessary read/write speeds."
@@ -1732,8 +1732,8 @@
     "message": "Once an execution address has been provided by signing the BLS To Execution Change message, the withdrawal keys derived from your validator mnemonic are no longer utilized. Therefore, providing an execution address that you control as early as possible is the recommended option for most users, and is the default path for those who join via this site's onboarding process. This protects you against permanent loss of all funds in the event you are unable to recover your mnemonic and withdrawal keys."
   },
   "XRxD8r": {
-    "description": "Link to documentation about execution client Besu, specifically for Auroria testnet",
-    "message": "Besu on Auroria documentation"
+    "description": "Link to documentation about execution client Besu, specifically for Strax testnet",
+    "message": "Besu on Strax documentation"
   },
   "XVRQoq": {
     "message": "All stakers must run both an execution and a consensus client to properly attest to the network."
@@ -2137,7 +2137,7 @@
     "message": "Validators still need to complete their validation duties until they are exited"
   },
   "gN9D/h": {
-    "message": "Use {auroria} to sync the Auroria testnet."
+    "message": "Use {auroria} to sync the Strax testnet."
   },
   "gQkd2y": {
     "message": "Generate deposit keys using the Stratis deposit tool"
@@ -2641,8 +2641,8 @@
     "message": "An error occurred"
   },
   "ozEkVY": {
-    "description": "{auroria} shows '--network=auroria' terminal command",
-    "message": "Use {auroria} to sync the Auroria testnet."
+    "description": "{auroria} shows '--network=strax' terminal command",
+    "message": "Use {auroria} to sync the Strax testnet."
   },
   "p+kDTB": {
     "message": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
