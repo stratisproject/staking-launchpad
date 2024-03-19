@@ -82,7 +82,7 @@ export const handleMultipleTransactions = async (
   const contract = new web3.eth.Contract(contractAbi, CONTRACT_ADDRESS);
 
   const transactionParameters: SendOptions = {
-    // gasLimit: '0x124f8', TODO set gas limit
+    gas: 125000, 
     gasPrice: web3.utils.toHex(await web3.eth.getGasPrice()),
     from: account as string,
     value: formatLargeNumber(TX_VALUE),
