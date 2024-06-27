@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { FormattedMessage, useIntl } from 'react-intl';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
@@ -6,9 +6,6 @@ import { Dispatch } from 'redux';
 import _every from 'lodash/every';
 import _pickBy from 'lodash/pickBy';
 import _values from 'lodash/values';
-import { Button } from '../../components/Button';
-import { Link } from '../../components/Link';
-import { routesEnum } from '../../Routes';
 import {
   AcknowledgementIdsEnum,
   AcknowledgementStateInterface,
@@ -23,12 +20,11 @@ import {
   DispatchAcknowledgementStateUpdateType,
   updateAcknowledgementState,
 } from '../../store/actions/acknowledgementActions';
-import { pageContent } from './pageContent';
+import { pageContent, PageContentInterface } from './pageContent';
+import { AcknowledgementProgressTracker } from './AcknowledgementProgressTracker';
 import { AcknowledgementSection } from './AcknowledgementSection';
 import { WorkflowPageTemplate } from '../../components/WorkflowPage/WorkflowPageTemplate';
 import { Paper } from '../../components/Paper';
-import { Accordion } from './Accordion';
-import { AccordionItem } from './AccordionItem';
 
 interface OwnProps {}
 interface StateProps {
@@ -48,7 +44,13 @@ const _AcknowledgementPage = ({
   workflow,
   dispatchWorkflowUpdate,
 }: Props): JSX.Element => {
-  
+  const [activeAcknowledgementId, setActiveAcknowledgementId] = useState<
+    AcknowledgementIdsEnum
+  >(
+    workflow === WorkflowStep.OVERVIEW
+      ? AcknowledgementIdsEnum.introSection
+      : AcknowledgementIdsEnum.confirmation
+  );
 
   const allAgreedTo = _every(
     _values(
@@ -68,52 +70,31 @@ const _AcknowledgementPage = ({
     margin-bottom: 32px;
   `;
 
-  const steps = pageContent;
-  const { formatMessage } = useIntl();
-  const acknowledgementIdsArray = Object.keys(AcknowledgementIdsEnum)
-    .filter(key => isNaN(Number(key)))
-    .map(key => AcknowledgementIdsEnum[key as keyof typeof AcknowledgementIdsEnum]);
-
   const handleSubmit = () => {
     if (workflow === WorkflowStep.OVERVIEW) {
       dispatchWorkflowUpdate(WorkflowStep.SELECT_CLIENT);
     }
   };
 
-  const handleAccept = () => {   
-    acknowledgementIdsArray.forEach((id) => {
-      console.log(workflow);
-      dispatchAcknowledgementStateUpdate(id, true);
-    }); 
-    dispatchWorkflowUpdate(WorkflowStep.SELECT_CLIENT);
-  };
-
   const handleContinueClick = (id: AcknowledgementIdsEnum) => {
     dispatchAcknowledgementStateUpdate(id, true);
+    if (+id + 1 in AcknowledgementIdsEnum) {
+      setTimeout(() => setActiveAcknowledgementId(+id + 1), 500);
+    }
   };
 
   const handleGoBackClick = (id: AcknowledgementIdsEnum) => {
+    if (+id - 1 in AcknowledgementIdsEnum) {
+      setActiveAcknowledgementId(+id - 1);
+    }
   };
-  
-  const AcknowledgementMessage = styled.div`
-    margin-top: 20px;
-    background: #ffdeb32e;
-    border: 1px solid burlywood;
-    padding: 30px;
-    border-radius: 4px;
-  `;
 
-  const AcknowledgementFooter = styled.div`    
-    padding: 30px;
-  `;
-
-  const FlexRowGap = styled.div`
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    padding: 30px;
-  `;
-  
+  const {
+    title,
+    content,
+    acknowledgementText,
+  }: PageContentInterface = pageContent[activeAcknowledgementId];
+  const { formatMessage } = useIntl();
   return (
     <WorkflowPageTemplate
       title={formatMessage({ defaultMessage: 'Advisories' })}
@@ -121,46 +102,22 @@ const _AcknowledgementPage = ({
       <Subtitle>
         <FormattedMessage defaultMessage="Everything you should understand before becoming a validator." />
       </Subtitle>
-      <Paper className="flex flex-column">
-        <Accordion>
-        {acknowledgementIdsArray.filter(value => value !== AcknowledgementIdsEnum.confirmation).map((value) => (
-          <AccordionItem title={steps[value].title}>          
-              <AcknowledgementSection
-                showTitle={false}
-                handleContinueClick={handleContinueClick}
-                handleGoBackClick={handleGoBackClick}
-                handleSubmit={handleSubmit}
-                allAgreedTo={allAgreedTo}
-                title={steps[value].title}
-                content={steps[value].content}
-                acknowledgementId={value}
-                acknowledgementText={steps[value].acknowledgementText}
-              />     
-          </AccordionItem>          
-        ))}  
-        </Accordion>
-        <AcknowledgementFooter>
-          <div>
-            {steps[AcknowledgementIdsEnum.confirmation].content}
-          </div>
-          <AcknowledgementMessage>
-            {steps[AcknowledgementIdsEnum.confirmation].acknowledgementText}
-          </AcknowledgementMessage>
-          <FlexRowGap>
-            <Link
-              to={routesEnum.selectClient}
-              onClick={() => {
-                handleAccept();
-              }}
-            >
-              <Button
-                rainbow
-                width={300}
-                label={formatMessage({ defaultMessage: 'I Accept' })}
-              />
-            </Link>
-          </FlexRowGap>
-        </AcknowledgementFooter>
+      <Paper className="flex flex-row">
+        <AcknowledgementProgressTracker
+          activeAcknowledgementId={activeAcknowledgementId}
+          setActiveAcknowledgementId={setActiveAcknowledgementId}
+        />
+        <AcknowledgementSection
+          showTitle={true}
+          handleContinueClick={handleContinueClick}
+          handleGoBackClick={handleGoBackClick}
+          handleSubmit={handleSubmit}
+          allAgreedTo={allAgreedTo}
+          title={title}
+          content={content}
+          acknowledgementId={activeAcknowledgementId}
+          acknowledgementText={acknowledgementText}
+        />
       </Paper>
     </WorkflowPageTemplate>
   );

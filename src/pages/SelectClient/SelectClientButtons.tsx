@@ -36,27 +36,7 @@ const SelectClientButtons = ({
   handleSubmit,
   updateStep,
 }: Props) => {
-  const { formatMessage } = useIntl();
-
-  if (ethClientStep === 'execution') {
-    return (
-      <Container>
-        <Link to={routesEnum.acknowledgementPage}>
-          <Button
-            width={100}
-            label={formatMessage({ defaultMessage: 'Back' })}
-          />
-        </Link>
-        <Button
-          width={300}
-          rainbow
-          disabled={!currentClient}
-          label={formatMessage({ defaultMessage: 'Continue' })}
-          onClick={() => updateStep('consensus')}
-        />
-      </Container>
-    );
-  }
+  const { formatMessage } = useIntl();  
 
   return (
     <Container>

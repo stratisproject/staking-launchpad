@@ -8,9 +8,15 @@ import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowSt
 import SelectClientSection from './SelectClientSection';
 import SelectClientButtons from './SelectClientButtons';
 import { PrysmDetails } from '../Clients/Consensus/Prysm';
-import { GethDetails } from '../Clients/Execution/Geth';
+// import { GethDetails } from '../Clients/Execution/Geth';
+import { StereumDetails } from '../Clients/Execution/Stereum';
 import PrysmaticCircle from '../../static/prysmatic-labs-circle.png';
-import GethCircle from '../../static/gethereum-mascot-circle.png';
+// import GethCircle from '../../static/gethereum-mascot-circle.png';
+import StereumLogo from '../../static/stereum_logo_circle.png';
+import { FormattedMessage } from 'react-intl';
+import { Paper } from '../../components/Paper';
+import { Heading } from '../../components/Heading';
+import { Text } from '../../components/Text';
 
 import {
   DispatchWorkflowUpdateType,
@@ -24,6 +30,7 @@ import {
 } from '../../store/actions/clientActions';
 import { clientState } from '../../store/reducers/clientReducer';
 import { useIntl } from 'react-intl';
+import { OperatingSystemDownload } from '../../components/OperatingSystemDownload';
 
 // Prop definitions
 interface OwnProps {}
@@ -40,7 +47,7 @@ type Props = StateProps & DispatchProps & OwnProps;
 
 const clientDetails = {
   [ClientId.PRYSM]: <PrysmDetails shortened />,
-  [ClientId.GETH]: <GethDetails />
+  [ClientId.STEREUM]: <StereumDetails />
 };
 
 export type Client = {
@@ -56,10 +63,10 @@ const ethClients: {
 } = {
   execution: _shuffle([
     {
-      clientId: ClientId.GETH,
-      name: 'Geth',
-      imgUrl: GethCircle,
-      language: 'Go',
+      clientId: ClientId.STEREUM,
+      name: 'Stereum',
+      imgUrl: StereumLogo,
+      language: 'JS',      
     }
   ]),
   consensus: _shuffle([
@@ -123,7 +130,7 @@ const _SelectClientPage = ({
 
   const title = formatMessage(
     {
-      defaultMessage: `Choose {ethClientType} client`,
+      defaultMessage: `Client Setup`,
       description:
         '{ethClientType} injects "execution" or "consensus" depending on step',
     },
@@ -137,6 +144,22 @@ const _SelectClientPage = ({
 
   return (
     <WorkflowPageTemplate title={title}>
+      <Paper className="mb20">
+        <Heading level={2} size="small" color="blueMedium">
+          <FormattedMessage defaultMessage="What is your current operating system?" />
+        </Heading>
+        <Text className="mt20 mb40">
+          <FormattedMessage
+            defaultMessage="Choose the OS of the computer you're currently using. This will be the
+              computer you use to run your client."
+          />
+        </Text>       
+        <OperatingSystemDownload
+          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
+          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
+          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases' />
+      </Paper>
+
       <SelectClientSection
         title={formatMessage(
           {

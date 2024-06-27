@@ -34,6 +34,7 @@ export interface AcknowledgementSectionData {
   content: JSX.Element;
   acknowledgementText?: JSX.Element;
   acknowledgementId: AcknowledgementIdsEnum;
+  showTitle: boolean;
 }
 
 interface AcknowledgementSectionProps {
@@ -52,6 +53,7 @@ export const AcknowledgementSection = ({
   handleGoBackClick,
   handleSubmit,
   allAgreedTo,
+  showTitle,
 }: AcknowledgementSectionProps & AcknowledgementSectionData): JSX.Element => {
   const isIntroSection =
     acknowledgementId === AcknowledgementIdsEnum.introSection;
@@ -112,9 +114,9 @@ export const AcknowledgementSection = ({
   return (
     <Container>
       <div>
-        <Heading level={2} size="medium" color="blueDark" className="mb50">
+        {showTitle && <Heading level={2} size="medium" color="blueDark" className="mb50">
           {title}
-        </Heading>
+        </Heading>}
         {content}
       </div>
       <div className="mt20">
@@ -123,7 +125,7 @@ export const AcknowledgementSection = ({
             {acknowledgementText}
           </AcknowledgementText>
         )}
-        {renderButtons()}
+        {showTitle && renderButtons()}
       </div>
     </Container>
   );

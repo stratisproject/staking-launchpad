@@ -10,6 +10,8 @@ export enum ClientId {
   'PRYSM' = 'PRYSM',
   'TEKU' = 'TEKU',
   'LODESTAR' = 'LODESTAR',
+  'STEREUM' = 'STEREUM',
+  'WAGYU' = 'WAGYU',
 }
 
 export interface UpdateClientAction {

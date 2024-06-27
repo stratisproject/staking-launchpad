@@ -1,4 +1,3 @@
-import _sample from 'lodash/sample';
 import { Action, ActionTypes } from '../actions';
 import { ClientId } from '../actions/clientActions';
 
@@ -8,6 +7,7 @@ export type clientState = {
 };
 
 const executionClientIds = [
+  ClientId.STEREUM,
   ClientId.BESU,
   ClientId.NETHERMIND,
   ClientId.ERIGON,
@@ -15,15 +15,15 @@ const executionClientIds = [
 ];
 
 const consensusClientIds = [
+  ClientId.PRYSM,
   ClientId.LIGHTHOUSE,
   ClientId.NIMBUS,
   ClientId.TEKU,
-  ClientId.PRYSM,
 ];
 
 const initialState: clientState = {
-  executionClient: _sample(executionClientIds) || consensusClientIds[0],
-  consensusClient: _sample(consensusClientIds) || consensusClientIds[0],
+  executionClient: executionClientIds[0],
+  consensusClient: consensusClientIds[0],
 };
 
 export const clientReducer = (
