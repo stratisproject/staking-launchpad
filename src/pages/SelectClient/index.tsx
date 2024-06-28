@@ -150,14 +150,13 @@ const _SelectClientPage = ({
         </Heading>
         <Text className="mt20 mb40">
           <FormattedMessage
-            defaultMessage="Choose the OS of the computer you're currently using. This will be the
-              computer you use to run your client."
+            defaultMessage="Choose the OS of the computer you're currently using. This will be the computer you use to configure the server that will run your node to be the OS you want to use for your node."
           />
         </Text>       
         <OperatingSystemDownload
-          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
-          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
-          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases' />
+          linuxDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-1.0.0.AppImage'
+          windowsDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-Setup-1.0.0.exe'
+          macDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-1.0.0.dmg' />
       </Paper>
 
       <SelectClientSection

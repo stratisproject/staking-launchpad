@@ -3,7 +3,7 @@ import React, { useEffect, useState, useMemo } from 'react';
 import { Dispatch } from 'redux';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
-import { CheckBox } from 'grommet';
+import { Box, CheckBox } from 'grommet';
 import { FormattedMessage, useIntl } from 'react-intl';
 import { toChecksumAddress } from 'ethereumjs-util';
 // Components
@@ -19,6 +19,7 @@ import WagyuStep3 from '../../static/wagyu_step_3.png';
 import WagyuStep4 from '../../static/wagyu_step_4.png';
 import WagyuStep5 from '../../static/wagyu_step_5.png';
 import WagyuStep6 from '../../static/wagyu_step_6.png';
+import WagyuStep7 from '../../static/stereum_step7.png';
 // Store management
 import {
   DispatchWorkflowUpdateType,
@@ -32,6 +33,7 @@ import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowSt
 // Routes
 import { routesEnum } from '../../Routes';
 import { OperatingSystemDownload } from '../../components/OperatingSystemDownload';
+import { SectionTitle } from '../Clients/ValidatorClientComponents';
 
 export enum operatingSystem {
   'MAC',
@@ -56,6 +58,14 @@ const ImageContainer = styled.div`
   justify-content: center;
   align-items: center;
   padding: 30px;
+`;
+
+const ClientDescriptionContainer = styled.div`
+  width: 100%;
+  border-radius: 4px;
+  background: #fcfcfc;
+  border: 1px solid #ececec;
+  padding: 1rem 2rem;
 `;
 
 // Prop definitions
@@ -119,81 +129,104 @@ const _GenerateKeysPage = ({
           />
         </Text>       
         <OperatingSystemDownload
-          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
-          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases'
-          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases' />
+          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen-0.1.0.AppImage'
+          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen.0.1.0.exe'
+          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen-0.1.0.dmg' />
       </Paper>
 
       <Paper className="mt20">
-        <Heading level={2} size="small" color="blueMedium">
-          <FormattedMessage defaultMessage="Instructions" />
-        </Heading>
-        <Heading level={3} className="mt20" size="small">
-          <FormattedMessage defaultMessage="Step 1" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="When running the Wagyu Key Gen it will check for an active internet connection. Ideally, the keys should be generated on an offline machine to minimise any risk of your recovery phrase being obtained through malicious activity."
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep1} alt="WagyuStep1" />
-        </ImageContainer>
-        <Heading level={3} size="small">
-          <FormattedMessage defaultMessage="Step 2" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="Select the Network you want to create Validator Keys for"
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep2} alt="WagyuStep2" />
-        </ImageContainer>
-        <Heading level={3} size="small">
-          <FormattedMessage defaultMessage="Step 3" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="After confirming you have recorded your Recovery Phrase, enter the number of Validator Keys you wish to create. You should also define your Ethereum Withdrawal Address; this is the address where the stake amount will be withdrawn when exiting your validator."
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep3} alt="WagyuStep3" />
-        </ImageContainer>
-        <Heading level={3} size="small">
-          <FormattedMessage defaultMessage="Step 4" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="Select a location for the keys to be stored on your local machine."
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep4} alt="WagyuStep4" />
-        </ImageContainer>
-        <Heading level={3} size="small">
-          <FormattedMessage defaultMessage="Step 5" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="Your keys have now been successfully create and stored in the defined directory."
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep5} alt="WagyuStep5" />
-        </ImageContainer>
-        <Heading level={3} size="small">
-          <FormattedMessage defaultMessage="Step 6" />
-        </Heading>
-        <Text className="mt20">
-          <FormattedMessage
-            defaultMessage="Locate the keys and confirm you have a <i>deposit_data-xxxxxxxxxx.json</i> file. This will be needed to make the deposit for your validator(s)."
-          />
-        </Text>
-        <ImageContainer>
-          <Image src={WagyuStep6} alt="WagyuStep6" />
-        </ImageContainer>
+        <Box className="flex flex-column space-between mt10">
+          <ClientDescriptionContainer>
+            <SectionTitle level={2} className="mb5">
+              <FormattedMessage defaultMessage="Instructions" />
+            </SectionTitle>
+            <Heading level={3} className="mt20" size="small">
+              <FormattedMessage defaultMessage="Step 1" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="When running the Wagyu Key Gen it will check for an active internet connection. Ideally, the keys should be generated on an offline machine to minimise any risk of your recovery phrase being obtained through malicious activity."
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep1} alt="WagyuStep1" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 2" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Select the Network you want to create Validator Keys for"
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep2} alt="WagyuStep2" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 3" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="After confirming you have recorded your Recovery Phrase, enter the number of Validator Keys you wish to create. You should also define your Ethereum Withdrawal Address; this is the address where the stake amount will be withdrawn when exiting your validator."
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep3} alt="WagyuStep3" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 4" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Select a location for the keys to be stored on your local machine."
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep4} alt="WagyuStep4" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 5" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Your keys have now been successfully create and stored in the defined directory."
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep5} alt="WagyuStep5" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 6" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Locate the keys and confirm you have a deposit_data-xxxxxxxxxx.json file. This will be needed to make the deposit for your validator(s). "
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep6} alt="WagyuStep6" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 6" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Your keys (keystore-m_xxxxx_xxxx_x_x_x-xxxxxxxxx.json) can now be imported into the Stratis Node launcher. "
+              />
+            </Text>
+            <ImageContainer>
+              <Image src={WagyuStep7} alt="WagyuStep7" />
+            </ImageContainer>
+            <Heading level={3} size="small">
+              <FormattedMessage defaultMessage="Step 8" />
+            </Heading>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="Progress to the next page to upload your deposit_data-xxxxxxxxxx.json to make the deposits for your validator keys. Please note that once the deposits are made, your validator may take up to 24 hours to become active.  "
+              />
+            </Text>
+          </ClientDescriptionContainer>
+        </Box>
       </Paper>
 
       <Paper className="mt20">

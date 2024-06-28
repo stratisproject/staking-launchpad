@@ -18,7 +18,6 @@ import StereumStep3 from '../../../static/stereum_step3.png';
 import StereumStep4 from '../../../static/stereum_step4.png';
 import StereumStep5 from '../../../static/stereum_step5.png';
 import StereumStep6 from '../../../static/stereum_step6.png';
-import StereumStep7 from '../../../static/stereum_step7.png';
 // import { ClientDiversityWarning } from '../../../components/ClientDiversityWarning';
 
 import { IS_MAINNET } from '../../../utils/envVars';
@@ -137,11 +136,8 @@ export const StereumDetails = () => (
         <FormattedMessage defaultMessage="Step 8" />
       </Heading>
       <Text className="mt10">
-        <FormattedMessage defaultMessage="You can now add your validator keys, generated using the Wagyu Keygen on the Staking page" />
+        <FormattedMessage defaultMessage="Progress to the next step to generate your validator keys using the Wagyu Keygen tool. " />
       </Text>
-      <ImageContainer>
-        <Image src={StereumStep7} alt="Stereum_Step_8" />
-      </ImageContainer>
     </section>
   </>
 );
