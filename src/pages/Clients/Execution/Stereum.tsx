@@ -76,7 +76,7 @@ export const StereumDetails = () => (
         <FormattedMessage defaultMessage="Step 2" />
       </Heading>
       <Text className="mt10">
-        <FormattedMessage defaultMessage="Enter your Server information." />
+        <FormattedMessage defaultMessage="You should have received an email containing login information from your chosen VPS provider. Enter the Server IP and login detail here." />
       </Text>
       <ImageContainer>
         <Image src={StereumStep1} alt="Stereum_Step_2" />
