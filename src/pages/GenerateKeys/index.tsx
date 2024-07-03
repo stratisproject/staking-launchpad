@@ -33,7 +33,6 @@ import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowSt
 // Routes
 import { routesEnum } from '../../Routes';
 import { OperatingSystemDownload } from '../../components/OperatingSystemDownload';
-import { SectionTitle } from '../Clients/ValidatorClientComponents';
 
 export enum operatingSystem {
   'MAC',
