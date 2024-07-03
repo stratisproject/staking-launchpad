@@ -228,12 +228,14 @@ const _GenerateKeysPage = ({
             <Heading level={3} size="small">
               <FormattedMessage defaultMessage="Step 8" />
             </Heading>
-            <p className="mt20">
-            Progress to the next page to upload your <i>deposit_data-xxxxxxxxxx.json</i> to make the deposits for your validator keys. Please note that once the deposits are made, your validator may take up to 24 hours to become active.  
-            </p>
-            <p className="mt20">
-              You will need the MetaMask (<a href='https://metamask.io/'>https://metamask.io/</a>) extension installed with a wallet that contains the correct STRAX balance before you can progress to make deposits for your validator(s).
-            </p>
+            <Text>
+              <p className="mt20">
+                Progress to the next page to upload your <i>deposit_data-xxxxxxxxxx.json</i> to make the deposits for your validator keys. Please note that once the deposits are made, your validator may take up to 24 hours to become active.  
+              </p>
+              <p className="mt20">
+                You will need the MetaMask (<a href='https://metamask.io/'>https://metamask.io/</a>) extension installed with a wallet that contains the correct STRAX balance before you can progress to make deposits for your validator(s).
+              </p>
+            </Text>
           </ClientDescriptionContainer>
         </Box>
       </Paper>

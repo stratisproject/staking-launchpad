@@ -31,6 +31,7 @@ import {
 import { clientState } from '../../store/reducers/clientReducer';
 import { useIntl } from 'react-intl';
 import { OperatingSystemDownload } from '../../components/OperatingSystemDownload';
+import styled from 'styled-components';
 
 // Prop definitions
 interface OwnProps {}
@@ -142,6 +143,15 @@ const _SelectClientPage = ({
     }
   );
 
+  const List = styled.ul`
+    font-family: 'Maison Neue', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 300;
+    color: #0F2A43;
+  `;
+
   return (
     <>
     <WorkflowPageTemplate title='Introduction'>      
@@ -151,11 +161,11 @@ const _SelectClientPage = ({
             defaultMessage="The Stratis Launchpad will guide you through the steps of operating a Stratis Validator. There are three main components to this process:"
           />
         </Text>
-        <ul>
+        <List>
           <li><b>Client Setup</b> - Software is required to run a Stratis Validator, to simplify this management, Stratis has introduced the Stratis Launcher. The Stratis Launcher configures your remote Linux-based host and prepares it for operating as a Stratis Validator.</li>
           <li><b>Generate Keys</b> - To run a Stratis Validator, you must create “Validator Keys”. The key generation process is simplified by using the Wagyu Keygen tool.</li>
           <li><b>Validator Deposit</b> - Once you have configured your client and generated your keys, you need to make a deposit of 20,000 STRAX for each validator. These deposits can be done safely and securely through the Stratis Launchpad.</li>
-        </ul>
+        </List>
         <Text className="mt20 mb10">
           <FormattedMessage
             defaultMessage="To get started, choose your Operating System below to download the Stratis Launcher and begin setting up your validator."
