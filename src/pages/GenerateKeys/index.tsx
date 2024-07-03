@@ -138,6 +138,14 @@ const _GenerateKeysPage = ({
         <Box className="flex flex-column space-between mt10">
           <ClientDescriptionContainer>
             <SectionTitle level={2} className="mb5">
+              <FormattedMessage defaultMessage="Introduction" />
+            </SectionTitle>
+            <Text className="mt20">
+              <FormattedMessage
+                defaultMessage="The Stratis Wagyu Keygen tool can be used to create validator keys, including the related keystore files and deposit data files. Keystore files can be imported into your validator client via the Stratis Launcher. The deposit data file can be used to perform the validator deposit on the launchpad site. It can also be used to create a signature to add a withdrawal address to your validator."
+              />
+            </Text>
+            <SectionTitle level={2} className="mb5">
               <FormattedMessage defaultMessage="Instructions" />
             </SectionTitle>
             <Heading level={3} className="mt20" size="small">
@@ -220,11 +228,12 @@ const _GenerateKeysPage = ({
             <Heading level={3} size="small">
               <FormattedMessage defaultMessage="Step 8" />
             </Heading>
-            <Text className="mt20">
-              <FormattedMessage
-                defaultMessage="Progress to the next page to upload your deposit_data-xxxxxxxxxx.json to make the deposits for your validator keys. Please note that once the deposits are made, your validator may take up to 24 hours to become active.  "
-              />
-            </Text>
+            <p className="mt20">
+            Progress to the next page to upload your <i>deposit_data-xxxxxxxxxx.json</i> to make the deposits for your validator keys. Please note that once the deposits are made, your validator may take up to 24 hours to become active.  
+            </p>
+            <p className="mt20">
+              You will need the MetaMask (<a href='https://metamask.io/'>https://metamask.io/</a>) extension installed with a wallet that contains the correct STRAX balance before you can progress to make deposits for your validator(s).
+            </p>
           </ClientDescriptionContainer>
         </Box>
       </Paper>

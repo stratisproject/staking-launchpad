@@ -143,7 +143,28 @@ const _SelectClientPage = ({
   );
 
   return (
-    <WorkflowPageTemplate title={title}>
+    <>
+    <WorkflowPageTemplate title='Introduction'>      
+      <Paper className="mb20">
+        <Text className="mt10 mb20">
+          <FormattedMessage
+            defaultMessage="The Stratis Launchpad will guide you through the steps of operating a Stratis Validator. There are three main components to this process:"
+          />
+        </Text>
+        <ul>
+          <li><b>Client Setup</b> - Software is required to run a Stratis Validator, to simplify this management, Stratis has introduced the Stratis Launcher. The Stratis Launcher configures your remote Linux-based host and prepares it for operating as a Stratis Validator.</li>
+          <li><b>Generate Keys</b> - To run a Stratis Validator, you must create “Validator Keys”. The key generation process is simplified by using the Wagyu Keygen tool.</li>
+          <li><b>Validator Deposit</b> - Once you have configured your client and generated your keys, you need to make a deposit of 20,000 STRAX for each validator. These deposits can be done safely and securely through the Stratis Launchpad.</li>
+        </ul>
+        <Text className="mt20 mb10">
+          <FormattedMessage
+            defaultMessage="To get started, choose your Operating System below to download the Stratis Launcher and begin setting up your validator."
+          />
+        </Text>
+      </Paper>
+      <Heading level={2} size="medium" color="blueDark" className="mb20">
+        {title}
+      </Heading>
       <Paper className="mb20">
         <Heading level={2} size="small" color="blueMedium">
           <FormattedMessage defaultMessage="What is your current operating system?" />
@@ -187,6 +208,7 @@ const _SelectClientPage = ({
         currentClient={selectedClient}
       />
     </WorkflowPageTemplate>
+    </>
   );
 };
 

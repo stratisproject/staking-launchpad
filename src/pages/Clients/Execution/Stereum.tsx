@@ -39,10 +39,13 @@ const ImageContainer = styled.div`
 export const StereumDetails = () => (
   <>
     <SectionTitle level={2} className="mb5">
-      <FormattedMessage defaultMessage="Language information" />
+      <FormattedMessage defaultMessage="Description" />
     </SectionTitle>
     <Text className="mt10">
-      <FormattedMessage defaultMessage="Stereum is an open-source toolkit designed to simplify the process of setting up and maintaining an Ethereum node. It helps users to decentralize the Ethereum network by making it easier to stake their own coins using their own machines. Stereum provides options for node-related protocols and supports one-click installation for various use cases." />
+      <FormattedMessage defaultMessage="Stereum is an open-source toolkit designed to simplify the process of setting up and maintaining an Ethereum-based node. It helps users to further decentralize the Stratis network by making it easier to stake their own coins using their own machines." />
+    </Text>
+    <Text className="mt10">
+      <FormattedMessage defaultMessage="The following steps will guide you through using the Stratis Launcher to configure a remote Linux-based host to run a Stratis Validator. The Stratis Launcher provides you with simplified management of your host and validator, simplifying the process or managing validator keys and monitoring the node status." />
     </Text>
     <section>
       <SectionTitle level={2} className="mb5">
@@ -82,7 +85,7 @@ export const StereumDetails = () => (
         <FormattedMessage defaultMessage="Step 2" />
       </Heading>
       <Text className="mt10">
-        <FormattedMessage defaultMessage="Enter your Server information. (we recommend using SSH Key and disabling password-based authentication)" />
+        <FormattedMessage defaultMessage="Enter your Server information." />
       </Text>
       <ImageContainer>
         <Image src={StereumStep1} alt="Stereum_Step_2" />
@@ -118,7 +121,7 @@ export const StereumDetails = () => (
         <FormattedMessage defaultMessage="Step 6" />
       </Heading>
       <Text className="mt10">
-        <FormattedMessage defaultMessage="The Stratis Launcher will now configure your server and prepare it to be a Stratis Validator. Depending on your server specifications, this will take a few minutes." />
+        <FormattedMessage defaultMessage="The Stratis Launcher will now configure your host, this will take a few minutes." />
       </Text>
       <ImageContainer>
         <Image src={StereumStep5} alt="Stereum_Step_6" />
