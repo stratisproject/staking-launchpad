@@ -38,22 +38,13 @@ const ImageContainer = styled.div`
 // eslint-disable-next-line no-unused-vars
 export const StereumDetails = () => (
   <>
-    <SectionTitle level={2} className="mb5">
-      <FormattedMessage defaultMessage="Description" />
-    </SectionTitle>
     <Text className="mt10">
       <FormattedMessage defaultMessage="Stereum is an open-source toolkit designed to simplify the process of setting up and maintaining an Ethereum-based node. It helps users to further decentralize the Stratis network by making it easier to stake their own coins using their own machines." />
     </Text>
     <Text className="mt10">
       <FormattedMessage defaultMessage="The following steps will guide you through using the Stratis Launcher to configure a remote Linux-based host to run a Stratis Validator. The Stratis Launcher provides you with simplified management of your host and validator, simplifying the process or managing validator keys and monitoring the node status." />
     </Text>
-    <section>
-      <SectionTitle level={2} className="mb5">
-        <FormattedMessage defaultMessage="Setup" />
-      </SectionTitle>
-      <Text className="mb20 mt10">
-        <FormattedMessage defaultMessage="Make sure you do the following to get your execution client working properly." />
-      </Text>
+    <section>      
       {!IS_MAINNET && IS_GOERLI && (
         <>
           <Heading level={3} className="mt20">
