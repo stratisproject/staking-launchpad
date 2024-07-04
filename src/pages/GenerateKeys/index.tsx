@@ -208,7 +208,7 @@ const _GenerateKeysPage = ({
               <Image src={WagyuStep6} alt="WagyuStep6" />
             </ImageContainer>
             <Heading level={3} size="small">
-              <FormattedMessage defaultMessage="Step 6" />
+              <FormattedMessage defaultMessage="Step 7" />
             </Heading>
             <Text className="mt20">
               <FormattedMessage
