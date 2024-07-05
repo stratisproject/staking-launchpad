@@ -70,7 +70,15 @@ export const StereumDetails = () => (
         <FormattedMessage defaultMessage="Step 1" />
       </Heading>
       <Text className="mt10">
-        <FormattedMessage defaultMessage="Rent a Server from a VPS Provider such as Hetzner, Digital Ocean etc." />
+        <FormattedMessage defaultMessage="Rent a Server from a VPS Provider such as Hetzner, OVH, Digital Ocean etc." />
+      </Text>
+      <Text className="mt10">
+        <FormattedMessage defaultMessage="The recommended specifications for your server can be found below:" />
+        <ul>
+          <li><b>CPU:</b> 4+ cores @ 2.8+ GHz</li>
+          <li><b>Memory:</b> 8GB+ RAM</li>
+          <li><b>Storage:</b> SSD/NVMe with at least 1TB free space (This will gradually increase, check with your selected hosting provider that additional storage is an option)</li>
+        </ul>
       </Text>
       <Heading level={3} className="mt20">
         <FormattedMessage defaultMessage="Step 2" />
