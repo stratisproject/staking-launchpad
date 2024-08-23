@@ -57,6 +57,7 @@ enum Testnet {
 
 enum Mainnet {
   'Mainnet',
+  'Strax',
 }
 
 export const NetworkNameToChainId: { [key: string]: NetworkChainId } = {
