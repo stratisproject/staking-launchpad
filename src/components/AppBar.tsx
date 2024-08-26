@@ -455,7 +455,7 @@ const _AppBar = ({ location }: RouteComponentProps) => {
                 }
               />
             )}
-            <Text size="small" color="blueDark">
+            <Text size="small" color="white">
               {trimString(account as string, 10)}
             </Text>
           </DotDropdownBox>
