@@ -128,9 +128,10 @@ const _GenerateKeysPage = ({
           />
         </Text>       
         <OperatingSystemDownload
-          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen-0.1.0.AppImage'
-          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen.0.1.0.exe'
-          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.0/Wagyu.Key.Gen-0.1.0.dmg' />
+          linuxDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.1/Wagyu.Key.Gen-0.1.1.AppImage'
+          windowsDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.1/Wagyu.Key.Gen.0.1.1.exe'
+          macDownload='https://github.com/stratisproject/wagyu-key-gen/releases/download/v0.1.1/Wagyu.Key.Gen-0.1.1.dmg'
+        />
       </Paper>
 
       <Paper className="mt20">
