@@ -2,6 +2,9 @@
   "name": "staking-launchpad",
   "version": "1.0.1",
   "private": true,
+  "engines": {
+    "node": "16.20.2"
+  },
   "dependencies": {
     "@chainsafe/bls": "^2.0.0",
     "@chainsafe/ssz": "^0.6.7",
