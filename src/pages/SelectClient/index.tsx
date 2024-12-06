@@ -185,9 +185,9 @@ const _SelectClientPage = ({
           />
         </Text>       
         <OperatingSystemDownload
-          linuxDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-1.0.0.AppImage'
-          windowsDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-Setup-1.0.0.exe'
-          macDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.0/Stratis-Launcher-1.0.0.dmg' />
+          linuxDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.1/Stratis-Launcher-1.1.0.AppImage'
+          windowsDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.1/Stratis-Launcher-Setup-1.1.0.exe'
+          macDownload='https://github.com/stratisproject/stratis-node/releases/download/v1.1/Stratis-Launcher-1.1.0.dmg' />
       </Paper>
 
       <SelectClientSection
