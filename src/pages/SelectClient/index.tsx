@@ -123,6 +123,7 @@ const _SelectClientPage = ({
 
   // filter the options based on the eth version the user is on
   const clientOptions = React.useMemo(() => ethClients[ethClientStep], [
+    ethClients,
     ethClientStep,
   ]);
 
