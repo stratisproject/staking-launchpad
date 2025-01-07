@@ -29,6 +29,7 @@ import { WorkflowPageTemplate } from '../../components/WorkflowPage/WorkflowPage
 import { Paper } from '../../components/Paper';
 import { Accordion } from './Accordion';
 import { AccordionItem } from './AccordionItem';
+import { ClientId, DispatchClientUpdate, updateClient } from '../../store/actions/clientActions';
 
 interface OwnProps {}
 interface StateProps {
@@ -39,6 +40,7 @@ interface StateProps {
 interface DispatchProps {
   dispatchAcknowledgementStateUpdate: DispatchAcknowledgementStateUpdateType;
   dispatchWorkflowUpdate: DispatchWorkflowUpdateType;
+  dispatchClientUpdate: DispatchClientUpdate;
 }
 type Props = StateProps & DispatchProps & OwnProps;
 
@@ -47,6 +49,7 @@ const _AcknowledgementPage = ({
   dispatchAcknowledgementStateUpdate,
   workflow,
   dispatchWorkflowUpdate,
+  dispatchClientUpdate
 }: Props): JSX.Element => {
   
 
@@ -80,7 +83,13 @@ const _AcknowledgementPage = ({
     }
   };
 
+  const setClientFxn = (clientId: ClientId) => {
+    dispatchClientUpdate(clientId, 'execution');
+  };
+
   const handleAccept = () => {   
+    const isOneClick = sessionStorage.getItem('oneClick') === 'true';
+    setClientFxn(isOneClick ? ClientId.STEREUM : ClientId.GETH);
     acknowledgementIdsArray.forEach((id) => {
       console.log(workflow);
       dispatchAcknowledgementStateUpdate(id, true);
@@ -175,6 +184,12 @@ const mapDispatchToProps = (dispatch: Dispatch): DispatchProps => ({
   dispatchAcknowledgementStateUpdate: (id, value) =>
     dispatch(updateAcknowledgementState(id, value)),
   dispatchWorkflowUpdate: step => dispatch(updateWorkflow(step)),
+  dispatchClientUpdate: (
+      clientId: ClientId,
+      ethClientType: 'execution' | 'consensus'
+    ) => {
+      dispatch(updateClient(clientId, ethClientType));
+    },
 });
 
 export const AcknowledgementPage = connect<

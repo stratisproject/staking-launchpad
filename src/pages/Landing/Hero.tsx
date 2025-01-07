@@ -204,7 +204,7 @@ export const Hero = () => {
                   >
                     <ButtonRow>
                       <ButtonContainer>
-                        <Link to={routesEnum.acknowledgementPage}>
+                        <Link to={routesEnum.selectMode}>
                           <Button
                             fullWidth={m || isSmallScreen}
                             rainbow

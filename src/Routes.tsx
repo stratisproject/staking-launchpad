@@ -26,6 +26,7 @@ import {
 import ScrollToTop from './utils/ScrollToTop';
 import { Prysm } from './pages/Clients/Consensus/Prysm';
 import { Geth } from './pages/Clients/Execution/Geth';
+import { SelectModePage } from './pages/SelectMode';
 
 type RouteType = {
   path: string;
@@ -39,6 +40,7 @@ export enum routesEnum {
   connectWalletPage = '/connect-wallet',
   generateKeysPage = '/generate-keys',
   acknowledgementPage = '/overview',
+  selectMode = '/select-mode',
   selectClient = '/select-client',
   summaryPage = '/summary',
   uploadValidatorPage = '/upload-deposit-data',
@@ -88,6 +90,11 @@ const routes: RouteType[] = [
     path: routesEnum.acknowledgementPage,
     exact: true,
     component: AcknowledgementPage,
+  },
+  {
+    path: routesEnum.selectMode,
+    exact: true,
+    component: SelectModePage,
   },
   { path: routesEnum.summaryPage, exact: true, component: SummaryPage },
   {
