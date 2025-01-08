@@ -6,6 +6,7 @@ import { useHistory } from 'react-router-dom';
 import { Link } from '../../components/Link';
 import { PageTemplate } from '../../components/PageTemplate';
 import { Heading } from '../../components/Heading';
+import { Text } from '../../components/Text';
 
 import { routesEnum } from '../../Routes';
 
@@ -97,7 +98,7 @@ export const SelectModePage = () => {
                 <FormattedMessage defaultMessage="Option 1" />
               </Heading>
               <BoldGreen>
-                <FormattedMessage defaultMessage="One-Click" />
+                <FormattedMessage defaultMessage="One-Click Setup" />
               </BoldGreen>
             </div>
             {formArrow}
@@ -115,13 +116,35 @@ export const SelectModePage = () => {
                 <FormattedMessage defaultMessage="Option 2" />
               </Heading>
               <BoldGreen>
-                <FormattedMessage defaultMessage="Manual setup" />
+                <FormattedMessage defaultMessage="Traditional Setup" />
               </BoldGreen>
             </div>
             {formArrow}
           </Card>
         </StyledLink>
-      </CardContainer>      
+      </CardContainer>    
+      <Heading level={3} className="mt30">
+        <FormattedMessage defaultMessage="One-Click Setup" />
+      </Heading>
+      <Text className="mt10">
+        <FormattedMessage defaultMessage="Ideal for those who want to get started quickly or have less technical experience" />
+        <ul>
+          <li>Automated installation and configuration</li>
+          <li>Fewer manual steps</li>
+          <li>Standardized deployment</li>
+        </ul>
+      </Text>
+      <Heading level={3} className="mt20">
+        <FormattedMessage defaultMessage="Traditional Setup" />
+      </Heading>
+      <Text className="mt10">
+        <FormattedMessage defaultMessage="This method may be preferred by more experienced users who want granular control" />
+        <ul>
+          <li>Ethereum Staking Process</li>
+          <li>Manual Node Configuration</li>
+          <li>Greater Control</li>
+        </ul>
+      </Text>  
     </PageTemplate>
   );
 };

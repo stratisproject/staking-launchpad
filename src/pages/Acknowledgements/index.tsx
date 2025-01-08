@@ -132,8 +132,8 @@ const _AcknowledgementPage = ({
       </Subtitle>
       <Paper className="flex flex-column">
         <Accordion>
-        {acknowledgementIdsArray.filter(value => value !== AcknowledgementIdsEnum.confirmation &&  value !== AcknowledgementIdsEnum.terminal).map((value) => (
-          <AccordionItem title={steps[value].title}>          
+          {acknowledgementIdsArray.filter(value => value !== AcknowledgementIdsEnum.confirmation &&  value !== AcknowledgementIdsEnum.terminal).map((value) => (
+            <AccordionItem title={steps[value].title}>          
               <AcknowledgementSection
                 showTitle={false}
                 handleContinueClick={handleContinueClick}
@@ -145,7 +145,7 @@ const _AcknowledgementPage = ({
                 acknowledgementId={value}
                 acknowledgementText={steps[value].acknowledgementText}
               />     
-          </AccordionItem>          
+            </AccordionItem>          
         ))}  
         </Accordion>
         <AcknowledgementFooter>

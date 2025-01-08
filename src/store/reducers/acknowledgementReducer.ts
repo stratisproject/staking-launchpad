@@ -7,7 +7,6 @@ export enum AcknowledgementIdsEnum {
   responsibilities,
   slashing,
   keyManagement,
-  earlyAdoptionRisks,
   checklist,
   confirmation,
 }
@@ -23,7 +22,6 @@ const defaultAcknowledgementState: AcknowledgementStateInterface = {
   [AcknowledgementIdsEnum.responsibilities]: false,
   [AcknowledgementIdsEnum.slashing]: false,
   [AcknowledgementIdsEnum.keyManagement]: false,
-  [AcknowledgementIdsEnum.earlyAdoptionRisks]: false,
   [AcknowledgementIdsEnum.checklist]: false,
   [AcknowledgementIdsEnum.confirmation]: false,
 };
