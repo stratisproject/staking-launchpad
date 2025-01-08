@@ -193,24 +193,6 @@ export const pageContent = {
       />
     ),
   },
-  [AcknowledgementIdsEnum.earlyAdoptionRisks]: {
-    title: <FormattedMessage defaultMessage="Early adopter risks" />,
-    content: (
-      <Text size="medium" className="my10">
-        <FormattedMessage
-          defaultMessage="You're joining a network in its early stages. As with any new piece of software,
-              there is the potential for software bugs. While unlikely, potential bugs may
-              result in slashing."
-        />
-      </Text>
-    ),
-    acknowledgementText: (
-      <FormattedMessage
-        defaultMessage="I am an early adopter, and I accept that software and design bugs may
-          result in me being slashed."
-      />
-    ),
-  },
   [AcknowledgementIdsEnum.terminal]: {
     title: <FormattedMessage defaultMessage="Using the terminal" />,
     content: (
