@@ -32,7 +32,7 @@ if (IS_NON_INFURA_TESTNET && process.env.REACT_APP_EL_EXPLORER_URL) {
     elExplorerURL = 'https://etherscan.io'
 }
 export const EL_EXPLOER_URL = elExplorerURL
-export const EL_TRANSACTION_URL = elExplorerURL + '/tx'
+export const EL_TRANSACTION_URL = `${elExplorerURL  }/tx`
 
 
 export const FAUCET_URL                 = process.env.REACT_APP_FAUCET_URL || 'https://faucet.auroria.mudit.blog'
@@ -71,6 +71,11 @@ export const ETHER_TO_GWEI              = 1e9;
 export const MIN_DEPOSIT_AMOUNT         = 1 * ETHER_TO_GWEI;
 export const DOMAIN_DEPOSIT             = Buffer.from('03000000', 'hex');
 export const EMPTY_ROOT                 = Buffer.from('0000000000000000000000000000000000000000000000000000000000000000', 'hex');
+export const ETH_WITHDRAWAL_PREFIX      = Buffer.from('010000000000000000000000', 'hex')
 
 // Boolean to translate CLI command flags, or keep in English
 export const TRANSLATE_CLI_FLAGS        = process.env.REACT_APP_TRANSLATE_CLI_FLAGS === 'true';
+
+export const FORBIDDEN_WITHDRAWAL_ADDRESSES = (
+  IS_MAINNET ? ['0x16CFc478175C222a1eC558baAE290593f175514F'] : ['0x0504D06711d02E6275e1724529a801441088f9f4']
+).map(a => a.toLowerCase())

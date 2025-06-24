@@ -17,6 +17,7 @@ import {
   MIN_DEPOSIT_AMOUNT,
   MIN_DEPOSIT_CLI_VERSION,
 } from '../../utils/envVars';
+import { verifyWithdrawalCredentials } from '../../utils/verifyWithdrawalCredentials'
 
 const validateFieldFormatting = (
   depositDatum: DepositKeyInterface
@@ -97,6 +98,9 @@ export const validateDepositKey = async (
       return false;
     }
     if (!verifyDepositRoots(depositDatum)) {
+      return false;
+    }
+    if (!verifyWithdrawalCredentials(depositDatum)) {
       return false;
     }
     return verifySignature(depositDatum);

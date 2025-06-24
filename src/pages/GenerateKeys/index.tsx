@@ -28,6 +28,7 @@ import {
 } from '../../store/actions/workflowActions';
 import { StoreState } from '../../store/reducers';
 // Utilities
+import { FORBIDDEN_WITHDRAWAL_ADDRESSES } from '../../utils/envVars';
 import { routeToCorrectWorkflowStep } from '../../utils/RouteToCorrectWorkflowStep';
 // Images
 // Routes
@@ -93,7 +94,7 @@ const _GenerateKeysPage = ({
   };
 
   const isValidWithdrawalAddress = useMemo<boolean>(
-    () => /^0x[0-9a-f]{40}$/i.test(withdrawalAddress),
+    () => /^0x[0-9a-f]{40}$/i.test(withdrawalAddress) && !FORBIDDEN_WITHDRAWAL_ADDRESSES.includes(withdrawalAddress.toLowerCase()),
     [withdrawalAddress]
   );
 
@@ -238,11 +239,11 @@ const _GenerateKeysPage = ({
         <CheckBox
           onChange={onCheckboxClick}
           checked={mnemonicAcknowledgementChecked}
-          label={
+          label={(
             <Text>
               <FormattedMessage defaultMessage="I am keeping my key(s) safe and have written down my mnemonic phrase." />
             </Text>
-          }
+          )}
         />
       </Paper>
 
