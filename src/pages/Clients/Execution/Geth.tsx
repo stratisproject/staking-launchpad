@@ -63,7 +63,7 @@ export const GethDetails = () => (
           </Heading>
           <Text className="mt10">
             <FormattedMessage
-              defaultMessage="Use {auroria} to sync the Strax testnet."
+              defaultMessage="Use {auroria} to sync the Xertra testnet."
               values={{
                 auroria: <Code className="mt20">--auroria</Code>,
               }}
@@ -71,9 +71,9 @@ export const GethDetails = () => (
           </Text>
           <Link
             primary
-            to="https://geth.Xertra.com/docs/interface/command-line-options"
+            to="https://geth.xertra.com/docs/interface/command-line-options"
           >
-            <FormattedMessage defaultMessage="Geth on Strax documentation" />
+            <FormattedMessage defaultMessage="Geth on Xertra documentation" />
           </Link>
         </>
       )}
@@ -93,7 +93,7 @@ export const GethDetails = () => (
       </Text>
       <Link
         primary
-        to="https://geth.Xertra.com/docs/interface/command-line-options"
+        to="https://geth.xertra.com/docs/interface/command-line-options"
       >
         <FormattedMessage defaultMessage="--http documentation" />
       </Link>
@@ -117,7 +117,7 @@ export const Geth = () => {
           <SectionTitle level={2} className="mb5">
             <FormattedMessage defaultMessage="Documentation" />
           </SectionTitle>
-          <Link primary to="https://geth.Xertra.com/docs/">
+          <Link primary to="https://geth.xertra.com/docs/">
             <FormattedMessage defaultMessage="Documentation on running Geth" />
           </Link>
         </section>

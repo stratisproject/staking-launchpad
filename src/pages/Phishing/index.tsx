@@ -36,7 +36,7 @@ export const Phishing = () => {
                 values={{
                   ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                 }}
-                description="{ethAmount} will generally refer to 32 STRAX"
+                description="{ethAmount} will generally refer to 20000 STRAX"
               />
             </Text>
           </li>
@@ -91,7 +91,7 @@ export const Phishing = () => {
                     values={{
                       ethAmount: `${PRICE_PER_VALIDATOR} STRAX`,
                     }}
-                    description="Asks users to check deposit contract address against a block explorer and confirm 32 STRAX deposits are present"
+                    description="Asks users to check deposit contract address against a block explorer and confirm 20000 STRAX deposits are present"
                   />
                 </Text>
               </li>

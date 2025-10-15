@@ -15,7 +15,7 @@ export enum NetworkChainId {
   'Mainnet' = 1,
   'Ropsten' = 3,
   'Auroria' = 205205,
-  'Strax' = 105105,
+  'Xertra' = 105105,
   'Sepolia' = 11155111,
   'Zhejiang' = 1337803,
   'Holesky' = 17000,
@@ -25,7 +25,7 @@ export const NetworkChainIdDict: { [id: string]: number } = {
   Mainnet: 1,
   Ropsten: 3,
   Auroria: 205205,
-  Strax: 105105,
+  Xertra: 105105,
   Sepolia: 11155111,
   Zhejiang: 1337803,
   Holesky: 17000,
@@ -40,7 +40,7 @@ const supportedNetworks = [
   NetworkChainId.Mainnet,
   NetworkChainId.Ropsten,
   NetworkChainId.Auroria,
-  NetworkChainId.Strax,
+  NetworkChainId.Xertra,
   NetworkChainId.Sepolia,
   NetworkChainId.Zhejiang,
   NetworkChainId.Holesky,
@@ -49,7 +49,7 @@ const supportedNetworks = [
 enum Testnet {
   'Ropsten',
   'Auroria',
-  'Strax',
+  'Xertra',
   'Sepolia',
   'Zhejiang',
   'Holesky',
@@ -63,13 +63,13 @@ export const NetworkNameToChainId: { [key: string]: NetworkChainId } = {
   Mainnet: NetworkChainId.Mainnet,
   Ropsten: NetworkChainId.Ropsten,
   Auroria: NetworkChainId.Auroria,
-  Strax: NetworkChainId.Strax,
+  Xertra: NetworkChainId.Xertra,
   Zhejiang: NetworkChainId.Zhejiang,
   Holesky: NetworkChainId.Holesky,
 };
 
 export const TARGET_NETWORK_CHAIN_ID = IS_MAINNET
-  ? NetworkChainId.Strax
+  ? NetworkChainId.Xertra
   : NetworkNameToChainId[TESTNET_LAUNCHPAD_NAME];
 
 export const IS_GOERLI = TARGET_NETWORK_CHAIN_ID === NetworkChainId.Auroria;
