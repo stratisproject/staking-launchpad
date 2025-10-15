@@ -197,7 +197,7 @@ const _SummaryPage = ({
         <Row>
           <Link
             isTextLink={false}
-            to="https://stratisevm.com/en/staking/deposit-contract/"
+            to="https://xertra.com/en/staking/deposit-contract/"
             primary
           >
             <Button

@@ -19,7 +19,7 @@ export const Phishing = () => {
     <PageTemplate title={formatMessage({ defaultMessage: 'Avoid phishing' })}>
       <Text className="mt10">
         <FormattedMessage
-          defaultMessage="Phishing is a very real risk for Stratis validators and, unfortunately,
+          defaultMessage="Phishing is a very real risk for Xertra validators and, unfortunately,
         many people will lose funds due to these attacks."
         />
       </Text>
@@ -69,19 +69,19 @@ export const Phishing = () => {
                   ethereumorg: (
                     <Link
                       inline
-                      to="https://stratisevm.com/en/staking/deposit-contract/"
+                      to="https://xertra.com/en/staking/deposit-contract/"
                     >
-                      stratisevm.com
+                      xertra.com
                     </Link>
                   ),
                 }}
-                description="{ethereumorg} is a link to deposit contract page on stratisevm.com"
+                description="{ethereumorg} is a link to deposit contract page on xertra.com"
               />
             </Text>
           </li>
           <li>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Stratis block explorer:" />
+              <FormattedMessage defaultMessage="Check the deposit contract on your favorite Xertra block explorer:" />
             </Text>
             <ul>
               <li>

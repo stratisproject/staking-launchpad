@@ -256,7 +256,7 @@ export const Checklist = () => {
     //   header: 'Besu',
     //   text: formatMessage({
     //     defaultMessage:
-    //       'Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java.',
+    //       'Hyperledger Besu is an open-source Xertra client developed under the Apache 2.0 license and written in Java.',
     //   }),
     //   imgUrl: BesuBg,
     //   url: routesEnum.besu,
@@ -317,7 +317,7 @@ export const Checklist = () => {
       layer: layerEnum.execution,
       discord: 'https://discord.gg/nthXNEv',
       ...defaultExecutionPorts,
-      jwtUrl: 'https://geth.stratisevm.com/docs/interface/consensus-clients',
+      jwtUrl: 'https://geth.xertra.com/docs/interface/consensus-clients',
     },
     // {
     //   header: 'Lighthouse',
@@ -343,7 +343,7 @@ export const Checklist = () => {
     //   header: 'Nimbus',
     //   text: formatMessage({
     //     defaultMessage:
-    //       'Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices.',
+    //       'Nimbus is a research project and a consensus client implementation for Xertra designed to perform well on embedded systems and personal mobile devices.',
     //   }),
     //   imgUrl: NimbusBg,
     //   url: routesEnum.nimbus,
@@ -362,7 +362,7 @@ export const Checklist = () => {
       header: 'Prysm',
       text: formatMessage({
         defaultMessage:
-          'Prysm is a Go consensus client implementation of the Stratis protocol with a focus on usability, security, and reliability.',
+          'Prysm is a Go consensus client implementation of the Xertra protocol with a focus on usability, security, and reliability.',
       }),
       imgUrl: PrysmaticBg,
       url: routesEnum.prysm,
@@ -383,7 +383,7 @@ export const Checklist = () => {
     //   header: 'Teku',
     //   text: formatMessage({
     //     defaultMessage:
-    //       'PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements.',
+    //       'PegaSys Teku is a Java-based Xertra consensus client built to meet institutional needs and security requirements.',
     //   }),
     //   imgUrl: TekuBg,
     //   url: routesEnum.teku,
@@ -507,7 +507,7 @@ export const Checklist = () => {
                   values={{
                     executionClient: (
                       <Link
-                        to="https://stratisevm.com/en/glossary/#execution-client"
+                        to="https://xertra.com/en/glossary/#execution-client"
                         inline
                       >
                         <FormattedMessage defaultMessage="execution client" />
@@ -515,7 +515,7 @@ export const Checklist = () => {
                     ),
                     consensusClient: (
                       <Link
-                        to="https://stratisevm.com/en/glossary/#consensus-client"
+                        to="https://xertra.com/en/glossary/#consensus-client"
                         inline
                       >
                         <FormattedMessage defaultMessage="consensus client" />
@@ -550,7 +550,7 @@ export const Checklist = () => {
             {/* <li className="py5">
               <Text>
                 <FormattedMessage
-                  defaultMessage="Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
+                  defaultMessage="Xertra had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
                   values={{
                     date: (
                       <FormattedDate
@@ -931,7 +931,7 @@ export const Checklist = () => {
           <CheckBox
             label={
               <Text className="checkbox-label">
-                <FormattedMessage defaultMessage="I've joined Stratis Discord server." />
+                <FormattedMessage defaultMessage="I've joined Xertra Discord server." />
               </Text>
             }
           />
@@ -1146,7 +1146,7 @@ export const Checklist = () => {
               <div className="flex flex-column">
                 <Text className="checkbox-label mb10">
                   <FormattedMessage
-                    defaultMessage="I provided an Stratis address when generating my {depositData} file before depositing where I would
+                    defaultMessage="I provided an Xertra address when generating my {depositData} file before depositing where I would
                     like all validator rewards and withdrawals to be deposited into."
                     values={{
                       depositData: (
@@ -1170,7 +1170,7 @@ export const Checklist = () => {
             <FormattedMessage defaultMessage="Set fee recipient" />
           </Heading>
           <Text className="mt20">
-            <FormattedMessage defaultMessage="Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Stratis address that you're used to." />
+            <FormattedMessage defaultMessage="Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Xertra address that you're used to." />
           </Text>
           <Alert variant="warning" className="my30">
             <Text>
@@ -1203,7 +1203,7 @@ export const Checklist = () => {
           <CheckBox
             label={
               <Text className="checkbox-label">
-                <FormattedMessage defaultMessage="I've provided an Stratis address to my validator where I would like my fee rewards to be deposited." />
+                <FormattedMessage defaultMessage="I've provided an Xertra address to my validator where I would like my fee rewards to be deposited." />
               </Text>
             }
           />

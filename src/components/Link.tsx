@@ -98,8 +98,8 @@ export const Link = (props: LinkProps) => {
   } = props;
   const { locale } = useIntl();
   const isExternal = to && to.includes('http');
-  // Check for stratisevm.com root domain links
-  const ETHEREUM_DOT_ORG = `https://stratisevm.com`;
+  // Check for xertra.com root domain links
+  const ETHEREUM_DOT_ORG = `https://xertra.com`;
   const isStratisDotOrg = to && to.includes(ETHEREUM_DOT_ORG);
   const isHash = isHashLink(to);
 
@@ -121,10 +121,10 @@ export const Link = (props: LinkProps) => {
     let href = to;
 
     if (to === ETHEREUM_DOT_ORG) {
-      // Path is to https://stratisevm.com homepage; will append locale
+      // Path is to https://xertra.com homepage; will append locale
       href = `${ETHEREUM_DOT_ORG}/${locale}`;
     } else if (isStratisDotOrg) {
-      // Grab everything after "https://stratisevm.com/"
+      // Grab everything after "https://xertra.com/"
       const slug: string = to.substr(ETHEREUM_DOT_ORG.length + 1);
       // Split path on "/" and check if index 0 matches current locale
       const pathSplit: string[] = slug.split('/');

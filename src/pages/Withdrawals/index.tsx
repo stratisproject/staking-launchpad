@@ -133,7 +133,7 @@ export const Withdrawals = () => {
           <Text>
             <FormattedMessage
               defaultMessage="As of the Shanghai/Capella upgrade withdrawals have been enabled on
-              the Beacon Chain, with the inclusion of {eip}. This Stratis Improvement Proposal
+              the Beacon Chain, with the inclusion of {eip}. This Xertra Improvement Proposal
               enables rewards to be automatically withdrawn to the execution layer, and also
               provides a way for exited validators to unlock their entire balance—no gas
               required."
@@ -142,7 +142,7 @@ export const Withdrawals = () => {
                   <Link
                     primary
                     inline
-                    to="https://eips.stratisevm.com/EIPS/eip-4895"
+                    to="https://eips.xertra.com/EIPS/eip-4895"
                   >
                     <FormattedMessage defaultMessage="EIP-4895" />
                   </Link>
@@ -335,7 +335,7 @@ export const Withdrawals = () => {
                 defaultMessage="An {excessBalanceWithdrawal} is processed when an active validator has a maxed out
                 effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}.
                 A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have
-                any extra balance automatically withdrawn to their Stratis address."
+                any extra balance automatically withdrawn to their Xertra address."
                 values={{
                   excessBalanceWithdrawal: (
                     <strong>
@@ -583,7 +583,7 @@ export const Withdrawals = () => {
             </Anchor>
             <Text className="mb10">
               <FormattedMessage
-                defaultMessage="Stratis users are used to transactions being executed in a manual way—if
+                defaultMessage="Xertra users are used to transactions being executed in a manual way—if
                 you want to transfer funds, you have to sign a transaction and pay the gas."
               />
             </Text>
@@ -595,7 +595,7 @@ export const Withdrawals = () => {
                     <Link
                       primary
                       inline
-                      to="https://eips.stratisevm.com/EIPS/eip-4895"
+                      to="https://eips.xertra.com/EIPS/eip-4895"
                     >
                       <FormattedMessage defaultMessage="Beacon chain push withdrawals as operations" />
                     </Link>
@@ -1070,7 +1070,7 @@ export const Withdrawals = () => {
               <Link
                 primary
                 inline
-                to="https://notes.stratisevm.com/@launchpad/withdrawals-guide"
+                to="https://notes.xertra.com/@launchpad/withdrawals-guide"
               >
                 <FormattedMessage defaultMessage="How to trigger withdrawals, credential change" />
               </Link>
@@ -1079,7 +1079,7 @@ export const Withdrawals = () => {
               <Link
                 primary
                 inline
-                to="https://notes.stratisevm.com/@launchpad/auroria"
+                to="https://notes.xertra.com/@launchpad/auroria"
               >
                 <FormattedMessage defaultMessage="How to join the public withdrawals testnet" />
               </Link>

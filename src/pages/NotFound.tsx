@@ -49,7 +49,7 @@ export const NotFoundPage = (): JSX.Element => {
         <LogoContainer>
           <EthLogo src={EthDiamondPlain} />
           <LogoText className="mt20" center size="large">
-            Stratis Staking Launchpad
+            Xertra Staking Launchpad
           </LogoText>
         </LogoContainer>
         <Text center className="mt20">

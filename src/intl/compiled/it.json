@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Stratis consiste del "
+      "value": "Xertra consiste del "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (che gestisce i compiti di consenso proof-of-stake, ex 'Eth2' o 'Stratis 2.0')."
+      "value": " (che gestisce i compiti di consenso proof-of-stake, ex 'Eth2' o 'Xertra 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Fase 2: Genera le chiavi di deposito usando lo strumento di deposito della Stratis"
+      "value": "Fase 2: Genera le chiavi di deposito usando lo strumento di deposito della Xertra"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Dopo la Fusione, i validatori saranno anche responsabili dell'elaborazione delle transazioni e avranno quindi diritto alle commissioni del gas non bruciato associate a queste transazioni quando propongono dei blocchi. Queste commissioni sono calcolate sul livello di esecuzione, non sul livello di consenso, e quindi richiedono che al vostro client sia fornito un indirizzo Stratis tradizionale."
+      "value": "Dopo la Fusione, i validatori saranno anche responsabili dell'elaborazione delle transazioni e avranno quindi diritto alle commissioni del gas non bruciato associate a queste transazioni quando propongono dei blocchi. Queste commissioni sono calcolate sul livello di esecuzione, non sul livello di consenso, e quindi richiedono che al vostro client sia fornito un indirizzo Xertra tradizionale."
     }
   ],
   "/5Hyyf": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth è una delle tre implementazioni originali del protocollo Stratis, scritta in Go."
+      "value": "Geth è una delle tre implementazioni originali del protocollo Xertra, scritta in Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Ho fornito al mio validatore un indirizzo Stratis dove desidero che vengano depositate le mie ricompense."
+      "value": "Ho fornito al mio validatore un indirizzo Xertra dove desidero che vengano depositate le mie ricompense."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Maggiori informazioni sull'economia di staking di Stratis"
+      "value": "Maggiori informazioni sull'economia di staking di Xertra"
     }
   ],
   "1p+pb5": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "La diversità dei client è estremamente importante per la salute della rete di Stratis: un bug in un client con una quota superiore al 33% può mandare offline Stratis. Se il client ha una grande maggioranza (>66%), un bug potrebbe causare la divisione errata della catena, causando potenzialmente lo slashing."
+      "value": "La diversità dei client è estremamente importante per la salute della rete di Xertra: un bug in un client con una quota superiore al 33% può mandare offline Xertra. Se il client ha una grande maggioranza (>66%), un bug potrebbe causare la divisione errata della catena, causando potenzialmente lo slashing."
     }
   ],
   "2t/3ab": [
@@ -858,7 +858,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Questi aggiornamenti di terminologia cambiano solo le convenzioni di nomenclatura, senza alterare gli obiettivi né la tabella di marcia di Stratis."
+      "value": "Questi aggiornamenti di terminologia cambiano solo le convenzioni di nomenclatura, senza alterare gli obiettivi né la tabella di marcia di Xertra."
     }
   ],
   "3URRZK": [
@@ -1442,7 +1442,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Un client Stratis progettato per le aziende, per casi d'uso con reti autorizzate sia pubbliche che private."
+      "value": "Un client Xertra progettato per le aziende, per casi d'uso con reti autorizzate sia pubbliche che private."
     }
   ],
   "8yom7x": [
@@ -1634,7 +1634,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Il contratto di deposito di staking di Stratis richiede un minimo di "
+      "value": "Il contratto di deposito di staking di Xertra richiede un minimo di "
     },
     {
       "type": 1,
@@ -1680,7 +1680,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Assicurati di eseguire il download dall'account ufficiale Stratis GitHub verificando l'URL: "
+      "value": "Assicurati di eseguire il download dall'account ufficiale Xertra GitHub verificando l'URL: "
     },
     {
       "type": 1,
@@ -1690,7 +1690,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Lo sharding modificherà il requisito secondo cui i nodi completi devono portare l’intera storia della catena, distribuendo invece questo carico nella rete, pur garantendo la disponibilità dei dati. Questo espanderà in modo significativo la capacità del livello 1 di Stratis, pur mantenendo la capacità di far funzionare un nodo completo su hardware consumer, mantenendo la rete decentralizzata."
+      "value": "Lo sharding modificherà il requisito secondo cui i nodi completi devono portare l’intera storia della catena, distribuendo invece questo carico nella rete, pur garantendo la disponibilità dei dati. Questo espanderà in modo significativo la capacità del livello 1 di Xertra, pur mantenendo la capacità di far funzionare un nodo completo su hardware consumer, mantenendo la rete decentralizzata."
     }
   ],
   "Affixg": [
@@ -1746,7 +1746,7 @@
     },
     {
       "type": 0,
-      "value": " viene elaborato quando un validatore attivo ha un saldo effettivo massimo di 32, e il saldo totale è superiore a 32. Un singolo validatore non può ottenere ricompense in eccesso oltre 32 ETH, quindi da questi conti sarà prelevato automaticamente un qualsiasi saldo extra al rispettivo indirizzo Stratis."
+      "value": " viene elaborato quando un validatore attivo ha un saldo effettivo massimo di 32, e il saldo totale è superiore a 32. Un singolo validatore non può ottenere ricompense in eccesso oltre 32 ETH, quindi da questi conti sarà prelevato automaticamente un qualsiasi saldo extra al rispettivo indirizzo Xertra."
     }
   ],
   "RY4SP0": [
@@ -1988,7 +1988,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Maggiori informazioni sulla visione di Stratis"
+      "value": "Maggiori informazioni sulla visione di Xertra"
     }
   ],
   "CdKEd/": [
@@ -2272,7 +2272,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Gli staker devono fornire un indirizzo destinatario della commissione al loro client di consenso per ricevere le ricompense delle transazioni. È un normale indirizzo Stratis."
+      "value": "Gli staker devono fornire un indirizzo destinatario della commissione al loro client di consenso per ricevere le ricompense delle transazioni. È un normale indirizzo Xertra."
     }
   ],
   "EcCME0": [
@@ -2310,7 +2310,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Stratis è nato il 30 luglio 2015. È cresciuta nel corso del tempo e l'introduzione dello sharding aumenterà anche i requisiti di archiviazione, memoria e larghezza di banda."
+      "value": "Xertra è nato il 30 luglio 2015. È cresciuta nel corso del tempo e l'introduzione dello sharding aumenterà anche i requisiti di archiviazione, memoria e larghezza di banda."
     }
   ],
   "FM92S0": [
@@ -2328,7 +2328,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Indirizzo di prelievo di Stratis: se desideri prelevare all'indirizzo del tuo portafoglio di esecuzione dopo l'aggiornamento Shanghai/Capella, puoi impostare "
+      "value": "Indirizzo di prelievo di Xertra: se desideri prelevare all'indirizzo del tuo portafoglio di esecuzione dopo l'aggiornamento Shanghai/Capella, puoi impostare "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Un client Stratis con un enorme pool di sviluppatori. Perfetto per sistemi di livello aziendale."
+      "value": "Un client Xertra con un enorme pool di sviluppatori. Perfetto per sistemi di livello aziendale."
     }
   ],
   "FgraU0": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "In precedenza TurboGeth, Erigon è un client Stratis progettato per consentire l'ottimizzazione delle prestazioni."
+      "value": "In precedenza TurboGeth, Erigon è un client Xertra progettato per consentire l'ottimizzazione delle prestazioni."
     }
   ],
   "ID3Pgm": [
@@ -2826,7 +2826,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Approfondisci gli aggiornamenti di Stratis."
+      "value": "Approfondisci gli aggiornamenti di Xertra."
     }
   ],
   "JhUYU3": [
@@ -3106,7 +3106,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Grazie per aver supportato la rete di Stratis!"
+      "value": "Grazie per aver supportato la rete di Xertra!"
     }
   ],
   "LpnfTF": [
@@ -3150,7 +3150,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis è protetto dal proof-of-stake, ma non è sempre stato così. La Beacon Chain è stata il primo passo per creare un livello di consenso PoS su Stratis, lanciato in parallelo alla Rete principale nel dicembre 2020. Questo ha consentito ai partecipanti di iniziare a fare staking e preparare la rete per la transizione formale dal proof-of-work al proof-of-stake tramite la Fusione."
+      "value": "Xertra è protetto dal proof-of-stake, ma non è sempre stato così. La Beacon Chain è stata il primo passo per creare un livello di consenso PoS su Xertra, lanciato in parallelo alla Rete principale nel dicembre 2020. Questo ha consentito ai partecipanti di iniziare a fare staking e preparare la rete per la transizione formale dal proof-of-work al proof-of-stake tramite la Fusione."
     }
   ],
   "LwEHRm": [
@@ -3222,7 +3222,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Com'è il ridimensionamento di Stratis?"
+      "value": "Com'è il ridimensionamento di Xertra?"
     }
   ],
   "MaZo9k": [
@@ -3246,7 +3246,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Questo launchpad ti aiuterà a diventare validatore, per poter giocare un ruolo attivo nel futuro di Stratis. I validatori sono la chiave per una rete Stratis più sicura, scalabile e sostenibile, che costruiremo insieme."
+      "value": "Questo launchpad ti aiuterà a diventare validatore, per poter giocare un ruolo attivo nel futuro di Xertra. I validatori sono la chiave per una rete Xertra più sicura, scalabile e sostenibile, che costruiremo insieme."
     }
   ],
   "Mc8nNE": [
@@ -3258,7 +3258,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Gli aggiornamenti di Stratis avranno successo solo se i validatori comprendono i rischi e le responsabilità."
+      "value": "Gli aggiornamenti di Xertra avranno successo solo se i validatori comprendono i rischi e le responsabilità."
     }
   ],
   "MmZjeu": [
@@ -3418,7 +3418,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Scopri di più su ruoli e responsabilità dei validatori di Stratis."
+      "value": "Scopri di più su ruoli e responsabilità dei validatori di Xertra."
     }
   ],
   "Nb5DNK": [
@@ -3520,7 +3520,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu è un client Stratis open-source sviluppato con licenza Apache 2.0 e scritto in Java."
+      "value": "Hyperledger Besu è un client Xertra open-source sviluppato con licenza Apache 2.0 e scritto in Java."
     }
   ],
   "OIvXIO": [
@@ -3618,13 +3618,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Il phishing è un rischio molto concreto per i validatori di Stratis e, sfortunatamente, molte persone perderanno fondi a causa di questi attacchi."
+      "value": "Il phishing è un rischio molto concreto per i validatori di Xertra e, sfortunatamente, molte persone perderanno fondi a causa di questi attacchi."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "L'aggiornamento della beacon chain garantisce a Stratis la proof of stake."
+      "value": "L'aggiornamento della beacon chain garantisce a Xertra la proof of stake."
     }
   ],
   "P1QerV": [
@@ -3848,7 +3848,7 @@
     },
     {
       "type": 0,
-      "value": " verso il contratto di deposito sulla catena Stratis corrente."
+      "value": " verso il contratto di deposito sulla catena Xertra corrente."
     }
   ],
   "QlsDcr": [
@@ -4110,7 +4110,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validatori ed Stratis"
+      "value": "Validatori ed Xertra"
     }
   ],
   "TMw9oz": [
@@ -4122,7 +4122,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "La Fusione rende obsoleti i termini 'Eth1' e 'Eth2'. Dal momento in cui avviene la corretta transizione al proof-of-stake tramite la Fusione, non esistono più due reti di Stratis distinte: esiste un solo Stratis."
+      "value": "La Fusione rende obsoleti i termini 'Eth1' e 'Eth2'. Dal momento in cui avviene la corretta transizione al proof-of-stake tramite la Fusione, non esistono più due reti di Xertra distinte: esiste un solo Xertra."
     }
   ],
   "TfNuWP": [
@@ -4184,7 +4184,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Controlla il contratto di deposito nel tuo explorer di blocchi Stratis preferito:"
+      "value": "Controlla il contratto di deposito nel tuo explorer di blocchi Xertra preferito:"
     }
   ],
   "UYRyWv": [
@@ -4230,7 +4230,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Una delle tre implementazioni originali del protocollo Stratis."
+      "value": "Una delle tre implementazioni originali del protocollo Xertra."
     }
   ],
   "UykRIk": [
@@ -5142,7 +5142,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Diventa validatore e aiuta a garantire il futuro di Stratis."
+      "value": "Diventa validatore e aiuta a garantire il futuro di Xertra."
     }
   ],
   "cRzxes": [
@@ -5236,7 +5236,7 @@
     },
     {
       "type": 0,
-      "value": " è un campo di 32 byte nel deposito, per verificare la destinazione dei prelievi validi. Attualmente, esistono due tipi di prelievi: prelievo BLS e prelievo da indirizzo Stratis."
+      "value": " è un campo di 32 byte nel deposito, per verificare la destinazione dei prelievi validi. Attualmente, esistono due tipi di prelievi: prelievo BLS e prelievo da indirizzo Xertra."
     }
   ],
   "8FjJDx": [
@@ -5254,7 +5254,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm è un'implementazione del client di consenso di Go del protocollo di Stratis incentrata su usabilità, sicurezza e affidabilità."
+      "value": "Prysm è un'implementazione del client di consenso di Go del protocollo di Xertra incentrata su usabilità, sicurezza e affidabilità."
     }
   ],
   "dLE9FH": [
@@ -5542,7 +5542,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Puoi scegliere di fornire un indirizzo di prelievo con il tuo deposito iniziale per abilitare automaticamente i pagamenti dei premi e anche la possibilità di far uscire completamente i tuoi fondi in qualsiasi momento dopo l'aggiornamento Shanghai/Capella. Questo indirizzo deve essere a un normale indirizzo Stratis e sarà l'unico indirizzo a cui possono essere inviati i fondi dai nuovi conti validatore."
+      "value": "Puoi scegliere di fornire un indirizzo di prelievo con il tuo deposito iniziale per abilitare automaticamente i pagamenti dei premi e anche la possibilità di far uscire completamente i tuoi fondi in qualsiasi momento dopo l'aggiornamento Shanghai/Capella. Questo indirizzo deve essere a un normale indirizzo Xertra e sarà l'unico indirizzo a cui possono essere inviati i fondi dai nuovi conti validatore."
     }
   ],
   "fZwn+P": [
@@ -5646,7 +5646,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Genera le chiavi di deposito utilizzando lo strumento di deposito di Stratis"
+      "value": "Genera le chiavi di deposito utilizzando lo strumento di deposito di Xertra"
     }
   ],
   "gVC0Wl": [
@@ -5880,7 +5880,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Puoi pensare al contratto di deposito come un trasferimento di fondi tra account Stratis e il conto di un validatore proof-of-stake."
+      "value": "Puoi pensare al contratto di deposito come un trasferimento di fondi tra account Xertra e il conto di un validatore proof-of-stake."
     }
   ],
   "iJXdUH": [
@@ -5972,7 +5972,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku è un client di consenso di Stratis basato su Java creato per soddisfare i requisiti istituzionali e di sicurezza."
+      "value": "PegaSys Teku è un client di consenso di Xertra basato su Java creato per soddisfare i requisiti istituzionali e di sicurezza."
     }
   ],
   "XRUCUL": [
@@ -6010,7 +6010,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Precedentemente noto come Artemis, Teku è un client di consenso creato per soddisfare i requisiti istituzionali e di sicurezza. PegaSys è una variante di ConsensSys, dedicata a creare client e strumenti pronti per un uso aziendale, per interagire con la piattaforma principale di Stratis."
+      "value": "Precedentemente noto come Artemis, Teku è un client di consenso creato per soddisfare i requisiti istituzionali e di sicurezza. PegaSys è una variante di ConsensSys, dedicata a creare client e strumenti pronti per un uso aziendale, per interagire con la piattaforma principale di Xertra."
     }
   ],
   "jBr8vs": [
@@ -6120,7 +6120,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Questo ha segnato la fusione del livello di esecuzione (Rete principale esistente) con il nuovo livello di consenso (la Beacon Chain) per formare la catena Stratis singola di oggi."
+      "value": "Questo ha segnato la fusione del livello di esecuzione (Rete principale esistente) con il nuovo livello di consenso (la Beacon Chain) per formare la catena Xertra singola di oggi."
     }
   ],
   "k67L48": [
@@ -6178,7 +6178,7 @@
     },
     {
       "type": 0,
-      "value": ". Questa proposta di miglioramento di Stratis consente di prelevare automaticamente le ricompense a livello di esecuzione, e fornisce anche un modo ai validatori usciti di sbloccare l'intero saldo, senza la necessità di gas."
+      "value": ". Questa proposta di miglioramento di Xertra consente di prelevare automaticamente le ricompense a livello di esecuzione, e fornisce anche un modo ai validatori usciti di sbloccare l'intero saldo, senza la necessità di gas."
     }
   ],
   "kTt/ND": [
@@ -6238,7 +6238,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "l'aggiornamento della Fusione ha portato ufficialmente il proof-of-stake in Stratis il 15 settembre 2022, abbandonando contestualmente il proof-of-work. Questo ha preparato la catena a futuri aggiornamenti di scala, come lo sharding dei dati, integrando il consenso proof-of-stake con la Rete principale, riducendo al contempo il consumo di energia di oltre il 99,9%."
+      "value": "l'aggiornamento della Fusione ha portato ufficialmente il proof-of-stake in Xertra il 15 settembre 2022, abbandonando contestualmente il proof-of-work. Questo ha preparato la catena a futuri aggiornamenti di scala, come lo sharding dei dati, integrando il consenso proof-of-stake con la Rete principale, riducendo al contempo il consumo di energia di oltre il 99,9%."
     }
   ],
   "kuYpoI": [
@@ -6430,7 +6430,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus è un progetto di ricerca e un'implementazione del client di consenso per Stratis progettato per funzionare bene sui sistemi embedded e i dispositivi mobili personali."
+      "value": "Nimbus è un progetto di ricerca e un'implementazione del client di consenso per Xertra progettato per funzionare bene sui sistemi embedded e i dispositivi mobili personali."
     }
   ],
   "lfV1bj": [
@@ -6486,7 +6486,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Dal momento in cui è passato con successo al proof-of-stake tramite la Fusione, Stratis è totalmente protetto dai validatori proof-of-stake. Eseguendo un validatore, contribuirai a proteggere la rete di Stratis."
+      "value": "Dal momento in cui è passato con successo al proof-of-stake tramite la Fusione, Xertra è totalmente protetto dai validatori proof-of-stake. Eseguendo un validatore, contribuirai a proteggere la rete di Xertra."
     }
   ],
   "mROPz+": [
@@ -6500,7 +6500,7 @@
     },
     {
       "type": 0,
-      "value": " ho fornito un indirizzo Stratis dove vorrei depositare tutte le ricompense e i prelievi del validatore."
+      "value": " ho fornito un indirizzo Xertra dove vorrei depositare tutte le ricompense e i prelievi del validatore."
     }
   ],
   "mUZnem": [
@@ -6532,7 +6532,7 @@
     },
     {
       "type": 0,
-      "value": " è un'entità virtuale che vive sulla Beacon Chain, rappresentato da un saldo, una chiave pubblica e altre proprietà, e partecipa al consenso della rete Stratis."
+      "value": " è un'entità virtuale che vive sulla Beacon Chain, rappresentato da un saldo, una chiave pubblica e altre proprietà, e partecipa al consenso della rete Xertra."
     }
   ],
   "mcyp2f": [
@@ -6842,7 +6842,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Gli utenti di Stratis sono abituati a transazioni eseguite manualmente: se si desidera trasferire fondi, è necessario firmare una transazione e pagare il gas."
+      "value": "Gli utenti di Xertra sono abituati a transazioni eseguite manualmente: se si desidera trasferire fondi, è necessario firmare una transazione e pagare il gas."
     }
   ],
   "p0b6zX": [
@@ -7212,7 +7212,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Un client di consenso con particolare attenzione alla velocità e alla sicurezza. Creato da Sigma Prime, una società di sicurezza informatica e ingegneria software che ha finanziato Lighthouse insieme all'Stratis, Consensy e privati."
+      "value": "Un client di consenso con particolare attenzione alla velocità e alla sicurezza. Creato da Sigma Prime, una società di sicurezza informatica e ingegneria software che ha finanziato Lighthouse insieme all'Xertra, Consensy e privati."
     }
   ],
   "sToVAS": [
@@ -7316,7 +7316,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "La specifica del livello di consenso di Stratis"
+      "value": "La specifica del livello di consenso di Xertra"
     }
   ],
   "teyxVk": [
@@ -7384,7 +7384,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Gli aggiornamenti di Stratis"
+      "value": "Gli aggiornamenti di Xertra"
     }
   ],
   "tzMNF3": [
@@ -7396,7 +7396,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Il tuo portafoglio si trova sulla rete Stratis errata. Per continuare, connettiti a "
+      "value": "Il tuo portafoglio si trova sulla rete Xertra errata. Per continuare, connettiti a "
     },
     {
       "type": 1,
@@ -7572,7 +7572,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Il tuo saldo viene aggiornato periodicamente dalle regole della rete Stratis mentre ti occupi (o non ti occupi) delle tue responsabilità."
+      "value": "Il tuo saldo viene aggiornato periodicamente dalle regole della rete Xertra mentre ti occupi (o non ti occupi) delle tue responsabilità."
     }
   ],
   "vCHTnu": [
@@ -7590,7 +7590,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Diventa validatore e aiuta a garantire il futuro di Stratis"
+      "value": "Diventa validatore e aiuta a garantire il futuro di Xertra"
     }
   ],
   "vJez0K": [
@@ -7770,7 +7770,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "La convalida in Stratis non è uguale al mining. I risultati sono simili: il lavoro fatto estenderà e proteggerà la catena. Ma il processo è completamente diverso perché utilizza meccanismi di consenso diversi."
+      "value": "La convalida in Xertra non è uguale al mining. I risultati sono simili: il lavoro fatto estenderà e proteggerà la catena. Ma il processo è completamente diverso perché utilizza meccanismi di consenso diversi."
     }
   ],
   "x4/9vY": [
@@ -7936,7 +7936,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Sono in arrivo diversi aggiornamenti che renderanno Stratis più scalabile, sicuro e sostenibile. Questi aggiornamenti miglioreranno Stratis pur continuando senza soluzione di continuità sulla catena di oggi. Ecco ulteriori informazioni sui diversi aggiornamenti:"
+      "value": "Sono in arrivo diversi aggiornamenti che renderanno Xertra più scalabile, sicuro e sostenibile. Questi aggiornamenti miglioreranno Xertra pur continuando senza soluzione di continuità sulla catena di oggi. Ecco ulteriori informazioni sui diversi aggiornamenti:"
     }
   ],
   "y4dBsA": [
@@ -8068,7 +8068,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar è un'implementazione TypeScript open-source della specifica Stratis Consensus (precedentemente nota come eth2) mantenuta da ChainSafe Systems. L'obiettivo di ChainSafe è quello di sviluppare, migliorare e diversificare l'ecosistema Stratis proof-of-stake con la loro beacon chain e client validatore con particolare attenzione alle implementazioni dei clienti leggeri."
+      "value": "Lodestar è un'implementazione TypeScript open-source della specifica Xertra Consensus (precedentemente nota come eth2) mantenuta da ChainSafe Systems. L'obiettivo di ChainSafe è quello di sviluppare, migliorare e diversificare l'ecosistema Xertra proof-of-stake con la loro beacon chain e client validatore con particolare attenzione alle implementazioni dei clienti leggeri."
     }
   ],
   "zAVb0/": [
@@ -8114,7 +8114,7 @@
     },
     {
       "type": 0,
-      "value": " per sincronizzare la rete principale Stratis."
+      "value": " per sincronizzare la rete principale Xertra."
     }
   ],
   "zicXn7": [

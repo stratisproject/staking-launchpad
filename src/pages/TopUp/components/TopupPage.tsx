@@ -235,7 +235,7 @@ const TopupPage: React.FC<Props> = ({ validator }) => {
     if (value < minTopupValue)
       return formatMessage(
         {
-          defaultMessage: `The Stratis staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted.`,
+          defaultMessage: `The Xertra staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted.`,
         },
         { minTopupValue, TICKER_NAME }
       );

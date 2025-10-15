@@ -1,8 +1,8 @@
-# Stratis Staking Launchpad
+# Xertra Staking Launchpad
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/staking-launchpad/badge)](https://www.gitpoap.io/gh/ethereum/staking-launchpad)
 
-The [Launchpad](https://launchpad.stratisevm.com/) is the Stratis's official way to deposit your STRAX for staking on Stratis
+The [Launchpad](https://launchpad.xertra.com/) is the Xertra's official way to deposit your STRAX for staking on Xertra
 
 ## Dependencies
 
@@ -51,16 +51,16 @@ By default, `dev` acts as the primary base branch which all PRs should merge int
 
 ## Launchpad deployment
 
-- The `master` branch represents the live **testnet** version of the Launchpad. Open a PR to merge `dev` into `master` to deploy a testnet Launchpad (e.g. [#517](https://github.com/ethereum/staking-launchpad/pull/517) for https://auroria.launchpad.stratisevm.com/ )
-- The `mainnet` branch represents the live **Mainnet** version of the Launchpad. Open a PR to merge `master` into `mainnet` to deploy the Mainnet Launchpad (e.g. [#518](https://github.com/ethereum/staking-launchpad/pull/518) for https://launchpad.stratisevm.com/)
+- The `master` branch represents the live **testnet** version of the Launchpad. Open a PR to merge `dev` into `master` to deploy a testnet Launchpad (e.g. [#517](https://github.com/ethereum/staking-launchpad/pull/517) for https://auroria.launchpad.xertra.com/ )
+- The `mainnet` branch represents the live **Mainnet** version of the Launchpad. Open a PR to merge `master` into `mainnet` to deploy the Mainnet Launchpad (e.g. [#518](https://github.com/ethereum/staking-launchpad/pull/518) for https://launchpad.xertra.com/)
 
 ## Launchpad translation
 
-As part of the [stratisevm.com Translation Program](https://stratisevm.com/en/contributing/translation-program), our community of translators is also working on translating the Stratis Staking Launchpad.
+As part of the [xertra.com Translation Program](https://xertra.com/en/contributing/translation-program), our community of translators is also working on translating the Xertra Staking Launchpad.
 
 If you are interested in getting involved and helping with the translations, please [visit the project in Crowdin](https://crowdin.com/project/launchpad-translation). 
 
-After joining the project, you can start translating by opening your desired language from the language list. If your language isn't available, please reach out to Stratis.org Team on Crowdin or [open an issue](https://github.com/ethereum/staking-launchpad/issues/new) to request adding a new language for translation.
+After joining the project, you can start translating by opening your desired language from the language list. If your language isn't available, please reach out to Xertra.org Team on Crowdin or [open an issue](https://github.com/ethereum/staking-launchpad/issues/new) to request adding a new language for translation.
 
 Detailed information on using Crowdin is available in the [Crowdin Online Editor documentation](https://support.crowdin.com/online-editor/).
 

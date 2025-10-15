@@ -1,13 +1,13 @@
 {
   "+2VHUU": {
     "description": "{executionLayer} is a link labeled 'execution layer'. {consensusLayer} is a link labeled 'consensus layer'",
-    "message": "Stratis consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Stratis 2.0')."
+    "message": "Xertra consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Xertra 2.0')."
   },
   "+EZ9E/": {
     "message": "Interactive mode"
   },
   "+L0IkF": {
-    "message": "Step 2: Generate deposit keys using the Stratis deposit tool"
+    "message": "Step 2: Generate deposit keys using the Xertra deposit tool"
   },
   "+UUcBt": {
     "message": "Choose a language"
@@ -40,7 +40,7 @@
     "message": "You can start all the transactions at once, or start them individually."
   },
   "/4e3mN": {
-    "message": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Stratis address to be provided to your client."
+    "message": "Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Xertra address to be provided to your client."
   },
   "/5Hyyf": {
     "message": "Indonesian"
@@ -140,7 +140,7 @@
     "message": "Confirm deposits ({depositKeys})"
   },
   "0kxaf/": {
-    "message": "I've provided an Stratis address to my validator where I would like my fee rewards to be deposited."
+    "message": "I've provided an Xertra address to my validator where I would like my fee rewards to be deposited."
   },
   "0lHkrT": {
     "message": "Second, install the dependency packages:"
@@ -209,7 +209,7 @@
     "message": "Check deposit contract details"
   },
   "1ingnQ": {
-    "message": "More on Stratis staking economics"
+    "message": "More on Xertra staking economics"
   },
   "1p+pb5": {
     "message": "fee recipient"
@@ -265,7 +265,7 @@
     "message": "excess balance withdrawal"
   },
   "2rflCq": {
-    "message": "Client diversity is extremely important for the network health of Stratis: A bug in a client with a share of over 33% can cause Stratis to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
+    "message": "Client diversity is extremely important for the network health of Xertra: A bug in a client with a share of over 33% can cause Xertra to go offline. If the client has a supermajority (>66%), a bug could cause the chain to incorrectly split, potentially leading to slashing."
   },
   "2t/3ab": {
     "message": "The other file you just generated is {depositDataJson}. This file contains the public key(s) associated with your validator(s); You will need to upload this in the next step."
@@ -313,7 +313,7 @@
     "message": "Top-up transaction"
   },
   "3SOKyg": {
-    "message": "These terminology updates only change naming conventions; this does not alter Stratis's goals or roadmap."
+    "message": "These terminology updates only change naming conventions; this does not alter Xertra's goals or roadmap."
   },
   "3URRZK": {
     "message": "Geth on Strax documentation"
@@ -429,7 +429,7 @@
     "message": "You're joining a network in its early stages. As with any new piece of software, there is the potential for software bugs. While unlikely, potential bugs may result in slashing."
   },
   "6vdHjj": {
-    "message": "{withdrawalCredentials} is a 32-byte field associated with every validator, initially set during deposit, for verifying the destination of valid withdrawals. Currently, there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution (Stratis address) credentials (Type 1, or {type1})."
+    "message": "{withdrawalCredentials} is a 32-byte field associated with every validator, initially set during deposit, for verifying the destination of valid withdrawals. Currently, there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution (Xertra address) credentials (Type 1, or {type1})."
   },
   "7+Domh": {
     "message": "Notes"
@@ -543,7 +543,7 @@
     "message": "Signal your intent to exit staking by signing and broadcasting a voluntary exit message to the network using your validator keys and validator client"
   },
   "8wd0q5": {
-    "message": "An Stratis client designed to be enterprise-friendly for both public and private, permissioned network use cases."
+    "message": "An Xertra client designed to be enterprise-friendly for both public and private, permissioned network use cases."
   },
   "8yom7x": {
     "message": "Run the Wagyu Key Gen app from withing Applications by right clicking and clicking Open. You will get a warning stating macOS cannot verify the developer of “Wagyu Key Gen.app”. Are you sure you want to open it?. Click Open and the app will open."
@@ -634,7 +634,7 @@
     "message": "Also be sure you understand how staking withdrawals work before setting up your keys and deposit data."
   },
   "AJD+66": {
-    "message": "The Stratis staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted."
+    "message": "The Xertra staking deposit contract requires a minimum of {minTopupValue} {TICKER_NAME} to be sent at one time to be accepted."
   },
   "ATwOPg": {
     "message": "execution client"
@@ -650,7 +650,7 @@
   },
   "Ad61gz": {
     "description": "{url} is link to GitHub CLI release, made bold for emphasis",
-    "message": "Please make sure that you are downloading from the official Stratis GitHub account by verifying the url: {url}"
+    "message": "Please make sure that you are downloading from the official Xertra GitHub account by verifying the url: {url}"
   },
   "Affixg": {
     "message": "The deposit"
@@ -747,7 +747,7 @@
     "message": "Your wallet is on the wrong network. Switch to {executionLayerName}"
   },
   "Cacfkx": {
-    "message": "More on the Stratis vision"
+    "message": "More on the Xertra vision"
   },
   "CdKEd/": {
     "description": "{strongText} is a warning, bolded for emphasis",
@@ -836,7 +836,7 @@
     "message": "I've simulated power loss (server and internet) and automatic resumption."
   },
   "ER2q1V": {
-    "message": "The Merge upgrade officially brought proof-of-stake to Stratis on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
+    "message": "The Merge upgrade officially brought proof-of-stake to Xertra on September 15, 2022, simultaneously deprecating proof-of-work. This prepared the chain for future scaling upgrades such as Danksharding by bringing proof-of-stake consensus together with Mainnet, while simultaneously reducing energy consumption by over 99.9%."
   },
   "ETJ2T5": {
     "message": "If you have questions about deposit-cli, please visit the GitHub repository."
@@ -848,7 +848,7 @@
     "message": "This is a test network ⚠️"
   },
   "EXt8Xd": {
-    "message": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Stratis address that you're used to."
+    "message": "Stakers must provide a fee recipient address to their consensus client in order to receive transaction fee rewards. This is a normal Xertra address that you're used to."
   },
   "EcCME0": {
     "message": "Staking Launchpad"
@@ -894,7 +894,7 @@
     "message": "A {validatorClient} is the software that acts on behalf of the validator by holding and using its private key to make attestations about the state of the chain. A single validator client can hold many key pairs, controlling many validators."
   },
   "FfLWt5": {
-    "message": "An Stratis client with a huge pool of developers. It's perfect for enterprise-grade systems."
+    "message": "An Xertra client with a huge pool of developers. It's perfect for enterprise-grade systems."
   },
   "FgraU0": {
     "message": "Step 1: Download the deposit command line interface app for your operating system"
@@ -1012,7 +1012,7 @@
     "message": "Can I change the withdrawal credentials of my validator after the first deposit?"
   },
   "I7MjRD": {
-    "message": "Formerly TurboGeth, Erigon is an Stratis client built to enable performance optimizations."
+    "message": "Formerly TurboGeth, Erigon is an Xertra client built to enable performance optimizations."
   },
   "ID3Pgm": {
     "message": "Maximum number of withdrawals that can be processed in a single block"
@@ -1083,7 +1083,7 @@
     "message": "Resource usage can vary significantly between clients. Research the different clients if you're working with resource constraints."
   },
   "Jrg1Me": {
-    "message": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Stratis while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
+    "message": "Danksharding will change the requirement that full nodes carry the entire history of the chain, and instead will distribute this load amongst the network while still ensuring data availability. This will significantly expand the capacity of layer 1 Xertra while maintaining the ability to operate a full node on consumer hardware, keeping the network decentralized."
   },
   "Js4uuA": {
     "message": "effective balance"
@@ -1125,7 +1125,7 @@
     "message": "I've installed the {latestRelease} of my consensus client."
   },
   "KJ7R/V": {
-    "message": "The Stratis consensus layer specification"
+    "message": "The Xertra consensus layer specification"
   },
   "KN7zKn": {
     "message": "Error"
@@ -1189,7 +1189,7 @@
     "message": "Bulgarian"
   },
   "LlClXS": {
-    "message": "Thank you for supporting the Stratis network!"
+    "message": "Thank you for supporting the Xertra network!"
   },
   "LpnfTF": {
     "message": "Lodestar installation documentation"
@@ -1202,7 +1202,7 @@
     "message": "Your initial deposit has already been made for this validator public key. Please wait and check the status of your deposit on the Beaconchain data provider."
   },
   "Lv57+8": {
-    "message": "Stratis is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Stratis, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
+    "message": "Xertra is secured by proof-of-stake, although this was not always the case. The Beacon Chain was the first step to establishing a PoS consensus layer on Xertra, launching in parallel to Mainnet in December 2020. This allowed participants to start staking their STRAX and prepare the network for the formal transition from proof-of-work to proof-of-stake via The Merge."
   },
   "LwEHRm": {
     "message": "Why do I need to run an execution client now?"
@@ -1235,7 +1235,7 @@
     "message": "The upgrades"
   },
   "MZzOnU": {
-    "message": "How is Stratis scaling?"
+    "message": "How is Xertra scaling?"
   },
   "MaZo9k": {
     "message": "Wagyu Key Gen GUI"
@@ -1247,13 +1247,13 @@
     "message": "This can be summarized to estimate the upper limit of how long a complete sweep takes depending on how many withdrawals need processing:"
   },
   "MbsAo3": {
-    "message": "This launchpad will help you become a validator, so you can play an active part in Stratis's future. Validators are key to the more secure, scalable, and sustainable Stratis we're building together."
+    "message": "This launchpad will help you become a validator, so you can play an active part in Xertra's future. Validators are key to the more secure, scalable, and sustainable Xertra we're building together."
   },
   "Mc8nNE": {
     "message": "Transaction failed"
   },
   "Mlc7Vr": {
-    "message": "The Stratis upgrades will only be successful if validators understand the risks and responsibilities."
+    "message": "The Xertra upgrades will only be successful if validators understand the risks and responsibilities."
   },
   "MmZjeu": {
     "message": "Top-up details"
@@ -1310,7 +1310,7 @@
     "message": "Mainnet"
   },
   "NatYUJ": {
-    "message": "Learn more about the roles and responsibilities of Stratis validators."
+    "message": "Learn more about the roles and responsibilities of Xertra validators."
   },
   "Nb5DNK": {
     "message": "Become a validator with Teku"
@@ -1334,10 +1334,10 @@
     "message": "Total number of validator accounts (index count, every validator account ever registered, up-only over time)"
   },
   "OBmVqN": {
-    "message": "Hyperledger Besu is an open-source Stratis client developed under the Apache 2.0 license and written in Java."
+    "message": "Hyperledger Besu is an open-source Xertra client developed under the Apache 2.0 license and written in Java."
   },
   "OCl7KQ": {
-    "message": "Like all Stratis transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
+    "message": "Like all Xertra transactions, deposits are non-reversible, but the ability to withdrawal your funds via a separate process after depositing remains under your control."
   },
   "OIvXIO": {
     "message": "Complete remaining {remainingTxCount} deposits"
@@ -1373,7 +1373,7 @@
     "message": "As a validator, you'll need to have funds at stake so you can be penalized for behaving dishonestly."
   },
   "P/Oh91": {
-    "message": "Phishing is a very real risk for Stratis validators and, unfortunately, many people will lose funds due to these attacks."
+    "message": "Phishing is a very real risk for Xertra validators and, unfortunately, many people will lose funds due to these attacks."
   },
   "P1QerV": {
     "description": "{discord} and {reddit} are links to EthStaker forums on Discord and Reddit respectively",
@@ -1423,7 +1423,7 @@
     "message": "clipboard"
   },
   "Q6N+C6": {
-    "message": "Stratis had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
+    "message": "Xertra had its genesis on July 30, 2015. It is growing in size over time, and the introduction of Danksharding will also increase storage, memory, and bandwidth requirements."
   },
   "Q8P0rZ": {
     "message": "Validators have a maximum effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}. You only need to top up {maxTopupValue} {TICKER_NAME} to max out your effective balance."
@@ -1568,7 +1568,7 @@
     "message": "initial and maximum"
   },
   "THIzw6": {
-    "message": "Validators and Stratis"
+    "message": "Validators and Xertra"
   },
   "TKCr16": {
     "message": "This full withdraw of funds requires that a withdrawal address be set, and will be automatically transferred in the next validator sweep."
@@ -1577,7 +1577,7 @@
     "message": "Visit this site on desktop to become a validator."
   },
   "TZtYuA": {
-    "message": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Stratis networks; there is only Stratis."
+    "message": "The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Xertra networks; there is only Xertra."
   },
   "TfNuWP": {
     "message": "virtualenv would help you to create an isolated Python environment for deposit-cli tool."
@@ -1602,7 +1602,7 @@
     "message": "Check {etherscan} for more details"
   },
   "UWv7yD": {
-    "message": "Check the deposit contract on your favorite Stratis block explorer:"
+    "message": "Check the deposit contract on your favorite Xertra block explorer:"
   },
   "UYRyWv": {
     "message": "Mechanics of withdrawals: How they work"
@@ -1627,7 +1627,7 @@
     "message": "Being offline at the same time as more than 1/3 of the total number of validators leads to harsher penalties, since blocks do not finalize anymore. {strongText}"
   },
   "UygdAl": {
-    "message": "One of the three original implementations of the Stratis protocol."
+    "message": "One of the three original implementations of the Xertra protocol."
   },
   "UykRIk": {
     "message": "Becoming a validator is a big responsibility with important preparation steps. Only start the deposit process when you're ready."
@@ -1914,7 +1914,7 @@
     "message": "Be sure to account for enough space on your drive until you run maintenance on your node."
   },
   "bagKCF": {
-    "message": "If you've already provided an Stratis withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
+    "message": "If you've already provided an Xertra withdrawal address for your withdrawal credentials, your entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be needed to generate your withdrawal key to set your withdrawal address."
   },
   "bbr+aD": {
     "message": "The YAML files can have different syntaxes."
@@ -1959,13 +1959,13 @@
     "message": "Check your favorite Beacon Chain block explorer:"
   },
   "cPsIkp": {
-    "message": "Become a validator and help secure the future of Stratis."
+    "message": "Become a validator and help secure the future of Xertra."
   },
   "cRzxes": {
     "message": "Current APR"
   },
   "cU/ZP6": {
-    "message": "Stratis uses proof-of-stake to reach consensus."
+    "message": "Xertra uses proof-of-stake to reach consensus."
   },
   "cav520": {
     "message": "Download from GitHub"
@@ -2007,7 +2007,7 @@
     "message": "Deposit"
   },
   "dJMce5": {
-    "message": "Prysm is a Go consensus client implementation of the Stratis protocol with a focus on usability, security, and reliability."
+    "message": "Prysm is a Go consensus client implementation of the Xertra protocol with a focus on usability, security, and reliability."
   },
   "dLE9FH": {
     "message": "If not, no withdrawal will be processed and account skipped"
@@ -2034,7 +2034,7 @@
     "message": "Setup"
   },
   "dwahMV": {
-    "message": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Stratis address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
+    "message": "You may choose to provide a withdrawal address with your initial deposit to automatically enable reward payments and also the ability to fully exit your funds at anytime (recommended). This address should be to a regular Xertra address and will be the only address funds can be sent to from your new validator accounts, and cannot be changed once chosen."
   },
   "dzdAcD": {
     "message": "Default Port"
@@ -2140,7 +2140,7 @@
     "message": "Use {auroria} to sync the Strax testnet."
   },
   "gQkd2y": {
-    "message": "Generate deposit keys using the Stratis deposit tool"
+    "message": "Generate deposit keys using the Xertra deposit tool"
   },
   "gVC0Wl": {
     "message": "It uses the assisted password in your secrets folder."
@@ -2233,7 +2233,7 @@
     "message": "Clients"
   },
   "iFWLYC": {
-    "message": "You can think of the deposit contract as a transfer of funds from an Stratis account to a proof-of-stake validator account."
+    "message": "You can think of the deposit contract as a transfer of funds from an Xertra account to a proof-of-stake validator account."
   },
   "iJXdUH": {
     "message": "docs"
@@ -2273,7 +2273,7 @@
     "message": "Number of empty slots (missed block opportunities, variable, typically minimal)"
   },
   "iqJ3LM": {
-    "message": "PegaSys Teku is a Java-based Stratis consensus client built to meet institutional needs and security requirements."
+    "message": "PegaSys Teku is a Java-based Xertra consensus client built to meet institutional needs and security requirements."
   },
   "iqy/7c": {
     "message": "To enable your Beacon Chain validator(s) to automatically withdraw balances to your {executionAddress}, you can use the staking deposit CLI tool to generate the signed “BLS To Execution Change” ({signed}) message JSON file. This message includes the request to change your old BLS withdrawal credentials to the new withdrawal credentials in execution address format."
@@ -2288,13 +2288,13 @@
     "message": "A withdrawal address has not been set for these validators. Staked funds and rewards will remain locked until withdrawal credentials are provided."
   },
   "j8GPOH": {
-    "message": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Stratis platform."
+    "message": "Formerly known as Artemis, Teku is a consensus client built to meet institutional needs and security requirements. PegaSys is an arm of ConsenSys, dedicated to building enterprise-ready clients and tools for interacting with the core Xertra platform."
   },
   "jBr8vs": {
     "message": "The execution address for withdrawals"
   },
   "jVlgXS": {
-    "message": "Dig deeper into the Stratis roadmap."
+    "message": "Dig deeper into the Xertra roadmap."
   },
   "jXer8/": {
     "message": "Prysm documentation"
@@ -2346,7 +2346,7 @@
     "message": "View Wagyu Key Gen audit by HashCloak"
   },
   "k4x6Ud": {
-    "message": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Stratis chain of today."
+    "message": "This marked the merging of the execution layer (existing Mainnet) with the new consensus layer (the Beacon Chain) to form the single Xertra chain of today."
   },
   "k67L48": {
     "message": "Install dependencies:"
@@ -2367,7 +2367,7 @@
     "message": "Time to complete"
   },
   "kSt9db": {
-    "message": "As of the Shanghai/Capella upgrade withdrawals have been enabled on the Beacon Chain, with the inclusion of {eip}. This Stratis Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
+    "message": "As of the Shanghai/Capella upgrade withdrawals have been enabled on the Beacon Chain, with the inclusion of {eip}. This Xertra Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
   },
   "kTt/ND": {
     "message": "Russian"
@@ -2451,7 +2451,7 @@
     "message": "Upload the deposit data file you just generated. The {json} is located in your {validatorKeys} directory."
   },
   "lfHCV+": {
-    "message": "Nimbus is a research project and a consensus client implementation for Stratis designed to perform well on embedded systems and personal mobile devices."
+    "message": "Nimbus is a research project and a consensus client implementation for Xertra designed to perform well on embedded systems and personal mobile devices."
   },
   "lfV1bj": {
     "message": "Importing from Launchpad documentation"
@@ -2472,10 +2472,10 @@
     "message": "Hard drive"
   },
   "mH6bSl": {
-    "message": "Since the successful transition to proof-of-stake via The Merge, Stratis is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Stratis network."
+    "message": "Since the successful transition to proof-of-stake via The Merge, Xertra is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Xertra network."
   },
   "mROPz+": {
-    "message": "I provided an Stratis address when generating my {depositData} file before depositing where I would like all validator rewards and withdrawals to be deposited into."
+    "message": "I provided an Xertra address when generating my {depositData} file before depositing where I would like all validator rewards and withdrawals to be deposited into."
   },
   "mUZnem": {
     "message": "We strongly recommend you go through the entire process on a testnet first to get comfortable before risking real ETH."
@@ -2487,7 +2487,7 @@
     "message": "Validators"
   },
   "mc27Pv": {
-    "message": "A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Stratis network."
+    "message": "A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Xertra network."
   },
   "mcyp2f": {
     "message": "More on frequency of payouts below."
@@ -2502,7 +2502,7 @@
     "message": "All stakers must operate an execution client with their consensus client."
   },
   "mm+OKT": {
-    "message": "The Stratis roadmap"
+    "message": "The Xertra roadmap"
   },
   "mpmFDY": {
     "message": "No pending deposits"
@@ -2581,7 +2581,7 @@
     "message": "Withdrawals enabled"
   },
   "oDObOQ": {
-    "message": "If the “eth1 withdrawal address” was not provided on initial deposit, you can submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your desired Stratis withdrawal address. This address can only be provided once, and cannot be changed again."
+    "message": "If the “eth1 withdrawal address” was not provided on initial deposit, you can submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your desired Xertra withdrawal address. This address can only be provided once, and cannot be changed again."
   },
   "oF4os+": {
     "message": "Currently Prysm is used by >33% of the network."
@@ -2645,7 +2645,7 @@
     "message": "Use {auroria} to sync the Strax testnet."
   },
   "p+kDTB": {
-    "message": "Stratis users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
+    "message": "Xertra users are used to transactions being executed in a manual way—if you want to transfer funds, you have to sign a transaction and pay the gas."
   },
   "p0b6zX": {
     "message": "More on Status"
@@ -2703,7 +2703,7 @@
     "message": "As a validator you are rewarded for proposing/attesting to blocks that are included in the chain."
   },
   "q8Cxf5": {
-    "message": "BLS credentials: By default, the deposit CLI would generate withdrawal credentials with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible with Beacon Chain withdrawals and must be updated to Stratis address credentials to enable withdrawals."
+    "message": "BLS credentials: By default, the deposit CLI would generate withdrawal credentials with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible with Beacon Chain withdrawals and must be updated to Xertra address credentials to enable withdrawals."
   },
   "qB6aU6": {
     "message": "What happened to 'Eth2?'"
@@ -2791,7 +2791,7 @@
     "message": "Teku can also be configured via a YAML file which is passed in via a few different ways."
   },
   "sMHQRT": {
-    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Stratis, Consensys, and private individuals."
+    "message": "A consensus client with a heavy focus on speed and security. Built by Sigma Prime, an information security and software engineering firm who have funded Lighthouse along with the Xertra, Consensys, and private individuals."
   },
   "sNUrEO": {
     "message": "If not, I've submitted a {btec} message signed with my BLS withdrawal keys to update my withdrawal credentials."
@@ -2870,7 +2870,7 @@
     "message": "Status"
   },
   "u/3saa": {
-    "message": "Your wallet is on the wrong Stratis network. To continue, connect to {executionLayerName}."
+    "message": "Your wallet is on the wrong Xertra network. To continue, connect to {executionLayerName}."
   },
   "u28qA1": {
     "message": "After depositing"
@@ -2891,7 +2891,7 @@
     "message": "Execution credentials: If you want to withdraw to your execution wallet address you can set an “eth1 withdrawal address” using {ethAddressWithdraw} when running the deposit CLI. {boldWarning}"
   },
   "uHSqYx": {
-    "message": "An {excessBalanceWithdrawal} is processed when an active validator has a maxed out effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}. A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have any extra balance automatically withdrawn to their Stratis address."
+    "message": "An {excessBalanceWithdrawal} is processed when an active validator has a maxed out effective balance of {PRICE_PER_VALIDATOR} {TICKER_NAME}, and has a total balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}. A single validator cannot get rewards on excess balance over {PRICE_PER_VALIDATOR} {TICKER_NAME}, and thus these accounts will have any extra balance automatically withdrawn to their Xertra address."
   },
   "uJzGSb": {
     "message": "Make sure you're aware of how to avoid phishing attacks. We've prepared a list of things to look out for."
@@ -2931,7 +2931,7 @@
     "message": "I've simulated how to safely migrate from one execution client to another."
   },
   "vBOf5K": {
-    "message": "Your balance is updated periodically by the Stratis network rules as you carry (or fail to carry) out your responsibilities."
+    "message": "Your balance is updated periodically by the Xertra network rules as you carry (or fail to carry) out your responsibilities."
   },
   "vCHTnu": {
     "message": "Withdrawal credentials"
@@ -2940,7 +2940,7 @@
     "message": "Protect your funds using monitoring software, and learn how to handle different real world scenarios."
   },
   "vIF140": {
-    "message": "Become a validator and help secure the future of Stratis"
+    "message": "Become a validator and help secure the future of Xertra"
   },
   "vJez0K": {
     "message": "Proceed with caution. Our on-chain data source is down and we are unable to flag any double deposits."
@@ -3002,17 +3002,17 @@
     "message": "Testnet simulations"
   },
   "x0tVK4": {
-    "message": "Validating in Stratis is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
+    "message": "Validating in Xertra is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
   },
   "x4/9vY": {
     "message": "We strongly recommended you complete these steps on the current testnet before Mainnet."
   },
   "xDyl3T": {
-    "description": "{ethereumorg} is a link to deposit contract page on stratisevm.com",
+    "description": "{ethereumorg} is a link to deposit contract page on xertra.com",
     "message": "Cross check the deposit contract address against other websites – for example: Reddit, Twitter, and GitHub. There's also a list of trusted sources on {ethereumorg}"
   },
   "xETYo6": {
-    "message": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Stratis (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
+    "message": "If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is lost, and you have not updated your withdrawal credentials with an Xertra (execution) withdrawal address, there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator mnemonic is safely backed up."
   },
   "xGQ38+": {
     "message": "Has the validator completed the exiting process?"
@@ -3072,7 +3072,7 @@
     "message": "Your validator has its own balance, with the initial balance outlined in the deposit contract. Your rewards and penalties are reflected in your validator's balance over time."
   },
   "y44jV2": {
-    "message": "Several upgrades are underway that will make Stratis more scalable, secure, and sustainable. These upgrades will improve Stratis while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
+    "message": "Several upgrades are underway that will make Xertra more scalable, secure, and sustainable. These upgrades will improve Xertra while seamlessly continuing on the chain of today. Here's more on the different upgrades:"
   },
   "y4dBsA": {
     "message": "Configure time sync"
@@ -3124,7 +3124,7 @@
     "message": "I've set up my {prometheus} service."
   },
   "z8zpxp": {
-    "message": "Lodestar is an open-sourced TypeScript implementation of the Stratis Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Stratis proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
+    "message": "Lodestar is an open-sourced TypeScript implementation of the Xertra Consensus (formerly known as eth2) specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Xertra proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
   },
   "zAVb0/": {
     "message": "More on Lighthouse and Sigma Prime"
@@ -3140,7 +3140,7 @@
   },
   "zbEBi9": {
     "description": "{mainnet} shows '--config mainnet' terminal command",
-    "message": "Use {mainnet} to sync the Stratis mainnet."
+    "message": "Use {mainnet} to sync the Xertra mainnet."
   },
   "zicXn7": {
     "message": "Node security"

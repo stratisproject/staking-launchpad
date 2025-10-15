@@ -22,8 +22,8 @@ export const NIMBUS_INSTALLATION_URL    = process.env.REACT_APP_NIMBUS_INSTALLAT
 export const PRYSM_INSTALLATION_URL     = process.env.REACT_APP_PRYSM_INSTALLATION_URL   || 'https://docs.prylabs.network/docs/install/install-with-script';
 export const TEKU_INSTALLATION_URL      = process.env.REACT_APP_TEKU_INSTALLATION_URL    || 'https://docs.teku.pegasys.tech/en/latest/HowTo/Get-Started/Build-From-Source/';
 export const LODESTAR_INSTALLATION_URL  = process.env.REACT_APP_LODESTAR_INSTALLATION_URL  || 'https://chainsafe.github.io/lodestar/install/docker/';
-export const MAINNET_LAUNCHPAD_URL      = 'https://launchpad.stratisevm.com/'
-export const TESTNET_LAUNCHPAD_URL      = `https://${TESTNET_LAUNCHPAD_NAME.toLowerCase()}.launchpad.stratisevm.com/`
+export const MAINNET_LAUNCHPAD_URL      = 'https://launchpad.xertra.com/'
+export const TESTNET_LAUNCHPAD_URL      = `https://${TESTNET_LAUNCHPAD_NAME.toLowerCase()}.launchpad.xertra.com/`
 
 let elExplorerURL =  'https://auroria.etherscan.io';
 if (IS_NON_INFURA_TESTNET && process.env.REACT_APP_EL_EXPLORER_URL) {

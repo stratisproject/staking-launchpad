@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Stratis constă din nivelul "
+      "value": "Xertra constă din nivelul "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (care se ocupă de sarcinile de verificare a consensului cu dovada mizei, cunoscut anterior sub denumirea de „Eth2” sau „Stratis 2.0”)."
+      "value": " (care se ocupă de sarcinile de verificare a consensului cu dovada mizei, cunoscut anterior sub denumirea de „Eth2” sau „Xertra 2.0”)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Pasul 2: Generați chei de depunere folosind instrumentul de depunere al Stratis"
+      "value": "Pasul 2: Generați chei de depunere folosind instrumentul de depunere al Xertra"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "După fuziune, validatorii vor fi responsabili și de procesarea tranzacțiilor, având astfel drept la comisioanele de gaze nearse asociate cu tranzacțiile incluse când sunt propuse blocuri. Aceste comisioane sunt supuse unui strat de execuție, nu unui strat de consens și necesită, astfel, furnizarea unei adrese Stratis tradiționale clientului."
+      "value": "După fuziune, validatorii vor fi responsabili și de procesarea tranzacțiilor, având astfel drept la comisioanele de gaze nearse asociate cu tranzacțiile incluse când sunt propuse blocuri. Aceste comisioane sunt supuse unui strat de execuție, nu unui strat de consens și necesită, astfel, furnizarea unei adrese Xertra tradiționale clientului."
     }
   ],
   "/5Hyyf": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth este una dintre cele trei implementări originale ale protocolului Stratis, scris în Go."
+      "value": "Geth este una dintre cele trei implementări originale ale protocolului Xertra, scris în Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Am furnizat o adresă Stratis validatorului meu, unde aș dori ca recompensele mele să fie depuse."
+      "value": "Am furnizat o adresă Xertra validatorului meu, unde aș dori ca recompensele mele să fie depuse."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Mai multe despre economia mizării în Stratis"
+      "value": "Mai multe despre economia mizării în Xertra"
     }
   ],
   "1p+pb5": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Diversitatea clienților este extrem de importantă pentru sănătatea rețelei din Stratis: o eroare în cazul unui client cu o cotă de peste 33 % poate duce la o deconectare a Stratis. În cazul în care clientul are o supermajoritate (>66%), o eroare ar putea duce la o împărțire incorectă a lanțului, care ar putea duce la slashing."
+      "value": "Diversitatea clienților este extrem de importantă pentru sănătatea rețelei din Xertra: o eroare în cazul unui client cu o cotă de peste 33 % poate duce la o deconectare a Xertra. În cazul în care clientul are o supermajoritate (>66%), o eroare ar putea duce la o împărțire incorectă a lanțului, care ar putea duce la slashing."
     }
   ],
   "2t/3ab": [
@@ -858,7 +858,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Aceste actualizări ale terminologiei modifică numai convențiile pentru denumiri, și nu obiectivele sau foaia de parcurs a lui Stratis."
+      "value": "Aceste actualizări ale terminologiei modifică numai convențiile pentru denumiri, și nu obiectivele sau foaia de parcurs a lui Xertra."
     }
   ],
   "3URRZK": [
@@ -1442,7 +1442,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Un client Stratis conceput pentru a facilita activitatea întreprinderilor în scenariile de rețea cu permisiuni, publice și private."
+      "value": "Un client Xertra conceput pentru a facilita activitatea întreprinderilor în scenariile de rețea cu permisiuni, publice și private."
     }
   ],
   "8yom7x": [
@@ -1642,7 +1642,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Ca să fie acceptat contractul de depunere pentru mizarea pe Stratis, trebuie să trimiteți dintr-odată cel puțin "
+      "value": "Ca să fie acceptat contractul de depunere pentru mizarea pe Xertra, trebuie să trimiteți dintr-odată cel puțin "
     },
     {
       "type": 1,
@@ -1688,7 +1688,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Asigurați-vă că descărcați din contul GitHub oficial al Stratis, prin verificarea url-ului: "
+      "value": "Asigurați-vă că descărcați din contul GitHub oficial al Xertra, prin verificarea url-ului: "
     },
     {
       "type": 1,
@@ -1698,7 +1698,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Fragmentarea va schimba cerința ca nodurile complete să conțină întreaga istorie a lanțului și va distribui în schimb această sarcină în rețea, asigurând în același timp disponibilitatea datelor. Acest lucru va spori în mod semnificativ capacitatea nivelului 1 Stratis, menținând în același timp capacitatea de a opera un nod complet pe hardware-ul consumatorului, păstrând rețeaua descentralizată."
+      "value": "Fragmentarea va schimba cerința ca nodurile complete să conțină întreaga istorie a lanțului și va distribui în schimb această sarcină în rețea, asigurând în același timp disponibilitatea datelor. Acest lucru va spori în mod semnificativ capacitatea nivelului 1 Xertra, menținând în același timp capacitatea de a opera un nod complet pe hardware-ul consumatorului, păstrând rețeaua descentralizată."
     }
   ],
   "Affixg": [
@@ -1754,7 +1754,7 @@
     },
     {
       "type": 0,
-      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 STRAX și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Stratis."
+      "value": " este procesată când un validator activ are un sold efectiv maxim de 32 și un sold total de peste 32. Un singur validator nu poate obține recompense pentru soldul care depășește 32 STRAX și, astfel, orice sold suplimentar al acestor conturi va fi extras automat în adresa Xertra."
     }
   ],
   "RY4SP0": [
@@ -1992,7 +1992,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Mai multe despre viziunea Stratis"
+      "value": "Mai multe despre viziunea Xertra"
     }
   ],
   "CdKEd/": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Pentru a primi recompense pentru comisionul de tranzacție, participanții trebuie să furnizeze o adresă pentru destinatarul taxei pentru clientul cu nivel de consens. Aceasta este o adresă Stratis normală cu care sunteți obișnuiți."
+      "value": "Pentru a primi recompense pentru comisionul de tranzacție, participanții trebuie să furnizeze o adresă pentru destinatarul taxei pentru clientul cu nivel de consens. Aceasta este o adresă Xertra normală cu care sunteți obișnuiți."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Stratis a apărut pe data de 30 iulie 2015. Dimensiunea fenomenului crește în timp, iar introducerea fragmentării va spori și cerințele de stocare, memorie și lățime de bandă."
+      "value": "Xertra a apărut pe data de 30 iulie 2015. Dimensiunea fenomenului crește în timp, iar introducerea fragmentării va spori și cerințele de stocare, memorie și lățime de bandă."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Retragerea adresei Stratis: dacă doriți să retrageți adresa portofelului de execuție după modernizarea Shanghai/Capella, puteți seta "
+      "value": "Retragerea adresei Xertra: dacă doriți să retrageți adresa portofelului de execuție după modernizarea Shanghai/Capella, puteți seta "
     },
     {
       "type": 1,
@@ -2416,7 +2416,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Un client Stratis cu un grup uriaș de dezvoltatori. Este perfect pentru sistemele de nivel enterprise."
+      "value": "Un client Xertra cu un grup uriaș de dezvoltatori. Este perfect pentru sistemele de nivel enterprise."
     }
   ],
   "FgraU0": [
@@ -2672,7 +2672,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Erigon, denumit anterior TurboGeth, este un client Stratis care a fost creat în scopul optimizării performanțelor."
+      "value": "Erigon, denumit anterior TurboGeth, este un client Xertra care a fost creat în scopul optimizării performanțelor."
     }
   ],
   "ID3Pgm": [
@@ -2838,7 +2838,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Aprofundați-vă cunoștințele despre actualizările Stratis."
+      "value": "Aprofundați-vă cunoștințele despre actualizările Xertra."
     }
   ],
   "JhUYU3": [
@@ -3118,7 +3118,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Vă mulțumim pentru sprijinul oferit rețelei Stratis!"
+      "value": "Vă mulțumim pentru sprijinul oferit rețelei Xertra!"
     }
   ],
   "LpnfTF": [
@@ -3162,7 +3162,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Stratis, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe STRAX și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
+      "value": "Xertra este securizat prin dovada mizei, deși acest lucru nu a fost întotdeauna valabil. Lanțul Beacon a reprezentat primul pas către stabilirea unui strat de consens PoS pentru Xertra, care a fost lansat în paralel cu Mainnet în decembrie 2020. Acest lucru a permis participanților să înceapă să mizeze pe STRAX și să pregătească rețeaua pentru tranziția formală de la dovada muncii la dovada mizei, prin intermediul Fuziunii."
     }
   ],
   "LwEHRm": [
@@ -3234,7 +3234,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Cum se scalează Stratis?"
+      "value": "Cum se scalează Xertra?"
     }
   ],
   "MaZo9k": [
@@ -3258,7 +3258,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Acest panou de lansare vă va ajuta să deveniți validator, ca să puteți juca un rol activ în viitorul Stratis. Validatorii sunt cheia unui Stratis mai sigur, mai scalabil și sustenabil pe care îl construim împreună."
+      "value": "Acest panou de lansare vă va ajuta să deveniți validator, ca să puteți juca un rol activ în viitorul Xertra. Validatorii sunt cheia unui Xertra mai sigur, mai scalabil și sustenabil pe care îl construim împreună."
     }
   ],
   "Mc8nNE": [
@@ -3270,7 +3270,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Actualizările Stratis se vor efectua cu succes numai dacă validatorii înțeleg care sunt riscurile și responsabilitățile."
+      "value": "Actualizările Xertra se vor efectua cu succes numai dacă validatorii înțeleg care sunt riscurile și responsabilitățile."
     }
   ],
   "MmZjeu": [
@@ -3430,7 +3430,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Aflați mai multe despre rolurile și responsabilitățile validatorilor Stratis."
+      "value": "Aflați mai multe despre rolurile și responsabilitățile validatorilor Xertra."
     }
   ],
   "Nb5DNK": [
@@ -3532,7 +3532,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu este un client open-source Stratis dezvoltat sub licența Apache 2.0 și scris în Java."
+      "value": "Hyperledger Besu este un client open-source Xertra dezvoltat sub licența Apache 2.0 și scris în Java."
     }
   ],
   "OIvXIO": [
@@ -3630,13 +3630,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Phishing-ul este un risc absolut real pentru validatorii Stratis și, din nefericire, multă lume își pierde fondurile din cauza atacurilor de acest fel."
+      "value": "Phishing-ul este un risc absolut real pentru validatorii Xertra și, din nefericire, multă lume își pierde fondurile din cauza atacurilor de acest fel."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Upgrade-ul Lanțului Beacon aduce consens cu dovada mizei în Stratis."
+      "value": "Upgrade-ul Lanțului Beacon aduce consens cu dovada mizei în Xertra."
     }
   ],
   "P1QerV": [
@@ -3860,7 +3860,7 @@
     },
     {
       "type": 0,
-      "value": " la contractul de depozit din lanțul Stratis curent."
+      "value": " la contractul de depozit din lanțul Xertra curent."
     }
   ],
   "QlsDcr": [
@@ -4122,7 +4122,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validatorii și Stratis"
+      "value": "Validatorii și Xertra"
     }
   ],
   "TMw9oz": [
@@ -4134,7 +4134,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Termenii „Eth1” și „Eth2” au fost scoși din uz odată cu Fuziunea. De la trecerea cu succes la dovada mizei prin intermediul Fuziunii, nu mai există două rețele Stratis distincte; există doar Stratis."
+      "value": "Termenii „Eth1” și „Eth2” au fost scoși din uz odată cu Fuziunea. De la trecerea cu succes la dovada mizei prin intermediul Fuziunii, nu mai există două rețele Xertra distincte; există doar Xertra."
     }
   ],
   "TfNuWP": [
@@ -4196,7 +4196,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Verificați contractul de depozit cu explorerul de bloc Stratis preferat:"
+      "value": "Verificați contractul de depozit cu explorerul de bloc Xertra preferat:"
     }
   ],
   "UYRyWv": [
@@ -4242,7 +4242,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Una dintre cele trei implementări inițiale ale protocolului Stratis."
+      "value": "Una dintre cele trei implementări inițiale ale protocolului Xertra."
     }
   ],
   "UykRIk": [
@@ -5150,7 +5150,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Deveniți validator și contribuiți la asigurarea viitorului sistemului Stratis."
+      "value": "Deveniți validator și contribuiți la asigurarea viitorului sistemului Xertra."
     }
   ],
   "cRzxes": [
@@ -5244,7 +5244,7 @@
     },
     {
       "type": 0,
-      "value": " este un câmp de 32 de octeți din depozit ce servește la verificarea destinației retragerilor valide. Există actualmente două tipuri de retrageri: retragerea prin BLS și retragerea prin adresa Stratis."
+      "value": " este un câmp de 32 de octeți din depozit ce servește la verificarea destinației retragerilor valide. Există actualmente două tipuri de retrageri: retragerea prin BLS și retragerea prin adresa Xertra."
     }
   ],
   "8FjJDx": [
@@ -5262,7 +5262,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm este o implementare a protocolului Stratis prin clienți cu nivel de consens în Go, axată pe facilitatea utilizării, securitate și fiabilitate."
+      "value": "Prysm este o implementare a protocolului Xertra prin clienți cu nivel de consens în Go, axată pe facilitatea utilizării, securitate și fiabilitate."
     }
   ],
   "dLE9FH": [
@@ -5550,7 +5550,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Puteți alege să oferiți o adresă de retragere la momentul efectuării depozitului inițial pentru a activa automat plățile de recompensă și, de asemenea, capacitatea de a retrage complet fondurile oricând, după actualizarea Shanghai/Capella. Această adresă trebuie să fie o adresă Stratis obișnuită și va fi singura adresă la care se pot trimite fonduri din noile conturi de validator."
+      "value": "Puteți alege să oferiți o adresă de retragere la momentul efectuării depozitului inițial pentru a activa automat plățile de recompensă și, de asemenea, capacitatea de a retrage complet fondurile oricând, după actualizarea Shanghai/Capella. Această adresă trebuie să fie o adresă Xertra obișnuită și va fi singura adresă la care se pot trimite fonduri din noile conturi de validator."
     }
   ],
   "fZwn+P": [
@@ -5654,7 +5654,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generează chei de depunere folosind instrumentul de depunere al Stratis"
+      "value": "Generează chei de depunere folosind instrumentul de depunere al Xertra"
     }
   ],
   "gVC0Wl": [
@@ -5884,7 +5884,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Puteți considera contractul de depunere ca transfer de fonduri între un cont Stratis și un cont de validator cu dovada mizei."
+      "value": "Puteți considera contractul de depunere ca transfer de fonduri între un cont Xertra și un cont de validator cu dovada mizei."
     }
   ],
   "iJXdUH": [
@@ -5976,7 +5976,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku este un client cu nivel de consens Stratis bazat pe Java al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea."
+      "value": "PegaSys Teku este un client cu nivel de consens Xertra bazat pe Java al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea."
     }
   ],
   "XRUCUL": [
@@ -6014,7 +6014,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Cunoscut anterior ca Artemis, Teku este un client cu nivel de consens al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea. PegaSys este o ramură a ConsenSys consacrată creării de clienți și instrumente enterprise gata de a interacționa cu platforma centrală Stratis."
+      "value": "Cunoscut anterior ca Artemis, Teku este un client cu nivel de consens al cărui scop este de a satisface necesitățile instituționale și cerințele privind securitatea. PegaSys este o ramură a ConsenSys consacrată creării de clienți și instrumente enterprise gata de a interacționa cu platforma centrală Xertra."
     }
   ],
   "jBr8vs": [
@@ -6124,7 +6124,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Aceasta a marcat fuzionarea stratului de execuție (Mainnet existent) cu noul strat de consens (lanțul Beacon) pentru a forma singurul lanț Stratis de astăzi."
+      "value": "Aceasta a marcat fuzionarea stratului de execuție (Mainnet existent) cu noul strat de consens (lanțul Beacon) pentru a forma singurul lanț Xertra de astăzi."
     }
   ],
   "k67L48": [
@@ -6182,7 +6182,7 @@
     },
     {
       "type": 0,
-      "value": ". Această propunere de îmbunătățire a Stratis permite retragerea automată a recompenselor în stratul de execuție și, de asemenea, oferă o modalitate pentru validatorii care au ieșit să deblocheze întregul sold — nu este necesar gaz."
+      "value": ". Această propunere de îmbunătățire a Xertra permite retragerea automată a recompenselor în stratul de execuție și, de asemenea, oferă o modalitate pentru validatorii care au ieșit să deblocheze întregul sold — nu este necesar gaz."
     }
   ],
   "kTt/ND": [
@@ -6242,7 +6242,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Actualizarea fuziunii a adus în mod oficial dovada mizei la Stratis pe 15 septembrie 2022, perimând în același timp dovada muncii. Aceasta a pregătit lanțul pentru viitoare actualizări de scalare, cum ar fi fragmentarea datelor, prin aducerea consensului cu dovada mizei cu Mainnet, reducând în acelaşi timp consumul de energie cu peste 99,9%."
+      "value": "Actualizarea fuziunii a adus în mod oficial dovada mizei la Xertra pe 15 septembrie 2022, perimând în același timp dovada muncii. Aceasta a pregătit lanțul pentru viitoare actualizări de scalare, cum ar fi fragmentarea datelor, prin aducerea consensului cu dovada mizei cu Mainnet, reducând în acelaşi timp consumul de energie cu peste 99,9%."
     }
   ],
   "kuYpoI": [
@@ -6430,7 +6430,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus este un proiect de cercetare și o implementare pentru clienții de consens pe Stratis destinat să funcționeze bine pe sistemele integrate și pe dispozitivele mobile personale."
+      "value": "Nimbus este un proiect de cercetare și o implementare pentru clienții de consens pe Xertra destinat să funcționeze bine pe sistemele integrate și pe dispozitivele mobile personale."
     }
   ],
   "lfV1bj": [
@@ -6486,13 +6486,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "De la tranziția cu succes la dovada mizei prin intermediul Fuziunii, Stratis este pe deplin asigurată de validatori cu dovada mizei. Prin rularea unui validator, veți ajuta la securizarea rețelei Stratis."
+      "value": "De la tranziția cu succes la dovada mizei prin intermediul Fuziunii, Xertra este pe deplin asigurată de validatori cu dovada mizei. Prin rularea unui validator, veți ajuta la securizarea rețelei Xertra."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "Am furnizat o adresă Stratis la generarea fișierului meu "
+      "value": "Am furnizat o adresă Xertra la generarea fișierului meu "
     },
     {
       "type": 1,
@@ -6532,7 +6532,7 @@
     },
     {
       "type": 0,
-      "value": " este o entitate virtuală care din lanțul Beacon, reprezentat de un bilanț, cheia publică și alte proprietăți și participă la consensul rețelei Stratis."
+      "value": " este o entitate virtuală care din lanțul Beacon, reprezentat de un bilanț, cheia publică și alte proprietăți și participă la consensul rețelei Xertra."
     }
   ],
   "mcyp2f": [
@@ -6842,7 +6842,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Utilizatorii Stratis sunt utilizați pentru tranzacțiile care sunt executate manual. Dacă doriți să transferați fonduri, trebuie să semnați o tranzacție și să plătiți gazul."
+      "value": "Utilizatorii Xertra sunt utilizați pentru tranzacțiile care sunt executate manual. Dacă doriți să transferați fonduri, trebuie să semnați o tranzacție și să plătiți gazul."
     }
   ],
   "p0b6zX": [
@@ -7212,7 +7212,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Un client cu nivel de consens ce se axează majoritar pe viteză și securitate. Creat de Sigma Prime, o firmă de securizare a informațiilor și de inginerie software care a finanțat Lighhouse împreună cu Fundația Stratis, Consensys și persoane independente."
+      "value": "Un client cu nivel de consens ce se axează majoritar pe viteză și securitate. Creat de Sigma Prime, o firmă de securizare a informațiilor și de inginerie software care a finanțat Lighhouse împreună cu Fundația Xertra, Consensys și persoane independente."
     }
   ],
   "sToVAS": [
@@ -7316,7 +7316,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Specificațiile nivelului de consens din Stratis"
+      "value": "Specificațiile nivelului de consens din Xertra"
     }
   ],
   "teyxVk": [
@@ -7384,7 +7384,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Actualizările Stratis"
+      "value": "Actualizările Xertra"
     }
   ],
   "tzMNF3": [
@@ -7396,7 +7396,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Portofelul dumneavoastră este într-o rețea Stratis greșită. Pentru a continua, conectați-vă la "
+      "value": "Portofelul dumneavoastră este într-o rețea Xertra greșită. Pentru a continua, conectați-vă la "
     },
     {
       "type": 1,
@@ -7572,7 +7572,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Soldul este actualizat periodic de regulile rețelei Stratis, pe măsură ce te achiți (sau nu) de responsabilități."
+      "value": "Soldul este actualizat periodic de regulile rețelei Xertra, pe măsură ce te achiți (sau nu) de responsabilități."
     }
   ],
   "vCHTnu": [
@@ -7590,7 +7590,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Devino validator și contribuie la asigurarea viitorului sistemului Stratis"
+      "value": "Devino validator și contribuie la asigurarea viitorului sistemului Xertra"
     }
   ],
   "vJez0K": [
@@ -7770,7 +7770,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Validarea în Stratis este diferită de minerit. Rezultatele sunt similare: munca pe care o faci extinde și securizează lanțul, dar procesul este complet diferit, pentru că folosesc mecanisme de consens diferite."
+      "value": "Validarea în Xertra este diferită de minerit. Rezultatele sunt similare: munca pe care o faci extinde și securizează lanțul, dar procesul este complet diferit, pentru că folosesc mecanisme de consens diferite."
     }
   ],
   "x4/9vY": [
@@ -7940,7 +7940,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Sunt în curs mai mutle actualizări ce vor oferi lui Stratis mai multă scalabilitate, securitate și sustenabilitate. Aceste actualizări vor fi benefice pentru Stratis și îi vor permite să își continue activitatea pe lanțul actual. Iată mai multe informații despre diversele actualizări:"
+      "value": "Sunt în curs mai mutle actualizări ce vor oferi lui Xertra mai multă scalabilitate, securitate și sustenabilitate. Aceste actualizări vor fi benefice pentru Xertra și îi vor permite să își continue activitatea pe lanțul actual. Iată mai multe informații despre diversele actualizări:"
     }
   ],
   "y4dBsA": [
@@ -8072,7 +8072,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar este o implementare open-source, de tip TypeScript, a specificației Consens Stratis (cunoscută anterior ca et2) menținută de sistemele ChainSafe. Scopul ChainSafe este de a dezvolta, de a îmbunătăți și diversifica ecosistemul Stratis al dovezii mizei cu Lanțul Beacon și cu clientul validator, cu accent pe implementarea ușoară a clientului."
+      "value": "Lodestar este o implementare open-source, de tip TypeScript, a specificației Consens Xertra (cunoscută anterior ca et2) menținută de sistemele ChainSafe. Scopul ChainSafe este de a dezvolta, de a îmbunătăți și diversifica ecosistemul Xertra al dovezii mizei cu Lanțul Beacon și cu clientul validator, cu accent pe implementarea ușoară a clientului."
     }
   ],
   "zAVb0/": [
@@ -8118,7 +8118,7 @@
     },
     {
       "type": 0,
-      "value": " pentru a sincroniza rețeaua principală Stratis."
+      "value": " pentru a sincroniza rețeaua principală Xertra."
     }
   ],
   "zicXn7": [

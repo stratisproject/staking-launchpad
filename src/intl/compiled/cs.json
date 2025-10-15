@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Stratis bude tvořeno dvěma vrstvami: "
+      "value": "Xertra bude tvořeno dvěma vrstvami: "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (zpracovává úlohy konsenzu důkazu podílem, dříve Eth2 nebo Stratis 2.0)."
+      "value": " (zpracovává úlohy konsenzu důkazu podílem, dříve Eth2 nebo Xertra 2.0)."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Krok 2: Pomocí nástroje pro vklady od Stratis vygenerujte vkladové klíče"
+      "value": "Krok 2: Pomocí nástroje pro vklady od Xertra vygenerujte vkladové klíče"
     }
   ],
   "+UUcBt": [
@@ -224,7 +224,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth je jedna ze tří původních implementací protokolu Stratis napsaná v jazyce Go."
+      "value": "Geth je jedna ze tří původních implementací protokolu Xertra napsaná v jazyce Go."
     }
   ],
   "/ub26/": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Rozmanitost klientů je velmi důležitá pro stav sítě Stratis: Chyba v klientovi s více než 33% podílem může způsobit odpojení Etherea. Pokud má klient kvalifikovanou většinu (více než 66 %), případná chyba by mohla způsobit nesprávné rozdělení řetězce a mohla by vést i k postihu."
+      "value": "Rozmanitost klientů je velmi důležitá pro stav sítě Xertra: Chyba v klientovi s více než 33% podílem může způsobit odpojení Etherea. Pokud má klient kvalifikovanou většinu (více než 66 %), případná chyba by mohla způsobit nesprávné rozdělení řetězce a mohla by vést i k postihu."
     }
   ],
   "2t/3ab": [
@@ -1450,7 +1450,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Stratis klient navržený tak, aby byl vhodný pro veřejné i soukromé sítě s oprávněními v podnicích."
+      "value": "Xertra klient navržený tak, aby byl vhodný pro veřejné i soukromé sítě s oprávněními v podnicích."
     }
   ],
   "8yom7x": [
@@ -1696,7 +1696,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Ujistěte se, že stahujete z oficiálního účtu Stratis na GitHubu na následující webové adrese: "
+      "value": "Ujistěte se, že stahujete z oficiálního účtu Xertra na GitHubu na následující webové adrese: "
     },
     {
       "type": 1,
@@ -1762,7 +1762,7 @@
     },
     {
       "type": 0,
-      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 STRAX a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Stratis."
+      "value": " dojde ke zpracování, pokud má aktivní validátor maximální platný zůstatek 32 a celkový zůstatek je vyšší než 32. U stejného validátoru nelze získat odměnu při překročení 32 STRAX a nadměré zůstatky u těchto účtů budou proto automaticky vráceny na jejich adresu Xertra."
     }
   ],
   "RY4SP0": [
@@ -2330,7 +2330,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Stratis vzniklo 30. července 2015. Postupně nabírá na velikosti a zavedením tříštění se také zvýší jeho požadavky na úložiště, paměť a rychlost připojení."
+      "value": "Xertra vzniklo 30. července 2015. Postupně nabírá na velikosti a zavedením tříštění se také zvýší jeho požadavky na úložiště, paměť a rychlost připojení."
     }
   ],
   "FM92S0": [
@@ -2428,7 +2428,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Stratis klient s obrovským počtem vývojářů. Je ideální pro podnikové systémy."
+      "value": "Xertra klient s obrovským počtem vývojářů. Je ideální pro podnikové systémy."
     }
   ],
   "FgraU0": [
@@ -3178,7 +3178,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Přestože tomu tak vždy nebylo, Stratis je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Stratis a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat STRAX a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
+      "value": "Přestože tomu tak vždy nebylo, Xertra je zabezpečeno důkazem podílem. Řetězová vazba byla prvním krokem k vytvoření vrstvy konsenzu pro důkaz podílem v síti Xertra a byla v prosinci 2020 souběžně spuštěna s Hlavní sítí. Díky tomu mohli účastníci začít uzamykat STRAX a připravovat síť na formální přechod z důkazu prací na důkaz podílem prostřednictvím Sloučení."
     }
   ],
   "LwEHRm": [
@@ -3250,7 +3250,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Jak se Stratis škáluje?"
+      "value": "Jak se Xertra škáluje?"
     }
   ],
   "MaZo9k": [
@@ -3548,7 +3548,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu je opensourcový Stratis klient vyvinutý pod licencí Apache 2.0 a napsaný v Javě."
+      "value": "Hyperledger Besu je opensourcový Xertra klient vyvinutý pod licencí Apache 2.0 a napsaný v Javě."
     }
   ],
   "OIvXIO": [
@@ -4138,7 +4138,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validátoři a Stratis"
+      "value": "Validátoři a Xertra"
     }
   ],
   "TMw9oz": [
@@ -4150,7 +4150,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Pojmy Eth1 a Eth2 jsou od Sloučení zastaralé. Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení už neexistují dvě samostatné ethereové sítě. Existuje jen jedno Stratis."
+      "value": "Pojmy Eth1 a Eth2 jsou od Sloučení zastaralé. Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení už neexistují dvě samostatné ethereové sítě. Existuje jen jedno Xertra."
     }
   ],
   "TfNuWP": [
@@ -4208,7 +4208,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Zkontrolujte smlouvu o vkladu ve svém oblíbeném průzkumníku bloků pro Stratis:"
+      "value": "Zkontrolujte smlouvu o vkladu ve svém oblíbeném průzkumníku bloků pro Xertra:"
     }
   ],
   "UYRyWv": [
@@ -4254,7 +4254,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Jedna ze tří původních implementací protokolu Stratis."
+      "value": "Jedna ze tří původních implementací protokolu Xertra."
     }
   ],
   "UykRIk": [
@@ -5270,7 +5270,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm je implementace protokolu Stratis pomocí klienta konsenzu v jazyce Go se zaměřením na použitelnost, bezpečnost a spolehlivost."
+      "value": "Prysm je implementace protokolu Xertra pomocí klienta konsenzu v jazyce Go se zaměřením na použitelnost, bezpečnost a spolehlivost."
     }
   ],
   "dLE9FH": [
@@ -5558,7 +5558,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Podle potřeby si můžete zvolit adresu pro výběr s počátečním vkladem a automaticky tak povolit vyplácení odměn s možností kdykoli po aktualizaci Shanghai/Capella zcela odejít s finančními prostředky. Tato adresa by měla sloužit jako pravidelná Stratis adresa a bude jedinou adresou, na kterou můžete odesílat finanční prostředky z vašich nových účtů validátora."
+      "value": "Podle potřeby si můžete zvolit adresu pro výběr s počátečním vkladem a automaticky tak povolit vyplácení odměn s možností kdykoli po aktualizaci Shanghai/Capella zcela odejít s finančními prostředky. Tato adresa by měla sloužit jako pravidelná Xertra adresa a bude jedinou adresou, na kterou můžete odesílat finanční prostředky z vašich nových účtů validátora."
     }
   ],
   "fZwn+P": [
@@ -5662,7 +5662,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Pomocí nástroje pro vklady od Stratis vygenerujte vkladové klíče"
+      "value": "Pomocí nástroje pro vklady od Xertra vygenerujte vkladové klíče"
     }
   ],
   "gVC0Wl": [
@@ -5988,7 +5988,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku je klient konsenzu pro Stratis založený na Javě a je přizpůsobený potřebám institucí a požadavkům na zabezpečení."
+      "value": "PegaSys Teku je klient konsenzu pro Xertra založený na Javě a je přizpůsobený potřebám institucí a požadavkům na zabezpečení."
     }
   ],
   "XRUCUL": [
@@ -6026,7 +6026,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Teku (dříve Artemis) je klient konsenzu pro potřeby institucí a zabezpečení. PegaSys je odnož ConsenSys vyhrazená pro vývoj podnikových klientů a nástrojů k interakci s hlavní platformou Stratis."
+      "value": "Teku (dříve Artemis) je klient konsenzu pro potřeby institucí a zabezpečení. PegaSys je odnož ConsenSys vyhrazená pro vývoj podnikových klientů a nástrojů k interakci s hlavní platformou Xertra."
     }
   ],
   "jBr8vs": [
@@ -6254,7 +6254,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Upgrade s názvem Sloučení dne 15. září 2022 oficiálně pro Stratis zavedl důkaz podílem a zároveň zrušil důkaz prací. Tím byl řetěz připraven na budoucí škálovací upgrady, jako je tříštění dat, protože byl společně s Hlavní sítí zaveden konsenzus na základě důkazu podílem, a zároveň byla snížena spotřeba energie o více než 99,9 %."
+      "value": "Upgrade s názvem Sloučení dne 15. září 2022 oficiálně pro Xertra zavedl důkaz podílem a zároveň zrušil důkaz prací. Tím byl řetěz připraven na budoucí škálovací upgrady, jako je tříštění dat, protože byl společně s Hlavní sítí zaveden konsenzus na základě důkazu podílem, a zároveň byla snížena spotřeba energie o více než 99,9 %."
     }
   ],
   "kuYpoI": [
@@ -6442,7 +6442,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus je výzkumný projekt a implementace klienta konsenzu pro Stratis navržená tak, aby dobře fungovala na vestavěných systémech a osobních mobilních zařízeních."
+      "value": "Nimbus je výzkumný projekt a implementace klienta konsenzu pro Xertra navržená tak, aby dobře fungovala na vestavěných systémech a osobních mobilních zařízeních."
     }
   ],
   "lfV1bj": [
@@ -6498,7 +6498,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení je Stratis plně zabezpečováno validátory důkazu podílem. Provozováním validátoru pomáháte zabezpečit ethereovou síť."
+      "value": "Po úspěšném přechodu na důkaz podílem prostřednictvím Sloučení je Xertra plně zabezpečováno validátory důkazu podílem. Provozováním validátoru pomáháte zabezpečit ethereovou síť."
     }
   ],
   "mROPz+": [
@@ -6512,7 +6512,7 @@
     },
     {
       "type": 0,
-      "value": " jsem zadal/a adresu Stratis, na kterou chcí odesílat všechny odměny pro validátory a výběry."
+      "value": " jsem zadal/a adresu Xertra, na kterou chcí odesílat všechny odměny pro validátory a výběry."
     }
   ],
   "mUZnem": [
@@ -7216,7 +7216,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Klient konsenzu silně zaměřený na rychlost a zabezpečení. Vyvinula jej firma Sigma Prime zabývající se zabezpečením dat a vývojem softwaru, která financuje Lighthouse a dále Stratis, Consensys a různé jednotlivce."
+      "value": "Klient konsenzu silně zaměřený na rychlost a zabezpečení. Vyvinula jej firma Sigma Prime zabývající se zabezpečením dat a vývojem softwaru, která financuje Lighthouse a dále Xertra, Consensys a různé jednotlivce."
     }
   ],
   "sToVAS": [
@@ -7404,7 +7404,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Vaše peněženka je na nesprávné síti Stratis. Chcete-li pokračovat, připojte se k vrstvě "
+      "value": "Vaše peněženka je na nesprávné síti Xertra. Chcete-li pokračovat, připojte se k vrstvě "
     },
     {
       "type": 1,
@@ -7580,7 +7580,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Váš zůstatek je pravidelně aktualizován pravidly sítě Stratis podle toho, jak plníte (nebo neplníte) své povinnosti."
+      "value": "Váš zůstatek je pravidelně aktualizován pravidly sítě Xertra podle toho, jak plníte (nebo neplníte) své povinnosti."
     }
   ],
   "vCHTnu": [
@@ -7948,7 +7948,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Probíhá několik vylepšení, která zajistí vyšší škálovatelnost, bezpečnost a udržitelnost Etherea. Tyto upgrady vylepší Stratis a plynule navážou na současný řetězec. Další informace o jednotlivých upgradech najdete tady:"
+      "value": "Probíhá několik vylepšení, která zajistí vyšší škálovatelnost, bezpečnost a udržitelnost Etherea. Tyto upgrady vylepší Xertra a plynule navážou na současný řetězec. Další informace o jednotlivých upgradech najdete tady:"
     }
   ],
   "y4dBsA": [
@@ -8080,7 +8080,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar je open-source TypeScriptová implementace Stratis Consensus (dříve známé jako eth2) – specifikace spravovaná ChainSafe Systems. Cílem ChainSafe je rozvíjet, zlepšit a diverzifikovat ekosystém Etherea s důkazem podílem společně s řetězovou vazbou a klienty validátorů se zaměřením na drobné klientské implementace."
+      "value": "Lodestar je open-source TypeScriptová implementace Xertra Consensus (dříve známé jako eth2) – specifikace spravovaná ChainSafe Systems. Cílem ChainSafe je rozvíjet, zlepšit a diverzifikovat ekosystém Etherea s důkazem podílem společně s řetězovou vazbou a klienty validátorů se zaměřením na drobné klientské implementace."
     }
   ],
   "zAVb0/": [
@@ -8118,7 +8118,7 @@
   "zbEBi9": [
     {
       "type": 0,
-      "value": "Stratis mainnet synchronizujte přes "
+      "value": "Xertra mainnet synchronizujte přes "
     },
     {
       "type": 1,

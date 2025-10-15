@@ -65,7 +65,7 @@ export const SignupSteps = (): JSX.Element => {
             })}
             content={formatMessage({
               defaultMessage:
-                'The Stratis upgrades will only be successful if validators understand the risks and responsibilities.',
+                'The Xertra upgrades will only be successful if validators understand the risks and responsibilities.',
             })}
           >
             <Link to={routesEnum.FaqPage} primary>

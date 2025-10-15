@@ -18,8 +18,8 @@ export const LodestarDetails = ({ shortened }: { shortened?: boolean }) => (
     </SectionTitle>
     <Text className="mt10">
       <FormattedMessage
-        defaultMessage="Lodestar is an open-sourced TypeScript implementation of the Stratis Consensus (formerly known as eth2)
-                        specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Stratis
+        defaultMessage="Lodestar is an open-sourced TypeScript implementation of the Xertra Consensus (formerly known as eth2)
+                        specification maintained by ChainSafe Systems. ChainSafe's goal is to develop, improve and diversify the Xertra
                         proof of stake ecosystem with their beacon chain and validator client with a focus on light client implementations."
       />
     </Text>

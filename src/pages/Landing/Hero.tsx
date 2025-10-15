@@ -139,7 +139,7 @@ const LeslieImage: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
     <ScrollAnimation animateIn="fadeIn" delay={750} animateOnce>
       <StyledLeslieImgNode
         src={LargeLogoPNG}
-        alt="Leslie the Rhino - Stratis staking mascot"
+        alt="Leslie the Rhino - Xertra staking mascot"
         {...{ style }}
       />
     </ScrollAnimation>
@@ -187,7 +187,7 @@ export const Hero = () => {
                       color="brand"
                       className="my20"
                     >
-                      <FormattedMessage defaultMessage="Become a validator and help secure the future of Stratis" />
+                      <FormattedMessage defaultMessage="Become a validator and help secure the future of Xertra" />
                     </Heading>
                   </ScrollAnimation>
                   <ScrollAnimation animateIn="fadeInUp" delay={750} animateOnce>

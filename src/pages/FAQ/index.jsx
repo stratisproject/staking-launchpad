@@ -65,7 +65,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Stratis network."
+                defaultMessage="A {validator} is a virtual entity that lives on the Beacon Chain, represented by a balance, public key, and other properties, and participates in consensus of the Xertra network."
                 values={{
                   validator: (
                     <em>
@@ -219,7 +219,7 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="What is the deposit contract?" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="You can think of the deposit contract as a transfer of funds from an Stratis account to a proof-of-stake validator account." />
+              <FormattedMessage defaultMessage="You can think of the deposit contract as a transfer of funds from an Xertra account to a proof-of-stake validator account." />
             </Text>
             <Text className="mt10">
               <FormattedMessage
@@ -330,16 +330,16 @@ export const FAQ = () => {
               <FormattedMessage defaultMessage="What happened to 'Eth2?'" />
             </Heading>
             <Text className="mt10">
-              <FormattedMessage defaultMessage="The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Stratis networks; there is only Stratis." />
+              <FormattedMessage defaultMessage="The terms 'Eth1' and 'Eth2' have been deprecated with The Merge. Since successfully transitioning to proof-of-stake via The Merge, there are no longer two distinct Xertra networks; there is only Xertra." />
             </Text>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Stratis consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the
-                  {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Stratis 2.0')."
+                defaultMessage="Xertra consists of the {executionLayer} (handling transactions and execution, formerly 'Eth1'), and the
+                  {consensusLayer} (handling proof-of-stake consensus tasks, formerly 'Eth2' or 'Xertra 2.0')."
                 values={{
                   executionLayer: (
                     <Link
-                      to="https://stratisevm.com/en/glossary/#execution-layer"
+                      to="https://xertra.com/en/glossary/#execution-layer"
                       primary
                       inline
                     >
@@ -348,7 +348,7 @@ export const FAQ = () => {
                   ),
                   consensusLayer: (
                     <Link
-                      to="https://stratisevm.com/en/glossary/#consensus-layer"
+                      to="https://xertra.com/en/glossary/#consensus-layer"
                       primary
                       inline
                     >
@@ -362,11 +362,11 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="These terminology updates only change naming conventions; this does not alter
-                  Stratis's goals or roadmap."
+                  Xertra's goals or roadmap."
               />
             </Text>
             <Link
-              to="https://blog.stratisevm.com/2022/01/24/the-great-eth2-renaming/"
+              to="https://blog.xertra.com/2022/01/24/the-great-eth2-renaming/"
               primary
               className="mt20"
             >
@@ -487,7 +487,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="Your balance is updated periodically by the Stratis network rules
+                defaultMessage="Your balance is updated periodically by the Xertra network rules
                   as you carry (or fail to carry) out your responsibilities."
               />
             </Text>
@@ -500,7 +500,7 @@ export const FAQ = () => {
             </Text>
             <BlockQuote>
               <Text className="my20">
-                <FormattedMessage defaultMessage="Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Stratis address to be provided to your client." />
+                <FormattedMessage defaultMessage="Since The Merge, validators will also be responsible for processing transactions, and thus be entitled to unburnt gas fees associated with included transactions when proposing blocks. These fees are accounted for on the execution layer, not the consensus layer, and thus require a traditional Xertra address to be provided to your client." />
               </Text>
             </BlockQuote>
             <Link primary to="/checklist" className="mt20">
@@ -719,7 +719,7 @@ export const FAQ = () => {
                 values={{
                   greaterThan50Percent: (
                     <Link
-                      to="https://blog.stratisevm.com/2020/01/13/validated-staking-on-eth2-1-incentives/"
+                      to="https://blog.xertra.com/2020/01/13/validated-staking-on-eth2-1-incentives/"
                       primary
                       inline
                     >
@@ -798,7 +798,7 @@ export const FAQ = () => {
                 defaultMessage="{withdrawalCredentials} is a 32-byte field associated with every validator,
                   initially set during deposit, for verifying the destination of valid withdrawals. Currently,
                   there are two types of withdrawal credentials: BLS credentials (Type 0, or {type0}) and execution
-                  (Stratis address) credentials (Type 1, or {type1})."
+                  (Xertra address) credentials (Type 1, or {type1})."
                 values={{
                   withdrawalCredentials: (
                     <Link
@@ -820,7 +820,7 @@ export const FAQ = () => {
                   <FormattedMessage
                     defaultMessage="BLS credentials: By default, the deposit CLI would generate withdrawal credentials
                     with the {boldWithdrawalKey} derived via mnemonics in {eip2334} format. This format is not compatible
-                    with Beacon Chain withdrawals and must be updated to Stratis address credentials to enable withdrawals."
+                    with Beacon Chain withdrawals and must be updated to Xertra address credentials to enable withdrawals."
                     values={{
                       boldWithdrawalKey: (
                         <strong>
@@ -833,7 +833,7 @@ export const FAQ = () => {
                         <Link
                           primary
                           inline
-                          to="https://eips.stratisevm.com/EIPS/eip-2334"
+                          to="https://eips.xertra.com/EIPS/eip-2334"
                         >
                           EIP2334
                         </Link>
@@ -880,7 +880,7 @@ export const FAQ = () => {
                 <FormattedMessage
                   defaultMessage="If the “eth1 withdrawal address” was not provided on initial deposit, you can
                   submit a once-only {BTEC} message signed with your BLS withdrawal keys to specific your
-                  desired Stratis withdrawal address. This address can only be provided once, and cannot be changed again."
+                  desired Xertra withdrawal address. This address can only be provided once, and cannot be changed again."
                   values={{
                     BTEC: (
                       <em>
@@ -924,7 +924,7 @@ export const FAQ = () => {
                       <Link
                         primary
                         inline
-                        to="https://eips.stratisevm.com/EIPS/eip-2334"
+                        to="https://eips.xertra.com/EIPS/eip-2334"
                       >
                         EIP2334
                       </Link>
@@ -944,7 +944,7 @@ export const FAQ = () => {
             </BlockQuote>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="If you've already provided an Stratis withdrawal address for your withdrawal credentials, your
+                defaultMessage="If you've already provided an Xertra withdrawal address for your withdrawal credentials, your
                 entire remaining balance will be transferred to this address upon exit. If not, your mnemonic will still be
                 needed to generate your withdrawal key to set your withdrawal address."
               />
@@ -957,7 +957,7 @@ export const FAQ = () => {
             <Text className="mt10">
               <FormattedMessage
                 defaultMessage="If you lose your withdrawal key, your mnemonic will be needed to recover. If your mnemonic is
-                lost, and you have not updated your withdrawal credentials with an Stratis (execution) withdrawal address,
+                lost, and you have not updated your withdrawal credentials with an Xertra (execution) withdrawal address,
                 there is no way to access to the funds held by your validator. As such, it is essential to ensure your validator
                 mnemonic is safely backed up."
               />
@@ -1048,7 +1048,7 @@ export const FAQ = () => {
             </Heading>
             <Text className="mt10">
               <FormattedMessage
-                defaultMessage="If you have questions, Stratis Platform community is a good place to get
+                defaultMessage="If you have questions, Xertra Platform community is a good place to get
                   help! You can find support on {discord} or {reddit}."
                 values={{
                   discord: (
@@ -1057,7 +1057,7 @@ export const FAQ = () => {
                     </Link>
                   ),
                   reddit: (
-                    <Link primary inline to="https://www.reddit.com/r/stratisplatform/">
+                    <Link primary inline to="https://www.reddit.com/r/xertra/">
                       Reddit
                     </Link>
                   ),

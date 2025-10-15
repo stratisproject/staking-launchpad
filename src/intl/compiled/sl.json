@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Stratis je sestavljen iz "
+      "value": "Xertra je sestavljen iz "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (obdelava nalog za doseganje soglasja z dokazom o deležu, prej 'Eth2' ali 'Stratis 2.0')."
+      "value": " (obdelava nalog za doseganje soglasja z dokazom o deležu, prej 'Eth2' ali 'Xertra 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "2. korak: generirajte ključe za polog z uporabo orodja za polog fundacije Stratis"
+      "value": "2. korak: generirajte ključe za polog z uporabo orodja za polog fundacije Xertra"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Od združitve bodo validatorji odgovorni tudi za obdelavo transakcij in bodo tako upravičeni do neporabljenih stroškov plina, povezanih z vključenimi transakcijami, ko bodo predlagali bloke. Te provizije se obračunavajo na sloju za izvajanje, ne na sloju za soglasje, zato zahtevajo, da se vaši stranki zagotovi tradicionalni naslov Stratis."
+      "value": "Od združitve bodo validatorji odgovorni tudi za obdelavo transakcij in bodo tako upravičeni do neporabljenih stroškov plina, povezanih z vključenimi transakcijami, ko bodo predlagali bloke. Te provizije se obračunavajo na sloju za izvajanje, ne na sloju za soglasje, zato zahtevajo, da se vaši stranki zagotovi tradicionalni naslov Xertra."
     }
   ],
   "/5Hyyf": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Odjemalec Geth je ena od treh prvotnih izvedb protokola Stratis, zapisana v Go."
+      "value": "Odjemalec Geth je ena od treh prvotnih izvedb protokola Xertra, zapisana v Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Svojemu validatorju sem posredoval naslov Stratis, kamor želim, da se nakažejo moje nagrade za provizijo."
+      "value": "Svojemu validatorju sem posredoval naslov Xertra, kamor želim, da se nakažejo moje nagrade za provizijo."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Več o ekonomiji zastavljanja Stratis"
+      "value": "Več o ekonomiji zastavljanja Xertra"
     }
   ],
   "1p+pb5": [
@@ -690,7 +690,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Raznolikost odjemalcev je izjemno pomembna za omrežno zdravje Stratisa: napaka v odjemalcu z več kot 33-odstotnim deležem lahko povzroči, da Stratis izklopi povezavo. Če ima odjemalec večino (> 66 %), lahko napaka povzroči, da se veriga napačno razdeli, kar lahko privede do razreza."
+      "value": "Raznolikost odjemalcev je izjemno pomembna za omrežno zdravje Xertraa: napaka v odjemalcu z več kot 33-odstotnim deležem lahko povzroči, da Xertra izklopi povezavo. Če ima odjemalec večino (> 66 %), lahko napaka povzroči, da se veriga napačno razdeli, kar lahko privede do razreza."
     }
   ],
   "2t/3ab": [
@@ -854,7 +854,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Te posodobitve terminologije spreminjajo samo konvencije o poimenovanju; ne spreminjajo ciljev ali načrta Stratisa."
+      "value": "Te posodobitve terminologije spreminjajo samo konvencije o poimenovanju; ne spreminjajo ciljev ali načrta Xertraa."
     }
   ],
   "3URRZK": [
@@ -1446,7 +1446,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Stratis odjemalec, zasnovan za uporabo s strani podjetij za primere uporabe na javnih in zasebnih omrežjih."
+      "value": "Xertra odjemalec, zasnovan za uporabo s strani podjetij za primere uporabe na javnih in zasebnih omrežjih."
     }
   ],
   "8yom7x": [
@@ -1646,7 +1646,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Zastavni polog Stratis zahteva, da hkrati pošljete najmanj "
+      "value": "Zastavni polog Xertra zahteva, da hkrati pošljete najmanj "
     },
     {
       "type": 1,
@@ -1692,7 +1692,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Poskrbite, da prenašate iz uradnega GitHub računa Stratis tako, da preverite url: "
+      "value": "Poskrbite, da prenašate iz uradnega GitHub računa Xertra tako, da preverite url: "
     },
     {
       "type": 1,
@@ -1702,7 +1702,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Razdrobitev bo spremenila Stratis zahtevo, da polna vozlišča prenašajo celotno zgodovino verige, in bo namesto tega to obremenitev porazdelila po omrežju, medtem ko bo še vedno zagotavljala razpoložljivost podatkov. To bo znatno povečalo zmogljivost Stratis na ravni 1, hkrati pa ohranilo zmožnost delovanja celotnega vozlišča na uporabniški strojni opremi, pri čemer bo omrežje ostalo decentralizirano."
+      "value": "Razdrobitev bo spremenila Xertra zahtevo, da polna vozlišča prenašajo celotno zgodovino verige, in bo namesto tega to obremenitev porazdelila po omrežju, medtem ko bo še vedno zagotavljala razpoložljivost podatkov. To bo znatno povečalo zmogljivost Xertra na ravni 1, hkrati pa ohranilo zmožnost delovanja celotnega vozlišča na uporabniški strojni opremi, pri čemer bo omrežje ostalo decentralizirano."
     }
   ],
   "Affixg": [
@@ -1754,7 +1754,7 @@
     },
     {
       "type": 0,
-      "value": " se obdela, ko ima aktivni validator največje dejansko stanje 32 in ima skupno stanje nad 32. Posamezen validator ne more prejeti nagrade za presežek stanja nad 32 ETH, tako bodo ti računi imeli morebitno dodatno stanje samodejno dvignjeno na njihov naslov Stratis."
+      "value": " se obdela, ko ima aktivni validator največje dejansko stanje 32 in ima skupno stanje nad 32. Posamezen validator ne more prejeti nagrade za presežek stanja nad 32 ETH, tako bodo ti računi imeli morebitno dodatno stanje samodejno dvignjeno na njihov naslov Xertra."
     }
   ],
   "RY4SP0": [
@@ -1992,7 +1992,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Več o viziji Stratis"
+      "value": "Več o viziji Xertra"
     }
   ],
   "CdKEd/": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Zastavljavci morajo posredovati naslov prejemnika provizije svojemu odjemalcu za soglasje, da lahko prejmejo nagrade v obliki provizije transakcije. To je običajen naslov Stratis, ki ste ga vajeni."
+      "value": "Zastavljavci morajo posredovati naslov prejemnika provizije svojemu odjemalcu za soglasje, da lahko prejmejo nagrade v obliki provizije transakcije. To je običajen naslov Xertra, ki ste ga vajeni."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Stratis se je začel izvajati 30. julija 2015. Njegova velikost sčasoma raste, uvedba razdrobitve pa bo prav tako povečala zahteve glede shrambe, pomnilnika in pasovne širine."
+      "value": "Xertra se je začel izvajati 30. julija 2015. Njegova velikost sčasoma raste, uvedba razdrobitve pa bo prav tako povečala zahteve glede shrambe, pomnilnika in pasovne širine."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Stratis naslov za dvig: Če želite po nadgradnji Shanghai/Capella dvigniti na naslov denarnice za izvršitev, lahko nastavite "
+      "value": "Xertra naslov za dvig: Če želite po nadgradnji Shanghai/Capella dvigniti na naslov denarnice za izvršitev, lahko nastavite "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Odjemalec za Stratis z ogromnim naborom razvijalcev. Popoln je za sisteme na nivoju podjetij."
+      "value": "Odjemalec za Xertra z ogromnim naborom razvijalcev. Popoln je za sisteme na nivoju podjetij."
     }
   ],
   "FgraU0": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Erigon je prej TurboGeth odjemalec Stratis, zgrajen za omogočanje optimizacije zmogljivosti."
+      "value": "Erigon je prej TurboGeth odjemalec Xertra, zgrajen za omogočanje optimizacije zmogljivosti."
     }
   ],
   "ID3Pgm": [
@@ -2830,7 +2830,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Poglobite se v nadgradnje Stratisa."
+      "value": "Poglobite se v nadgradnje Xertraa."
     }
   ],
   "JhUYU3": [
@@ -3110,7 +3110,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Hvala, ker podpirate omrežje Stratis!"
+      "value": "Hvala, ker podpirate omrežje Xertra!"
     }
   ],
   "LpnfTF": [
@@ -3154,7 +3154,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis je zaščiten z dokazom o deležu, čeprav to ni bilo vedno tako. Oddajniška veriga je bila prvi korak k vzpostavitvi soglasne plasti PoS na Stratis, delovati pa je začela vzporedno z glavnim omrežjem v decembru 2020. To je udeležencem omogočilo, da so začeli zastavljati svoje STRAX in pripravljati omrežje na uraden prehod z dokaza o delu na dokaz o deležu prek spojitve."
+      "value": "Xertra je zaščiten z dokazom o deležu, čeprav to ni bilo vedno tako. Oddajniška veriga je bila prvi korak k vzpostavitvi soglasne plasti PoS na Xertra, delovati pa je začela vzporedno z glavnim omrežjem v decembru 2020. To je udeležencem omogočilo, da so začeli zastavljati svoje STRAX in pripravljati omrežje na uraden prehod z dokaza o delu na dokaz o deležu prek spojitve."
     }
   ],
   "LwEHRm": [
@@ -3226,7 +3226,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Kako poteka nadgradnja Stratis?"
+      "value": "Kako poteka nadgradnja Xertra?"
     }
   ],
   "MaZo9k": [
@@ -3250,7 +3250,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Ta zagonska platforma vam bo pomagal postati validator, tako da lahko igrate aktivno vlogo v prihodnosti Stratisa. Validatorji so ključni za varnejši, bolj nadgradljiv in trajnosten Stratis, ki ga gradimo skupaj."
+      "value": "Ta zagonska platforma vam bo pomagal postati validator, tako da lahko igrate aktivno vlogo v prihodnosti Xertraa. Validatorji so ključni za varnejši, bolj nadgradljiv in trajnosten Xertra, ki ga gradimo skupaj."
     }
   ],
   "Mc8nNE": [
@@ -3262,7 +3262,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Nadgradnje Stratis bodo uspešne samo, če validatorji razumejo tveganja in odgovornosti."
+      "value": "Nadgradnje Xertra bodo uspešne samo, če validatorji razumejo tveganja in odgovornosti."
     }
   ],
   "MmZjeu": [
@@ -3418,7 +3418,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Preverite več o vlogah in odgovornostih validatorjev Stratis."
+      "value": "Preverite več o vlogah in odgovornostih validatorjev Xertra."
     }
   ],
   "Nb5DNK": [
@@ -3520,7 +3520,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu je odprtokodni odjemalec Stratis, razvit pod licenco Apache 2.0 in napisan v jeziku Java."
+      "value": "Hyperledger Besu je odprtokodni odjemalec Xertra, razvit pod licenco Apache 2.0 in napisan v jeziku Java."
     }
   ],
   "OIvXIO": [
@@ -3620,7 +3620,7 @@
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Nadgradnja oddajniške verige v Stratis vnaša doseganje soglasja z dokazom o deležu."
+      "value": "Nadgradnja oddajniške verige v Xertra vnaša doseganje soglasja z dokazom o deležu."
     }
   ],
   "P1QerV": [
@@ -3844,7 +3844,7 @@
     },
     {
       "type": 0,
-      "value": " na pogodbo za polog na trenutni verigi Stratis."
+      "value": " na pogodbo za polog na trenutni verigi Xertra."
     }
   ],
   "QlsDcr": [
@@ -4106,7 +4106,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validatorji in Stratis"
+      "value": "Validatorji in Xertra"
     }
   ],
   "TMw9oz": [
@@ -4118,7 +4118,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Izraza 'Eth1' in 'Eth2' sta bila opuščena s spojitvijo. Od uspešnega prehoda na dokaz o deležu prek spojitve ni več dveh ločenih omrežij Stratis; obstaja samo Stratis."
+      "value": "Izraza 'Eth1' in 'Eth2' sta bila opuščena s spojitvijo. Od uspešnega prehoda na dokaz o deležu prek spojitve ni več dveh ločenih omrežij Xertra; obstaja samo Xertra."
     }
   ],
   "TfNuWP": [
@@ -4226,7 +4226,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Ena od treh prvotnih izvedb protokola Stratis."
+      "value": "Ena od treh prvotnih izvedb protokola Xertra."
     }
   ],
   "UykRIk": [
@@ -5126,7 +5126,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Postanite validator in pomagajte zaščititi prihodnost Stratisa."
+      "value": "Postanite validator in pomagajte zaščititi prihodnost Xertraa."
     }
   ],
   "cRzxes": [
@@ -5220,7 +5220,7 @@
     },
     {
       "type": 0,
-      "value": " je 32-bajtno polje v depozitu za preverjanje cilja veljavnih dvigov. Trenutno obstajata dve vrsti dvigov: dvig BLS in dvig z naslova Stratis."
+      "value": " je 32-bajtno polje v depozitu za preverjanje cilja veljavnih dvigov. Trenutno obstajata dve vrsti dvigov: dvig BLS in dvig z naslova Xertra."
     }
   ],
   "8FjJDx": [
@@ -5238,7 +5238,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm je odjemalec za soglasje protokola Stratis za izvajanje Go, osredotočena na uporabnost, varnost in zanesljivost."
+      "value": "Prysm je odjemalec za soglasje protokola Xertra za izvajanje Go, osredotočena na uporabnost, varnost in zanesljivost."
     }
   ],
   "dLE9FH": [
@@ -5526,7 +5526,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Lahko se odločite, da z začetnim pologom navedete naslov za izplačilo, da samodejno omogočite izplačila nagrad in tudi možnost popolnega izstopa iz sredstev kadar koli po nadgradnji Shanghai/Capella. Ta naslov bi moral biti na običajnem naslovu Stratis in bo edini naslov, na katerega se lahko nakažejo sredstva iz vaših novih računov validatorja."
+      "value": "Lahko se odločite, da z začetnim pologom navedete naslov za izplačilo, da samodejno omogočite izplačila nagrad in tudi možnost popolnega izstopa iz sredstev kadar koli po nadgradnji Shanghai/Capella. Ta naslov bi moral biti na običajnem naslovu Xertra in bo edini naslov, na katerega se lahko nakažejo sredstva iz vaših novih računov validatorja."
     }
   ],
   "fZwn+P": [
@@ -5630,7 +5630,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Generirajte ključe za polog z uporabo orodja za polog fundacije Stratis"
+      "value": "Generirajte ključe za polog z uporabo orodja za polog fundacije Xertra"
     }
   ],
   "gVC0Wl": [
@@ -5864,7 +5864,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "O pogodbi za polog lahko razmišljate kot o prenosu sredstev z računa Stratis na račun validatorja v sistemu z dokazom o deležu."
+      "value": "O pogodbi za polog lahko razmišljate kot o prenosu sredstev z računa Xertra na račun validatorja v sistemu z dokazom o deležu."
     }
   ],
   "iJXdUH": [
@@ -5956,7 +5956,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku je odjemalec za soglasje Stratis, ki temelji na jeziku Java, in je zasnovan za izpolnjevanje institucionalnih potreb in varnostnih zahtev."
+      "value": "PegaSys Teku je odjemalec za soglasje Xertra, ki temelji na jeziku Java, in je zasnovan za izpolnjevanje institucionalnih potreb in varnostnih zahtev."
     }
   ],
   "XRUCUL": [
@@ -5990,7 +5990,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Teku, nekdaj imenovan Artemis, je odjemalec za soglasje, ustvarjen za izpolnjevanje institucionalnih potreb in varnostnih zahtev. PegaSys je enota družbe ConsenSys, predana razvoju odjemalcev in orodij, namenjenih podjetjem, za interakcijo z jedrno platformo Stratis."
+      "value": "Teku, nekdaj imenovan Artemis, je odjemalec za soglasje, ustvarjen za izpolnjevanje institucionalnih potreb in varnostnih zahtev. PegaSys je enota družbe ConsenSys, predana razvoju odjemalcev in orodij, namenjenih podjetjem, za interakcijo z jedrno platformo Xertra."
     }
   ],
   "jBr8vs": [
@@ -6100,7 +6100,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "To je pomenilo spajanje sloja za izvajanje (obstoječe glavno omrežje) z novo soglasno plastjo (oddajniška veriga) za oblikovanje ene današnje verige Stratis."
+      "value": "To je pomenilo spajanje sloja za izvajanje (obstoječe glavno omrežje) z novo soglasno plastjo (oddajniška veriga) za oblikovanje ene današnje verige Xertra."
     }
   ],
   "k67L48": [
@@ -6158,7 +6158,7 @@
     },
     {
       "type": 0,
-      "value": ". Ta predlog za izboljšavo Stratisa omogoča samodejni odvzem nagrad v sloj za izvedbo in zagotavlja tudi način za izstopljene validatorje, da odklenejo svoje celotno stanje – plin ni potreben."
+      "value": ". Ta predlog za izboljšavo Xertraa omogoča samodejni odvzem nagrad v sloj za izvedbo in zagotavlja tudi način za izstopljene validatorje, da odklenejo svoje celotno stanje – plin ni potreben."
     }
   ],
   "kTt/ND": [
@@ -6218,7 +6218,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Nadgradnja s spojitvijo je 15. septembra 2022 uradno uvedla dokaz o deležu na Stratis, s čimer je dokaz o delu hkrati postal zastarel. S tem je pripravila verigo za prihodnje nadgradnje širjenja, kot je drobljenje podatkov, tako da je skupaj z glavnim omrežjem združila soglasje o dokazu o deležu, obenem pa zmanjšala porabo energije za več kot 99,9 %."
+      "value": "Nadgradnja s spojitvijo je 15. septembra 2022 uradno uvedla dokaz o deležu na Xertra, s čimer je dokaz o delu hkrati postal zastarel. S tem je pripravila verigo za prihodnje nadgradnje širjenja, kot je drobljenje podatkov, tako da je skupaj z glavnim omrežjem združila soglasje o dokazu o deležu, obenem pa zmanjšala porabo energije za več kot 99,9 %."
     }
   ],
   "kuYpoI": [
@@ -6462,7 +6462,7 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Od uspešnega prehoda na sistem z dokazom o deležu prek spojitve je Stratis v celoti zavarovan z validatorji v sistemu z dokazom o deležu. Z zagonom validatorja prispevate k zaščiti omrežja Stratis."
+      "value": "Od uspešnega prehoda na sistem z dokazom o deležu prek spojitve je Xertra v celoti zavarovan z validatorji v sistemu z dokazom o deležu. Z zagonom validatorja prispevate k zaščiti omrežja Xertra."
     }
   ],
   "mROPz+": [
@@ -6476,7 +6476,7 @@
     },
     {
       "type": 0,
-      "value": " pred nakazilom sem navedel naslov Stratis, kamor želim nakazati vse nagrade validatorja in dvige."
+      "value": " pred nakazilom sem navedel naslov Xertra, kamor želim nakazati vse nagrade validatorja in dvige."
     }
   ],
   "mUZnem": [
@@ -6504,7 +6504,7 @@
     },
     {
       "type": 0,
-      "value": " je virtualna entiteta, ki živi v oddajniški verigi, ki jo predstavljajo stanje, javni ključ in druge lastnosti ter sodeluje pri soglasju omrežja Stratis."
+      "value": " je virtualna entiteta, ki živi v oddajniški verigi, ki jo predstavljajo stanje, javni ključ in druge lastnosti ter sodeluje pri soglasju omrežja Xertra."
     }
   ],
   "mcyp2f": [
@@ -6818,7 +6818,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Uporabniki Stratisa so navajeni, da se transakcije izvajajo ročno – če želite prenesti sredstva, morate podpisati transakcijo in plačati plin."
+      "value": "Uporabniki Xertraa so navajeni, da se transakcije izvajajo ročno – če želite prenesti sredstva, morate podpisati transakcijo in plačati plin."
     }
   ],
   "p0b6zX": [
@@ -7184,7 +7184,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Odjemalec za soglasje, ki je močno osredotočen na hitrost in varnost. Razvilo ga je podjetje Sigma Prime, ki se ukvarja z informacijsko varnostjo in inženiringom programske opremo, skupaj z ustanovo Stratis, podjetjem ConsenSys in zasebnimi posamezniki pa so financirali odjemalec Lighthouse."
+      "value": "Odjemalec za soglasje, ki je močno osredotočen na hitrost in varnost. Razvilo ga je podjetje Sigma Prime, ki se ukvarja z informacijsko varnostjo in inženiringom programske opremo, skupaj z ustanovo Xertra, podjetjem ConsenSys in zasebnimi posamezniki pa so financirali odjemalec Lighthouse."
     }
   ],
   "sToVAS": [
@@ -7288,7 +7288,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Specifikacije plasti za soglasje Stratis"
+      "value": "Specifikacije plasti za soglasje Xertra"
     }
   ],
   "teyxVk": [
@@ -7356,7 +7356,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Nadgradnje Stratis"
+      "value": "Nadgradnje Xertra"
     }
   ],
   "tzMNF3": [
@@ -7368,7 +7368,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Vaša denarnica je v napačnem omrežju Stratis. Za nadaljevanje jo povežite z "
+      "value": "Vaša denarnica je v napačnem omrežju Xertra. Za nadaljevanje jo povežite z "
     },
     {
       "type": 1,
@@ -7544,7 +7544,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Vaše stanje je občasno posodobljeno v skladu s pravili omrežja Stratis, ko izvajate (ali ne izvajate) svojih odgovornosti."
+      "value": "Vaše stanje je občasno posodobljeno v skladu s pravili omrežja Xertra, ko izvajate (ali ne izvajate) svojih odgovornosti."
     }
   ],
   "vCHTnu": [
@@ -7562,7 +7562,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Postanite validator in pomagajte zaščititi prihodnost Stratisa"
+      "value": "Postanite validator in pomagajte zaščititi prihodnost Xertraa"
     }
   ],
   "vJez0K": [
@@ -7742,7 +7742,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Potrjevanje v Stratisu ni enako kot rudarjenje. Rezultati so podobni: vaše delo bo razširilo in zaščitilo verigo. Vendar je postopek drugačen, saj uporabljata različne mehanizme za doseganje soglasja."
+      "value": "Potrjevanje v Xertrau ni enako kot rudarjenje. Rezultati so podobni: vaše delo bo razširilo in zaščitilo verigo. Vendar je postopek drugačen, saj uporabljata različne mehanizme za doseganje soglasja."
     }
   ],
   "x4/9vY": [
@@ -7908,7 +7908,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "V razvoju je več nadgradenj, ki bodo naredile Stratis bolj nadgradljiv, varen in trajnosten. Te nadgradnje bodo izboljšale Stratis ter hkrati brezhibno nadaljevale današnjo verigo. Tukaj najdete več informacij o različnih nadgradnjah:"
+      "value": "V razvoju je več nadgradenj, ki bodo naredile Xertra bolj nadgradljiv, varen in trajnosten. Te nadgradnje bodo izboljšale Xertra ter hkrati brezhibno nadaljevale današnjo verigo. Tukaj najdete več informacij o različnih nadgradnjah:"
     }
   ],
   "y4dBsA": [
@@ -8040,7 +8040,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar je odprtokodna implementacija TypeScript specifikacije soglasja Stratis (prej znana kot eth2), ki jo vzdržuje ChainSafe Systems. Cilj ChainSafe je razviti, izboljšati in diverzificirati ekosistem dokazov o deležu Stratis s svojo oddajniško verigo in odjemalcem validatorja s poudarkom na lahkih implementacijah odjemalcev."
+      "value": "Lodestar je odprtokodna implementacija TypeScript specifikacije soglasja Xertra (prej znana kot eth2), ki jo vzdržuje ChainSafe Systems. Cilj ChainSafe je razviti, izboljšati in diverzificirati ekosistem dokazov o deležu Xertra s svojo oddajniško verigo in odjemalcem validatorja s poudarkom na lahkih implementacijah odjemalcev."
     }
   ],
   "zAVb0/": [
@@ -8086,7 +8086,7 @@
     },
     {
       "type": 0,
-      "value": " za sinhronizacijo glavnega omrežja Stratis."
+      "value": " za sinhronizacijo glavnega omrežja Xertra."
     }
   ],
   "zicXn7": [

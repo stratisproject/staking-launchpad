@@ -2,7 +2,7 @@
   "+2VHUU": [
     {
       "type": 0,
-      "value": "Stratis terdiri dari "
+      "value": "Xertra terdiri dari "
     },
     {
       "type": 1,
@@ -18,7 +18,7 @@
     },
     {
       "type": 0,
-      "value": " (menangani tugas konsensus bukti taruhan, sebelumnya 'Eth2' atau 'Stratis 2.0')."
+      "value": " (menangani tugas konsensus bukti taruhan, sebelumnya 'Eth2' atau 'Xertra 2.0')."
     }
   ],
   "+EZ9E/": [
@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "Langkah 2: Buat kunci deposit menggunakan alat deposit Stratis"
+      "value": "Langkah 2: Buat kunci deposit menggunakan alat deposit Xertra"
     }
   ],
   "+UUcBt": [
@@ -102,7 +102,7 @@
   "/4e3mN": [
     {
       "type": 0,
-      "value": "Setelah Penggabungan, validator juga akan bertanggung jawab untuk memroses transaksi, dan oleh karena itu berhak atas biaya gas yang tidak terbakar yang terkait dengan transaksi yang disertakan saat mengusulkan blok. Biaya ini diperhitungkan pada lapisan eksekusi, bukan lapisan konsensus, dan oleh karena itu mengharuskan alamat Stratis tradisional diberikan kepada klien Anda."
+      "value": "Setelah Penggabungan, validator juga akan bertanggung jawab untuk memroses transaksi, dan oleh karena itu berhak atas biaya gas yang tidak terbakar yang terkait dengan transaksi yang disertakan saat mengusulkan blok. Biaya ini diperhitungkan pada lapisan eksekusi, bukan lapisan konsensus, dan oleh karena itu mengharuskan alamat Xertra tradisional diberikan kepada klien Anda."
     }
   ],
   "/5Hyyf": [
@@ -220,7 +220,7 @@
   "/tHxib": [
     {
       "type": 0,
-      "value": "Geth adalah salah satu dari tiga implementasi asli protokol Stratis, yang ditulis dalam Go."
+      "value": "Geth adalah salah satu dari tiga implementasi asli protokol Xertra, yang ditulis dalam Go."
     }
   ],
   "/ub26/": [
@@ -374,7 +374,7 @@
   "0kxaf/": [
     {
       "type": 0,
-      "value": "Saya telah memberikan alamat Stratis kepada validator saya yang menjadi tempat disetorkannya imbalan biaya saya."
+      "value": "Saya telah memberikan alamat Xertra kepada validator saya yang menjadi tempat disetorkannya imbalan biaya saya."
     }
   ],
   "0lHkrT": [
@@ -534,7 +534,7 @@
   "1ingnQ": [
     {
       "type": 0,
-      "value": "Selengkapnya tentang ekonomi penaruhan Stratis"
+      "value": "Selengkapnya tentang ekonomi penaruhan Xertra"
     }
   ],
   "1p+pb5": [
@@ -694,7 +694,7 @@
   "2rflCq": [
     {
       "type": 0,
-      "value": "Keragaman klien sangat penting untuk kesehatan jaringan Stratis: Bug di klien dengan saham lebih dari 33% dapat menyebabkan Stratis menjadi offline. Jika klien memiliki supermayoritas (>66%), bug dapat menyebabkan rantai terbagi dengan tidak benar, yang berpotensi menyebabkan pemotongan."
+      "value": "Keragaman klien sangat penting untuk kesehatan jaringan Xertra: Bug di klien dengan saham lebih dari 33% dapat menyebabkan Xertra menjadi offline. Jika klien memiliki supermayoritas (>66%), bug dapat menyebabkan rantai terbagi dengan tidak benar, yang berpotensi menyebabkan pemotongan."
     }
   ],
   "2t/3ab": [
@@ -858,7 +858,7 @@
   "3SOKyg": [
     {
       "type": 0,
-      "value": "Pembaruan terminologi ini hanya mengubah konvensi penamaan; ini tidak mengubah tujuan atau peta jalan Stratis."
+      "value": "Pembaruan terminologi ini hanya mengubah konvensi penamaan; ini tidak mengubah tujuan atau peta jalan Xertra."
     }
   ],
   "3URRZK": [
@@ -1442,7 +1442,7 @@
   "8wd0q5": [
     {
       "type": 0,
-      "value": "Klien Stratis dirancang agar ramah perusahaan untuk kasus penggunaan jaringan publik dan swasta yang diizinkan."
+      "value": "Klien Xertra dirancang agar ramah perusahaan untuk kasus penggunaan jaringan publik dan swasta yang diizinkan."
     }
   ],
   "8yom7x": [
@@ -1642,7 +1642,7 @@
   "AJD+66": [
     {
       "type": 0,
-      "value": "Kontrak deposit penaruhan Stratis membutuhkan minimum "
+      "value": "Kontrak deposit penaruhan Xertra membutuhkan minimum "
     },
     {
       "type": 1,
@@ -1688,7 +1688,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "Pastikan Anda mengunduh dari GitHub akun resmi Stratis dengan memverifikasi url: "
+      "value": "Pastikan Anda mengunduh dari GitHub akun resmi Xertra dengan memverifikasi url: "
     },
     {
       "type": 1,
@@ -1698,7 +1698,7 @@
   "Jrg1Me": [
     {
       "type": 0,
-      "value": "Pecahan akan mengubah persyaratan bahwa simpul penuh membawa seluruh riwayat rantai, dan sebagai gantinya akan mendistribusikan beban ini di antara jaringan sambil tetap memastikan ketersediaan data. Ini akan memperluas kapasitas lapisan 1 Stratis secara signifikan sekaligus mempertahankan kemampuan untuk mengoperasikan simpul penuh di perangkat keras konsumen, menjaga jaringan tetap terdesentralisasi."
+      "value": "Pecahan akan mengubah persyaratan bahwa simpul penuh membawa seluruh riwayat rantai, dan sebagai gantinya akan mendistribusikan beban ini di antara jaringan sambil tetap memastikan ketersediaan data. Ini akan memperluas kapasitas lapisan 1 Xertra secara signifikan sekaligus mempertahankan kemampuan untuk mengoperasikan simpul penuh di perangkat keras konsumen, menjaga jaringan tetap terdesentralisasi."
     }
   ],
   "Affixg": [
@@ -1750,7 +1750,7 @@
     },
     {
       "type": 0,
-      "value": " diproses ketika validator aktif memiliki saldo efektif maksimal 32, dan memiliki total saldo lebih dari 32. Satu validator tidak bisa mendapatkan imbalan atas kelebihan saldo lebih dari 32 ETH, sehingga akun ini akan memiliki saldo ekstra yang otomatis ditarik ke alamat Stratis mereka."
+      "value": " diproses ketika validator aktif memiliki saldo efektif maksimal 32, dan memiliki total saldo lebih dari 32. Satu validator tidak bisa mendapatkan imbalan atas kelebihan saldo lebih dari 32 ETH, sehingga akun ini akan memiliki saldo ekstra yang otomatis ditarik ke alamat Xertra mereka."
     }
   ],
   "RY4SP0": [
@@ -1988,7 +1988,7 @@
   "Cacfkx": [
     {
       "type": 0,
-      "value": "Selengkapnya tentang visi Stratis"
+      "value": "Selengkapnya tentang visi Xertra"
     }
   ],
   "CdKEd/": [
@@ -2276,7 +2276,7 @@
   "EXt8Xd": [
     {
       "type": 0,
-      "value": "Penaruh harus memberikan alamat penerima biaya kepada klien konsensus mereka untuk menerima imbalan biaya transaksi. Ini adalah alamat Stratis normal yang biasa Anda gunakan."
+      "value": "Penaruh harus memberikan alamat penerima biaya kepada klien konsensus mereka untuk menerima imbalan biaya transaksi. Ini adalah alamat Xertra normal yang biasa Anda gunakan."
     }
   ],
   "EcCME0": [
@@ -2314,7 +2314,7 @@
   "Q6N+C6": [
     {
       "type": 0,
-      "value": "Stratis dimulai pada tanggal 30 Juli 2015. Ukurannya terus bertambah dari waktu ke waktu, dan pengenalan pecahan juga akan meningkatkan persyaratan penyimpanan, memori, dan bandwidth."
+      "value": "Xertra dimulai pada tanggal 30 Juli 2015. Ukurannya terus bertambah dari waktu ke waktu, dan pengenalan pecahan juga akan meningkatkan persyaratan penyimpanan, memori, dan bandwidth."
     }
   ],
   "FM92S0": [
@@ -2332,7 +2332,7 @@
   "uEB8++": [
     {
       "type": 0,
-      "value": "Penarikan alamat Stratis: Jika Anda ingin menarik alamat dompet eksekusi setelah peningkatan Shanghai/Capella, Anda dapat mengatur "
+      "value": "Penarikan alamat Xertra: Jika Anda ingin menarik alamat dompet eksekusi setelah peningkatan Shanghai/Capella, Anda dapat mengatur "
     },
     {
       "type": 1,
@@ -2412,7 +2412,7 @@
   "FfLWt5": [
     {
       "type": 0,
-      "value": "Klien Stratis yang didukung banyak pengembang. Ini sempurna untuk sistem tingkat perusahaan."
+      "value": "Klien Xertra yang didukung banyak pengembang. Ini sempurna untuk sistem tingkat perusahaan."
     }
   ],
   "FgraU0": [
@@ -2668,7 +2668,7 @@
   "I7MjRD": [
     {
       "type": 0,
-      "value": "Sebelumnya TurboGeth, Erigon adalah klien Stratis yang dibuat untuk memungkinkan pengoptimalan kinerja."
+      "value": "Sebelumnya TurboGeth, Erigon adalah klien Xertra yang dibuat untuk memungkinkan pengoptimalan kinerja."
     }
   ],
   "ID3Pgm": [
@@ -2834,7 +2834,7 @@
   "jVlgXS": [
     {
       "type": 0,
-      "value": "Gali lebih dalam tentang peningkatan Stratis."
+      "value": "Gali lebih dalam tentang peningkatan Xertra."
     }
   ],
   "JhUYU3": [
@@ -3114,7 +3114,7 @@
   "LlClXS": [
     {
       "type": 0,
-      "value": "Terima kasih telah mendukung jaringan Stratis!"
+      "value": "Terima kasih telah mendukung jaringan Xertra!"
     }
   ],
   "LpnfTF": [
@@ -3158,7 +3158,7 @@
   "Lv57+8": [
     {
       "type": 0,
-      "value": "Stratis diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Stratis, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan STRAX mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
+      "value": "Xertra diamankan oleh bukti taruhan, meskipun tidak selalu demikian. Rantai Suar adalah langkah pertama untuk membangun lapisan konsensus PoS di Xertra, yang diluncurkan secara paralel dengan Jaringan Utama pada bulan Desember 2020. Ini mempermudah peserta untuk mulai mempertaruhkan STRAX mereka dan menyiapkan jaringan untuk transisi formal dari bukti kerja ke bukti taruhan melalui Penggabungan."
     }
   ],
   "LwEHRm": [
@@ -3230,7 +3230,7 @@
   "MZzOnU": [
     {
       "type": 0,
-      "value": "Bagaimana penskalaan Stratis?"
+      "value": "Bagaimana penskalaan Xertra?"
     }
   ],
   "MaZo9k": [
@@ -3254,7 +3254,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "Launchpad ini akan membantu Anda menjadi validator, sehingga Anda dapat berperan aktif di masa depan Stratis. Validator adalah kunci untuk Stratis yang lebih aman, terukur, dan berkelanjutan yang kita bangun bersama."
+      "value": "Launchpad ini akan membantu Anda menjadi validator, sehingga Anda dapat berperan aktif di masa depan Xertra. Validator adalah kunci untuk Xertra yang lebih aman, terukur, dan berkelanjutan yang kita bangun bersama."
     }
   ],
   "Mc8nNE": [
@@ -3266,7 +3266,7 @@
   "Mlc7Vr": [
     {
       "type": 0,
-      "value": "Pembaharuan Stratis hanya akan berhasil jika validator memahami risiko dan tanggung jawab."
+      "value": "Pembaharuan Xertra hanya akan berhasil jika validator memahami risiko dan tanggung jawab."
     }
   ],
   "MmZjeu": [
@@ -3426,7 +3426,7 @@
   "NatYUJ": [
     {
       "type": 0,
-      "value": "Pelajari selengkapnya tentang peran dan tanggung jawab validator Stratis."
+      "value": "Pelajari selengkapnya tentang peran dan tanggung jawab validator Xertra."
     }
   ],
   "Nb5DNK": [
@@ -3528,7 +3528,7 @@
   "OBmVqN": [
     {
       "type": 0,
-      "value": "Hyperledger Besu adalah klien Stratis sumber terbuka yang dikembangkan di bawah lisensi Apache 2.0 dan ditulis dalam Java."
+      "value": "Hyperledger Besu adalah klien Xertra sumber terbuka yang dikembangkan di bawah lisensi Apache 2.0 dan ditulis dalam Java."
     }
   ],
   "OIvXIO": [
@@ -3626,13 +3626,13 @@
   "P/Oh91": [
     {
       "type": 0,
-      "value": "Phishing adalah risiko yang sangat nyata bagi validator Stratis dan, sayangnya, banyak orang akan kehilangan dana karena serangan ini."
+      "value": "Phishing adalah risiko yang sangat nyata bagi validator Xertra dan, sayangnya, banyak orang akan kehilangan dana karena serangan ini."
     }
   ],
   "cU/ZP6": [
     {
       "type": 0,
-      "value": "Peningkatan Rantai Beacon menghadirkan konsensus bukti kepemilikan ke Stratis."
+      "value": "Peningkatan Rantai Beacon menghadirkan konsensus bukti kepemilikan ke Xertra."
     }
   ],
   "P1QerV": [
@@ -3856,7 +3856,7 @@
     },
     {
       "type": 0,
-      "value": " satu arah ke kontrak deposit pada rantai Stratis saat ini."
+      "value": " satu arah ke kontrak deposit pada rantai Xertra saat ini."
     }
   ],
   "QlsDcr": [
@@ -4118,7 +4118,7 @@
   "THIzw6": [
     {
       "type": 0,
-      "value": "Validator dan Stratis"
+      "value": "Validator dan Xertra"
     }
   ],
   "TMw9oz": [
@@ -4130,7 +4130,7 @@
   "TZtYuA": [
     {
       "type": 0,
-      "value": "Istilah 'Eth1' dan 'Eth2' sudah tidak digunakan lagi dengan Penggabungan. Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, tidak ada lagi dua jaringan Stratis berbeda; hanya ada Stratis."
+      "value": "Istilah 'Eth1' dan 'Eth2' sudah tidak digunakan lagi dengan Penggabungan. Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, tidak ada lagi dua jaringan Xertra berbeda; hanya ada Xertra."
     }
   ],
   "TfNuWP": [
@@ -4192,7 +4192,7 @@
   "UWv7yD": [
     {
       "type": 0,
-      "value": "Periksa kontrak deposit pada penjelajah blok Stratis favorit Anda:"
+      "value": "Periksa kontrak deposit pada penjelajah blok Xertra favorit Anda:"
     }
   ],
   "UYRyWv": [
@@ -4238,7 +4238,7 @@
   "UygdAl": [
     {
       "type": 0,
-      "value": "Salah satu dari tiga implementasi asli protokol Stratis."
+      "value": "Salah satu dari tiga implementasi asli protokol Xertra."
     }
   ],
   "UykRIk": [
@@ -5142,7 +5142,7 @@
   "cPsIkp": [
     {
       "type": 0,
-      "value": "Menjadi validator dan membantu mengamankan masa depan Stratis."
+      "value": "Menjadi validator dan membantu mengamankan masa depan Xertra."
     }
   ],
   "cRzxes": [
@@ -5236,7 +5236,7 @@
     },
     {
       "type": 0,
-      "value": " adalah field 32-bita dalam deposit, untuk memverifikasi tujuan penarikan yang valid. Saat ini, ada dua jenis penarikan: Penarikan BLS dan penarikan alamat Stratis."
+      "value": " adalah field 32-bita dalam deposit, untuk memverifikasi tujuan penarikan yang valid. Saat ini, ada dua jenis penarikan: Penarikan BLS dan penarikan alamat Xertra."
     }
   ],
   "8FjJDx": [
@@ -5254,7 +5254,7 @@
   "dJMce5": [
     {
       "type": 0,
-      "value": "Prysm adalah implementasi klien konsensus Go dari protokol Stratis dengan fokus pada kegunaan, keamanan, dan keandalan."
+      "value": "Prysm adalah implementasi klien konsensus Go dari protokol Xertra dengan fokus pada kegunaan, keamanan, dan keandalan."
     }
   ],
   "dLE9FH": [
@@ -5542,7 +5542,7 @@
   "dwahMV": [
     {
       "type": 0,
-      "value": "Anda dapat memilih memberikan alamat penarikan dengan setoran awal agar otomatis mengaktifkan pembayaran imbalan dan juga kemampuan untuk mengeluarkan dana Anda sepenuhnya setelah peningkatan Shanghai/Capella. Alamat ini harus alamat Stratis yang biasa dan akan menjadi satu-satunya alamat yang dapat dikirimi dana dari akun validator baru Anda."
+      "value": "Anda dapat memilih memberikan alamat penarikan dengan setoran awal agar otomatis mengaktifkan pembayaran imbalan dan juga kemampuan untuk mengeluarkan dana Anda sepenuhnya setelah peningkatan Shanghai/Capella. Alamat ini harus alamat Xertra yang biasa dan akan menjadi satu-satunya alamat yang dapat dikirimi dana dari akun validator baru Anda."
     }
   ],
   "fZwn+P": [
@@ -5646,7 +5646,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "Buat kunci setoran menggunakan alat deposit Stratis"
+      "value": "Buat kunci setoran menggunakan alat deposit Xertra"
     }
   ],
   "gVC0Wl": [
@@ -5880,7 +5880,7 @@
   "iFWLYC": [
     {
       "type": 0,
-      "value": "Anda dapat menganggap kontrak deposit sebagai transfer dana dari akun Stratis ke akun validator bukti taruhan."
+      "value": "Anda dapat menganggap kontrak deposit sebagai transfer dana dari akun Xertra ke akun validator bukti taruhan."
     }
   ],
   "iJXdUH": [
@@ -5972,7 +5972,7 @@
   "iqJ3LM": [
     {
       "type": 0,
-      "value": "PegaSys Teku adalah klien konsensus Stratis berbasis Java yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan."
+      "value": "PegaSys Teku adalah klien konsensus Xertra berbasis Java yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan."
     }
   ],
   "XRUCUL": [
@@ -6006,7 +6006,7 @@
   "j8GPOH": [
     {
       "type": 0,
-      "value": "Sebelumnya dikenal sebagai Artemis, Teku adalah klien konsensus yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan. PegaSys adalah cabang dari ConsenSys, yang didedikasikan untuk membangun klien dan perangkat yang siap untuk perusahaan untuk berinteraksi dengan platform inti Stratis."
+      "value": "Sebelumnya dikenal sebagai Artemis, Teku adalah klien konsensus yang dibangun untuk memenuhi kebutuhan institusional dan persyaratan keamanan. PegaSys adalah cabang dari ConsenSys, yang didedikasikan untuk membangun klien dan perangkat yang siap untuk perusahaan untuk berinteraksi dengan platform inti Xertra."
     }
   ],
   "jBr8vs": [
@@ -6116,7 +6116,7 @@
   "k4x6Ud": [
     {
       "type": 0,
-      "value": "Ini menandai penggabungan lapisan eksekusi (Jaringan Utama yang ada) dengan lapisan konsensus baru (Rantai Suar) untuk membentuk rantai Stratis tunggal saat ini."
+      "value": "Ini menandai penggabungan lapisan eksekusi (Jaringan Utama yang ada) dengan lapisan konsensus baru (Rantai Suar) untuk membentuk rantai Xertra tunggal saat ini."
     }
   ],
   "k67L48": [
@@ -6174,7 +6174,7 @@
     },
     {
       "type": 0,
-      "value": ". Proposal Peningkatan Stratis ini memungkinkan imbalan otomatis ditarik ke lapisan eksekusi, dan juga memberikan cara bagi validator yang keluar untuk membuka kunci seluruh saldo mereka—gas tidak diperlukan."
+      "value": ". Proposal Peningkatan Xertra ini memungkinkan imbalan otomatis ditarik ke lapisan eksekusi, dan juga memberikan cara bagi validator yang keluar untuk membuka kunci seluruh saldo mereka—gas tidak diperlukan."
     }
   ],
   "kTt/ND": [
@@ -6234,7 +6234,7 @@
   "ER2q1V": [
     {
       "type": 0,
-      "value": "Meningkatkan Penggabungan secara resmi membawa bukti taruhan ke Stratis pada tanggal 15 September 2022, yang secara bersamaan tidak lagi menggunakan bukti kerja. Ini mempersiapkan rantai untuk meningkatkan penskalaan mendatang seperti pecahan data dengan membawa konsensus bukti taruhan bersama dengan Penggabungan, sekaligus mengurangi konsumsi energi hingga lebih dari 99,9%."
+      "value": "Meningkatkan Penggabungan secara resmi membawa bukti taruhan ke Xertra pada tanggal 15 September 2022, yang secara bersamaan tidak lagi menggunakan bukti kerja. Ini mempersiapkan rantai untuk meningkatkan penskalaan mendatang seperti pecahan data dengan membawa konsensus bukti taruhan bersama dengan Penggabungan, sekaligus mengurangi konsumsi energi hingga lebih dari 99,9%."
     }
   ],
   "kuYpoI": [
@@ -6426,7 +6426,7 @@
   "lfHCV+": [
     {
       "type": 0,
-      "value": "Nimbus adalah proyek penelitian dan implementasi klien konsensus untuk Stratis yang dirancang untuk bekerja dengan baik pada sistem tertanam dan perangkat seluler pribadi."
+      "value": "Nimbus adalah proyek penelitian dan implementasi klien konsensus untuk Xertra yang dirancang untuk bekerja dengan baik pada sistem tertanam dan perangkat seluler pribadi."
     }
   ],
   "lfV1bj": [
@@ -6482,13 +6482,13 @@
   "mH6bSl": [
     {
       "type": 0,
-      "value": "Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, Stratis diamankan sepenuhnya oleh validator bukti taruhan. Dengan menjalankan validator, Anda akan membantu mengamankan jaringan Stratis."
+      "value": "Sejak keberhasilan transisi ke bukti taruhan melalui Penggabungan, Xertra diamankan sepenuhnya oleh validator bukti taruhan. Dengan menjalankan validator, Anda akan membantu mengamankan jaringan Xertra."
     }
   ],
   "mROPz+": [
     {
       "type": 0,
-      "value": "Saya memberikan alamat Stratis saat membuat file "
+      "value": "Saya memberikan alamat Xertra saat membuat file "
     },
     {
       "type": 1,
@@ -6524,7 +6524,7 @@
     },
     {
       "type": 0,
-      "value": " adalah entitas virtual yang ada di Rantai Suar, yang diwakili oleh saldo, kunci publik, dan properti lainnya, dan berpartisipasi dalam konsensus jaringan Stratis."
+      "value": " adalah entitas virtual yang ada di Rantai Suar, yang diwakili oleh saldo, kunci publik, dan properti lainnya, dan berpartisipasi dalam konsensus jaringan Xertra."
     }
   ],
   "mcyp2f": [
@@ -6834,7 +6834,7 @@
   "p+kDTB": [
     {
       "type": 0,
-      "value": "Pengguna Stratis digunakan untuk transaksi yang akan dijalankan dengan cara manual—jika Anda ingin mentransfer dana, Anda harus menandatangani transaksi dan membayar gas."
+      "value": "Pengguna Xertra digunakan untuk transaksi yang akan dijalankan dengan cara manual—jika Anda ingin mentransfer dana, Anda harus menandatangani transaksi dan membayar gas."
     }
   ],
   "p0b6zX": [
@@ -7200,7 +7200,7 @@
   "sMHQRT": [
     {
       "type": 0,
-      "value": "Klien konsensus dengan fokus utama pada kecepatan dan keamanan. Dibangun oleh Sigma Prime, perusahaan keamanan informasi dan rekayasa perangkat lunak yang telah mendanai Lighthouse bersama dengan Yayasan Stratis, Consensys, dan perorangan."
+      "value": "Klien konsensus dengan fokus utama pada kecepatan dan keamanan. Dibangun oleh Sigma Prime, perusahaan keamanan informasi dan rekayasa perangkat lunak yang telah mendanai Lighthouse bersama dengan Yayasan Xertra, Consensys, dan perorangan."
     }
   ],
   "sToVAS": [
@@ -7304,7 +7304,7 @@
   "KJ7R/V": [
     {
       "type": 0,
-      "value": "Spesifikasi lapisan konsensus Stratis"
+      "value": "Spesifikasi lapisan konsensus Xertra"
     }
   ],
   "teyxVk": [
@@ -7372,7 +7372,7 @@
   "mm+OKT": [
     {
       "type": 0,
-      "value": "Peningkatan Stratis"
+      "value": "Peningkatan Xertra"
     }
   ],
   "tzMNF3": [
@@ -7384,7 +7384,7 @@
   "u/3saa": [
     {
       "type": 0,
-      "value": "Dompet Anda berada di jaringan Stratis yang salah. Untuk melanjutkan, hubungkan ke "
+      "value": "Dompet Anda berada di jaringan Xertra yang salah. Untuk melanjutkan, hubungkan ke "
     },
     {
       "type": 1,
@@ -7560,7 +7560,7 @@
   "vBOf5K": [
     {
       "type": 0,
-      "value": "Saldo Anda diperbarui secara berkala oleh aturan jaringan Stratis saat Anda menjalankan (atau gagal menjalankan) tanggung jawab Anda."
+      "value": "Saldo Anda diperbarui secara berkala oleh aturan jaringan Xertra saat Anda menjalankan (atau gagal menjalankan) tanggung jawab Anda."
     }
   ],
   "vCHTnu": [
@@ -7578,7 +7578,7 @@
   "vIF140": [
     {
       "type": 0,
-      "value": "Menjadi validator dan membantu mengamankan masa depan Stratis"
+      "value": "Menjadi validator dan membantu mengamankan masa depan Xertra"
     }
   ],
   "vJez0K": [
@@ -7758,7 +7758,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Memvalidasi di Stratis tidak sama dengan menambang. Hasilnya serupa: pekerjaan yang Anda lakukan akan memperluas dan mengamankan rantai. Namun prosesnya sangat berbeda karena menggunakan mekanisme konsensus yang berbeda."
+      "value": "Memvalidasi di Xertra tidak sama dengan menambang. Hasilnya serupa: pekerjaan yang Anda lakukan akan memperluas dan mengamankan rantai. Namun prosesnya sangat berbeda karena menggunakan mekanisme konsensus yang berbeda."
     }
   ],
   "x4/9vY": [
@@ -7924,7 +7924,7 @@
   "y44jV2": [
     {
       "type": 0,
-      "value": "Beberapa peningkatan sedang berlangsung yang akan membuat Stratis lebih terukur, aman, dan berkelanjutan. Pembaruan ini akan meningkatkan Stratis sambil melanjutkan rantai hari ini dengan mulus. Berikut ini lebih lanjut tentang peningkatan yang berbeda:"
+      "value": "Beberapa peningkatan sedang berlangsung yang akan membuat Xertra lebih terukur, aman, dan berkelanjutan. Pembaruan ini akan meningkatkan Xertra sambil melanjutkan rantai hari ini dengan mulus. Berikut ini lebih lanjut tentang peningkatan yang berbeda:"
     }
   ],
   "y4dBsA": [
@@ -8056,7 +8056,7 @@
   "z8zpxp": [
     {
       "type": 0,
-      "value": "Lodestar adalah implementasi TypeScript sumber terbuka dari spesifikasi Konsensus Stratis (sebelumnya dikenal sebagai eth2) yang dikelola oleh Sistem ChainSafe. Tujuan ChainSafe adalah untuk mengembangkan, meningkatkan, dan mendiversifikasi ekosistem bukti taruhan Stratis dengan rantai suar dan klien validator mereka dengan fokus pada implementasi klien ringan."
+      "value": "Lodestar adalah implementasi TypeScript sumber terbuka dari spesifikasi Konsensus Xertra (sebelumnya dikenal sebagai eth2) yang dikelola oleh Sistem ChainSafe. Tujuan ChainSafe adalah untuk mengembangkan, meningkatkan, dan mendiversifikasi ekosistem bukti taruhan Xertra dengan rantai suar dan klien validator mereka dengan fokus pada implementasi klien ringan."
     }
   ],
   "zAVb0/": [
@@ -8102,7 +8102,7 @@
     },
     {
       "type": 0,
-      "value": " untuk menyinkronkan mainnet Stratis."
+      "value": " untuk menyinkronkan mainnet Xertra."
     }
   ],
   "zicXn7": [

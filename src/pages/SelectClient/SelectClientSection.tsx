@@ -92,7 +92,7 @@ const SelectClientSection = ({
       </ClientOptionContainer>
       {/* {ethClientStep === 'execution' && (
         <Link
-          to="https://stratisevm.com/en/developers/docs/nodes-and-clients/#execution-clients"
+          to="https://xertra.com/en/developers/docs/nodes-and-clients/#execution-clients"
           primary
         >
           <FormattedMessage defaultMessage="View extensive client comparison" />

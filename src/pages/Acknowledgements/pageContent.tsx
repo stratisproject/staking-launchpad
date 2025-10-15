@@ -26,7 +26,7 @@ export const pageContent = {
     content: (
       <>
         <Text size="medium" className="my10">
-          <FormattedMessage defaultMessage="Stratis uses proof-of-stake to reach consensus." />
+          <FormattedMessage defaultMessage="Xertra uses proof-of-stake to reach consensus." />
         </Text>
         <Text size="medium" className="my10">
           <FormattedMessage
@@ -46,14 +46,14 @@ export const pageContent = {
           />
         </Text>
         {/* <Link
-          to="https://stratisevm.com/en/roadmap/beacon-chain/"
+          to="https://xertra.com/en/roadmap/beacon-chain/"
           className="my10"
           primary
         >
           <FormattedMessage defaultMessage="More on the Beacon Chain" />
         </Link>
         <Link
-          to="https://stratisevm.com/en/developers/docs/consensus-mechanisms/pos/"
+          to="https://xertra.com/en/developers/docs/consensus-mechanisms/pos/"
           className="my10"
           primary
         >
@@ -78,7 +78,7 @@ export const pageContent = {
         </Text>
         <Text size="medium" className="my20">
           <FormattedMessage
-            defaultMessage="Like all Stratis transactions, deposits are non-reversible, but
+            defaultMessage="Like all Xertra transactions, deposits are non-reversible, but
             the ability to withdrawal your funds via a separate process after depositing remains
             under your control."
           />
@@ -111,7 +111,7 @@ export const pageContent = {
           primary
           inline
         >
-          <FormattedMessage defaultMessage="More on Stratis staking economics" />
+          <FormattedMessage defaultMessage="More on Xertra staking economics" />
         </Link>
       </>
     ),
@@ -137,7 +137,7 @@ export const pageContent = {
           className="my10"
           primary
         >
-          <FormattedMessage defaultMessage="The Stratis consensus layer specification" />
+          <FormattedMessage defaultMessage="The Xertra consensus layer specification" />
         </Link> */}
         <Link shouldOpenNewTab to="/faq" className="my10" primary>
           <FormattedMessage defaultMessage="More on slashing risks" />

@@ -66,45 +66,45 @@ export const Introduction = (): JSX.Element => {
         <ContentContainer>
           <ScrollAnimation animateIn="fadeIn" animateOnce>
             <Heading level={2} size="medium" color="blueDark" margin="none">
-              <FormattedMessage defaultMessage="Validators and Stratis" />
+              <FormattedMessage defaultMessage="Validators and Xertra" />
             </Heading>
           </ScrollAnimation>
           <ScrollAnimation animateIn="fadeInUp" animateOnce>
             <Text className="mt20">
               <FormattedMessage
                 defaultMessage="This launchpad will help you become a validator, so you can play
-                  an active part in Stratis's future. Validators are key to the
-                  more secure, scalable, and sustainable Stratis we're building
+                  an active part in Xertra's future. Validators are key to the
+                  more secure, scalable, and sustainable Xertra we're building
                   together."
               />
             </Text>
             {/* <Link
               className="mt20 mb40"
-              to="https://stratisevm.com/en/roadmap/vision/"
+              to="https://xertra.com/en/roadmap/vision/"
             >
-              <FormattedMessage defaultMessage="More on the Stratis vision" />
+              <FormattedMessage defaultMessage="More on the Xertra vision" />
             </Link> */}
             <Text className="mt20">
               <FormattedMessage defaultMessage="By running a validator, you'll be responsible for securing the network and receive continuous payouts for actions that help the network reach consensus." />
             </Text>
             <Text className="mt20">
-              <FormattedMessage defaultMessage="Since the successful transition to proof-of-stake via The Merge, Stratis is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Stratis network." />
+              <FormattedMessage defaultMessage="Since the successful transition to proof-of-stake via The Merge, Xertra is fully secured by proof-of-stake validators. By running a validator, you'll be helping to secure the Xertra network." />
             </Text>
             {/* <Link
               className="mt20"
-              to="https://stratisevm.com/en/roadmap/beacon-chain/"
+              to="https://xertra.com/en/roadmap/beacon-chain/"
             >
               <FormattedMessage defaultMessage="More on the Beacon Chain" />
             </Link>
             <Link
               className="mt20 mb40"
-              to="https://stratisevm.com/en/roadmap/merge/"
+              to="https://xertra.com/en/roadmap/merge/"
             >
               <FormattedMessage defaultMessage="More on the Merge" />
             </Link> */}
             <Text className="mt20">
               <FormattedMessage
-                defaultMessage="Validating in Stratis is not the same as mining. The outcomes are
+                defaultMessage="Validating in Xertra is not the same as mining. The outcomes are
                   similar: the work you do will extend and secure the chain. But the
                   process is completely different because they use different
                   consensus mechanisms."
@@ -112,7 +112,7 @@ export const Introduction = (): JSX.Element => {
             </Text>
             {/* <Link
               className="mt20 mb40"
-              to="https://stratisevm.com/en/developers/docs/consensus-mechanisms/"
+              to="https://xertra.com/en/developers/docs/consensus-mechanisms/"
             >
               <FormattedMessage defaultMessage="More on consensus mechanisms" />
             </Link> */}
